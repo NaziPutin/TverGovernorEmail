@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14c3200
+DTSTAMP:20220424T204127Z
+CREATED:20170817T155810Z
+LAST-MOD:20170817T155810Z
+SUMMARY:Рабочая поездка в Тверскую область А.Д. Беглова – полномочного представителя Президента РФ в ЦФО (отв. Белоцерковский А.В.\, Петрова М.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170818T065000Z
+DTEND;VALUE=DATE-TIME:20170818T110000Z
+LOCATION:п.Мирный Торжокского района\, город Тверь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

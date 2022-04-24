@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14d6ee8
+DTSTAMP:20220424T204127Z
+CREATED:20170802T121313Z
+LAST-MOD:20170802T120900Z
+SUMMARY:Совещание\, тема: «О строительстве негазовой котельной в Заводском мкр и реконструкции котельной №9 в г.Нелидово» (отв. Титов А.А.\, Дробот А.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170803T070000Z
+DTEND;VALUE=DATE-TIME:20170803T083000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

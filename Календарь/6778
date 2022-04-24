@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157b524
+DTSTAMP:20220424T204127Z
+CREATED:20161109T130828Z
+LAST-MOD:20161117T124555Z
+SUMMARY:Представление Волгина Андрея Валентиновича на государственную должность Тверской области Министра строительства и жилищно-коммунального хозяйства Тверской области (отв. Пилавов М.И.)
+DTSTART;VALUE=DATE-TIME:20161111T120000Z
+DTEND;VALUE=DATE-TIME:20161111T122000Z
+LOCATION:ул.Советская\, д.23\, кабинет 1
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1583278
+DTSTAMP:20220424T204127Z
+CREATED:20160527T080052Z
+LAST-MOD:20160807T154645Z
+SUMMARY:Торжественное мероприятие\, посвященное выпуску офицеров-слушателей  Военной академии воздушно-космической обороны им. Маршала Советского Союза Г.К. Жукова (отв. Попенко В.И.)
+DTSTART;VALUE=DATE-TIME:20160618T070000Z
+DTEND;VALUE=DATE-TIME:20160618T080000Z
+LOCATION:г. Тверь\, пл. Победы
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

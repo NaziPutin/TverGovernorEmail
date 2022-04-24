@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc9b0c8
+DTSTAMP:20220424T204126Z
+CREATED:20191216T160641Z
+LAST-MOD:20191216T161015Z
+SUMMARY:Совещание по вопросу финансового обеспечения проектов в сфере туризма на 2020-2024 годы. Проводит Медведев Д.А. – Председатель Правительства РФ (отв. Ищенко А.Н.\, Перов В.В.\, Подтихова М.И.)
+DTSTART;VALUE=DATE-TIME:20191217T110000Z
+DTEND;VALUE=DATE-TIME:20191217T120000Z
+LOCATION:Московская обл.\, Одинцовский район\, Горки-9\, Резиденция Председателя Правительства РФ\, 2-й этаж\, зал заседаний
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

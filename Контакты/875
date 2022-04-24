@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:Пак Чонг Рюль
+N:;Пак Чонг Рюль;;;
+EMAIL:ppaga@orionworld.com
+ADR;TYPE=work:;;;г.Тверь\, Наб. реки Лазури\, д.15;;170028;Россия
+LABEL;TYPE=work:170028\, г.Тверь\, Наб. реки Лазури\, д.15
+TEL;TYPE=work,fax:+7 (4822) 49-48-31
+TEL;TYPE=work,voice:+7 (4822) 49-48-21 (доб.124)
+TEL;TYPE=cell,voice:+7 (919) 060-70-04
+TITLE:директор филиала ООО "Орион Интернейшнл Евро" в г.Тверь
+VERSION:3.0
+END:VCARD
+

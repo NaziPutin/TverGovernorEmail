@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaf6aa0
+DTSTAMP:20220424T204126Z
+CREATED:20200506T095856Z
+LAST-MOD:20200506T080431Z
+SUMMARY:Совещание (в режиме видеоконференцсвязи) по вопросам реализации ранее принятых мер в экономической и социальной сферах (отв. Ажгиревич А.И.\, Егоров И.И.\, пресс-служба). Проводит Президент РФ В.В.Путин
+DTSTART;VALUE=DATE-TIME:20200506T120000Z
+DTEND;VALUE=DATE-TIME:20200506T130000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,82 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 4 Jun 2021 17:49:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 4 Jun 2021
+ 17:49:05 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 4 Jun 2021 17:49:07 +0300
+From: =?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?IMLuICDo8e/u6+3l7ejlICAxMzAt8O8gIDzO4SAg7vLk5ev87fv1ICDs?=
+ =?windows-1251?B?5fDg9SDv7iAg8fLg4ejr6Ofg9ujoICDx6PLz4Pbo6CAg4iAgzeXr6OTu?=
+ =?windows-1251?B?4vHq7uwg4+7w7uTx6u7sICDu6vDz4+Ug0uLl8PHq7ukgIO7h6+Dx8ug+?=
+ =?windows-1251?B?ICDv7iDx7vHy7v/t6P4g7eAgMDMuMDYuMjAyMQ==?=
+Thread-Topic: =?windows-1251?B?IMLuICDo8e/u6+3l7ejlICAxMzAt8O8gIDzO4SAg7vLk5ev87fv1ICDs?=
+ =?windows-1251?B?5fDg9SDv7iAg8fLg4ejr6Ofg9ujoICDx6PLz4Pbo6CAg4iAgzeXr6OTu?=
+ =?windows-1251?B?4vHq7uwg4+7w7uTx6u7sICDu6vDz4+Ug0uLl8PHq7ukgIO7h6+Dx8ug+?=
+ =?windows-1251?B?ICDv7iDx7vHy7v/t6P4g7eAgMDMuMDYuMjAyMQ==?=
+Thread-Index: AddZTZLee+joIzFjQkO273UMHDdFQg==
+Date: Fri, 4 Jun 2021 17:49:07 +0300
+Message-ID: <157e6bddbab7493dabc66d1fe9e36f27@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <157e6bddbab7493dabc66d1fe9e36f27@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.103.76]
+X-MS-Exchange-Organization-Network-Message-Id: 12d93b9f-3941-43a0-5de8-08d92767e812
+Return-Path: podtihova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6693582
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERE6117FF0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal>                    Уважаемый Игорь Михайлович!<o:p></o:p></p><p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Отопительный сезон в Нелидово завершен 03.05.2021г.<o:p></o:p></p><p class=MsoNormal>    &nbsp; Котельная №5 и котельная на СУГ работают  на производство горячей воды до 15.06.2021<o:p></o:p></p><p class=MsoNormal>      Проведением ремонтных работ осуществляется хозспособом на 6 котельных.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>С  уважением, Подтихова М.И. <o:p></o:p></p><p class=MsoNormal>&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x849068
+DTSTAMP:20220424T204126Z
+CREATED:20210118T140439Z
+LAST-MOD:20210118T111202Z
+SUMMARY:Совещание\, тема: «Об организации строительства\, реконструкции и ввода в эксплуатацию социально значимых объектов Тверской области в 2021 г.» (отв. Ажгиревич А.И.\, Емельянов А.А.\, Зайцева Е.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210118T113000Z
+DTEND;VALUE=DATE-TIME:20210118T123000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

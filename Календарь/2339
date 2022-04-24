@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb0f10c
+DTSTAMP:20220424T204126Z
+CREATED:20200415T162739Z
+LAST-MOD:20200415T160126Z
+SUMMARY:Совещание\, тема: «О реализации АИП по отрасли культура  и госпрограммы ТО «Сохранение\, популяризация и госохрана культурного наследия в ТО на 2018-2023гг.» по объектам культуры»(отв. Емельянов А.А.\, Петухова Н.М.\, Смирнов М.Ю.\, Биленко Д.С.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200415T173000Z
+DTEND;VALUE=DATE-TIME:20200415T183000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

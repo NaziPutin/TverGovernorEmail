@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x131cb78
+DTSTAMP:20220424T204127Z
+CREATED:20180529T123020Z
+LAST-MOD:20180529T121217Z
+SUMMARY:Бачин Сергей Викторович - председатель Совета директоров ГК "Агранта"\, председатель Совета директоров ООО "ЗАВИДОВО Девелопмент" (отв. Меньщиков А.В.\, пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180530T120000Z
+DTEND;VALUE=DATE-TIME:20180530T130000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

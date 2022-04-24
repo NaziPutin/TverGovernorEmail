@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1a6c4c
+DTSTAMP:20220424T204126Z
+CREATED:20220401T100631Z
+LAST-MOD:20220401T100450Z
+SUMMARY:Р’СЃС‚СЂРµС‡Р° СЃ РµРїРёСЃРєРѕРїРѕРј Р Р¶РµРІСЃРєРёРј Рё РўРѕСЂРѕРїРµС†РєРёРј РђРґСЂРёР°РЅРѕРј (РЈР»СЊСЏРЅРѕРІС‹Рј) - СѓРїСЂР°РІР»СЏСЋС‰РёРј Р Р¶РµРІСЃРєРѕР№ РµРїР°СЂС…РёРµР№ Р СѓСЃСЃРєРѕР№ РїСЂР°РІРѕСЃР»Р°РІРЅРѕР№ С†РµСЂРєРІРё (РѕС‚РІ. РњРѕСЂРѕР·РѕРІ Р•.Р’.)
+DTSTART;VALUE=DATE-TIME:20220408T080000Z
+DTEND;VALUE=DATE-TIME:20220408T083000Z
+LOCATION:РєР°Р±. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

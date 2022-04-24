@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12f655c
+DTSTAMP:20220424T204127Z
+CREATED:20180620T084401Z
+LAST-MOD:20180619T110955Z
+SUMMARY:Подготовка к торжественному мероприятию\, посвященному выпуску офицеров-слушателей Военной академии ВКО им. Маршала Советского Союза Г.К.Жукова и Тверского суворовского военного училища (23.06.2018) (отв. Попенко В.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180622T171000Z
+DTEND;VALUE=DATE-TIME:20180622T173000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

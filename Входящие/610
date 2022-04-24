@@ -1,0 +1,36 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 21 Feb 2022 07:16:07 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 21 Feb
+ 2022 07:16:06 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Mon, 21 Feb 2022 07:16:06 +0300
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?8+3pIDIwLTIxLjAyLjIwMjI=?=
+X-KeepSent: 7B5FE99F:298080BF-432587F0:00176EA9;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.3 September 15, 2011
+Message-ID: <OF7B5FE99F.298080BF-ON432587F0.00176EA9-432587F0.00177208@tverreg.ru>
+From: =?KOI8-R?B?79TExcwgwc7BzMnawSDJIM3PzsnUz9LJzsfBIPPt6S/018XS08vB0Q==?=
+ =?KOI8-R?B?IM/CzMHT1Ng=?= <Otdelsmi@tverreg.ru>
+Date: Mon, 21 Feb 2022 07:16:06 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 21.02.2022 07:16:06
+Return-Path: Otdelsmi@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: dfe51a61-e169-4098-d022-08d9f4f0e1d2
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3741181
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

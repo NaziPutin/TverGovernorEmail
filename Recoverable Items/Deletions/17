@@ -1,0 +1,198 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 29 Mar 2022 21:06:01 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Tue, 29 Mar
+ 2022 21:05:59 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 29 Mar 2022 21:06:00 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 45B6B837CB
+	for <rim@tverreg.ru>; Tue, 29 Mar 2022 21:06:00 +0300 (MSK)
+Received-SPF: pass (us23.besteml.com: Sender is authorized to use 'postman4815985@us23.besteml.com' in 'mfrom' identity (mechanism 'include:spf.unisender.com' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="postman4815985@us23.besteml.com"; helo=smtp442.emlone.com; client-ip=87.246.187.105
+Received: from smtp442.emlone.com (smtp442.emlone.com [87.246.187.105])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 4B81983759
+	for <rim@tverreg.ru>; Tue, 29 Mar 2022 21:05:53 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=us; d=antimalware.ru;
+ h=From:To:Message-Id:Subject:MIME-Version:Content-Type:List-Help:List-Id:
+ List-Unsubscribe:Date:no; i=mail@antimalware.ru;
+ bh=bVzJD1FwtMcs3WYreaQ06Q8mjhEyjmmPxENTcSmuRN8=;
+ b=mgiYv3urWY0WQlnhR77V9UwX13w7GANtDhkMSaxN/uPRARI6nEkWZSZQLcokFvOvR5/KYQ+aIYXr
+   J+bVAZvsP05LWyznu29dqdJrWlPn+DnqKEzIqoA7ZA8FWKw4y2zJFDccYdCvp9Yn+MmbpWkrkSxb
+   xR6FuzyYNXdCx6fCAsU=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=jul2015; d=topeml.com;
+ h=From:To:Message-Id:Subject:MIME-Version:Content-Type:List-Help:List-Id:
+ List-Unsubscribe:Date;
+ bh=bVzJD1FwtMcs3WYreaQ06Q8mjhEyjmmPxENTcSmuRN8=;
+ b=Rau45+Rs07KKNJiFEXtxbmVfO5jFXgfEW32vupScpyzUWfgp+6S0u+1Jn3C1HZulGVLif+H29A7e
+   DPK+P0ws+g0S7+4AWAwm9hAuf142NzjPN4BDlzy8iW3pDIwb5qvLM7QLwayFTiAympv2VcvPA02T
+   CF7YA+KVvNComVDmw78=
+Received: by smtp368.emlone.com id h8d5842erm8k for <rim@tverreg.ru>; Tue, 29 Mar 2022 18:05:47 +0000 (envelope-from <postman4815985@us23.besteml.com>)
+From: "Anti-Malware.ru" <mail@antimalware.ru>
+To: rim@tverreg.ru
+Message-Id: <E1nZGDz-pTvfIF-N3@ucs301-ucs-9.msgpanel.com>
+Subject: =?UTF-8?B?0JDQvdCw0LvQuNGC0LjQutCwINC4INC+0LHQt9C+0YDRizo=?=
+ =?UTF-8?B?IDIzINC80LDRgNGC0LAgLSAyOSDQvNCw0YDRgtCw?=
+List-Help: <https://us21.besteml.com/ru/help/forsubscribers>
+List-Id: 7
+List-Unsubscribe: <https://us21.besteml.com/ru/v5/unsubscribe/immediately?hash=69mdhezshyyuxi9dm5o4n9s8e97g6pqz8zwxqcb67psbuiw6hfrr4btg1oqdm7g9rty64cqobmewoc>
+Precedence: bulk
+X-Complaints-To: abuse@us23.besteml.com
+X-EnvId: usproduction.b_4815985_267964081_25354578489_11374
+X-Feedback-ID: 267964081:4815985:campaign:US
+Date: Tue, 29 Mar 2022 18:05:47 +0000
+X-DrWeb-SpamScore: 30
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeitddgkeekucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtkfhmghffohhmrghinhculdeftddmnecujfgurhephffvkffugggtfeejjfhpffesmhdtreertddtjeenucfhrhhomhepfdetnhhtihdqofgrlhifrghrvgdrrhhufdcuoehmrghilhesrghnthhimhgrlhifrghrvgdrrhhuqeenucggtffrrghtthgvrhhnpeffheefieefteetgfejhfffkeffgeetiefgvdefleffgedttdffkedvveethfetleenucffohhmrghinhepsggvshhtvghmlhdrtghomhdpohhrlhgrnhhsvggtrdhruhdprghnthhiqdhmrghlfigrrhgvrdhruhdprhhtqdhsohhlrghrrdhruh
+X-DrWeb-SpamVersion: Vade Retro 01.422.160#88 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  1
+	AWL                    -0.066 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIMWL_WL_MED          -0.001 DKIMwl.org - Medium trust sender
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FUZZY_XPILL               0.1 Attempt to obfuscate words in spam
+	HEADER_FROM_DIFFERENT_DOMAINS  0.248 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_MESSAGE            0.001 HTML included in message
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIXED_ES                0.997 Too many es are not es
+	RAZOR2_CF_RANGE_51_100  1.886 Razor2 gives confidence level above 50%
+	RAZOR2_CHECK            0.922 Listed in Razor2 (http://razor.sf.net/)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 30
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeitddgkeekucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtkfhmghffohhmrghinhculdeftddmnecujfgurhephffvkffugggtfeejjfhpffesmhdtreertddtjeenucfhrhhomhepfdetnhhtihdqofgrlhifrghrvgdrrhhufdcuoehmrghilhesrghnthhimhgrlhifrghrvgdrrhhuqeenucggtffrrghtthgvrhhnpeffheefieefteetgfejhfffkeffgeetiefgvdefleffgedttdffkedvveethfetleenucffohhmrghinhepsggvshhtvghmlhdrtghomhdpohhrlhgrnhhsvggtrdhruhdprghnthhiqdhmrghlfigrrhgvrdhruhdprhhtqdhsohhlrghrrdhruhenucfkphepkeejrddvgeeirddukeejrddutdeh
+X-DrWeb-SpamVersion: Vade Retro 01.422.160#88 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: postman4815985@us23.besteml.com
+X-MS-Exchange-Organization-Network-Message-Id: 627a9578-7704-4fbe-eb5b-08da11aec83f
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2759150
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Статьи по информационной безопасности</title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="border: none !important;font-family: Verdana;">29.03.2021<br>
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="border: none !important; font-size: 110% !important;font-family: Verdana;">Санкции против России — как в этих условиях, а также учитывая уход многих зарубежных вендоров, защищать веб-приложения, к чему стоит готовиться службам информационной безопасности российских организаций? Помимо этого, рассмотрим метод защиты медицинских систем на примере продуктов UserGate. Ну, и на десерт — встречайте российскую защищённую корпоративную систему коммуникаций eXpress.<br>
+			&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="border: none !important; background-color: #ebf0ff;">
+			<p><span style="border: none !important; vertical-align: top; background-color: #ebf0ff;"><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6pj3bn3en89s5g8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrrhe3sffhi6yrs5j4nmkpyq97hsmfd56scqezqj8781eq4r9f4ydge&amp;url=aHR0cHM6Ly9vcmxhbnNlYy5ydS8~&amp;uid=NDgxNTk4NQ~~&amp;ucs=461bf501229e4b4339f54ae376838636"><span style="color: #db0000; font-family: Verdana;"><span style="font-size: 16.8px;"><strong><span style="text-decoration: underline;">Новости импортозамещения: DCAP, сделано в России</span></strong></span></span></a><br>
+			<br>
+			<a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6bqhnx158mrtqe8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrri6jrhtqumtj7hj4nmkpyq97hsmfd56scqezqj8781eq4r9f4ydge&amp;url=aHR0cHM6Ly9vcmxhbnNlYy5ydS8~&amp;uid=NDgxNTk4NQ~~&amp;ucs=461bf501229e4b4339f54ae376838636"><img alt="" hspace="10" src="https://www.anti-malware.ru/files/styles/imagesize400w/public/events/2022-03-22_13.43.38.jpg?itok=9sh-pm0u" style="float: left;" title="" vspace="10" width="150"></a><span style="font-family: Verdana; font-size: 100% !important; line-height: 1.5 !important; word-break: break-word !important;">Российская компания “Орлан” совместно с Anti-Malware.ru приглашает вас на специальный эфир AM Live, посвященный импортозамещению на рынке средств защиты информации. Подробно поговорим о рынке DCAP и новом отечественном продукте.</span></span></p>
+
+			<p><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6xcgqdhwo8gkur8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrrom7us8n3x1he7j4nmkpyq97hsmfd56scqezqj8781eq4r9f4ydge&amp;url=aHR0cHM6Ly9vcmxhbnNlYy5ydS8~&amp;uid=NDgxNTk4NQ~~&amp;ucs=461bf501229e4b4339f54ae376838636" style="color: #db0000; text-decoration: underline; font-family: Verdana; font-size: 100% !important; vertical-align: middle !important;">07 Апреля 2022 - 11:00</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="border: none !important; background-color: #ebf0ff;">
+			<p><span style="border: none !important; vertical-align: top; background-color: #ebf0ff;"><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6cn1zemor9inwh8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrrztjrqmxn3tddnf7m86y5tdrwoffftdkot6bmat449rtx6m9e4mga&amp;url=aHR0cHM6Ly9ydC1zb2xhci5ydS9hbmFseXRpY3Mvd2ViaW5hcnMvMjU2Ni8_dXRtX3NvdXJjZT1hbnRpLW1hbHdhcmUmdXRtX21lZGl1bT1zaXRlJnV0bV9jYW1wYWlnbj1tc3NfZ29zdF92cG5fd2ViaW5hcl8zMC4wMy4yMg~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=1559570217b909d107bc9e4638e2361c"><span style="color: #db0000; font-family: Verdana;"><span style="font-size: 16.8px;"><strong><span style="text-decoration: underline;">ГОСТ-шифрование: по каким критериям выбирать криптошлюзы</span></strong></span></span></a><br>
+			<br>
+			<a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6zyj7ukg5hg8yr8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrrsc6zr6x7qow7qf7m86y5tdrwoffftdkot6bmat449rtx6m9e4mga&amp;url=aHR0cHM6Ly9ydC1zb2xhci5ydS9hbmFseXRpY3Mvd2ViaW5hcnMvMjU2Ni8_dXRtX3NvdXJjZT1hbnRpLW1hbHdhcmUmdXRtX21lZGl1bT1zaXRlJnV0bV9jYW1wYWlnbj1tc3NfZ29zdF92cG5fd2ViaW5hcl8zMC4wMy4yMg~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=1559570217b909d107bc9e4638e2361c"><img alt="" hspace="10" src="https://www.anti-malware.ru/files/styles/imagesize400w/public/events/400h400_1.png?itok=arei7WZ_" style="float: left;" title="" vspace="10" width="150"></a><span style="font-family: Verdana; font-size: 100% !important; line-height: 1.5 !important; word-break: break-word !important;">30 марта в 11:00 (МСК) на открытом вебинаре «Ростелеком-Солар» расскажет, по каким критериям можно выбрать криптошлюзы для построения ГОСТ-шифрования организации. В марте 2022 года импортозамещение приобрело статус ключевой задачи для российских организаций. Отечественные решения в сегменте VPN широко распространены и представлены несколькими вендорами. Однако выбрать подходящее оборудование для построения зашифрованных каналов коммуникаций непросто.</span></span></p>
+
+			<p><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6f151kkyc5yc3w8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrr14uzjhbxbcqkyf7m86y5tdrwoffftdkot6bmat449rtx6m9e4mga&amp;url=aHR0cHM6Ly9ydC1zb2xhci5ydS9hbmFseXRpY3Mvd2ViaW5hcnMvMjU2Ni8_dXRtX3NvdXJjZT1hbnRpLW1hbHdhcmUmdXRtX21lZGl1bT1zaXRlJnV0bV9jYW1wYWlnbj1tc3NfZ29zdF92cG5fd2ViaW5hcl8zMC4wMy4yMg~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=1559570217b909d107bc9e4638e2361c" style="color: #db0000; text-decoration: underline; font-family: Verdana; font-size: 100% !important; vertical-align: middle !important;">30 Марта 2022 - 11:00</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="border: none !important;"><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6ui1hqb55mszqe8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrrowy7jjn8h3ie9fchc13y15njr3fftdkot6bmat449rtx6m9e4mga&amp;url=aHR0cHM6Ly93d3cuYW50aS1tYWx3YXJlLnJ1L2FuYWx5dGljcy9UZWNobm9sb2d5X0FuYWx5c2lzL1Byb3RlY3RpbmctaGVhbHRoY2FyZS1zeXN0ZW1zLXdpdGgtVXNlckdhdGU_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YW1kZWxpdmVyeQ~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=d9080a6afb30459a1a167772e1eb6867" style="color: #db0000; text-decoration: underline; font-family: Verdana; font-weight: bold !important; font-size: 120% !important; vertical-align: middle !important;">Защита медицинских систем на примере продуктов UserGate</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr>
+			<td style="vertical-align: top; border: none !important; text-align: left;">
+<a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6moz1mro7awff48m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrrzz347te6wonk8fchc13y15njr3fftdkot6bmat449rtx6m9e4mga&amp;url=aHR0cHM6Ly93d3cuYW50aS1tYWx3YXJlLnJ1L2FuYWx5dGljcy9UZWNobm9sb2d5X0FuYWx5c2lzL1Byb3RlY3RpbmctaGVhbHRoY2FyZS1zeXN0ZW1zLXdpdGgtVXNlckdhdGU_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YW1kZWxpdmVyeQ~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=d9080a6afb30459a1a167772e1eb6867"><img alt="" height="113" src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/24-03-2022-analysis.png?itok=EQnmP7GX" style="float: left; margin: 10px;" width="150"></a><span style="font-family: Verdana; font-size: 110% !important; line-height: 1.5 !important; word-break: break-word !important;">Медицинские информационные системы содержат конфиденциальные данные и обеспечивают процессы оказывающие непосредственное влияние на жизнь и здоровье населения. Рассмотрим релевантные требования законодательства по обеспечению информационной безопасности и способы организации комплексной системы защиты медицинских систем с помощью решений UserGate.</span>
+</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<!-- second element -->
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr style="height: 17px;">
+			<td style="border: none !important; height: 17px;"><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6gubtszw89z7y68m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrr4h1aumj3k3d893j3powbqd4ay3fftdkot6bmat449rtx6m9e4mga&amp;url=aHR0cHM6Ly93d3cuYW50aS1tYWx3YXJlLnJ1L2FuYWx5dGljcy9UZWNobm9sb2d5X0FuYWx5c2lzL1dlYi1wcm90ZWN0aW9uLXVuZGVyLVNhbmN0aW9ucz91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1hbWRlbGl2ZXJ5&amp;uid=NDgxNTk4NQ~~&amp;ucs=aab980b5ca03b588554b1ba0dfb8be51" style="color: #db0000; text-decoration: underline; font-family: Verdana; font-weight: bold !important; font-size: 120% !important; vertical-align: middle !important;">Как защищать веб-приложения в условиях санкционного давления</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr style="height: 133px;">
+			<td style="vertical-align: top; text-align: left; border: none !important; height: 133px;">
+<a href="https://us21.besteml.com/ru/mail_link_tracker?hash=6q13kua161i4jn8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrr7fiugesj71b86tsgdcsksnynt667bxk3hwyi1yfompotf679mn1a&amp;url=aHR0cHM6Ly93d3cuYW50aS1tYWx3YXJlLnJ1L2FuYWx5dGljcy9UZWNobm9sb2d5X0FuYWx5c2lzL1dlYi1wcm90ZWN0aW9uLXVuZGVyLVNhbmN0aW9ucz91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1hbWRlbGl2ZXJ5&amp;uid=NDgxNTk4NQ~~&amp;ucs=aab980b5ca03b588554b1ba0dfb8be51"><img alt="" height="113" src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/23-03-2022-analysis.png?itok=TdNwDWAG" style="float: left; margin: 10px;" width="150"></a><span style="font-family: Verdana; font-size: 110% !important; line-height: 1.5 !important; word-break: break-word !important;">США и страны Европы ввели санкции против России. Как обеспечить эффективную защиту веб-приложений в условиях санкционных ограничений, к чему стоит готовиться службам информационной безопасности российских организаций в ближайшие недели и месяцы и как безболезненно перейти с зарубежных сервисов, ПО и «железа» на отечественные аналоги?</span>
+</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp; <!-- second element -->
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr style="height: 17px;">
+			<td style="border: none !important; height: 17px;"><a href="https://us21.besteml.com/ru/mail_link_tracker?hash=64yzj4xj4czt6q8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrr6rd1c6ck3pb8zngfkgs3h6f86x3dg6gwj7qqa1fompotf679mn1a&amp;url=aHR0cHM6Ly93d3cuYW50aS1tYWx3YXJlLnJ1L3Jldmlld3MvZVhwcmVzcy0yMTQ_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YW1kZWxpdmVyeQ~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=bc29608afd470fd520fdd616f2873c00" style="color: #db0000; text-decoration: underline; font-family: Verdana; font-weight: bold !important; font-size: 120% !important; vertical-align: middle !important;">Обзор eXpress 2.14, российской защищённой корпоративной системы коммуникаций</a></td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse; width: 100%;">
+	<tbody>
+		<tr style="height: 133px;">
+			<td style="vertical-align: top; text-align: left; border: none !important; height: 133px;">
+<a href="https://us21.besteml.com/ru/mail_link_tracker?hash=638ubqjatydcso8m54z5ks5cpqpg6pqz8zwxqcb67psbuiw6hfrruhfjojpunjwsmngfkgs3h6f86x3dg6gwj7qqa1fompotf679mn1a&amp;url=aHR0cHM6Ly93d3cuYW50aS1tYWx3YXJlLnJ1L3Jldmlld3MvZVhwcmVzcy0yMTQ_dXRtX3NvdXJjZT1nb29nbGUmdXRtX21lZGl1bT1lbWFpbCZ1dG1fY2FtcGFpZ249YW1kZWxpdmVyeQ~~&amp;uid=NDgxNTk4NQ~~&amp;ucs=bc29608afd470fd520fdd616f2873c00"><img alt="" height="113" src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/29-03-2022-reviews.png?itok=3nRxsMK1" style="float: left; margin: 10px;" width="150"></a><span style="font-family: Verdana; font-size: 110% !important; line-height: 1.5 !important; word-break: break-word !important;">Система коммуникаций eXpress 2.14 может быть развёрнута внутри ИТ-инфраструктуры организации, объединена с общей сетью обмена данными, проведения аудио- и видеоконференций, интегрирована с информационными системами различного назначения. Безопасность коммуникаций обеспечивается на всех уровнях взаимодействия. Система eXpress включена в реестр российского ПО и сертифицирована в системе ФСТЭК России.</span>
+</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<table bgcolor="white" align="left" width="100%"><tr><td><span style="font-family: arial,helvetica,sans-serif; color: black; font-size: 12px;"><p style="text-align: center; color: #bababa;">Чтобы отписаться от этой рассылки, перейдите по <a style="color: #46a8c6;" href="https://us21.besteml.com/ru/unsubscribe?hash=69mdhezshyyuxi9dm5o4n9s8e97g6pqz8zwxqcb67psbuiw6hfrr4btg1oqdm7g9rty64cqobmewoc#no_tracking">ссылке</a></p></span></td></tr></table><center><table><tr><td><img src="https://us21.besteml.com/ru/mail_read_tracker/4815985?hash=6ti4to3rfh9wfg5qs4zyigrmaitg6pqz8zwxqcb67psbuiw6hfrridadhand4fhphb7iy8yffny6mc" width="1" height="1" alt="" title="" border="0"></td></tr></table></center></body>
+</html>
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

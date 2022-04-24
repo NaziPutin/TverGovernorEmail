@@ -1,0 +1,94 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 17 Mar 2022 20:37:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 17 Mar
+ 2022 20:37:28 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 17 Mar 2022 20:37:31 +0300
+From: =?utf-8?B?0JbQsNGA0LrQvtCyINCY0LPQvtGA0Ywg0KHQtdGA0LPQtdC10LLQuNGH?=
+	<ZharkovIC@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0LrQsNC90LTQuNC00LDRgtCw0YUg?=
+ =?utf-8?B?0LIg0JPQu9Cw0LLQsNGA0YXQuNGC0LXQutGC0YPRgNGDINCi0J4g0Lgg0JM=?=
+ =?utf-8?B?0KMg0L/QviDQs9C+0YHQvtGF0YDQsNC90LUg0L7QsdGK0LXQutGC0L7QsiA=?=
+ =?utf-8?B?0LrRg9C70YzRgtGD0YDQvdC+0LPQviDQvdCw0YHQu9C10LTQuNGPIA==?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0LrQsNC90LTQuNC00LDRgtCw0YUg?=
+ =?utf-8?B?0LIg0JPQu9Cw0LLQsNGA0YXQuNGC0LXQutGC0YPRgNGDINCi0J4g0Lgg0JM=?=
+ =?utf-8?B?0KMg0L/QviDQs9C+0YHQvtGF0YDQsNC90LUg0L7QsdGK0LXQutGC0L7QsiA=?=
+ =?utf-8?B?0LrRg9C70YzRgtGD0YDQvdC+0LPQviDQvdCw0YHQu9C10LTQuNGPIA==?=
+Thread-Index: Adg6JZeQ1wchKKn3Tdm3RvuCtl6pvw==
+Date: Thu, 17 Mar 2022 20:37:30 +0300
+Message-ID: <2561711420404de2b6bb05b2da52e7f6@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <2561711420404de2b6bb05b2da52e7f6@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.253]
+X-MS-Exchange-Organization-Network-Message-Id: 6225e887-a64e-4fa7-9a92-08da083cd06f
+Return-Path: ZharkovIC@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.8915273
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERF4937D4A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Tms Rmn";
+	panose-1:2 2 6 3 4 5 5 2 3 4;}
+@font-face
+	{font-family:Helv;
+	panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal style='margin-bottom:0cm;text-indent:35.4pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>Уважаемый Игорь Михайлович!</span><span style='font-size:12.0pt;font-family:"Tms Rmn",serif;mso-fareast-language:RU'> </span><span style='font-size:9.0pt;font-family:"Helv",sans-serif;color:black;mso-fareast-language:RU'>&nbsp;</span><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-indent:35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-indent:35.4pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Направляю информацию о кандидатах для назначения на должности руководителей в Главархитектуру Тверской области и Главное управление по государственной охране объектов культурного наследия Тверской области (прилагается).<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>         Сафронов Игорь Николаевич – Главархитектуры (кандидат предложен главой г. Ржева Крыловым Р.С.).<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>         Желобова Елена Юрьевна – ГУ по госохране объектов культурного наследия (кандидатура предложена Пономаревым А.А.).<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>P.S. Сведения, указанные в анкете Желобовой Е.Ю., прошли проверку специалистами ГУРБ Тверской области.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-indent:35.4pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>С уважением,<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-indent:35.4pt;line-height:normal'><span style='font-size:14.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>Игорь Жарков<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

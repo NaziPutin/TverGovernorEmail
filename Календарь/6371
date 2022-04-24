@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1577160
+DTSTAMP:20220424T204127Z
+CREATED:20170207T112227Z
+LAST-MOD:20170207T184311Z
+SUMMARY:Встреча с представителями лесозаготовительных и деревообрабатывающих предприятий и руководителями лесничеств Тверской области (отв. Мигулев П.И.\, Барышков В.В.\, СМИ) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170208T070000Z
+DTEND;VALUE=DATE-TIME:20170208T083000Z
+LOCATION:ул. Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

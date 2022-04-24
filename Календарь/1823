@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x939d8c
+DTSTAMP:20220424T204126Z
+CREATED:20200930T055212Z
+LAST-MOD:20200930T084929Z
+SUMMARY:Заседание Координационного совета по духовно-нравственному воспитанию граждан в Тверской области (в режиме ВКС) (отв. Емельянов А.А.\, Коваленко Ю.Н.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200930T090000Z
+DTEND;VALUE=DATE-TIME:20200930T103000Z
+LOCATION: пл. Святого Благоверного Князя Михаила Тверского\, д.5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe2ea30
+DTSTAMP:20220424T204127Z
+CREATED:20190902T060221Z
+LAST-MOD:20190830T164244Z
+SUMMARY:Посещение муниципального дошкольного образовательного учреждения детский сад «Светлячок» (отв. Белоцерковский А.В.\, Коваленко Ю.Н.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190902T130000Z
+DTEND;VALUE=DATE-TIME:20190902T135000Z
+LOCATION:Лихославльский р-н\, пгт. Калашниково\, ул. Лесная\, д. 23а
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

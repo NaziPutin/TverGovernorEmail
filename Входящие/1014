@@ -1,0 +1,269 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 18 Jan 2022 22:19:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 18 Jan
+ 2022 22:19:43 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 18 Jan 2022 22:19:43 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id F074D83ECF
+	for <rim@tverreg.ru>; Tue, 18 Jan 2022 22:19:41 +0300 (MSK)
+Received-SPF: none (golubev.ru: No applicable sender policy available) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="sergey@golubev.ru"; helo=mail-lf1-f46.google.com; client-ip=209.85.167.46
+Received: from mail-lf1-f46.google.com (mail-lf1-f46.google.com [209.85.167.46])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 3A3B083EC6
+	for <rim@tverreg.ru>; Tue, 18 Jan 2022 22:19:27 +0300 (MSK)
+Received: by mail-lf1-f46.google.com with SMTP id bu18so51813120lfb.5
+        for <rim@tverreg.ru>; Tue, 18 Jan 2022 11:19:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=golubev-ru.20210112.gappssmtp.com; s=20210112;
+        h=content-transfer-encoding:from:mime-version:date:subject:message-id
+         :references:to;
+        bh=/V/yeLvLfgmBWeNNDlH6lAEUoD5PHuGwPy8DaSlLvNs=;
+        b=NmfugjtLNa/DmqSMnE8P5HeCgdTxlxjtspJQrSQZIDQl+A0oZgPdRHKLYrrbeT/cqq
+         dECCqBvAzxIwEC1/L46x6IgEwsZmGYym0eU5Ufc/w7IozVJUScIPDywZRC1IUskNYYPu
+         xFHwfvGLyW4KMBJjTJD/bLwMebSv/vKajFeb+/3ZoaSMyXQTobOiEegY+uxuexwvpG6V
+         cu7+kF8oBmPt/EZBe59zyxcyUeR09N4vP6gn2UI5u2CB5g7NvZEyqj+qHBC6DP6JeEYG
+         jQQck3MFYQmUwovkEabXJ+A0Fd5pj+hwbF1WOQQzPv+B84S2puzSfF8AaNHa0eY8SASD
+         IkHA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:references:to;
+        bh=/V/yeLvLfgmBWeNNDlH6lAEUoD5PHuGwPy8DaSlLvNs=;
+        b=LUYiq2C8tebmj+EWCUT0Yi8KJVPp9lU87na6sx8m+2WZAPdyq8TdBME1X75FKDUPk2
+         zKo0Z4te3/zbjm0bRcwLB+xpQ4ct4AGA7oXiRdQ7HnFb7aS0qKg4jwT9Dgeaubiq+1JP
+         rwhqj4L+1hdzRLP2OhbmarLzumFL2YKtF1qiyQvlNx21bnAvOyZVJoflDuqDRcAo9oDs
+         y4jY/BXJg1dpVDMusIdY2aB5U3KtrHO6JQ2uNE8rC6hXISK6YmpseDUrTdhRChiQ5Ypz
+         kfl7pXU7EPtzyRYGfSyWPhFf6asZHI0E56EHET8H6s1lLAtDJJbDlEjuRQuN4fpDRBUG
+         P6SQ==
+X-Gm-Message-State: AOAM530ZinBvszMQyHIZFl2aAcnYhcdmrGJXVoAai769dbXZu+Asbt3c
+	iQz5rcjLSTgifN6dNjTEi/LvoQ8KTo75fHt5
+X-Google-Smtp-Source: ABdhPJyvwzi2ufRGfgAW84D3ORBvwGYFsb6+kMqZJ/Fzt6+EW5mB7i7riZuVwIOsVlM53Nvsi2AeBg==
+X-Received: by 2002:a05:6512:308c:: with SMTP id z12mr17862593lfd.35.1642533560310;
+        Tue, 18 Jan 2022 11:19:20 -0800 (PST)
+Received: from smtpclient.apple ([176.59.36.143])
+        by smtp.gmail.com with ESMTPSA id z16sm1777428lfd.285.2022.01.18.11.19.11
+        for <rim@tverreg.ru>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Tue, 18 Jan 2022 11:19:17 -0800 (PST)
+From: =?utf-8?B?0KHQtdGA0LPQtdC5INCT0L7Qu9GD0LHQtdCy?= <sergey@golubev.ru>
+Date: Tue, 18 Jan 2022 22:19:10 +0300
+Subject: =?utf-8?B?RndkOiAo0JHQtdC3INGC0LXQvNGLKSDQlNC70Y8g0JPQvtC70YM=?=
+ =?utf-8?B?0LHQtdCy0LAg0KEuINCQLl/QuNC90YTQvtGA0LzQsNGG0LjRjywg?=
+ =?utf-8?B?0LrQvtGC0L7RgNGD0Y4g0L7QvSDQt9Cw0L/RgNCw0YjQuNCy0LA=?=
+ =?utf-8?B?0Ls=?=
+Message-Id: <E41D3AAF-C2FC-40B0-A5E6-8B65CD0A5013@golubev.ru>
+References: <4a8701d8088d$fbd4fc40$f37ef4c0$@zsto.ru>
+To: rim@tverreg.ru
+X-Mailer: iPhone Mail (19C56)
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudefgdduudelucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgfghfggfffukfhfvffosegrjehmrehhtdejnecuhfhrohhmpeevvghprhgvpicupihopiihiegvuecuoehsvghrghgvhiesghholhhusggvvhdrrhhuqeenucggtffrrghtthgvrhhnpeevteevueduvddujeelhefggeejgfelfeehleelveefgfeigffghfevkeeftdetteenucfkphepudejiedrheelrdefiedrudegfe
+X-DrWeb-SpamVersion: Vade Retro 01.422.13#119 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.879 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	MIME_QP_LONG_LINE       0.001 Quoted-printable line longer than 76 chars
+	RCVD_IN_DNSWL_BLOCKED   0.001 ADMINISTRATOR NOTICE: The query to DNSWL was blocked.  See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block for more information.
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_NONE                0.001 SPF: sender does not publish an SPF Record
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudefgdduudelucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgfghfggfffukfhfvffosegrjehmrehhtdejnecuhfhrohhmpeevvghprhgvpicupihopiihiegvuecuoehsvghrghgvhiesghholhhusggvvhdrrhhuqeenucggtffrrghtthgvrhhnpeevteevueduvddujeelhefggeejgfelfeehleelveefgfeigffghfevkeeftdetteenucfkphepudejiedrheelrdefiedrudegfe
+X-DrWeb-SpamVersion: Vade Retro 01.422.13#119 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: sergey@golubev.ru
+X-MS-Exchange-Organization-Network-Message-Id: e51d7326-1f8c-4163-6844-08d9dab77b77
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.3740146
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div dir="auto"><br>
+<br>
+<div dir="ltr">Отправлено с iPhone</div>
+<div dir="ltr"><br>
+Начало переадресованного сообщения:<br>
+<br>
+</div>
+<blockquote type="cite">
+<div dir="ltr"><b>От:</b> Приемнаяя Председателя Законодательного Собрания Тверской области &lt;secrpred@zsto.ru&gt;<br>
+<b>Дата:</b> 13 января 2022&nbsp;г. в&nbsp;17:59:26 GMT&#43;3<br>
+<b>Кому:</b> Сергей Голубев &lt;sergey@golubev.ru&gt;<br>
+<b>Тема:</b> <b>FW: Fwd: (Без темы) Для Голубева С. А._информация, которую он запрашивал</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr">﻿<style>
+<!--
+p.x_MsoNormal, li.x_MsoNormal, div.x_MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+a:x_link, span.x_MsoHyperlink
+	{color:blue;
+	text-decoration:underline}
+a:x_visited, span.x_MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif"}
+span.x_EmailStyle18
+	{font-family:"Calibri","sans-serif";
+	color:#1F497D}
+.x_MsoChpDefault
+	{font-size:10.0pt}
+div.x_WordSection1
+	{}
+-->
+</style>
+<div class="x_WordSection1">
+<p class="x_MsoNormal"><span style="font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<p class="x_MsoNormal"><span style="font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;; color:#1F497D">&nbsp;</span></p>
+<div>
+<div style="border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0cm 0cm 0cm">
+<p class="x_MsoNormal"><b><span style="font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">From:</span></b><span style="font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;"> Ирина Г. Кузнецова [mailto:kig@zsto.ru]
+<br>
+<b>Sent:</b> Thursday, January 13, 2022 1:36 PM<br>
+<b>To:</b> секретарь председателя<br>
+<b>Subject:</b> Fwd: Fwd: (Без темы) Для Голубева С. А._информация, которую он запрашивал</span></p>
+</div>
+</div>
+<p class="x_MsoNormal">&nbsp;</p>
+<p>&nbsp;</p>
+<div>
+<p class="x_MsoNormal"><br>
+<br>
+-------- Перенаправленное сообщение -------- </p>
+<table class="x_MsoNormalTable" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td nowrap="" valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal" align="right" style="text-align:right"><b>Тема: </b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal">Fwd: (Без темы)</p>
+</td>
+</tr>
+<tr>
+<td nowrap="" valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal" align="right" style="text-align:right"><b>Дата: </b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal">Thu, 13 Jan 2022 13:35:53 &#43;0300</p>
+</td>
+</tr>
+<tr>
+<td nowrap="" valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal" align="right" style="text-align:right"><b>От: </b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal">Манилов Роман <a href="mailto:bakunina-fond@yandex.ru">&lt;bakunina-fond@yandex.ru&gt;</a></p>
+</td>
+</tr>
+<tr>
+<td nowrap="" valign="top" style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal" align="right" style="text-align:right"><b>Кому: </b></p>
+</td>
+<td style="padding:0cm 0cm 0cm 0cm">
+<p class="x_MsoNormal"><a href="mailto:kig@zsto.ru">kig@zsto.ru</a> <a href="mailto:kig@zsto.ru">
+&lt;kig@zsto.ru&gt;</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="x_MsoNormal" style="margin-bottom:12.0pt">&nbsp;</p>
+<div>
+<p class="x_MsoNormal">Здравствуйте.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Вчера встречались в составе севастопольской группы курсантов с Голубевым С.А.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Он просил прислать &nbsp;ему информацию по одному делу.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Почему-то его адрес не работает.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Большая просьба переслать письмо Сергею Анатольевичу.</p>
+</div>
+<div>
+<p class="x_MsoNormal">&nbsp;</p>
+</div>
+<div>
+<p class="x_MsoNormal">-------- Пересылаемое сообщение --------</p>
+</div>
+<div>
+<p class="x_MsoNormal">13.01.2022, 13:32, &quot;Манилов Роман&quot; <a href="mailto:bakunina-fond@yandex.ru">
+&lt;bakunina-fond@yandex.ru&gt;</a>:</p>
+</div>
+<div>
+<p class="x_MsoNormal">&nbsp;</p>
+</div>
+<div>
+<div>
+<p class="x_MsoNormal">Здравствуйте Сергей Анатольевич.</p>
+</div>
+<div>
+<div>
+<p class="x_MsoNormal">Это священник Роман Манилов.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Вот информация о доме тверского адмирала Октябрьского в Севастополе, выставленного на продажу.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Может удастся в год культуры государству выкупить дом и сделать музей.</p>
+</div>
+<div>
+<p class="x_MsoNormal">Еще раз спасибо за вчерашнюю встречу.</p>
+</div>
+<div>
+<p class="x_MsoNormal">С уважением</p>
+</div>
+<div>
+<p class="x_MsoNormal">о. Роман</p>
+</div>
+</div>
+</div>
+<div>
+<p class="x_MsoNormal">&nbsp;</p>
+</div>
+<div>
+<p class="x_MsoNormal">-------- Конец пересылаемого сообщения --------</p>
+</div>
+</div>
+</div>
+</div>
+</blockquote>
+</div>
+<div dir="auto">
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

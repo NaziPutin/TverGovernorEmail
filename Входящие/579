@@ -1,0 +1,44 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 24 Feb 2022 08:53:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 24 Feb
+ 2022 08:53:10 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Thu, 24 Feb 2022 08:53:11 +0300
+From: =?KOI8-R?B?79TExcwgwc7BzMnawSDJIM3PzsnUz9LJzsfBIPPt6S/018XS08vB0Q==?=
+ =?KOI8-R?B?IM/CzMHT1Ng=?= <Otdelsmi@tverreg.ru>
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?8+3pIDIzLTI0LjAyLjIy?=
+X-KeepSent: ACC3862A:E88C5434-432587F3:002040B6;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.1 September 28, 2009
+Message-ID: <OFACC3862A.E88C5434-ON432587F3.002040B6-432587F3.00205D5E@tverreg.ru>
+Sender: =?KOI8-R?B?7c/az8vJzsEg78zYx8Eg4c7B1M/M2MXXzsEv4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <MozokinaOA@tverreg.ru>
+Date: Thu, 24 Feb 2022 08:53:10 +0300
+X-MIMETrack: S/MIME Sign by Notes Client on Olga Anatolievna Mozokina/TverRegAdm/RU(Release
+ 8.5.1|September 28, 2009) at 24.02.2022 08:53:30,
+	Serialize by Notes Client on Olga Anatolievna Mozokina/TverRegAdm/RU(Release
+ 8.5.1|September 28, 2009) at 24.02.2022 08:53:30,
+	Serialize complete at 24.02.2022 08:53:30,
+	=?KOI8-R?B?Uy9NSU1FIFNpZ24gZmFpbGVkIGF0IDI0LjAyLjIwMjIgMDg6NTM6MzA6IO7F?=
+ =?KOI8-R?B?IM7BysTFziDbycbSz9fBzNjO2cogy8zA3g==?=,
+	Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 24.02.2022 08:53:11
+Return-Path: MozokinaOA@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: b7fdd50f-6ad7-4cca-6d5b-08d9f759f113
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3801509
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

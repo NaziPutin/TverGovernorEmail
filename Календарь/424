@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x33a10c
+DTSTAMP:20220424T204126Z
+CREATED:20211207T191258Z
+LAST-MOD:20211207T064417Z
+SUMMARY:Подготовка к приему граждан в Региональной общественной приемной Председателя Партии «ЕДИНАЯ РОССИЯ» Д.А. Медведева в Тверской области (отв. Скорый А.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211208T063000Z
+DTEND;VALUE=DATE-TIME:20211208T065000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

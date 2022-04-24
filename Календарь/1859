@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x965adc
+DTSTAMP:20220424T204126Z
+CREATED:20211230T070503Z
+LAST-MOD:20211230T070503Z
+SUMMARY:РћСЂРіР°РЅРёР·Р°С†РёРѕРЅРЅРѕРµ СЃРѕРІРµС‰Р°РЅРёРµ РџСЂР°РІРёС‚РµР»СЊСЃС‚РІР° РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё (РѕС‚РІ. РЎРєРѕСЂС‹Р№ Рђ.Р’.\, РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р°) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20200928T080000Z
+DTEND;VALUE=DATE-TIME:20200928T090000Z
+LOCATION:РєР°Р±. 305
+STATUS:CONFIRMED
+RRULE:FREQ=WEEKLY;COUNT=68;BYDAY=MO
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

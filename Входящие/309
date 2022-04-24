@@ -1,0 +1,108 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 11 Mar 2022 15:58:26 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 11 Mar
+ 2022 15:58:25 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 11 Mar 2022 15:58:25 +0300
+From: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?4dbHydLF18neIOHS1MXNIOnXwc7P18ne?= <AzhgirevichAI@tverreg.ru>,
+	=?koi8-r?B?4sXSxdrJziDkzcnU0snKIOLP0snTz9fJ3g==?= <Berezin_DB@tverreg.ru>,
+	=?koi8-r?B?59LJx8/S0c4g4dLTxc4g8sHGycvP18ne?= <grygoryan@tverreg.ru>,
+	=?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>,
+	=?koi8-r?B?9sHSy8/XIOnHz9LYIPPF0sfFxdfJ3g==?= <ZharkovIC@tverreg.ru>,
+	=?koi8-r?B?7c/Sz9rP1yDl18fFzsnKIPfB08nM2MXXyd4=?= <Morozov_EV@tverreg.ru>,
+	=?koi8-r?B?7sHVzc/XIOHOxNLFyiD3ycvUz9LP18ne?= <naumov@tverreg.ru>,
+	=?koi8-r?B?7s/XycvP18Eg98HMxc7Uyc7BIOnXwc7P187B?= <Novikova_VI@tverreg.ru>,
+	=?koi8-r?B?8M/E1MnIz9fBIO3B0snOwSDp18HOz9fOwQ==?= <podtihova@tverreg.ru>,
+	=?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?= <SkoriyAV@tverreg.ru>,
+	=?koi8-r?B?49fF1MvP1yDhzMXL08HOxNIg6dfBzs/Xyd4=?= <CvetkovAI@tverreg.ru>
+Subject: =?koi8-r?B?6c7Gz9LNwcPJ0SDPINDSyc7R1MnJIOfkINfUz9LPx88g0NLB18nUxczY09TX?=
+ =?koi8-r?B?xc7Oz8fPINDBy8XUwSDawcvPzs/EwdTFzNjO2cggyc7Jw8nB1MnXINDPINDP?=
+ =?koi8-r?B?xMTF0tbLxSDH0sHWxMHOLCDSxcfJz87P1yDJIMLJ2s7F08Eg1yDV08zP18nR?=
+ =?koi8-r?B?yCDawdLVwsXWztnIINPBzsvDyco=?=
+Thread-Topic: =?koi8-r?B?6c7Gz9LNwcPJ0SDPINDSyc7R1MnJIOfkINfUz9LPx88g0NLB18nUxczY09TX?=
+ =?koi8-r?B?xc7Oz8fPINDBy8XUwSDawcvPzs/EwdTFzNjO2cggyc7Jw8nB1MnXINDPINDP?=
+ =?koi8-r?B?xMTF0tbLxSDH0sHWxMHOLCDSxcfJz87P1yDJIMLJ2s7F08Eg1yDV08zP18nR?=
+ =?koi8-r?B?yCDawdLVwsXWztnIINPBzsvDyco=?=
+Thread-Index: Adg1RcPy2H2ZZyplRdWwGgurdUqLjQ==
+Disposition-Notification-To: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Fri, 11 Mar 2022 15:58:25 +0300
+Message-ID: <602d56f1bbb24dfca7ef0f9a75cf0fd4@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <602d56f1bbb24dfca7ef0f9a75cf0fd4@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: ce697cfb-48ce-4e5a-0017-08da035ed4d0
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5140617
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рП чБЫЕНХ РПТХЮЕОЙА ОБРТБЧМСА ЙОЖПТНБГЙА П РТПЕЛФБИ ЖЕДЕТБМШОЩИ ЪБЛПОПЧ, ОБРТБЧМЕООЩИ ОБ ЪБЭЙФХ ЗТБЦДБО Й ЬЛПОПНЙЛЙ Ч ХУМПЧЙСИ ЪБТХВЕЦОЩИ УБОЛГЙК, ЧОЕУЕООЩИ 10 НБТФБ 2022 ЗПДБ Ч зПУХДБТУФЧЕООХА дХНХ жЕДЕТБМШОПЗП уПВТБОЙС тПУУЙКУЛПК жЕДЕТБГЙЙ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>11 НБТФБ 2022 ЗПДБ зПУХДБТУФЧЕООБС дХНБ РТЙОСМБ ХЛБЪБООЩЕ РПРТБЧЛЙ Ч ЪБЛПОПДБФЕМШУФЧП ДМС РПДДЕТЦЛЙ Ч ХУМПЧЙСИ УБОЛГЙК</span> <span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>ЗТБЦДБО, ТЕЗЙПОПЧ Й ВЙЪОЕУБ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1) рПРТБЧЛЙ Ч вАДЦЕФОЩК ЛПДЕЛУ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рТЙОСФ Ч ФТЕФШЕН ЮФЕОЙЙ ЪБЛПО, ЛПФПТЩК ВЩМ ТБЪТБВПФБО ДМС ЪБЛТЕРМЕОЙС ПУОПЧБОЙК РТЕДПУФБЧМЕОЙС ВАДЦЕФХ ЗПУХДБТУФЧЕООПЗП ЧОЕВАДЦЕФОПЗП ЖПОДБ тж УХВЧЕОГЙК ЙЪ ТЕЗЙПОБМШОЩИ ВАДЦЕФПЧ, Б ФБЛЦЕ Ч ГЕМСИ УПЧЕТЫЕОУФЧПЧБОЙС НЕТ РПДДЕТЦЛЙ ТЕЗЙПОПЧ ДМС УПИТБОЕОЙС ХУФПКЮЙЧПУФЙ ВАДЦЕФОПК УЙУФЕНЩ тж. чЧПДСФУС ФТЙ ОПЧБГЙЙ:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- РТЕДХУНБФТЙЧБЕФУС УОСФЙЕ ДП 1 СОЧБТС 2023 ЗПДБ ПЗТБОЙЮЕОЙС Ч 3 % ОБ ТБЪНЕТ ТЕЪЕТЧОЩИ ЖПОДПЧ ДМС УХВЯЕЛФПЧ тПУУЙКУЛПК жЕДЕТБГЙЙ Й НХОЙГЙРБМШОЩИ ПВТБЪПЧБОЙК. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- У ХЮЕФПН РПТХЮЕОЙС рТЕЪЙДЕОФБ П ЧЧЕДЕОЙЙ ЧЩРМБФ УЕНШСН У ДЕФШНЙ ПФ ЧПУШНЙ ДП 16 МЕФ РТЕДМБЗБЕФУС ЪБЛТЕРЙФШ Ч ВАДЦЕФОПН ЪБЛПОПДБФЕМШУФЧЕ ПУОПЧБОЙС ДМС РТЕДПУФБЧМЕОЙС ВАДЦЕФХ ржт УХВЧЕОГЙК ЙЪ ТЕЗЙПОБМШОЩИ ВАДЦЕФПЧ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- РТЕДХУНБФТЙЧБЕФУС ЧПЪНПЦОПУФШ ОБРТБЧМЕОЙС ЧЩУЧПВПЦДБЕНЩИ Ч ТЕЪХМШФБФЕ ТЕУФТХЛФХТЙЪБГЙЙ ВАДЦЕФОЩИ ЛТЕДЙФПЧ УТЕДУФЧ ОБ ЖЙОБОУЙТПЧБОЙЕ НЕТПРТЙСФЙК РП ТЕЗЙПОБМШОЩН РТПЕЛФБН, РТЙ ЬФПН ТЕЗЙПОБН ДБЕФУС ВПМШЫЕ РТБЧ Ч ПРТЕДЕМЕОЙЙ ГЕМЕК Й ЪБДБЮ РП ЙУРПМШЪПЧБОЙА ЬФЙИ УТЕДУФЧ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2) цли Й УФТПЙФЕМШУФЧП<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- РТЕДМБЗБЕФУС УПЛТБФЙФШ УТПЛЙ ТБУУНПФТЕОЙС ДПЛХНЕОФПЧ, ХРТПУФЙФШ ТЕЗЙУФТБГЙА РТБЧ ОБ РПУФТПЕООЩЕ ПВЯЕЛФЩ, Б ФБЛЦЕ РТЕДПУФБЧЙФШ РТБЧП ЧЧПДЙФШ МШЗПФЩ ОБ БТЕОДХ ЪЕНЕМШОЩИ ХЮБУФЛПЧ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- РТЙ ТБЪТБВПФЛЕ Й УПЗМБУПЧБОЙЙ ЗТБДПУФТПЙФЕМШОПК ДПЛХНЕОФБГЙЙ, ОБРТЙНЕТ РТПЕЛФБ РМБОЙТПЧЛЙ ФЕТТЙФПТЙЙ, НПЗХФ ВЩФШ ПФНЕОЕОЩ ОЕЛПФПТЩЕ РТПГЕДХТЩ Й УПЛТБЭЕОЩ УТПЛЙ ТБУУНПФТЕОЙС ДПЛХНЕОФПЧ. фБЛЦЕ ВХДЕФ ХУЛПТЕОП РТЕДПУФБЧМЕОЙЕ ЪЕНЕМШОЩИ ХЮБУФЛПЧ РПД УФТПЙФЕМШУФЧП Й ПВЕУРЕЮЕОП РТПДМЕОЙЕ ДЕКУФЧХАЭЙИ ДПЗПЧПТПЧ БТЕОДЩ. хРПМОПНПЮЕООЩЕ ПТЗБОЩ УНПЗХФ ХУФБОБЧМЙЧБФШ МШЗПФЩ ДМС БТЕОДБФПТПЧ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- рТБЧЙФЕМШУФЧП тж ОБДЕМСЕФУС РПМОПНПЮЙСНЙ ХУФБОБЧМЙЧБФШ УМХЮБЙ, УТПЛЙ Й ХУМПЧЙС, РТЙ ЛПФПТЩИ ТЕЫЕОЙЕ РТБЧМЕОЙС жПОДБ УПДЕКУФЧЙС ТЕЖПТНЙТПЧБОЙА цли П РТЙПУФБОПЧМЕОЙЙ ПЛБЪБОЙС ЖЙОБОУПЧПК РПДДЕТЦЛЙ ЪБ УЮЕФ УТЕДУФЧ жПОДБ МЙВП ПВ ПФЛБЪЕ Ч ЧПЪПВОПЧМЕОЙЙ РТЕДПУФБЧМЕОЙС ФБЛПК РПДДЕТЦЛЙ ЪБ УЮЕФ УТЕДУФЧ жПОДБ ОЕ РПДМЕЦЙФ ЙУРПМОЕОЙА.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>3) жЙОБОУПЧБС УФБВЙМШОПУФШ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>фБЛЦЕ РТЙОСФЩ Ч ФТЕФШЕН ЮФЕОЙЙ РПРТБЧЛЙ Ч ЪБЛПОПДБФЕМШУФЧП, ОБРТБЧМЕООЩЕ ОБ ХУФБОПЧМЕОЙЕ УРЕГЙБМШОПЗП ТЕЗХМЙТПЧБОЙС ЧЪБЙНПДЕКУФЧЙС Ч УЖЕТЕ ЖЙОБОУПЧПЗП ТЩОЛБ Й ЛПТРПТБФЙЧОЩИ ПФОПЫЕОЙК ДМС ПВЕУРЕЮЕОЙС ЖЙОБОУПЧПК УФБВЙМШОПУФЙ тж. ч ЮБУФОПУФЙ, РТЕДХУНБФТЙЧБЕФУС:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- љДП 31 ДЕЛБВТС 2022 ЗПДБ У 1 % ДП 5 % ВХДЕФ ХЧЕМЙЮЕО ТБЪНЕТ НЙОЙНБМШОПЗП РБЛЕФБ БЛГЙК, ДБАЭЕЗП РТБЧП ЧМБДЕМШГХ ЪБРТБЫЙЧБФШ ДПЛХНЕОФЩ Х БЛГЙПОЕТОПЗП ПВЭЕУФЧБ, ПУРБТЙЧБФШ ЕЗП УДЕМЛЙ, ДЕКУФЧЙС бп ЙМЙ ЮМЕОПЧ ЕЗП УПЧЕФБ ДЙТЕЛФПТПЧ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- уПЧЕФ ДЙТЕЛФПТПЧ гв тж ОБДЕМСЕФУС РТБЧПН ПРТЕДЕМСФШ РЕТЕЮЕОШ ЙОЖПТНБГЙЙ ЖЙОБОУПЧЩИ ПТЗБОЙЪБГЙК, ЛПФПТХА ПОЙ ЧРТБЧЕ ОЕ ТБУЛТЩЧБФШ ДМС ОЕПЗТБОЙЮЕООПЗП ЛТХЗБ МЙГ, ДБЦЕ ЕУМЙ ФБЛПЕ ТБУЛТЩФЙЕ ФТЕВХЕФУС Ч УЙМХ ДЕКУФЧХАЭЕЗП ТЕЗХМЙТПЧБОЙС, РТЙ ФПН ЮФП УППФЧЕФУФЧХАЭБС ЙОЖПТНБГЙС Ч МАВПН УМХЮБЕ ДПМЦОБ ВХДЕФ ОБРТБЧМСФШУС Ч гв тж Ч ХУФБОПЧМЕООПН РПТСДЛЕ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ТПУУЙКУЛЙН УФТБИПЧЭЙЛБН ЪБРТЕЭБЕФУС ЪБЛМАЮБФШ УДЕМЛЙ У ЙОПУФТБООЩНЙ УФТБИПЧЭЙЛБНЙ, РЕТЕУФТБИПЧЭЙЛБНЙ Й УФТБИПЧЩНЙ ВТПЛЕТБНЙ ЙЪ ОЕДТХЦЕУФЧЕООЩИ ЗПУХДБТУФЧ. хЛБЪБООЩК ЪБРТЕФ ТБУРТПУФТБОСЕФУС Й ОБ РЕТЕЮЙУМЕОЙЕ ТПУУЙКУЛЙНЙ УФТБИПЧЭЙЛБНЙ ДЕОЕЦОЩИ УТЕДУФЧ РП ДПЗПЧПТБН, ЪБЛМАЮЕООЩН ДП ДБФЩ ЧУФХРМЕОЙС Ч УЙМХ ЪБЛПОПРТПЕЛФБ. йУЛМАЮЕОЙЕ НПЦЕФ ЧПЪОЙЛОХФШ РП ТБЪТЕЫЕОЙА гв. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>4) фТБОУРПТФ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>нЕТЩ РПДДЕТЦЛЙ ФТБОУРПТФОПК ПФТБУМЙ Ч ХУМПЧЙСИ УБОЛГЙК РТЕДХУНБФТЙЧБАФ ЧПЪНПЦОПУФШ ТЕЗЙУФТЙТПЧБФШ РТБЧБ ОБ ЙОПУФТБООЩЕ УБНПМЕФЩ, ОБИПДСЭЙЕУС Ч МЙЪЙОЗЕ Х ТПУУЙКУЛЙИ ЛПНРБОЙК, Б ФБЛЦЕ ЧЩДБЧБФШ ЙН ТПУУЙКУЛЙЕ УЕТФЙЖЙЛБФЩ МЕФОПК ЗПДОПУФЙ. ьФП РПНПЦЕФ ТПУУЙКУЛЙН БЧЙБЛПНРБОЙСН УПИТБОЙФШ РБТЛ ЙОПУФТБООЩИ ЧПЪДХЫОЩИ УХДПЧ Й ЬЛУРМХБФЙТПЧБФШ ЙИ ОБ ЧОХФТЕООЙИ МЙОЙСИ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>лТПНЕ ФПЗП, рТБЧЙФЕМШУФЧП тж РПМХЮЙФ РПМОПНПЮЙС ПЗТБОЙЮЙЧБФШ ЪБИПД НПТУЛЙИ УХДПЧ ЙЪ ЙОПУФТБООЩИ ЗПУХДБТУФЧ, Ч ЛПФПТЩИ ЙНЕАФУС УРЕГЙБМШОЩЕ ПЗТБОЙЮЕОЙС ЪБИПДБ Ч ЙИ РПТФЩ Ч ПФОПЫЕОЙЙ БОБМПЗЙЮОЩИ УХДПЧ тПУУЙКУЛПК жЕДЕТБГЙЙ, ПФЧЕФОЩИ ПЗТБОЙЮЕОЙК.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>фБЛЦЕ РТЕДРПМБЗБЕФУС ПФУТПЮЙФШ РТПЧЕДЕОЙЕ УЕТФЙЖЙЛБГЙЙ ФЕИОЙЮЕУЛЙИ УТЕДУФЧ ПВЕУРЕЮЕОЙС ФТБОУРПТФОПК ВЕЪПРБУОПУФЙ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>5) йОЧЕУФЙГЙЙ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рТЙОСФЩ РПРТБЧЛЙ, ЛПФПТЩЕ РТЕДХУНБФТЙЧБАФ ЧПЪПВОПЧМЕОЙЕ НЕИБОЙЪНБ УРЕГЙБМШОЩИ ЙОЧЕУФЙГЙПООЩИ ЛПОФТБЛФПЧ ЖПТНБФБ 1.0 (урйл 1.0), Б ФБЛЦЕ ЧПЪНПЦОПУФШ РЕТЕУНПФТБ ХУМПЧЙК ДЕКУФЧХАЭЙИ ЛПОФТБЛФПЧ, ЧЛМАЮБС РТПДМЕОЙЕ ЙИ УТПЛБ У 10 ДП 12 МЕФ. рТПДМЙФШ УТПЛЙ ЬФЙИ ЛПОФТБЛФПЧ ЙОЧЕУФПТЩ УНПЗХФ, ЕУМЙ ПЗТБОЙЮЙФЕМШОЩЕ НЕТЩ УП УФПТПОЩ ЪБТХВЕЦОЩИ РБТФОЕТПЧ РПЧМЙСМЙ ОБ ТЕБМЙЪБГЙА ЙОЧЕУФЙГЙПООЩИ РТПЕЛФПЧ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>6) оБМПЗПЧЩЕ МШЗПФЩ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рТЙОСФЩ Ч РЕТЧПН ЮФЕОЙЙ РПРТБЧЛЙ Ч оБМПЗПЧЩК ЛПДЕЛУ. фБЛ, Ч ЮБУФОПУФЙ:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ЗТБЦДБОЕ ПУЧПВПЦДБАФУС ПФ ХРМБФЩ РПДПИПДОПЗП ОБМПЗБ ОБ РТПГЕОФЩ, РПМХЮЕООЩЕ ЪБ 2021&#8211;2022 ЗПДЩ РП ЧЛМБДБН Ч ВБОЛБИ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- РПЧЩЫБЕФУС НЙОЙНБМШОЩК РПТПЗ УФПЙНПУФЙ БЧФПНПВЙМС, ОБ ЛПФПТЩК ТБУРТПУФТБОСЕФУС РПЧЩЫЕООЩК ФТБОУРПТФОЩК ОБМПЗ, &#8212; У 3 ДП 10 НМО ТХВМЕК;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ЧП ЙУРПМОЕОЙЕ ХЛБЪБ рТЕЪЙДЕОФБ Ч ЪБЛПОПДБФЕМШУФЧЕ ЪБЛТЕРМСЕФУС ОХМЕЧБС УФБЧЛБ РП ОБМПЗХ ОБ РТЙВЩМШ ДМС IT-ЛПНРБОЙК ОБ 2022&#8211;2024 ЗПДЩ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ДМС РПДДЕТЦЛЙ ЗПУФЙОЙЮОПЗП ВЙЪОЕУБ ВХДЕФ ПВОХМЕО оду ДМС ЗПУФЙОЙЮОПЗП ВЙЪОЕУБ ОБ РСФШ МЕФ. ьФП ЙЪНЕОЕОЙЕ ЛПУОЕФУС ЧМБДЕМШГЕЧ ПФЕМЕК Й ЙОЧЕУФПТПЧ, ЛПФПТЩЕ УФТПСФ, РТЕДПУФБЧМСАФ Ч БТЕОДХ Й ХРТБЧМЕОЙЕ ФХТЙУФЙЮЕУЛЙЕ ПВЯЕЛФЩ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>7) уРЕГЙБМШОЩЕ БДНЙОЙУФТБФЙЧОЩЕ ТБКПОЩ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рТЙОСФЩНЙ РПРТБЧЛБНЙ ХРТПЭБЕФУС ТЕЗЙУФТБГЙС ЙОПУФТБООЩИ ЛПНРБОЙК Ч ТПУУЙКУЛЙИ УРЕГЙБМШОЩИ БДНЙОЙУФТБФЙЧОЩИ ТБКПОБИ ОБ ПУФТПЧБИ тХУУЛЙК Й пЛФСВТШУЛЙК. уТЕДЙ РТЕДМБЗБЕНЩИ ЙЪНЕОЕОЙК: ЛПТТЕЛФЙТПЧЛБ ФТЕВПЧБОЙС Л ДБФЕ УПЪДБОЙС ЙОПУФТБООПК ЛПНРБОЙЙ ДМС ТЕЗЙУФТБГЙЙ Ч убт, ПФЛБЪ ПФ ОЕПВИПДЙНПУФЙ РПДФЧЕТЦДБФШ ДЕСФЕМШОПУФШ ОБ ФЕТТЙФПТЙЙ ОЕУЛПМШЛЙИ ЗПУХДБТУФЧ, ХЧЕМЙЮЕОЙЕ ДП ПДОПЗП ЗПДБ УТПЛБ, Ч ФЕЮЕОЙЕ ЛПФПТПЗП ЙОПУФТБООЩНЙ ЛПНРБОЙСНЙ ДПМЦОЩ ВЩФШ ПУХЭЕУФЧМЕОЩ ЙОЧЕУФЙГЙЙ Й Ф. Д.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>8) хРТПЭЕОЙЕ ЙНРПТФБ<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>ъБЛПОПРТПЕЛФПН РТЕДХУНБФТЙЧБЕФУС ТСД ХРТПЭЕОЙК Ч ТЕЗХМЙТПЧБОЙЙ ЧЧПЪБ ФПЧБТПЧ ОБ ФЕТТЙФПТЙА тПУУЙЙ Й ФБНПЦЕООХА ФЕТТЙФПТЙА еЧТБЪЙКУЛПЗП ЬЛПОПНЙЮЕУЛПЗП УПАЪБ (ебьу). ч ЮБУФОПУФЙ, ОБ ЫЕУФШ МЕФ РТЕДПУФБЧМСЕФУС РТБЧП ЧЧПЪБ НОПЗПЛПНРПОЕОФОПЗП ФПЧБТБ Ч ТБНЛБИ ОЕУЛПМШЛЙИ ЧОЕЫОЕЬЛПОПНЙЮЕУЛЙИ УДЕМПЛ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>фБЛЦЕ ЙУЛМАЮБЕФУС ОЕПВИПДЙНПУФШ ПВЕУРЕЮЕОЙС ЙУРПМОЕОЙС ПВСЪБООПУФЙ РП ХРМБФЕ ФБНПЦЕООЩИ РПЫМЙО Й ОБМПЗПЧ ХЮБУФОЙЛБНЙ ЧОЕЫОЕЬЛПОПНЙЮЕУЛПК ДЕСФЕМШОПУФЙ, ПУХЭЕУФЧМСАЭЙНЙ ФБЛХА ДЕСФЕМШОПУФШ НЕОЕЕ ЗПДБ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>9) мЕЛБТУФЧБ Й НЕДЙГЙОУЛЙЕ ЙЪДЕМЙС<o:p></o:p></span></u></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>фБЛЦЕ РТЙОСФ Ч РЕТЧПН ЮФЕОЙЙ ЪБЛПОПРТПЕЛФ П ТЕЗХМЙТПЧБОЙЙ ДПРХУЛБ ЙОПУФТБООЩИ МЕЛБТУФЧ ОБ ТПУУЙКУЛЙК ТЩОПЛ, РТЕДРПМБЗБАЭЙК РТПДБЦХ ЙОПУФТБООЩИ МЕЛБТУФЧ Ч ЙОПУФТБООПК ХРБЛПЧЛЕ У ЬФЙЛЕФЛПК ОБ ТХУУЛПН СЪЩЛЕ. ьФП ДПМЦОП НЙОЙНЙЪЙТПЧБФШ ТЙУЛЙ ЧМЙСОЙС ОБ МЕЛБТУФЧЕООПЕ ПВЕУРЕЮЕОЙЕ ЧОЕЫОЙИ УБОЛГЙК.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>лТПНЕ ФПЗП, РТЕДХУНБФТЙЧБЕФУС ЪБРТЕФ РТПЙЪЧПДЙФЕМСН Й ЙНРПТФЕТБН НЕДЙЪДЕМЙК РТЙПУФБОБЧМЙЧБФШ УЧПА ДЕСФЕМШОПУФШ ВЕЪ УРЕГЙБМШОПЗП ХЧЕДПНМЕОЙС ЧМБУФЕК ОЕ РПЪДОЕЕ, ЮЕН ЪБ РПМЗПДБ.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>йОЖПТНБГЙПООЩЕ УРТБЧЛЙ РП ЪБЛПОПРТПЕЛФБН ОБРТБЧМЕОЩ 10 НБТФБ 2022 ЗПДБ.<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,131 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 9 Apr 2021 00:19:52 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 9 Apr 2021
+ 00:19:49 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 9 Apr 2021 00:19:52 +0300
+From: =?windows-1251?B?xODt6Ovu4uAgxeLj5e3o/yDA6+Xq8eDt5PDu4u3g?=
+	<Danilova_EA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDD5e3v6+Dt5SDC5fHq6O3x6u7j7iDx5ev88eru4+4g7+7x5evl7ej/?=
+ =?windows-1251?B?IMvo9e7x6+Di6/zx6u7j7iDw4Onu7eAg?=
+Thread-Topic: =?windows-1251?B?ziDD5e3v6+Dt5SDC5fHq6O3x6u7j7iDx5ev88eru4+4g7+7x5evl7ej/?=
+ =?windows-1251?B?IMvo9e7x6+Di6/zx6u7j7iDw4Onu7eAg?=
+Thread-Index: AdcsvJc3cJwcFR/ETdC4fgL5FzGMYw==
+Date: Fri, 9 Apr 2021 00:19:51 +0300
+Message-ID: <20c0e61b13f14b58a9ea3c9f72982163@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <20c0e61b13f14b58a9ea3c9f72982163@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.224]
+X-MS-Exchange-Organization-Network-Message-Id: 198cbabc-fdf6-4fad-c987-08d8fad40c63
+Return-Path: Danilova_EA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5490163
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER172BF3AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:332493185;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-164621816 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>В повестку заседания Межведомственной комиссии при Правительстве Тверской области по земельным отношениям на 09 апреля 2021 г. включен вопрос № 5 «О рассмотрении проекта «Генеральный план Вескинского сельского поселения Лихославльского района Тверской области» (далее – Генплан).<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Главархитектура Тверской области предлагает принять решение - рекомендовать проект Генплана к утверждению Правительством Тверской области после проведения публичных слушаний (не проводились).<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>При рассмотрении вопроса следует обратить внимание на следующие обстоятельства:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          1. Законом Тверской области <strong><span style='color:#252525;background:white;font-weight:normal'>от 05.04.2021 № 17-ЗО «О преобразовании муниципальных образований, входящих в состав территории муниципального образования Тверской области Лихославльский муниципальный район, путем объединения поселений и создании вновь образованного муниципального образования с наделением его статусом муниципального округа и внесении изменений в отдельные законы Тверской области» </span></strong>Вескинское сельское поселение, входящее в состав территории муниципального образования Тверской области Лихославльский муниципальный район, путем объединения с иными поселениями <u>преобразовано во вновь образованное муниципальное образование</u> – Лихославльский муниципальный округ. После вступления в силу 16 апреля 2021 г. указанного закона проект Генплана в этой части необходимо будет доработать.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          2. 01.02.2021</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'> гражданин Ершов Р.В. пытался в судебном порядке запретить Правительству Тверской области и Главному управлению архитектуры и градостроительства Тверской области, Главе администрации Вескинского сельского поселения Лихославльского района Тверской области и Совету депутатов Вескинского сельского поселения Лихославльского района Тверской области, а также иным уполномоченным лицам совершать любые действия, направленные на отмену и внесение изменений в документы территориального планирования Вескинского сельского поселения Лихославльского района относительно функциональных и территориальных зон в отношении земельного участка с кадастровым номером 69:19:0000025:1729, которые могут повлечь изменение целевого и функционального назначения, в том числе в части отнесения земельного участка к другой функциональной зоне, видов разрешенного использования и характеристик указанного участка, до вступления в законную силу решения суда по настоящему делу.</span><b><span style='font-size:14.0pt;font-family:"Times New Roman",serif'> </span></b><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>02.02.2021 определением Центрального районного суда города Твери в удовлетворении данного ходатайства было отказано. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          Дело в том, что гражданин Ершов Р.В. оспаривает </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>распоряжение Правительства Тверской области от 07.07.2020 № 543-рп <br>об отказе в переводе земельного участка с кадастровым номером 69:19:0000025:1729, общей площадью 381 114 кв. м., из категории земель сельскохозяйственного назначения в категорию земель промышленности. Земельный участок относится к функциональной зоне производственного назначения и передан в аренду ООО «ПрофСтрой» для геологического изучения, разведки и добычи песка на участке недр (лицензия на пользование недрами серии ТВЕ № 00395 от 31.05.2016, сроком действия до 01.06.2041).<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С учетом изложенного, существуют следующие варианты выхода из сложившейся ситуации:<o:p></o:p></span></p><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none'><tr><td width=43 valign=top style='width:32.35pt;border:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>н/п<o:p></o:p></span></p></td><td width=457 valign=top style='width:342.9pt;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>мероприятие<o:p></o:p></span></p></td><td width=416 valign=top style='width:11.0cm;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>возможные недостатки <o:p></o:p></span></p></td><td width=454 valign=top style='width:12.0cm;border:solid windowtext 1.0pt;border-left:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>возможные преимущества<o:p></o:p></span></p></td></tr><tr><td width=43 valign=top style='width:32.35pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>1.<o:p></o:p></span></p></td><td width=457 valign=top style='width:342.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>утверждение на заседании Правительства Тверской области 13 апреля 2021 Генплана (</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Лихославльского района) в представленной редакции, согласно которому функциональная зона земельного участка с кадастровым номером 69:19:0000025:1729 изменена на зону сельскохозяйственного назначения.<o:p></o:p></span></p></td><td width=416 valign=top style='width:11.0cm;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>риск признания по заявлению Ершова Р.В. в судебном порядке Генплана недействующим из-за непроведения публичных слушаний.<o:p></o:p></span></p></td><td width=454 valign=top style='width:12.0cm;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- отказ в удовлетворении требований Ершова Р.В. в части оспаривания </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>распоряжения Правительства Тверской области от 07.07.2020 № 543-рп в связи с изменением функциональной зоны земельного участка либо приостановление;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- подготовка новой редакции Генплана во время рассмотрения судебного спора о признании недействующим рассматриваемого Генплана.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p></td></tr><tr><td width=43 valign=top style='width:32.35pt;border:solid windowtext 1.0pt;border-top:none;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>2.<o:p></o:p></span></p></td><td width=457 valign=top style='width:342.9pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>утверждение на очередном заседании Правительства Тверской области Генплана </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Вескинского сельского поселения Лихославльского муниципального округа<o:p></o:p></span></p></td><td width=416 valign=top style='width:11.0cm;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- необходимость внесения изменений в проект Генплана в связи с преобразованием муниципального образования;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- удовлетворение судом требований Ершова Р.В. в части оспаривания </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>распоряжения Правительства Тверской области от 07.07.2020 № 543-рп, поскольку Ершовым Р.В. представлен проект рекультивации, согласно которому складирование вскрышных пород на временных отвалах предусматривается сроком не более 11 месяцев;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- невозможность изменения функциональной зоны рассматриваемого земельного участка (с промышленной на сельскохозяйственную) в случае удовлетворения требований Ершова Р.В.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p></td><td width=454 valign=top style='width:12.0cm;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>соблюдение порядка подготовки, согласования и принятия Генплана.<o:p></o:p></span></p></td></tr></table><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Докладываю в порядке информации. В файле вложения подробная справка по данному вопросу.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением, Евгения Данилова.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

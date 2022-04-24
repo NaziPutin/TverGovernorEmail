@@ -1,0 +1,59 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 29 Mar 2021 23:47:03 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 29 Mar
+ 2021 23:46:59 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Mon, 29 Mar 2021 23:47:02 +0300
+From: =?koi8-r?B?5MXNyc4g4czF08HOxNIg88XSx8XXyd4=?= <Demin_AS@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?5s/Lz9TZLSDQ0sXaxc7UwcPJ0SDEzNEgxM/LzMHEwSAzMSDNwdLUwSAyMDIx?=
+ =?koi8-r?B?IMfPxME=?=
+Thread-Topic: =?koi8-r?B?5s/Lz9TZLSDQ0sXaxc7UwcPJ0SDEzNEgxM/LzMHEwSAzMSDNwdLUwSAyMDIx?=
+ =?koi8-r?B?IMfPxME=?=
+Thread-Index: AQHXJNt832EHciQmjkm0cKttn8uWDg==
+Date: Mon, 29 Mar 2021 23:47:02 +0300
+Message-ID: <7dd9ae392e3845ffbceb8a2e5eab5c70@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <7dd9ae392e3845ffbceb8a2e5eab5c70@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.24.30]
+X-MS-Exchange-Organization-Network-Message-Id: f222bf2b-0bf3-42e1-39c1-08d8f2f3ce89
+Return-Path: Demin_AS@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.0613201
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER14EE0738
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" dir="ltr" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;">
+<p>йЗПТШ нЙИБКМПЧЙЮ!</p>
+<p>ч УППФЧЕФУФЧЙЙ У чБЫЙН РПТХЮЕОЙЕН ОБРТБЧМСА РТЕЪЕОФБГЙА П ТБЪНЕЭЕОЙЙ жплпфПЧ ОБ ФЕТТЙФПТЙЙ фЧЕТУЛПК ПВМБУФЙ.</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

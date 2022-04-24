@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaf0594
+DTSTAMP:20220424T204126Z
+CREATED:20200515T124008Z
+LAST-MOD:20200515T124156Z
+SUMMARY:Заседание Межведомственной комиссии при Правительстве Тверской области по земельным отношениям (в режиме видеоконференцсвязи) (отв. Жарков И.С.\, Таланина Л.А.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20200515T124500Z
+DTEND;VALUE=DATE-TIME:20200515T130000Z
+LOCATION:каб. 304\; обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xbeeb34
+DTSTAMP:20220424T204126Z
+CREATED:20200227T075712Z
+LAST-MOD:20200227T073738Z
+SUMMARY:Рабочая встреча\, тема: «О формировании «дорожной карты» по созданию автономной некоммерческой организации с целью развития социальной инфраструктуры Тверской области» (отв. Ажгиревич А.И.\, Егоров И.И.\, Подтихова М.И.\, Жарков И.С.) 
+DTSTART;VALUE=DATE-TIME:20200227T163000Z
+DTEND;VALUE=DATE-TIME:20200227T170000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

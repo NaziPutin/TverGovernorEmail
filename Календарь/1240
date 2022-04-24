@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6fec80
+DTSTAMP:20220424T204126Z
+CREATED:20210326T095531Z
+LAST-MOD:20210326T084427Z
+SUMMARY:Рабочая встреча\, тема: "О реализации проекта «Парк в Затверечье» в районе «Восточного моста» в Заволжском районе г. Твери»  (отв. Наумов А.В.\, Цветков А.И.\, Огоньков А.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210326T094500Z
+DTEND;VALUE=DATE-TIME:20210326T100000Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

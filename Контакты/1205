@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:Иванов\, Андрей Юрьевич
+N:Иванов;Андрей;Юрьевич;;
+EMAIL:Pr.Ivanova@minfin.ru
+BDAY:1975-11-23T11:59:00Z
+TEL;TYPE=work,voice:+7 (495) 870-29-21 (доб. 17773)
+TEL;TYPE=cell,voice:+7 (985) 922-81-14
+TITLE:Первый заместитель Министра
+ORG:Министерство экономического развития РФ
+VERSION:3.0
+END:VCARD
+

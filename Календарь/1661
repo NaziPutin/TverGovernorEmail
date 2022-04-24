@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8bee5c
+DTSTAMP:20220424T204126Z
+CREATED:20201126T133315Z
+LAST-MOD:20201126T161425Z
+SUMMARY:Рабочая встреча\, тема: «О подходах к формированию дотаций местным бюджетам в 2021 году и распределению дотаций на сбалансированность местных бюджетов в 2020 году» (отв. Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20201126T180000Z
+DTEND;VALUE=DATE-TIME:20201126T190000Z
+LOCATION:каб. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe4cce8
+DTSTAMP:20220424T204127Z
+CREATED:20190822T063223Z
+LAST-MOD:20190822T061416Z
+SUMMARY:Совещание\, тема: «О реализации мероприятий по внедрению новой модели пассажирских перевозок на территории Тверской области» (отв. Жарлицына Т.Л.\, Насибуллин Д.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190822T133000Z
+DTEND;VALUE=DATE-TIME:20190822T143000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

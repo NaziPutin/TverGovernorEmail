@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1581b38
+DTSTAMP:20220424T204127Z
+CREATED:20160623T132102Z
+LAST-MOD:20160807T154630Z
+SUMMARY:Встреча Левитина Игоря Евгеньевича –  помощника Президента РФ\, секретаря Государственного совета РФ и Беглова Александра Дмитриевича – полномочного представителя Президента РФ в ЦФО
+DTSTART;VALUE=DATE-TIME:20160624T064500Z
+DTEND;VALUE=DATE-TIME:20160624T070000Z
+LOCATION:Конаковский р-н\, вертолетная площадка "Рэдиссон Завидово"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

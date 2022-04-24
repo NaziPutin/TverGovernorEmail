@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x215ee0
+DTSTAMP:20220424T204126Z
+CREATED:20220304T184248Z
+LAST-MOD:20220304T133043Z
+SUMMARY:Торжественная церемония вручения государственных и региональных наград\, посвященная Международному женскому дню (08.03.2022)  (отв. Скорый А.В.\, Пономарев А.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220305T083000Z
+DTEND;VALUE=DATE-TIME:20220305T090000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

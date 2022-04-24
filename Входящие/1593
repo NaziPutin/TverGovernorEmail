@@ -1,0 +1,73 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 3 Nov 2020 15:36:58 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Tue, 3 Nov
+ 2020 15:36:54 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Tue, 3 Nov 2020
+ 15:36:58 +0300
+From: =?windows-1251?B?zeDx6OHz6+vo7SDE7Ojy8OjpIMjj7vDl4uj3?=
+	<NasibulinDI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDv7iDi8fLw5fflIPEgzODq4PDu4vvsIMAu0S4=?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDv7iDi8fLw5fflIPEgzODq4PDu4vvsIMAu0S4=?=
+Thread-Index: AQHWsd3nPdBbo94zOUG1IrurKjTO6A==
+Date: Tue, 3 Nov 2020 15:36:58 +0300
+Message-ID: <3f30a00101e64fc8b1357fca5fcc687f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <3f30a00101e64fc8b1357fca5fcc687f@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 14bf8533-2067-4100-9ea4-08d87ff527c5
+Return-Path: NasibulinDI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3710891
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2957C4B7
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p></p>
+<p class="MsoNormal"><span style="font-size:14.0pt;line-height:115%;font-family:
+&quot;Times New Roman&quot;,serif">Уважаемый Игорь Михайлович!<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:14.0pt;line-height:115%;font-family:
+&quot;Times New Roman&quot;,serif"><br>
+</span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:14.0pt;
+line-height:115%;font-family:&quot;Times New Roman&quot;,serif">Во исполнение Вашего поручения, проработан вопрос по подготовке рабочей встречи с заместителем генерального директора ОАО «РЖД»
+ Макаровым А.С. По информации ОАО «РЖД», Макаров А.С. находиться на больничном и встреча на текущей момент состояться не может.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:14.0pt;
+line-height:115%;font-family:&quot;Times New Roman&quot;,serif"><br>
+</span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,serif">С уважением,
+<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,serif">Насибуллин Д.И.<o:p></o:p></span></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

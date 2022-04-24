@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x571260
+DTSTAMP:20220424T204126Z
+CREATED:20210624T144558Z
+LAST-MOD:20210624T143324Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє В«РџСЂСЏРјРѕРјСѓ СЌС„РёСЂСѓВ» РЅР° С‚РµР»РµРєР°РЅР°Р»Рµ В«Р РѕСЃСЃРёСЏ 24В» (РўРІРµСЂСЊ) (РѕС‚РІ. РЎРєРѕСЂС‹Р№ Рђ.Р’.\, РљР°СЃР°РµРІР° Рќ.Рђ.) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20210624T143000Z
+DTEND;VALUE=DATE-TIME:20210624T151500Z
+LOCATION:РєР°Р±. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

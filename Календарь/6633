@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1579f00
+DTSTAMP:20220424T204127Z
+CREATED:20161207T074115Z
+LAST-MOD:20161209T114322Z
+SUMMARY: Доклад\, тема: "Основные параметры регулирования тарифов на 2017 г." (пред. сост. 30 ноября 2016 г.) (отв. Пилавов М.И.\, Никитин Е.О.). Участие принимают: Пилавов М.И.\, Меньщиков А.В.\, Никитин Е.О.\, Волгин А.В.\, Жарлицына Т.Л.
+DTSTART;VALUE=DATE-TIME:20161209T110000Z
+DTEND;VALUE=DATE-TIME:20161209T130000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

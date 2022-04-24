@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xfb1114
+DTSTAMP:20220424T204127Z
+CREATED:20190423T151953Z
+LAST-MOD:20190423T150814Z
+SUMMARY:Подготовка к заседанию рабочей группы по борьбе с незаконной заготовкой и оборотом древесины (26.04.2019\, г. Москва) (отв. Наумов А.В.\, Барышков В.В.\, Попенко В.И.\, Комиссарова О.С.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190424T180000Z
+DTEND;VALUE=DATE-TIME:20190424T183000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

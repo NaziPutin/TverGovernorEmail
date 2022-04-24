@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd58fdc
+DTSTAMP:20220424T204127Z
+CREATED:20191024T142436Z
+LAST-MOD:20191025T094503Z
+SUMMARY:Рабочая встреча: «О переводе земель сельскохозяйственного назначения в земли лесного фонда в Тверской области» (отв. Наумов А.В.\, Барышков В.В.\, Жарков И.С.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191025T110000Z
+DTEND;VALUE=DATE-TIME:20191025T113000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

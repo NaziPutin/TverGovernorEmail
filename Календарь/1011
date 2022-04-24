@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5de28c
+DTSTAMP:20220424T204126Z
+CREATED:20210611T062701Z
+LAST-MOD:20210609T101846Z
+SUMMARY:Вручение премии Губернатора Тверской области для ученых за выдающиеся достижения в области науки и техники (отв. Подтихова М.И.\, Дорофеев М.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210611T070000Z
+DTEND;VALUE=DATE-TIME:20210611T072000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

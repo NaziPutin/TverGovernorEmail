@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x158222c
+DTSTAMP:20220424T204127Z
+CREATED:20160615T110228Z
+LAST-MOD:20160807T154636Z
+SUMMARY:Торжественное вручение 500-тысячного свидетельства участника гос. программы по оказанию содействия добровольному переселению в РФ соотечественников\, проживающих за рубежом (отв. Попенко В.И.\, Меньщиков А.В.\, Исаев С.А.)
+DTSTART;VALUE=DATE-TIME:20160616T070000Z
+DTEND;VALUE=DATE-TIME:20160616T074500Z
+LOCATION:ПТО\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

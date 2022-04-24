@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x140ddfc
+DTSTAMP:20220424T204127Z
+CREATED:20171128T170124Z
+LAST-MOD:20171128T170124Z
+SUMMARY:Встреча с руководителями и собственниками региональных СМИ\, руководителями пресс-служб силовых структур\, ЗС ТО\, ТГД\, администрации г.Твери (отв. Исаков Ю.В.)
+DTSTART;VALUE=DATE-TIME:20171129T150000Z
+DTEND;VALUE=DATE-TIME:20171129T170000Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

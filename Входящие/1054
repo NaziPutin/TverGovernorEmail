@@ -1,0 +1,83 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 24 Dec 2021 09:31:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 24 Dec
+ 2021 09:31:34 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 24 Dec 2021 09:31:36 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 0C652811BB
+	for <rim@tverreg.ru>; Fri, 24 Dec 2021 09:31:35 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward100j.mail.yandex.net; client-ip=5.45.198.240
+Received: from forward100j.mail.yandex.net (forward100j.mail.yandex.net [5.45.198.240])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 5AC288113C
+	for <rim@tverreg.ru>; Fri, 24 Dec 2021 09:31:34 +0300 (MSK)
+Received: from sas1-a42983ef201b.qloud-c.yandex.net (sas1-a42983ef201b.qloud-c.yandex.net [IPv6:2a02:6b8:c08:b681:0:640:a429:83ef])
+	by forward100j.mail.yandex.net (Yandex) with ESMTP id 2C68464F3D7C
+	for <rim@tverreg.ru>; Fri, 24 Dec 2021 09:31:34 +0300 (MSK)
+Received: from 2a02:6b8:c08:1f1b:0:640:8c4b:ba6d (2a02:6b8:c08:1f1b:0:640:8c4b:ba6d [2a02:6b8:c08:1f1b:0:640:8c4b:ba6d])
+	by sas1-a42983ef201b.qloud-c.yandex.net (mxback/Yandex) with HTTP id XVdEXW1eIW21-VXeOAlwK;
+	Fri, 24 Dec 2021 09:31:33 +0300
+X-Yandex-Fwd: 1
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1640327493;
+	bh=SX+7DcAxyF0HrO9VUrJOlNE+t19nJpifwbkP4tavi0s=;
+	h=Message-Id:Date:Subject:To:From;
+	b=mcKg5b1lgw6hOIyasGQpNTlL6pV8WOCYVC73zLcvt5gOTCAWkexlKXIqOEuYylVql
+	 jpD/2ULb/txREKCbRrqGxkbE2WMs90e1WRkbfzCVJSDyCw+184xbJYxiQkmZ+lkJM8
+	 zh+I2HVC37uykRItsbOQh3ioIUrtvVusGSYY9bcs=
+Authentication-Results: sas1-a42983ef201b.qloud-c.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by sas1-8c4bba6db0a6.qloud-c.yandex.net with HTTP;
+	Fri, 24 Dec 2021 09:31:33 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0KLQsNGA0LjRhNC90L7QtSDRgNC10LPRg9C70LjRgNC+0LLQsNC90LjQtQ==?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Fri, 24 Dec 2021 09:31:33 +0300
+Message-Id: <317111640327288@mail.yandex.ru>
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvuddruddtledgjeegucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephffvufggofffkfgtsehmtderreertdejnecuhfhrohhmpeipvghtphihpigvhhhkohcuvehtrghhpigtpigruecuoehtvhgvrhdrphgvthhruhhshhgvnhhkoheshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhepheethfdvffejfeeiheejveeuveffteeiffejhfejfeevvdduueeffeeggeekfeeunecukfhppedvrgdtvdemiegskeemtgdtkeemudhfudgsmedtmeeigedtmeektgegsgemsggriegu
+X-DrWeb-SpamVersion: Vade Retro 01.421.109#74 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_BLOCKED   0.001 ADMINISTRATOR NOTICE: The query to DNSWL was blocked.  See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block for more information.
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+	URIBL_BLOCKED           0.001 ADMINISTRATOR NOTICE: The query to URIBL was blocked.  See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block for more information. [yandex.ru]
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvuddruddtledgjeegucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephffvufggofffkfgtsehmtderreertdejnecuhfhrohhmpeipvghtphihpigvhhhkohcuvehtrghhpigtpigruecuoehtvhgvrhdrphgvthhruhhshhgvnhhkoheshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhepheethfdvffejfeeiheejveeuveffteeiffejhfejfeevvdduueeffeeggeekfeeunecukfhppedvrgdtvdemiegskeemtgdtkeemudhfudgsmedtmeeigedtmeektgegsgemsggriegu
+X-DrWeb-SpamVersion: Vade Retro 01.421.109#74 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 5e3f11a8-a2eb-4070-588a-08d9c6a7091a
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3260137
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Добрый день Игорь Михайлович!</div><div>Направляю записку по тарифному регулированию и варианты интеграции. Посмотрите пожалуйста</div><div>&nbsp;</div><div>&nbsp;</div><div>--&nbsp;</div><div>С Уважением Станислав Анатольевич</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Петрушенко</div><div>&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

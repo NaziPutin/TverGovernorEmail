@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x143179c
+DTSTAMP:20220424T204127Z
+CREATED:20171017T145604Z
+LAST-MOD:20171017T132716Z
+SUMMARY:Игуменья Иулиания (Каледа Мария Глебовна) - настоятельница Зачатьевского ставропигиального женского монастыря города Москвы Русской православной церкви (Московский Патриархат) (отв. Петрова М.В.\, Белорусов В.А.)
+DTSTART;VALUE=DATE-TIME:20171018T100000Z
+DTEND;VALUE=DATE-TIME:20171018T110000Z
+LOCATION:ул. Советская\, д.10\, Епархиальное управление
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

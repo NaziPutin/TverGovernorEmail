@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8e94e8
+DTSTAMP:20220424T204126Z
+CREATED:20201105T064309Z
+LAST-MOD:20201106T115921Z
+SUMMARY:Заседание Оперативного штаба по предупреждению завоза и распространения новой коронавирусной инфекции на территории РФ (в режиме закрытой видео-конференц-связи) (отв. Егоров И.И.\, Емельянов А.А.\, Ажгиревич А.И\,\, Карчевский С.Г.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201106T120000Z
+DTEND;VALUE=DATE-TIME:20201106T133000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

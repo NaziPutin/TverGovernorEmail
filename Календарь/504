@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3a81ac
+DTSTAMP:20220424T204126Z
+CREATED:20211102T161253Z
+LAST-MOD:20211102T135741Z
+SUMMARY:Рабочая встреча\, тема: «О реализации региональной программы ТО «Адресная программа по переселению граждан из аварийного жилищного фонда на 2019-2025 гг.» (отв. Ажгиревич А.И.\, Подтихова М.И.\, Зайцева Е.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211102T160000Z
+DTEND;VALUE=DATE-TIME:20211102T170000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

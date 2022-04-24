@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14b7f98
+DTSTAMP:20220424T204127Z
+CREATED:20170828T071123Z
+LAST-MOD:20170825T140052Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє Р¤РѕСЂСѓРјСѓ РјСѓРЅРёС†РёРїР°Р»СЊРЅС‹С… РѕР±СЂР°Р·РѕРІР°РЅРёР№ РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё (30.08.2017) (РѕС‚РІ. РўРёС‚РѕРІ Рђ.Рђ.\, Р—Р°Р№С†РµРІ Рђ.Рђ.) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20170828T183000Z
+DTEND;VALUE=DATE-TIME:20170828T193000Z
+LOCATION:РєР°Р±. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

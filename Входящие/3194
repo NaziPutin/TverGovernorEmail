@@ -1,0 +1,58 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 26 Mar 2018 14:54:50 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 26 Mar
+ 2018 14:54:50 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 26 Mar 2018 14:54:50 +0300
+Received: from f409.i.mail.ru ([185.5.136.80])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <dve69@mail.ru>)
+	id 1f0Qi8-0001vG-U9
+	for rim@tverreg.ru; Mon, 26 Mar 2018 07:54:48 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=grzz7DGEUn0CsxcYBa88FD4fOOzXVTXWNL73el+wBO8=;
+	b=E/VOWqw0l3/JRUlkwsWQFiFgLYlBgRD78F+rnx4nJs4IrB+i2aMV0VLUSqjIaf9hlVMf0/j1/Q67p55L+Tr0GDJTxOid41opUFr0CBmRhtUCtAUQ7KokvargSfPiD5UzosPcoKCLHvko3ojqhtbp+S2DltqSjSYzjX7ts0KW8eo=;
+Received: by f409.i.mail.ru with local (envelope-from <dve69@mail.ru>)
+	id 1f0Qi6-0001OT-HT
+	for rim@tverreg.ru; Mon, 26 Mar 2018 14:54:46 +0300
+Received: by e.mail.ru with HTTP;
+	Mon, 26 Mar 2018 14:54:46 +0300
+From: =?UTF-8?B?0JLQsNC70LXQvdGC0LjQvdCwINCU0YDQvtC90L7QstCw?= <dve69@mail.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0JPQlCDQk9GD0LHQtdGA0L3QsNGC0L7RgC5kb2N4?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Mon, 26 Mar 2018 14:54:46 +0300
+Reply-To: =?UTF-8?B?0JLQsNC70LXQvdGC0LjQvdCwINCU0YDQvtC90L7QstCw?= <dve69@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1522065286.419735195@f409.i.mail.ru>
+Authentication-Results: f409.i.mail.ru; auth=pass smtp.auth=dve69@mail.ru smtp.mailfrom=dve69@mail.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE742AE56DF2E59EB7AC4224003CC836476D1DB134E79BD61627866D6147AF826D8A410E8FF8541FA76260BBF77FFE4F401089D37D7C0E48F6C8AA50765F7900637F905D23DF69D81C0375B4C541E958C30089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E7028C9DFF55498CEFB0BD9CCCA9EDD067B1EDA766A37F9254B7
+X-Mailru-MI: 800
+X-Mailru-Sender: DC6E6940F88EDDAE2555C03C47A623BCBDB1CC69B53D7823CAD0DCB7FE9ED3319AD776DFED426A3F9912D67D0E093752C4120205329C8D5C7126D81F73BED74DD44B31C9190F748C09ED403DDDE2350DC92B43F6E4F6267532D4062DD092F171B4A721A3011E896F
+X-Mras: OK
+X-Spam: undefined
+Return-Path: dve69@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 56de93f4-83e7-491f-8739-08d593106172
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6250638
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><br><br><br></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

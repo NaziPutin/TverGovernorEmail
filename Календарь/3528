@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x103ad00
+DTSTAMP:20220424T204127Z
+CREATED:20190508T170159Z
+LAST-MOD:20190508T163821Z
+SUMMARY:Торжественные мероприятия\, посвященные празднованию 74-й годовщины Победы советского народа в Великой Отечественной войне 1941-1945 годов. (отв. Белоцерковский А.В.\, Ищенко А.Н.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190509T050000Z
+DTEND;VALUE=DATE-TIME:20190509T130000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

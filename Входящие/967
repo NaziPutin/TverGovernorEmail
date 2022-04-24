@@ -1,0 +1,63 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 26 Jan 2022 19:01:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 26 Jan
+ 2022 19:01:09 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 26 Jan 2022 19:01:12 +0300
+From: =?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?xO7q6+DkIO/uIOLu7/Du8fMg9e7k4CDi7vHx8uDt7uLo8uXr/O379SDw?=
+ =?windows-1251?B?4OHu8iDm6Ovu4+4g5O7s4CC5MjUg4iDk5fAu0fLg8PvpIM/u4+7x8g==?=
+Thread-Topic: =?windows-1251?B?xO7q6+DkIO/uIOLu7/Du8fMg9e7k4CDi7vHx8uDt7uLo8uXr/O379SDw?=
+ =?windows-1251?B?4OHu8iDm6Ovu4+4g5O7s4CC5MjUg4iDk5fAu0fLg8PvpIM/u4+7x8g==?=
+Thread-Index: AQHYEspKihDFmCSqgEyki7v/CctjWA==
+Date: Wed, 26 Jan 2022 19:01:11 +0300
+Message-ID: <0391e0f63d3140aca5835b5a8448604d@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <0391e0f63d3140aca5835b5a8448604d@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.133.218]
+X-MS-Exchange-Organization-Network-Message-Id: 2f287a27-f5dc-4b28-43d1-08d9e0e51306
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.4710255
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p>Уважаемый Игорь Михайлович!&nbsp;</p>
+<p>Во исполнение Вашего поручения направляю доклад и материалы по инциденту в жилом доме 25 дер.Старый Погост Калининского района&nbsp;</p>
+<p>и ходу восстановительных работ.</p>
+<p>С уважением, Цветков А.И.</p>
+<p><br>
+</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

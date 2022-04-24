@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xede6b8
+DTSTAMP:20220424T204127Z
+CREATED:20190623T145846Z
+LAST-MOD:20190624T110738Z
+SUMMARY:Семинар-совещание для ВДЛ субъектов РФ в рамках подготовки заседания Государственного Совета РФ по вопросу «О развитии национальной сети автомобильных дорог и организации безопасного дорожного движения» (отв. Жарлицына Т.Л.\, Насибуллин Д.И.\, Попенко В.И.)
+DTSTART;VALUE=DATE-TIME:20190624T140000Z
+DTEND;VALUE=DATE-TIME:20190624T200000Z
+LOCATION:Московская обл.\, г. Солнечногорск\, дом отдыха "Сенеж"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

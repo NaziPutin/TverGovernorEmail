@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa8a8d8
+DTSTAMP:20220424T204126Z
+CREATED:20200601T114032Z
+LAST-MOD:20200601T102750Z
+SUMMARY:Мероприятие\, приуроченное к Международному дню защиты детей и Всемирному дню родителей (общение с семьями в режиме ВКС) (отв. Ищенко А.Н.\, Емельянов А.А.\, Буданцева А.Н.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20200601T110000Z
+DTEND;VALUE=DATE-TIME:20200601T113000Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

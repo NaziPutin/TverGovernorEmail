@@ -1,0 +1,47 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 15 Apr 2019 17:19:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 15 Apr
+ 2019 17:19:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Mon, 15 Apr 2019
+ 17:19:22 +0300
+From: =?utf-8?B?0KHQtdC00L7QsiDQmtC+0L3RgdGC0LDQvdGC0LjQvSDQktC70LDQtNC40Lw=?=
+ =?utf-8?B?0LjRgNC+0LLQuNGH?= <sedov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0L/QviDQo9Ck0Jo=?=
+Thread-Topic: =?utf-8?B?0L/QviDQo9Ck0Jo=?=
+Thread-Index: AQHU85Y48Ern3wCrr0CSy6yL5ozNdw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 15 Apr 2019 17:19:22 +0300
+Message-ID: <4E235DF4-CED7-4D0E-A09E-CC7C7B9F2C7A@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <4E235DF4-CED7-4D0E-A09E-CC7C7B9F2C7A@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 59b1aa9b-8ba5-4f46-ac45-08d6c1ad5b3a
+Return-Path: sedov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7291650
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERB9C540F7
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto">Уважаемый Игорь Михайлович!&nbsp;<div>Мне позвонили из ФК и прислали приказ о моем назначении. Выходить на работу необходимо 19.04. Дата выхода на работу в УФК продиктована окончанием договора с ВРИО начальника УФК. Прошу Вас согласовать мое заявление. Спасибо Вам огромное за оказанное доверие.&nbsp;</div><div>С уважением, Седов Константин.&nbsp;</div><div><img src="cid:C9B8D85F-8760-4B05-B590-519C244D9133" alt="image1.jpeg" id="C9B8D85F-8760-4B05-B590-519C244D9133"></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

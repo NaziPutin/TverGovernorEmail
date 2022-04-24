@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd30a90
+DTSTAMP:20220424T204127Z
+CREATED:20191118T144847Z
+LAST-MOD:20191118T135912Z
+SUMMARY:Стратегическая сессия РАНХиГС\, тема: "Разработка планов мероприятий по реализации национального проекта "Здравоохранение" и решению задач социально-экономического развития региона" (отв. Орлов А.В.\, Пономарев А.А.\, Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191121T063000Z
+DTEND;VALUE=DATE-TIME:20191121T070000Z
+LOCATION:ул. Салтыкова-Щедрина\, д. 20
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

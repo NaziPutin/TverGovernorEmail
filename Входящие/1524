@@ -1,0 +1,116 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 1 Dec 2020 14:37:16 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 1 Dec
+ 2020 14:37:13 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 1 Dec 2020 14:37:13 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id C0E5F20FF1
+	for <rim@tverreg.ru>; Tue,  1 Dec 2020 14:37:14 +0300 (MSK)
+Received-SPF: pass (icloud.com: 17.58.63.172 is authorized to use 'd.i.nasibullin@icloud.com' in 'mfrom' identity (mechanism 'ip4:17.58.0.0/16' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="d.i.nasibullin@icloud.com"; helo=st43p00im-ztfb10061701.me.com; client-ip=17.58.63.172
+Received: from st43p00im-ztfb10061701.me.com (st43p00im-ztfb10061701.me.com [17.58.63.172])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 5B21822CB6
+	for <rim@tverreg.ru>; Tue,  1 Dec 2020 14:37:13 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1606822625;
+	bh=E2pwgQiq9ejdBWk5iPOxe2Ix+uzmfwJmO3dMmB/SEdQ=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=FG1+JmgtIwHoio+NEaqvxXWiuxkjYYV/78L2f3rh3arJnJCBSaMUew8ThtNxABxRR
+	 YJt5njDr4WKZQnbp73334bornzPhdpSwGIv1Vi1f/x9SKIrbku5s6NAa1KZmgam/yz
+	 CingGP0JJCuOR42gRehrFx40g1E0sT1Dwk1/SwsRPhnirhIKGBTDNd0gu9VW4UUVt0
+	 zAUFYU0jAxTTWcP5bFKvd9tHXVky2Kgbhin+U9xZop7ciLP/ryyzp80YCfB6ZwbyAK
+	 aR3LzWkmXAua20tYeBA6VyXv0khUm4lSzrfzxUp/MpmfFzFh04bb+cGNth699pgvss
+	 FwdJFEO576dRw==
+Received: from [192.168.0.101] (ip-46-73-127-186.bb.netbynet.ru [46.73.127.186])
+	by st43p00im-ztfb10061701.me.com (Postfix) with ESMTPSA id 3E3CCAC0777
+	for <rim@tverreg.ru>; Tue,  1 Dec 2020 11:37:05 +0000 (UTC)
+From: =?utf-8?B?0JTQvNC40YLRgNC40Lkg0J3QsNGB0LjQsdGD0LvQu9C40L0=?= <d.i.nasibullin@icloud.com>
+Date: Tue, 1 Dec 2020 14:36:43 +0300
+Subject: =?utf-8?Q?Fwd:_=D0=9F=D1=80=D0=BE=D0=B5=D0=BA=D1=82_=D0=BF=D0=B8?=
+ =?utf-8?Q?=D1=81=D1=8C=D0=BC=D0=B0_=D0=92=D0=A1=D0=96=D0=9C.docx?=
+Message-Id: <F4E6D00A-9227-46B0-8E10-25748A13A0E2@icloud.com>
+References: <8556A33B-EF1B-48B2-AAF9-0B29A597D843@icloud.com>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L4=?=
+ =?utf-8?B?0LLQuNGH?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (18B92)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.312,18.0.737
+ definitions=2020-12-01_04:2020-11-30,2020-12-01 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=8 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1015 mlxscore=0
+ mlxlogscore=999 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2006250000 definitions=main-2012010076
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.510 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (toszn2015[at]yandex.ru) (olgunchik55[at]yandex.ru) (nastya.voloskova93[at]mail.ru) (trpinter[at]mail.ru) (kddivvol[at]mail.ru) (konczn[at]mail.ru) (kzsonfirovo[at]mail.ru) (d.i.nasibullin[at]icloud.com)
+	HTML_MESSAGE            0.001 HTML included in message
+	MIME_QP_LONG_LINE       0.001 Quoted-printable line longer than 76 chars
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: d.i.nasibullin@icloud.com
+X-MS-Exchange-Organization-Network-Message-Id: 599be2da-40b5-4e7f-6b1c-08d895ed7287
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.4359831
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div dir="auto"><br>
+<br>
+<div dir="ltr">Отправлено с iPhone</div>
+<div dir="ltr"><br>
+Начало переадресованного сообщения:<br>
+<br>
+</div>
+<blockquote type="cite">
+<div dir="ltr"><b>От:</b> Дмитрий Насибуллин &lt;d.i.nasibullin@icloud.com&gt;<br>
+<b>Дата:</b> 1 декабря 2020&nbsp;г. в&nbsp;14:34:46 GMT&#43;3<br>
+<b>Копия:</b> Руденя Игорь Михайлович &lt;rim@tverreg.ru&gt;<br>
+<b>Тема:</b> <b>Проект письма ВСЖМ.docx</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr">﻿<span>Уважаемый Игорь Михайлович! </span><br>
+<span></span><br>
+<span>По Вашему поручению направляю проект доклада Минтранса РФ по исполнению поручения Президента.</span><br>
+<span>Документ получен мной от Минтранса РФ по неофициальному каналу, для согласования.</span><br>
+<span>Прошу Ваших указаний:</span><br>
+<span>1. Нужно ли запросить данный документ официально?</span><br>
+<span>2. Можно ли согласовать такую редакцию, с учётом того, что проектирование ВСЖМ только начинается и ось трассы, как и расположение планируемого ТПУ окончательно не определено.</span><br>
+<span></span><br>
+<span>С Уважением, Насибуллин </span><br>
+<span></span><br>
+<span></span><br>
+</div>
+</blockquote>
+</div>
+<div dir="auto">
+<blockquote type="cite">
+<div dir="ltr"><span></span><br>
+<span></span><br>
+<span>Отправлено с iPhone</span></div>
+</blockquote>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

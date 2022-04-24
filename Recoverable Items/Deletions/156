@@ -1,0 +1,264 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 18 Mar 2022 01:00:20 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 18 Mar
+ 2022 01:00:17 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 18 Mar 2022 01:00:20 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id AF71681179
+	for <rim@tverreg.ru>; Fri, 18 Mar 2022 01:00:19 +0300 (MSK)
+Received-SPF: pass (virusinfo.info: 138.201.35.14 is authorized to use 'www-data@virusinfo.info' in 'mfrom' identity (mechanism 'ip4:138.201.35.14' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="www-data@virusinfo.info"; helo=mail.virusinfo.info; client-ip=138.201.35.14
+Received: from mail.virusinfo.info (anti-malware.ru [138.201.35.14])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 096F081178
+	for <rim@tverreg.ru>; Fri, 18 Mar 2022 01:00:16 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=anti-malware.ru; s=mail; h=Date:Sender:Message-Id:List-Unsubscribe:From:
+	Content-Transfer-Encoding:Content-Type:MIME-Version:Subject:To:Reply-To:Cc:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=lCvB2bBqF9VAyYQrigAYx0UskssVmCsNKQrvE1PiS3o=; b=uzGXmHLUEmA/FI6nE2XRjN+ajt
+	H1g4ouUT+WePcGwisKVld8VtvD6lF0rDQKqvhi2u2yTg9xSiTF1XveqelbEo7XFBaa2xiXU1FI7vD
+	m6l3o1SSg0BifwaOfRU+l6TDN0Gbl2Qc+h2WA3f+hkl1MbYT6xUEedhU1JGcFYNdjCd8=;
+Received: from www-data by mail.virusinfo.info with local (Exim 4.90_1)
+	(envelope-from <www-data@virusinfo.info>)
+	id 1nUyAD-0008QS-6E
+	for rim@tverreg.ru; Fri, 18 Mar 2022 01:00:09 +0300
+To: rim@tverreg.ru
+Subject: =?UTF-8?B?0JPQvtGA0Y/Rh9C40LUg0L3QvtCy0L7RgdGC0Lg6INCU0LDQudC00LbQtdGB0YI=?=  =?UTF-8?B?INCz0L7RgNGP0YfQuNGFINC90L7QstC+0YHRgtC10Lkg4oSWMzIx?=
+X-PHP-Originating-Script: 501:mimemail.module
+X-Mailer: Drupal
+From: "Anti-Malware.ru" <info@anti-malware.ru>
+Priority: normal
+X-Priority: 3
+X-MSMail-Priority: Normal
+List-Unsubscribe: <https://www.anti-malware.ru/newsletter/confirm/remove/82b02610f07163t5438>
+Precedence: bulk
+Message-Id: <E1nUyAD-0008QS-6E@mail.virusinfo.info>
+Sender: <www-data@virusinfo.info>
+Date: Fri, 18 Mar 2022 01:00:09 +0300
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudefgedgudehudcutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpefvufggtgfgoffhrfgijfhpkfhsffesmhfjtderredtjeenucfhrhhomhepfdetnhhtihdqofgrlhifrghrvgdrrhhufdcuoehinhhfohesrghnthhiqdhmrghlfigrrhgvrdhruheqnecuggftrfgrthhtvghrnhepjeehfeeuleefjeeijeekieegtdefhfetfedvtddvueekhfeihfetvdekfefhgffgnecuffhomhgrihhnpegrnhhtihdqmhgrlhifrghrvgdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.134#151 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     1.153 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HEADER_FROM_DIFFERENT_DOMAINS  0.249 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_NUMSUBJECT            0.5 Subject ends in numbers excluding current years
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_KAM_HTML_FONT_INVALID   0.01 Test for Invalidly Named or Formatted Colors in HTML
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudefgedgudehudcutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpefvufggtgfgoffhrfgijfhpkfhsffesmhfjtderredtjeenucfhrhhomhepfdetnhhtihdqofgrlhifrghrvgdrrhhufdcuoehinhhfohesrghnthhiqdhmrghlfigrrhgvrdhruheqnecuggftrfgrthhtvghrnhepjeehfeeuleefjeeijeekieegtdefhfetfedvtddvueekhfeihfetvdekfefhgffgnecuffhomhgrihhnpegrnhhtihdqmhgrlhifrghrvgdrrhhunecukfhppedufeekrddvtddurdefhedrudeg
+X-DrWeb-SpamVersion: Vade Retro 01.422.134#151 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: www-data@virusinfo.info
+X-MS-Exchange-Organization-Network-Message-Id: 01ff6518-93b7-4e39-ae2d-08da0861878c
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2690361
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html style="background:none;"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body id="mimemail-body" style="background:none;">
+    <div id="center">
+      <div id="main">
+        <p></p>
+
+<title>Дайджест горячих новостей №321</title>
+<meta name="" content="">
+<br><div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;border:none;"><tr style="border:none;">
+<td style="background-color:#db0000;border-bottom:none;border:none;padding:8px 10px;"><a href="https://www.anti-malware.ru/track/click/1284976/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;"><img src="http://www.anti-malware.ru/files/newsletters/logo.png" border="0" width="116" height="60" style="display:block;padding:15px 15px 15px 35px;" alt="Anti-Malware.ru"></a></td>
+<td align="center" style="background-color:#db0000;border-bottom:none;border:none;padding:8px 10px;">
+<h1 style="color:#fff;font-family:Verdana;font-size:20px !important;">Дайджест горячих новостей №321</h1>
+</td>
+</tr></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;border:none;">
+<tr style="border:none;">
+<td style="border-bottom:none;border:none;padding:8px 10px;"><img src="http://www.anti-malware.ru/files/newsletters/indent.gif" border="0" width="1" height="1" style="display:block;" alt=""></td>
+<td style="border-bottom:none;border:none;padding:8px 10px;" align="right">
+<a href="https://www.anti-malware.ru/track/click/1284977/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;padding-right:5px;"><img src="http://www.anti-malware.ru/files/newsletters/fb.png" border="0" width="37" height="37" alt="Facebook"></a><a href="https://www.anti-malware.ru/track/click/1284978/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;padding-right:5px;"><span style="color:#0e61a6;"><img src="http://www.anti-malware.ru/files/newsletters/tweet.png" border="0" width="37" height="37" alt="Twitter"></span></a><a href="https://www.anti-malware.ru/track/click/1284979/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;padding-right:5px;"><span style="color:#0e61a6;"><img src="http://www.anti-malware.ru/files/newsletters/vk.png" border="0" width="37" height="37" alt="VK"></span></a><a href="https://www.anti-malware.ru/track/click/1284980/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;padding-right:5px;"><span style="color:#0e61a6;"><img src="http://www.anti-malware.ru/files/newsletters/in.png" border="0" width="37" height="37" alt="LinkedIn"></span></a>
+</td>
+</tr>
+<tr style="border:none;">
+<td style="border-bottom:none;border:none;padding:8px 10px;"><img src="http://www.anti-malware.ru/files/newsletters/indent.gif" border="0" width="1" height="1" style="display:block;" alt=""></td>
+<td style="border-bottom:none;border:none;padding:8px 10px;" align="right">
+<a href="https://www.anti-malware.ru/track/click/1284977/7163" target="_blank" style="color:#db0000 !important;text-decoration:underline;"><span style="font-family:Verdana;">Facebook</span></a>&nbsp;<a href="https://www.anti-malware.ru/track/click/1284978/7163" target="_blank" style="color:#db0000 !important;text-decoration:underline;"><span style="font-family:Verdana;">Twitter</span></a>&nbsp;<a href="https://www.anti-malware.ru/track/click/1284979/7163" target="_blank" style="color:#db0000 !important;text-decoration:underline;"><span style="font-family:Verdana;">VK</span></a>&nbsp;<a href="https://www.anti-malware.ru/track/click/1284980/7163" target="_blank" style="color:#db0000 !important;text-decoration:underline;"><span style="font-family:Verdana;">LinkedIn</span></a>
+</td>
+</tr>
+</table>
+<p><img src="http://exp.anti-malware.ru/www/delivery/avw.php?zoneid=20&amp;cb=43576&amp;n=ad545fa6" border="0" alt=""><br></p>
+<div>
+<div>
+<div>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;">
+<tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">17.03.2022</td>
+</tr>
+<tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;"><span style="font-size:110% !important;">На этой неделе Microsoft «порадовала» всех тестированием рекламной зоны в знаменитом Проводнике Windows 11. Но и Linux отличился — уязвимость в подсистеме Netfilter ядра ОС позволяет повысить привилегии и выполнить произвольный код. Также в подборке Android-троян Escobar, который способен красть MFA-коды Google Authenticator, и мошенники, использующие блокировку Instagram в России.</span></td>
+</tr>
+</tbody></table>
+<!-- anons --><!-- first element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;background-color:#ebf0ff;padding:8px 10px;">
+<p><span style="border:none !important;vertical-align:top;background-color:#ebf0ff;"><a href="https://www.anti-malware.ru/track/click/1284918/7163"><span style="color:#db0000;font-family:Verdana;"><span style="font-size:16.8px;"><strong><span style="text-decoration:underline;">Импортозамещение: защита сетевой инфраструктуры?</span></strong></span></span></a></span></p>
+<p><a href="https://www.anti-malware.ru/track/click/1284918/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize400w/public/events/400x400_4.png" alt="" title="" width="150" hspace="5" vspace="5" style="float:left;" align="left"></a><span style="font-family:Verdana;font-size:100% !important;line-height:1.5 !important;word-break:break-word !important;">Сегодня тема импортозамещения стала крайне актуальной. Перед многими организациями стоит задача быстрого перехода на отечественное ПО без потери данных и с минимальным простоем. 22 марта в 11:00 (МСК) на открытом вебинаре «Ростелеком-Солар» поделятся своим опытом выстраивания защиты сети на базе российских продуктов, ориентируясь на решаемые задачи и необходимый функционал.</span></p>
+<p><a href="https://www.anti-malware.ru/track/click/1284918/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-size:100% !important;vertical-align:middle !important;">22 Марта 2022 - 11:00</a></p>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;background-color:#ebf0ff;padding:8px 10px;">
+<p><span style="border:none !important;vertical-align:top;background-color:#ebf0ff;"><a href="https://www.anti-malware.ru/track/click/1284919/7163"><span style="color:#db0000;font-family:Verdana;"><span style="font-size:16.8px;"><strong><span style="text-decoration:underline;">Форум DLP&#43; 2022</span></strong></span></span></a></span></p>
+<p><a href="https://www.anti-malware.ru/track/click/1284919/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize400w/public/events/dlp_plus_site.png" alt="" title="" width="150" hspace="5" vspace="5" style="float:left;" align="left"></a><span style="font-family:Verdana;font-size:100% !important;line-height:1.5 !important;word-break:break-word !important;">1 июня 2022 года пройдёт крупнейший общенациональный форум по защите от внутренних угроз корпоративной безопасности. Ключевой темой мероприятия в этом году станет внутренняя кибербезопасность России в современных условиях и предотвращение утечек информации как основа защиты национальных интересов.</span></p>
+<p><a href="https://www.anti-malware.ru/track/click/1284919/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-size:100% !important;vertical-align:middle !important;">01 Июня 2022 - 09:00</a></p>
+</td>
+</tr></tbody></table>
+<!-- next element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➊</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284920/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Microsoft тестирует отображение рекламы в Проводнике Windows 11</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284920/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/windows_11_file_explorer_ads_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">Microsoft тестирует рекламную зону в приложении Проводник Windows. Это нововведение, согласно сообщениям одного из MVP, появилось в последней на данный момент тестовой сборке Windows 11 Insider.</span>
+</td>
+</tr></tbody></table>
+<!-- second element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➋</span>&nbsp;&nbsp;<span style="color:#db0000;font-family:Verdana;"><span style="font-size:16.8px;"><span style="text-decoration:underline;"><a href="https://www.anti-malware.ru/track/click/1284921/7163"><span style="color:#db0000;font-family:Verdana;"><span style="font-size:16.8px;"><strong><span style="text-decoration:underline;">Уязвимость в Linux Netfilter позволяет выполнить код на уровне ядра</span></strong></span></span></a></span></span></span>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284921/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/linux_netfilter_bug_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">В подсистеме Netfilter ядра Linux выявлена уязвимость, позволяющая локальному пользователю повысить привилегии и выполнить произвольный код, выйти за пределы контейнера или вызвать в системе состояние отказа в обслуживании (DoS).</span>
+</td>
+</tr></tbody></table>
+<!-- third element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➌</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284922/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Android-троян Escobar способен красть MFA-коды Google Authenticator</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284922/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/android_malware_escobar_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;"><span style="font-size:15.4px;">Банковский троян для Android, ранее известный как Aberebot, вернулся под именем Escobar. Помимо ребрендинга, вредонос отметился новыми функциями, которые теперь позволяют ему красть коды мультифакторной аутентификации Google Authenticator.</span></span>
+</td>
+</tr></tbody></table>
+<!-- fourth element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➍</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284923/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">На YouTube раздают инфостилера RedLine — под видом чита для Valorant</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284923/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/redline_stealer_on_youtube_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">Специалисты AhnLab по реагированию на киберинциденты выявили новую вредоносную кампанию на YouTube. Злоумышленники предлагают бесплатно скачать читерский аддон для шутера Valorant, а на самом деле — копию мощного инфостилера RedLine.</span>
+</td>
+</tr></tbody></table>
+<!-- fifth element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➎</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284924/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Блокировка Instagram в России спровоцировала регистрацию фишинговых сайтов</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284924/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/instagram_fraud_russia_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">Специалисты в области кибербезопасности предупреждают россиян о возможном всплеске активности мошенников в Сети, пытающихся спекулировать на теме блокировки Instagram в России. В частности, злоумышленники регистрируют доменные имена с названием популярной соцсети.</span>
+</td>
+</tr></tbody></table>
+<!-- sixth element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➏</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284925/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Новый Linux-бэкдор приходит через дыру в Log4J и прокладывает DNS-туннель</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284925/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/b1txor20_backdoor_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">В начале февраля в сетевую ловушку Qihoo 360 попал вредоносный ELF-файл, который система опознала как незнакомца. Анализ нового семпла показал, что это бот с функциями бэкдора, способный также открывать SOCKS5-прокси и устанавливать руткит.</span>
+</td>
+</tr></tbody></table>
+<!-- seventh element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➐</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284926/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Алгоритм 379-летней давности помог эксперту взломать RSA-ключи принтеров</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284926/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/safezone_crypto_keyes_cracked_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">Ключи RSA, которые генерирует устаревший криптомодуль библиотеки SafeZone, можно легко вычислить, используя алгоритм факторизации Ферма. Благодаря этому открытию исследователь Ханно Бёк (Hanno Böck) смог выявить новую уязвимость в принтерах Canon и Fuji Xerox.</span>
+</td>
+</tr></tbody></table>
+<!-- 8 element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➑</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284927/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Кибермошенники предлагают установить антивирус Аврора от МВД России</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284927/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/fake_antivirus_avrora_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">На этих выходных кибермошенники запустили интересную кампанию, в рамках которой они предлагают установить некий специальный антивирус «Аврора», разрабатываемый экспертами по информационной безопасности из МВД России.</span>
+</td>
+</tr></tbody></table>
+<!-- 9 element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➒</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284928/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Apple устранила 39 уязвимостей в iOS, macOS, iPadOS</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284928/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/ios_15.4_patches_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">На этой неделе Apple выпустила серию патчей для своих операционных систем. Разработчики отчитались в устранении 39 уязвимостей, затрагивающих мобильные платформы iOS и iPadOS. Наиболее опасные баги позволяют выполнить код удалённо.</span>
+</td>
+</tr></tbody></table>
+<!-- 10 element --><table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;padding:8px 10px;">
+<span style="font-weight:bold !important;color:#db0000;font-size:35px !important;vertical-align:middle !important;">➓</span>&nbsp;&nbsp;<a href="https://www.anti-malware.ru/track/click/1284929/7163" style="color:#db0000;text-decoration:underline;font-family:Verdana;font-weight:bold !important;font-size:120% !important;vertical-align:middle !important;">Эксперты с помощью Dirty Pipe получили root на Pixel 6 Pro и Samsung S22</a>
+</td>
+</tr></tbody></table>
+<table style="border-collapse:collapse;width:100%;border:none;" border="0" cellspacing="0" cellpadding="0"><tbody style="border:none;"><tr style="border:none;">
+<td style="border:none !important;vertical-align:top;padding:8px 10px;">
+<a href="https://www.anti-malware.ru/track/click/1284929/7163"><img src="https://www.anti-malware.ru/files/styles/imagesize150w/public/images/source/dirty_pipe_pixel_6_pro_and_samsung_s22_news.png" alt="" width="150" height="113" style="float:left;margin:10px;" align="left" vspace="5" hspace="5"></a><span style="font-family:Verdana;font-size:110% !important;line-height:1.5 !important;word-break:break-word !important;">Исследователи в области кибербезопасности использовали критическую уязвимость Linux, известную под именем Dirty Pipe, для получения полных root-прав на двух моделях Android-смартфонов: Pixel 6 Pro и Samsung S22.</span>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;border:none;"><tr style="border:none;">
+<td style="border-bottom:none;border:none;padding:8px 10px;">
+			<a href="https://www.anti-malware.ru/newsletter/confirm/remove/82b02610f07163t5438" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;font-family:Verdana;"><span style="color:#0e61a6;font-size:12px;">Отписаться от рассылки</span></a>
+		</td>
+<td align="right" style="border-bottom:none;border:none;padding:8px 10px;">
+			<a href="https://www.anti-malware.ru/track/click/1287186/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;font-family:Verdana;"><span style="color:#0e61a6;font-size:12px;">Управление рассылками</span></a>
+		</td>
+</tr></table>
+<p style="font-size:12px;font-family:Verdana;">Прочитать больше новостей по информационной безопасности, ознакомиться с аналитикой рынка, почитать сравнения и тесты можно на нашем сайте <a href="https://www.anti-malware.ru/track/click/1284982/7163" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;font-family:Verdana;">www.anti-malware.ru</a>.</p>
+<p style="font-size:12px;font-family:Verdana;">ООО «АМ Медиа», все права защищены.</p>
+<p style="font-size:12px;font-family:Verdana;">143441, Московская область, Красногорский р-н, Путилково, Бизнес-Парк &quot;Гринвуд&quot; <br>
+Тел. &#43;7 (499) 322-25-93 <br>
+Email: <a href="mailto:info@anti-malware.ru">info@anti-malware.ru</a> </p>
+<p style="font-weight:bold;font-family:Verdana;"><a href="https://www.anti-malware.ru/newsletter/confirm/remove/82b02610f07163t5438" target="_blank" style="color:#0e61a6 !important;text-decoration:underline;font-family:Verdana;">UNSUBSCRIBE</a></p>
+<p>&nbsp;</p>
+<hr style="border-bottom:solid 1px #ccc !important;">
+</div>
+    </div>
+  </body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

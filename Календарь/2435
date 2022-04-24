@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb62940
+DTSTAMP:20220424T204126Z
+CREATED:20200330T100954Z
+LAST-MOD:20200330T084137Z
+SUMMARY:Заседание рабочей группы по предупреждению завоза и распространения новой коронавирусной инфекции (COVID-2019) в ТО (в формате селекторного совещания с главами муниципальных образований ТО)(отв. Ажгиревич А.И.\, Максимов М.А.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200330T110000Z
+DTEND;VALUE=DATE-TIME:20200330T120000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

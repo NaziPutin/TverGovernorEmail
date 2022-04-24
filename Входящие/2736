@@ -1,0 +1,47 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 25 Dec 2018 13:17:25 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Tue, 25 Dec
+ 2018 13:17:25 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Tue, 25 Dec 2018
+ 13:17:25 +0300
+From: =?utf-8?B?0KLQsNC70LDQvdC40L3QsCDQm9Cw0YDQuNGB0LAg0JDQu9C10LrRgdC10LU=?=
+ =?utf-8?B?0LLQvdCw?= <talanina@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JPQvtGB0L/RgNC+0LPRgNCw0LzQvNCw?=
+Thread-Topic: =?utf-8?B?0JPQvtGB0L/RgNC+0LPRgNCw0LzQvNCw?=
+Thread-Index: AQHUnDsHEm2FnCwgVES9dfGLD+4WFw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Tue, 25 Dec 2018 13:17:25 +0300
+Message-ID: <b15634eb95154d2f97acae805303be0f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <b15634eb95154d2f97acae805303be0f@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 7afbbf70-50d4-4aa1-6002-08d66a522a8f
+Return-Path: talanina@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5261043
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERB9F82E54
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><div><br></div><div>Уважаемый Игорь Михайлович!</div><div>Прошу включить в Ваш график до 28 декабря доклад о новой госпрограмме Главархитектуры и утвердить на Правительстве. Программа всеми согласована установленном порядке. Из графика неоднократно исключалась. Очень переживаю: не могу начать конкурентные&nbsp; процедуры,&nbsp; а также с нового года сотрудники останутся без зарплаты. Благодарю. Надеюсь. Таланина.&nbsp;</div><div><br></div><div><br></div><div id="composer_signature"><div style="font-size:85%;color:#575757" dir="auto">Отправлено со смартфона Samsung Galaxy.</div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

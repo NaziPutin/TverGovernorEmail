@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x263510
+DTSTAMP:20220424T204126Z
+CREATED:20220203T081724Z
+LAST-MOD:20220203T081721Z
+SUMMARY:Встреча с работниками ООО «Верхневолжское АТП»\, приуроченная ко второй годовщине запуска новой транспортной модели пассажирских перевозок\nна территории г. Твери и Калининского района Тверской области (отв. Верхоглядов С.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220203T100000Z
+DTEND;VALUE=DATE-TIME:20220203T103000Z
+LOCATION:ул. Шишкова\, д. 92\, конференц-зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd5f61c
+DTSTAMP:20220424T204127Z
+CREATED:20191024T135000Z
+LAST-MOD:20191024T133501Z
+SUMMARY:Совещание\, тема: «О госпрограмме Тверской области «Социальная поддержка и защита населения Тверской области» на 2017-2022 гг.»  (отв. Белоцерковский А.В.\, Хохлова Е.В.\, Подтихова М.И.\, Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191024T160000Z
+DTEND;VALUE=DATE-TIME:20191024T170000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

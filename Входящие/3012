@@ -1,0 +1,72 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 23 Aug 2018 16:47:07 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 23 Aug
+ 2018 16:47:06 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 23 Aug 2018 16:47:06 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 367E121304
+	for <rim@tverreg.ru>; Thu, 23 Aug 2018 16:47:07 +0300 (MSK)
+Received-SPF: pass (bk.ru ... _spf.mail.ru: 185.5.136.48 is authorized to use 'andreyorlov71@bk.ru' in 'mfrom' identity (mechanism 'ip4:185.5.136.0/22' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="andreyorlov71@bk.ru"; helo=f377.i.mail.ru; client-ip=185.5.136.48
+Received: from f377.i.mail.ru (f377.i.mail.ru [185.5.136.48])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id C315F2118A
+	for <rim@tverreg.ru>; Thu, 23 Aug 2018 16:47:05 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=nPA6r8gmMG97BqhkwcO1FbG4nEm6iy7sHehtUdcfgL4=;
+	b=fA6edbPRUdwC/SHi1sI2eVz2ODmk9SS0ppxfMpF+rOHfKyYa6HfohfOTVXV+DVMsj+DyFgkWUVFps8hcXt+ZAvqVdiGkjwDQ/gF2w3Za+ojUEIKi6Ec482lclwrva+Bp347l7AL8Ob4bDlPYESm+5w8qKXBgIdZ2kWEo+LpmZ44=;
+Received: by f377.i.mail.ru with local (envelope-from <andreyorlov71@bk.ru>)
+	id 1fspww-0007K3-V9
+	for rim@tverreg.ru; Thu, 23 Aug 2018 16:46:59 +0300
+Received: by e.mail.ru with HTTP;
+	Thu, 23 Aug 2018 16:46:58 +0300
+From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0L/RgNC+0LPRgNCw0LzQvNCwINCf0LDRgtGA0YPRiNC10LIg0JQu0J0uLmRv?=
+ =?UTF-8?B?Yw==?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Thu, 23 Aug 2018 16:46:58 +0300
+Reply-To: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1535032018.48159054@f377.i.mail.ru>
+Authentication-Results: f377.i.mail.ru; auth=pass smtp.auth=andreyorlov71@bk.ru smtp.mailfrom=andreyorlov71@bk.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE75CAC39D3EB974045C4224003CC8364765B47ED7565F4D52DD81005AB0B54AD968AA50765F7900637828A72F78AC67A6E37ED71242AC06370BEF92D8A7544EAFAC6CDE5D1141D2B1CDB883898DBD635778A2BAE8A4CD8E841F24F3EA858EC24EB9FA2833FD35BB23D9E625A9149C048EE33AC447995A7AD18CB629EEF1311BF91D2E47CDBA5A96583BD4B6F7A4D31EC0BB23A54CFFDBC96A8389733CBF5DBD5E9D5E8D9A59859A8B6957A4DEDD2346B42CC7F00164DA146DA6F5DAA56C3B73B23E7DDDDC251EA7DABAAAE862A0553A39223F8577A6DFFEA7C5BD4CC01B5045AA68E91FEF5C23C2CEEEFF80C71ABB335746BA297DBC24807EA27F269C8F02392CDCDCF839C8780CBD93C9F3DD0FB1AF5EB4E70A05D1297E1BBCB5012B2E24CD356
+X-Mailru-MI: 800
+X-Mailru-Sender: 641179478317D3F0B5601562A1FB1D2BBD8A85C0A6BFAB7297B98DFACDFC315C3DBCE761F75FD43305FACDD8280DD60D39518AFF2B888FCE1CC6822C59A2F88844C28BB52F684A206044DB50B2E686FBB59D54A324BB60407A8C8523213B1B102ED2A8F8F358BEFBB4A721A3011E896F
+X-Mras: OK
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.037 Adjusted score from AWL reputation of From: address
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FROM_EXCESS_BASE64      0.105 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_DKIMWL_WL_MED         -0.01 DKIMwl.org - Whitelisted Medium sender
+Return-Path: andreyorlov71@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: 12ab6bc7-0f46-4f1f-070c-08d608feea91
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7503721
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Уважаемый Игорь Михайлович, направляю проект Программы рабочей поездки Патрушева Д.Н.<br>Прошу согласовать.<style type="text/css"></style></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

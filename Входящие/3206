@@ -1,0 +1,59 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Fri, 23 Mar 2018 12:21:41 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 23 Mar
+ 2018 12:21:40 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 23 Mar 2018 12:21:40 +0300
+Received: from forward102o.mail.yandex.net ([37.140.190.182])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <tver.petrushenko@yandex.ru>)
+	id 1ezItH-0000xh-6c
+	for rim@tverreg.ru; Fri, 23 Mar 2018 05:21:39 -0400
+Received: from mxback5o.mail.yandex.net (mxback5o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::1f])
+	by forward102o.mail.yandex.net (Yandex) with ESMTP id 7D31A5A041BA
+	for <rim@tverreg.ru>; Fri, 23 Mar 2018 12:21:36 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback5o.mail.yandex.net (nwsmtp/Yandex) with ESMTP id aZFdNlCS3q-LZDWqGC7;
+	Fri, 23 Mar 2018 12:21:35 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1521796895;
+	bh=0OE/sWlpS7HRL0HK4aNCcCmvHMKLudgU2GYFrre+VnU=;
+	h=From:To:Subject:Message-Id:Date;
+	b=gsfi8fkiW/WNkv7VrIbjl9vSJoZ9PPEOD77BqP+HH6Esjsv7K2tAiAU1seIKqhrbG
+	 a7LTAiz67vX5t+QE1KXj6pt4tGqnnDx6tmk0I66h0fMaJ4CFlEW9P3Z429XWOMZn4f
+	 JbiLuL4qSbE47OLBc+Yte3YenZyR5VUYs6ST5pvk=
+Authentication-Results: mxback5o.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by web16g.yandex.ru with HTTP;
+	Fri, 23 Mar 2018 12:21:35 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QviDQvtCx0YDQsNGJ0LXQvdC40Y4g0LbQuNGC0LXQu9C10Lk=?=
+Message-Id: <2267281521796895@web16g.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Fri, 23 Mar 2018 12:21:35 +0300
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: f546fd32-eeaf-43c9-e750-08d5909f7c92
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5782089
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Добрый день Игорь Михайлович!   Рассмотрите пожалуйста обращение, ситуация там тяжелая и связана с тем что поселение большое и большая удаленность от райцентра 
+
+-- 
+С Уважением Станислав Анатольевич
+                        Петрушенко
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

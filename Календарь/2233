@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xab5b30
+DTSTAMP:20220424T204126Z
+CREATED:20200513T115442Z
+LAST-MOD:20200513T114945Z
+SUMMARY:Рабочая поездка заместителя Министра обороны РФ Тимура Вадимовича Иванова в г. Тверь (отв. Ажгиревич А.И.\, Веселов А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200513T120000Z
+DTEND;VALUE=DATE-TIME:20200513T140000Z
+LOCATION:Место строительства нового здания ФГКОУ «Тверское суворовское военное училище Министерства обороны РФ»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

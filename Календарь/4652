@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1381900
+DTSTAMP:20220424T204127Z
+CREATED:20180315T062429Z
+LAST-MOD:20180315T142051Z
+SUMMARY:Торжественное заключение контракта между ОАО «ТВЗ» и ОАО «Центральная пригородная пассажирская компания» по поставке электропоездов «Иволга» (отв. Меньщиков А.В.\, Расторгуев С.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180316T080000Z
+DTEND;VALUE=DATE-TIME:20180316T090000Z
+LOCATION:Петербургское шоссе\, 45-б\, ОАО "ТВЗ"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

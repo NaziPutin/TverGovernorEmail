@@ -1,0 +1,98 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 7 Feb 2022 14:36:50 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 7 Feb 2022
+ 14:36:49 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Mon, 7 Feb 2022 14:36:49 +0300
+Received: from mxs.tverreg.ru ([172.30.0.59])
+          by web.region.tver.ru (Lotus Domino Release 8.5.2FP1)
+          with ESMTP id 2022020714364865-446823 ;
+          Mon, 7 Feb 2022 14:36:48 +0300 
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 89B4483E0C
+	for <rudenyaim@web.region.TVER.ru>; Mon,  7 Feb 2022 14:36:48 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 45.84.128.74 is authorized to use 'starica_adm@mail.ru' in 'mfrom' identity (mechanism 'ip4:45.84.128.0/23' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="starica_adm@mail.ru"; helo=f169.i.mail.ru; client-ip=45.84.128.74
+Received: from f169.i.mail.ru (f169.i.mail.ru [45.84.128.74])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 9CF1B83DDC
+	for <rudenyaim@web.region.TVER.ru>; Mon,  7 Feb 2022 14:36:47 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail3;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From:From:Subject:Content-Type:Content-Transfer-Encoding:To:Cc; bh=yCQzItE+yht4g1asHNMnHf/7085/W4H8m5ONXEKF3kM=;
+	t=1644233807;x=1644839207; 
+	b=jqdfV96unBNBhKHapzjEsGJwncwIGXfiRdmQO9zQapuzuHOBvUYcSOfYZ8lfWFg19E5lTEc2EZloSQVgRWSxr8ChvFsGV/JiiBpf7s6y/sEKRe0SAncZ5KxBgQuoFdeuggwdo5E+6OQiDuAeiU+F2YuI0xATDN0CxUQyx8/o2a0=;
+Received: by f169.i.mail.ru with local (envelope-from <starica_adm@mail.ru>)
+	id 1nH2Jy-0003I4-QU
+	for rudenyaim@web.region.tver.ru; Mon, 07 Feb 2022 14:36:39 +0300
+Received: by e.mail.ru with HTTP;
+	Mon, 07 Feb 2022 14:36:38 +0300
+From: =?UTF-8?B?0JDQtNC80LjQvdC40YHRgtGA0LDRhtC40Y8gICAg0KHRgtCw0YDQuNGG0Lo=?=
+ =?UTF-8?B?0L7Qs9C+INGALdC90LA=?= <starica_adm@mail.ru>
+To: =?UTF-8?B?UnVkZW55YUlN?= <rudenyaim@web.region.tver.ru>
+Subject: =?UTF-8?B?0Jgu0JwuINCg0YPQtNC10L3QtS5wZGY=?=
+X-Mailer: Mail.Ru Mailer 1.0
+X-SenderField-Remind: 0
+Date: Mon, 07 Feb 2022 14:36:38 +0300
+Reply-To: =?UTF-8?B?0JDQtNC80LjQvdC40YHRgtGA0LDRhtC40Y8gICAg0KHRgtCw0YDQuNGG0Lo=?=
+ =?UTF-8?B?0L7Qs9C+INGALdC90LA=?= <starica_adm@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1644233798.970529150@f169.i.mail.ru>
+Authentication-Results: f169.i.mail.ru; auth=pass smtp.auth=starica_adm@mail.ru smtp.mailfrom=starica_adm@mail.ru
+X-7564579A: 646B95376F6C166E
+X-77F55803: 119C1F4DF6A9251C27C7DFA0C7E3D7ECD6B23A7ABEDB9C1B0BBE039191FB2AFC8FD872164937FA4C479E81791AEC8C2A42BE471F27C686CDAEC6642BCA10049534F602208D00932F
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE78D53F6FEC075F44CD82A6BABE6F325AC08BE7437D75B48FABCF491FFA38154B613377AFFFEAFD269A417C69337E82CC2BCF491FFA38154B6C8A9BA7A39EFB7666BA297DBC24807EAC2A783ECEC0211AD725E5C173C3A84C3253F27DA5A70FAF3C2A783ECEC0211ADC4224003CC836476F4CED3F7FEEAE4E1E3301CADCF4A3327A9D420A4CFB5DD3E6C464AC6D87B9BA2341868D3A3158512C37A77E5FDB0E07BCACD7DF95DA8FC8BD5E8D9A59859A8B6D082881546D93491CC7F00164DA146DAFE8445B8C89999728AA50765F7900637F924B32C592EA89F389733CBF5DBD5E9C8A9BA7A39EFB766F5D81C698A659EA7CC7F00164DA146DA9985D098DBDEAEC8989FD0BDF65E50FBF6B57BC7E6449061A352F6E88A58FB86F5D81C698A659EA7E827F84554CEF5019E625A9149C048EE9ECD01F8117BC8BEE2021AF6380DFAD18AA50765F790063735872C767BF85DA227C277FBC8AE2E8BDAE3FA6833AEA0C275ECD9A6C639B01B4E70A05D1297E1BBCB5012B2E24CD356
+X-8FC586DF: 7088FE8F28191859
+X-C1DE0DAB: 0D63561A33F958A56C464AC6D87B9BA2341868D3A3158512BED3F7B965D1A002BDC6A1CF3F042BAD6DF99611D93F60EF197FFA0EFC27E0ACDC48ACC2A39D04F89CDFB48F4795C241BDAD6C7F3747799A
+X-C8649E89: 4E36BF7865823D7055A7F0CF078B5EC49A30900B95165D3441661D6226BE8C317E0AB7E8CB46098D854D8787CA0FB003C45BD0F557F3FCC09C653C1B7A9E15CA1D7E09C32AA3244C65CFD278DC547C3E092DFCB7F9310A64408A6A02710B73043EB3F6AD6EA9203E
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu530nj6fImhcD4MUrOEAnl0W826KZ9Q+tr5+wYjsrrSY/u8Y3PrTqANeitKFiSd6Yd7yPpbiiZ/d5BsxIjK0jGQgCHUM3Ry2Lt2G3MDkMauH3h0dBdQGj+BB/iPzQYh7XS329fgu+/vnDhLzXx/9xmBgvr5pbWBFLYIw==
+X-Mailru-MI: 800
+X-Mailru-Sender: 0D4E4D77B0FF454A7CA41DDF0A8B7244BF0802B60C7291B3B4D34C9C8AE43E9AC1DD9B51DDD008608F3E18668B3080F4ACF4AA74C4C3E3FCA871B9F25A0A673730C7F5E153E500F3093DA5C00B83CE84CBD3BBC7C68C5D382D063C67CFD4E84967EA787935ED9F1B
+X-Mras: Ok
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.948 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	RCVD_IN_DNSWL_BLOCKED   0.001 ADMINISTRATOR NOTICE: The query to DNSWL was blocked.  See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block for more information.
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrheehgddvhecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpefhvffuggfoffhrrffktgesmhdttderredtjeenucfhrhhomhepteipmhiphhiptghtphgruhippicuuccuucevthgrphipuhhkohhrohcuphdqhhgruceoshhtrghrihgtrggprggumhesmhgrihhlrdhruheqnecuggftrfgrthhtvghrnhepteejhfffgedtudeuheejteejteeiffdthedvjeeggfegfeffffegjeehhfdvhfeunecukfhppeeghedrkeegrdduvdekrdejge
+X-DrWeb-SpamVersion: Vade Retro 01.422.55#25 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-MIMETrack: Itemize by SMTP Server on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 07.02.2022 14:36:48,
+	Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 07.02.2022 14:36:48
+X-MailFwdBy: CN=Igor Mikhaylovich Rudenya/O=TverRegAdm/C=RU
+Auto-Submitted: auto-forwarded
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: adc565b6-cfb5-4ee5-e37b-08d9ea2e216c
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4940257
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><div>&nbsp;</div><div>&nbsp;</div><div data-signature-widget="container"><div data-signature-widget="content"><div>--<br>РЎ СѓРІР°Р¶РµРЅРёРµРј, РђРґРјРёРЅРёСЃС‚СЂР°С†РёСЏ РЎС‚Р°СЂРёС†РєРѕРіРѕ СЂР°Р№РѕРЅР°</div></div></div></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

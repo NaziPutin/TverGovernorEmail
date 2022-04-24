@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xae099c
+DTSTAMP:20220424T204126Z
+CREATED:20200522T070216Z
+LAST-MOD:20200521T122516Z
+SUMMARY:Заседание оперативного штаба по предупреждению завоза и распространения новой коронавирусной инфекции (COVID-2019) в Тверской области (в режиме ВКС) (отв. Ажгиревич А.И.\, Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200522T080000Z
+DTEND;VALUE=DATE-TIME:20200522T083000Z
+LOCATION:каб. 207\; обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,135 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sun, 19 Jul 2020 20:45:59 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Sun, 19 Jul
+ 2020 20:45:50 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sun, 19 Jul 2020 20:45:28 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 7FAD82146E
+	for <rim@tverreg.ru>; Sun, 19 Jul 2020 20:45:29 +0300 (MSK)
+Received-SPF: pass (tversu.ru: 82.179.130.112 is authorized to use 'belotserkovskiy.av@tversu.ru' in 'mfrom' identity (mechanism 'a:ex2016-02.tversu.net' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="belotserkovskiy.av@tversu.ru"; helo=mail.tversu.net; client-ip=82.179.130.112
+Received: from mail.tversu.net (ex2016-02.tversu.net [82.179.130.112])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id C33332096B
+	for <rim@tverreg.ru>; Sun, 19 Jul 2020 20:45:27 +0300 (MSK)
+Received: from ex2013mbx01.tversu.net (fd41:4c49:4e41:21::12) by
+ ex2013mbx01.tversu.net (fd41:4c49:4e41:21::12) with Microsoft SMTP Server
+ (TLS) id 15.0.1263.5; Sun, 19 Jul 2020 20:45:13 +0300
+Received: from ex2013mbx01.tversu.net ([fe80::8e4:e30:2777:dd6e]) by
+ ex2013mbx01.tversu.net ([fe80::8e4:e30:2777:dd6e%12]) with mapi id
+ 15.00.1263.000; Sun, 19 Jul 2020 20:45:13 +0300
+From: =?koi8-r?B?4sXMz8PF0svP19PLycog4c7E0sXKIPfMwcTMxc7P18ne?=
+	<Belotserkovskiy.AV@tversu.ru>
+To: "rim@tverreg.ru" <rim@tverreg.ru>
+Subject: =?koi8-r?B?7yDQ0s/H0sHNzcUg09TSwdTFx8nexdPLz8fPIMHLwcTFzcnexdPLz8fPIMzJ?=
+ =?koi8-r?B?xMXS09TXwSwgy8/Uz9LVwCD018XS08vB0SDPwszB09TYIMTPzNbOwSDX2cnH?=
+ =?koi8-r?B?0sHU2A==?=
+Thread-Topic: =?koi8-r?B?7yDQ0s/H0sHNzcUg09TSwdTFx8nexdPLz8fPIMHLwcTFzcnexdPLz8fPIMzJ?=
+ =?koi8-r?B?xMXS09TXwSwgy8/Uz9LVwCD018XS08vB0SDPwszB09TYIMTPzNbOwSDX2cnH?=
+ =?koi8-r?B?0sHU2A==?=
+Thread-Index: AdZd9ErUjmItExU+Qi6XRhaveisPJA==
+Date: Sun, 19 Jul 2020 17:45:13 +0000
+Message-ID: <df7fa80ff013473aa79e1b08a238ef70@ex2013mbx01.tversu.net>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [80.246.81.201]
+x-kse-antispam-interceptor-info: internally-submitted e-mail
+x-kse-serverinfo: ex2013mbx01.tversu.net, 9
+x-kse-antivirus-interceptor-info: scan successful
+x-kse-antivirus-info: Clean
+x-kse-dlp-interceptor-info: license violation
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	HTML_MESSAGE            0.001 HTML included in message
+	MIME_HTML_MOSTLY          0.1 Multipart message mostly text/html MIME
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: Belotserkovskiy.AV@tversu.ru
+X-MS-Exchange-Organization-Network-Message-Id: 20fd809d-552b-47e8-bba4-08d82c0b8f76
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:30.4507796
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="RU" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

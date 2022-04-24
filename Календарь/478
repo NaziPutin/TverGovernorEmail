@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3a20fc
+DTSTAMP:20220424T204126Z
+CREATED:20211103T084252Z
+LAST-MOD:20211102T153307Z
+SUMMARY:Торжественная церемония вручения государственных наград РФ\, наград Тверской области\, приуроченная к Дню народного единства (отв. Скорый А.В.\, Пономарев А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211103T090000Z
+DTEND;VALUE=DATE-TIME:20211103T093000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

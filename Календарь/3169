@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xecfb98
+DTSTAMP:20220424T204127Z
+CREATED:20190709T065009Z
+LAST-MOD:20190709T055937Z
+SUMMARY:Совещание по вопросу: «О мониторинге реализации национальных проектов». Проводит (в режиме ВКС) Силуанов А.Г.-Первый Зам. Председателя Правительства РФ-Министр финансов РФ (отв. Егоров И.И.\,Белоцерковский А.В.\, Жарлицына Т.Л.\, Ищенко А.Н.\, Наумов А.В.)
+DTSTART;VALUE=DATE-TIME:20190709T073000Z
+DTEND;VALUE=DATE-TIME:20190709T083000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

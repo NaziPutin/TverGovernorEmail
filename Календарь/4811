@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13bf594
+DTSTAMP:20220424T204127Z
+CREATED:20180619T100657Z
+LAST-MOD:20180622T123104Z
+SUMMARY:РћСЂР»РѕРІ Рђ.Р’. РЎРѕРіР»Р°СЃРѕРІР°РЅРёРµ РїРѕРІРµСЃС‚РєРё РґРЅСЏ Р·Р°СЃРµРґР°РЅРёСЏ РџСЂР°РІРёС‚РµР»СЊСЃС‚РІР° РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё РЅР° 26.06.2018\, РїСЂРѕРµРєС‚Р° СЂР°Р±РѕС‡РµРіРѕ РіСЂР°С„РёРєР° РЅР° 22.06.2018. РљР°РґСЂРѕРІС‹Рµ РІРѕРїСЂРѕСЃС‹. 
+DTSTART;VALUE=DATE-TIME:20180621T150000Z
+DTEND;VALUE=DATE-TIME:20180621T153000Z
+LOCATION:РєР°Р±. 302 
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

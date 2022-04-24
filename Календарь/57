@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1b93b0
+DTSTAMP:20220424T204126Z
+CREATED:20220325T094030Z
+LAST-MOD:20220324T145134Z
+SUMMARY:Совещание Комитета Государственной Думы Федерального Собрания РФ по молодежной политике (отв. Новикова В.И.\, Морозов Е.В.\, Прохорова А.С.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220325T100000Z
+DTEND;VALUE=DATE-TIME:20220325T110000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

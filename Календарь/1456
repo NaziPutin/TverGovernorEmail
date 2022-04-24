@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x82186c
+DTSTAMP:20220424T204126Z
+CREATED:20210129T073543Z
+LAST-MOD:20210128T134853Z
+SUMMARY:Заседание  коллегии УМВД России по Тверской области по вопросу: «Итоги оперативно-служебной деятельности органов и подразделений внутренних дел Тверской области за 2020 г. и задачах на  2021 г.» (отв. Веселов А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210129T070000Z
+DTEND;VALUE=DATE-TIME:20210129T071500Z
+LOCATION:пл. Мира\, д.1/70
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

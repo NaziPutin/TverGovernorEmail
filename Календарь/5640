@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14edb3c
+DTSTAMP:20220424T204127Z
+CREATED:20170706T100039Z
+LAST-MOD:20170706T115150Z
+SUMMARY:РџР°РјС„РёР»РѕРІР° Р­Р»Р»Р° РђР»РµРєСЃР°РЅРґСЂРѕРІРЅР° вЂ“  РџСЂРµРґСЃРµРґР°С‚РµР»СЊ Р¦РµРЅС‚СЂР°Р»СЊРЅРѕР№ РёР·Р±РёСЂР°С‚РµР»СЊРЅРѕР№ РєРѕРјРёСЃСЃРёРё Р Р¤  (РѕС‚РІ. РњРµРЅСЊС‰РёРєРѕРІ Рђ.Р’.\, Р”СЂРѕРЅРѕРІР° Р’.Р•.) 
+DTSTART;VALUE=DATE-TIME:20170709T100000Z
+DTEND;VALUE=DATE-TIME:20170709T113000Z
+LOCATION:РљРѕРЅР°РєРѕРІСЃРєРёР№ СЂР°Р№РѕРЅ\, Рґ.Р’Р°СЂР°РєСЃРёРЅРѕ\, РіРѕСЃС‚РёРЅРёС†Р° В«Radisson  Resort. ZavidovoВ»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

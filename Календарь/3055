@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe43e20
+DTSTAMP:20220424T204127Z
+CREATED:20190901T194131Z
+LAST-MOD:20190901T194131Z
+SUMMARY:Торжественные мероприятия в высших учебных заведениях г. Твери\, посвященные Дню знаний (отв. Белоцерковский А.В.\, Коваленко Ю.Н.\, Максимов М.А.\, Куликов Д.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190902T070000Z
+DTEND;VALUE=DATE-TIME:20190902T103000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

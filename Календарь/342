@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2c416c
+DTSTAMP:20220424T204126Z
+CREATED:20211230T102212Z
+LAST-MOD:20211230T065600Z
+SUMMARY:Праздничное богослужение Митрополита Тверского и Кашинского Амвросия по случаю Рождества Христова (отв. Скорый А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220106T200000Z
+DTEND;VALUE=DATE-TIME:20220106T230000Z
+LOCATION:г. Тверь\, ул. Баррикадная\, д. 1\, Воскресенский кафедральный собор 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

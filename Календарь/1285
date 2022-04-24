@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x73a8e4
+DTSTAMP:20220424T204126Z
+CREATED:20210315T185248Z
+LAST-MOD:20210315T145514Z
+SUMMARY:Р—Р°РїРёСЃСЊ РїРѕР·РґСЂР°РІР»РµРЅРёСЏ СЃРѕ 100-Р»РµС‚РЅРёРј СЋР±РёР»РµРµРј Р‘РѕР±СЂРѕРІР° Р’РёРєС‚РѕСЂР° РџР°РІР»РѕРІРёС‡Р°\, РІРµС‚РµСЂР°РЅР° Р’РµР»РёРєРѕР№ РћС‚РµС‡РµСЃС‚РІРµРЅРЅРѕР№ РІРѕР№РЅС‹ 1941-1945 РіРі. (РѕС‚РІ. Р•РјРµР»СЊСЏРЅРѕРІ Рђ.Рђ.\, РњРёС…Р°Р№Р»РѕРІР° Рљ.Р’.)
+DTSTART;VALUE=DATE-TIME:20210316T073000Z
+DTEND;VALUE=DATE-TIME:20210316T074000Z
+LOCATION:РєР°Р±. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

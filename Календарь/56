@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1b5dfc
+DTSTAMP:20220424T204126Z
+CREATED:20220325T160628Z
+LAST-MOD:20220325T155906Z
+SUMMARY:Рабочая встреча по вопросам реконструкции дворца культуры «Шахтер» в городе Нелидово (отв. Ажгиревич А.И.\, Новикова В.И.\, Ефремов Д.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220325T170000Z
+DTEND;VALUE=DATE-TIME:20220325T173000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

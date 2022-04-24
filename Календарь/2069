@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa3b78c
+DTSTAMP:20220424T204126Z
+CREATED:20200713T115203Z
+LAST-MOD:20200710T063402Z
+SUMMARY:Совещание\, тема: «Об установке (замене) в Тверской области модульных зданий фельдшерско-акушерских пунктов в 2020 году» (отв. Егоров И.И.\, Седов К.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200713T130000Z
+DTEND;VALUE=DATE-TIME:20200713T140000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

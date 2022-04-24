@@ -1,0 +1,102 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 17 Feb 2022 09:31:39 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 17 Feb
+ 2022 09:31:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 17 Feb 2022 09:31:39 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?UkU6INCf0L7RgNGD0YfQtdC90LjQtSDQv9C+INC/0YDQtdC80LjRj9C8INCy?=
+ =?utf-8?B?INC+0YLRgNCw0YHQu9C4ICLQmtGD0LvRjNGC0YPRgNCwIg==?=
+Thread-Topic: =?utf-8?B?0J/QvtGA0YPRh9C10L3QuNC1INC/0L4g0L/RgNC10LzQuNGP0Lwg0LIg0L4=?=
+ =?utf-8?B?0YLRgNCw0YHQu9C4ICLQmtGD0LvRjNGC0YPRgNCwIg==?=
+Thread-Index: AQHYI0zCdBLR8A4MNEKtirBIa41N0ayXSRRvgAAAUzA=
+Date: Thu, 17 Feb 2022 09:31:39 +0300
+Message-ID: <a3cd8fe213c341e6918ff4d175bba77d@tverreg.ru>
+References: <734028fa474f4a3ea8bc3663d8e3ed0c@tverreg.ru>
+ <034C78D3-1F2C-47A8-9F3E-47888898F269@tverreg.ru>
+In-Reply-To: <034C78D3-1F2C-47A8-9F3E-47888898F269@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <a3cd8fe213c341e6918ff4d175bba77d@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.122]
+X-MS-Exchange-Organization-Network-Message-Id: bfea0fdd-5355-4a3d-9eec-08d9f1df2783
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3631124
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Принято<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span></b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Руденя Игорь Михайлович <br><b>Sent:</b> Thursday, February 17, 2022 9:30 AM<br><b>To:</b> Cальникова Татьяна Александровна &lt;Salnikova_TA@tverreg.ru&gt;<br><b>Cc:</b> Новикова Валентина Ивановна &lt;Novikova_VI@tverreg.ru&gt;; Подтихова Марина Ивановна &lt;podtihova@tverreg.ru&gt;; Скорый Алексей Владимирович &lt;SkoriyAV@tverreg.ru&gt;<br><b>Subject:</b> Re: Поручение по премиям в отрасли &quot;Культура&quot;<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><div><p class=MsoNormal>Ознакомлен. Проведём рабочую встречу в феврале т.г.<o:p></o:p></p></div><div><p class=MsoNormal><br><br><o:p></o:p></p><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><p class=MsoNormal style='margin-bottom:12.0pt'>16 февр. 2022&nbsp;г., в 21:09, Cальникова Татьяна Александровна &lt;<a href="mailto:Salnikova_TA@tverreg.ru">Salnikova_TA@tverreg.ru</a>&gt; написал(а):<o:p></o:p></p></blockquote></div><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal><span style='font-family:"Tahoma",sans-serif'>﻿</span> <o:p></o:p></p><div id=divtagdefaultwrapper><p><span style='font-family:"Calibri",sans-serif;color:black'>Уважаемый Игорь Михайлович, добрый вечер!<o:p></o:p></span></p><p><span style='font-family:"Calibri",sans-serif;color:black'>По Вашему поручению проработан вопрос по премиям в отрасли &quot;Культура&quot;.&nbsp;<o:p></o:p></span></p><p><span style='font-family:"Calibri",sans-serif;color:black'>Предложения Министерства культуры Тверской области отражены в служебной записке и презентации.<o:p></o:p></span></p><p><span style='font-family:"Calibri",sans-serif;color:black'>Прошу рассмотреть и поддержать.<o:p></o:p></span></p><p><span style='font-family:"Calibri",sans-serif;color:black'>С уважением, Т.А. Сальникова&nbsp;&nbsp;<o:p></o:p></span></p></div><div><p class=MsoNormal>&lt;Служебная записка.pdf&gt;<o:p></o:p></p></div><div><p class=MsoNormal>&lt;Премии отрасли Культура.pptx&gt;<o:p></o:p></p></div></div></blockquote></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

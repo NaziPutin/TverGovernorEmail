@@ -1,0 +1,134 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 3 Mar 2022 19:00:09 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Thu, 3 Mar 2022
+ 19:00:06 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Thu, 3 Mar 2022 19:00:06 +0300
+From: =?windows-1251?B?wPD16O/l7eruIMjj7vD8IMDr5erx4O3k8O7i6Pc=?=
+	<Arkhipenko_IA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?4vvk4PfgIO/g8uXt8u7iIOjt7vHy8ODt7fvsIOPw4Obk4O3g7CA=?=
+Thread-Topic: =?windows-1251?B?4vvk4PfgIO/g8uXt8u7iIOjt7vHy8ODt7fvsIOPw4Obk4O3g7CA=?=
+Thread-Index: AdgvF65iCTktcmImTVKTi80vKr+71w==
+Date: Thu, 3 Mar 2022 19:00:06 +0300
+Message-ID: <225f9ff34b0d43a19ba38676a8a5d2ea@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <225f9ff34b0d43a19ba38676a8a5d2ea@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: fca1215d-94e2-4e64-65a3-08d9fd2ee2bf
+Return-Path: Arkhipenko_IA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.2156270
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER7A9DF795
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>По вопросу правомерности выдачи патентов иностранным гражданам для работы у физических лиц.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>В соответствии с пунктом 6 статьи 18.1 Федерального закона от 25.07.2002 № 115-ФЗ «О правовом положении иностранных граждан в Российской Федерации» субъекты Российской Федерации вправе ежегодно с учетом региональных особенностей рынка труда и необходимости в приоритетном порядке трудоустройства граждан Российской Федерации устанавливать запрет на привлечение хозяйствующими субъектами, осуществляющими деятельность на территории субъекта Российской Федерации, иностранных граждан, осуществляющих трудовую деятельность на основании патентов, по отдельным видам экономической деятельности.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Принято постановление Губернатора Тверской области от 29.12.2020 № 194-пг, согласно которому одним из видов экономической деятельности, по которому в 2021 году установлен такой запрет, является «Деятельность домашних хозяйств с наемными работниками». Аналогичный запрет установлен на текущий год – Постановление № 81-пг.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>На территории региона хозяйствующим субъектам,</span> <span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>заявившим при государственной регистрации коды видов экономической деятельности, перечисленные в Постановлении № 81-пг, запрещается принимать на работу (заключать трудовые и гражданско-правовые договоры на выполнение работ/ оказание услуг) иностранных граждан, получивших патенты. Иностранные граждане, работающие на основании патентов, подлежат увольнению в соответствии с пунктом 13 части 1 статьи 83 Трудового кодекса Российской Федерации.<span style='color:red'><o:p></o:p></span></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>В случае нарушения работодателем установленного запрета он может быть привлечен к административной ответственности по части 1 статьи 18.17 Кодекса Российской Федерации об административных правонарушениях за каждого иностранного гражданина, продолжающего работать у хозяйствующего субъекта (штраф ФЛ – 2000/4000, ДЛ – 45000/50000, ЮЛ – 800000/1000000 руб).<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Порядок выдачи (переоформления) патентов иностранным гражданам определен в статье 13.3 Федерального закона № 115-ФЗ. Выдача (переоформление) патента осуществляется ТО ФОИВ в сфере внутренних дел на основании заявления иностранного гражданина и документов по перечню.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>  Отказ в приеме заявления о выдаче патента не допускается, за исключением закрытого перечня случаев для отказа ТО ФОИВ в сфере внутренних дел в выдаче (переоформлении) патента иностранному гражданину, аннулирования выданного патента, среди которых установление правовым актом субъекта Российской Федерации запрета на привлечение хозяйствующими субъектами, осуществляющими деятельность на территории субъекта Российской Федерации, иностранных граждан, осуществляющих трудовую деятельность на основании патентов, по отдельным видам экономической деятельности не предусмотрено.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;text-align:justify;text-indent:35.4pt'><b><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman","serif"'>В связи с этим ТО ФОИВ в сфере внутренних дел правовые акты субъектов Российской Федерации, аналогичные Постановлению № 81-пг, не расцениваются как основание, запрещающее им выдавать патенты.<o:p></o:p></span></b></p><p class=MsoListParagraphCxSpLast style='margin-left:0cm;mso-add-space:auto;text-align:justify;text-indent:36.0pt'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman","serif"'>На основании изложенного Министерство полагает, что в целях решения указанной проблемы необходимо внесение изменений в Федеральный закон № 115-ФЗ в части дополнения положением о том, что установленный субъектом Российской Федерации запрет на привлечение хозяйствующими субъектами иностранных лиц к трудовой деятельности по определенным видам экономической деятельности является основанием для отказа в выдаче (переоформлении) патентов.<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

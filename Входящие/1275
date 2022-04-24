@@ -1,0 +1,104 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 20 Jul 2021 17:04:49 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 20 Jul
+ 2021 17:04:49 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 20 Jul 2021 17:04:49 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (Proxmox) with ESMTP id 5E97284F18
+	for <rim@tverreg.ru>; Tue, 20 Jul 2021 17:04:48 +0300 (MSK)
+Received-SPF: none (golubev.ru: No applicable sender policy available) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="sergey@golubev.ru"; helo=mail-lj1-f180.google.com; client-ip=209.85.208.180
+Received: from mail-lj1-f180.google.com (mail-lj1-f180.google.com [209.85.208.180])
+	by pmg01.tverreg.ru (Proxmox) with ESMTPS id 7B23E84F16
+	for <rim@tverreg.ru>; Tue, 20 Jul 2021 17:04:45 +0300 (MSK)
+Received: by mail-lj1-f180.google.com with SMTP id b29so10143764ljf.11
+        for <rim@tverreg.ru>; Tue, 20 Jul 2021 07:04:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=golubev-ru.20150623.gappssmtp.com; s=20150623;
+        h=content-transfer-encoding:from:mime-version:date:subject:message-id
+         :to;
+        bh=EdS7cMcsFkL8qH82YUVIKiO4rUy0blDan+fn9EAI+jQ=;
+        b=za4ba6pSnIbS4N1DwSaQ3HLcLG7W/mIcru//AxBJmQJvNBWNfpILXrayGjsdR7tw3D
+         D5sYfT1VUSKZ3IYl4XqG51rVHwK+evXuiW1ErgeYNVA0ciNBTOMIZrRYm/c73qlJPJfl
+         ySqmtfDh0jjye3czAWD+lEhGBsG7G03Vfv8+UzeoQY8pbZwlYPXTjvo/W5B6euAkcKOL
+         ywj0SNGLST2809NRcuWxyDX7oYe18lhWCWa/4q8yjTtUnrmY9hvvrLG8IOn3Vv78RGZW
+         yDyeSx3UjavcaikAZsWUViko/GD7E2r5jqYJZWQrT5MKVN6aJogT/pS4m2hDyVEIJXe/
+         bHjg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:to;
+        bh=EdS7cMcsFkL8qH82YUVIKiO4rUy0blDan+fn9EAI+jQ=;
+        b=SOTqh5bSSNcCIVyseZunwQj/uirgFoBj6kSI7OTeJ8ljPJTu18wEKp+cYp8XA0Ux1H
+         SpA6/d1204ZuqYlsm8FGEyUbI3cU7nVZN9jYQDCiNPgzohtEVzb2dfeoQ4Lny+C0IuFB
+         k1H2m+dceMMrEva/YB5w6OUrZvS7sGR1Di6n76Ti9uqJywvnelAmoUYoj0ii9kiHhPRv
+         fgoZZqFEpUpa8wktERUczs2u27V1B1ZGtxsfYA00ky/zw22oRymYTLwZiH8Pdg76jHw7
+         rNBnvFHokl11x/Cv3c7QOpezuBq0lWrx3t1WuwKMHvf5IugXl03XJTlpG8LMLLDmfzml
+         UClA==
+X-Gm-Message-State: AOAM533JsK3UXwtIak0cHMNnvzfd4obGgI51TeTQkhBiP7BYcILhj1DF
+	jhS6i5MybHpwY8YN+ygROOUysqOBmiJlI+L/
+X-Google-Smtp-Source: ABdhPJx6Zr6UuAKH28sWwOAgQwe8GxYmzaqyANeL1RYlc9U6JyxxiIXzT3qC/e//J6TAICkpwd50Tw==
+X-Received: by 2002:a2e:a484:: with SMTP id h4mr19205622lji.180.1626789882702;
+        Tue, 20 Jul 2021 07:04:42 -0700 (PDT)
+Received: from smtpclient.apple ([176.59.46.33])
+        by smtp.gmail.com with ESMTPSA id n8sm1302916lfk.198.2021.07.20.07.04.42
+        for <rim@tverreg.ru>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Tue, 20 Jul 2021 07:04:42 -0700 (PDT)
+From: =?utf-8?B?0KHQtdGA0LPQtdC5INCT0L7Qu9GD0LHQtdCy?= <sergey@golubev.ru>
+Date: Tue, 20 Jul 2021 17:04:40 +0300
+Subject: =?utf-8?B?0KHQn9Cg0JDQktCa0JAg0L/QviDQtNC+0YDQvtCz0LDQvCDQqdC1?=
+ =?utf-8?B?0LrQvtC70LTQuNC90L4sINCQ0LvQtdC60YHQsNC90LTRgNC+0LI=?=
+ =?utf-8?B?0LrQsC5kb2N4?=
+Message-Id: <D66FE716-3AC7-4495-9BE0-5857B3AEBBA8@golubev.ru>
+To: rim@tverreg.ru
+X-Mailer: iPhone Mail (18F72)
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvtddrfedvgdeikecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegtgffhggffuffkvffosehmjehmrehhtddvnecuhfhrohhmpeevvghprhgvpicupihopiihiegvuecuoehsvghrghgvhiesghholhhusggvvhdrrhhuqeenucggtffrrghtthgvrhhnpeeukeelhfegtddugeejfeetheduvdffvdeuieelvdfgffethfekkeeuheetledvieenucfkphepudejiedrheelrdegiedrfeef
+X-DrWeb-SpamVersion: Vade Retro 01.420.32#68 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.106 Adjusted score from AWL reputation of From: address
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_NONE                0.001 SPF: sender does not publish an SPF Record
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvtddrfedvgdeikecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegtgffhggffuffkvffosehmjehmrehhtddvnecuhfhrohhmpeevvghprhgvpicupihopiihiegvuecuoehsvghrghgvhiesghholhhusggvvhdrrhhuqeenucggtffrrghtthgvrhhnpeeukeelhfegtddugeejfeetheduvdffvdeuieelvdfgffethfekkeeuheetledvieenucfkphepudejiedrheelrdegiedrfeef
+X-DrWeb-SpamVersion: Vade Retro 01.420.32#68 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: sergey@golubev.ru
+X-MS-Exchange-Organization-Network-Message-Id: 9b55c5db-6b09-4887-6f3d-08d94b875681
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2149722
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+</div></span></font>
+</div>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone</div></span></font>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

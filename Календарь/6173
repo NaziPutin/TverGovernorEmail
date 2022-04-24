@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x15672b4
+DTSTAMP:20220424T204127Z
+CREATED:20170309T151737Z
+LAST-MOD:20170309T113232Z
+SUMMARY:Встреча с членами Тверской общественной организации ветеранов (пенсионеров) войны\, труда\, Вооруженных сил и правоохранительных органов (отв. Титов А.А.\, Удалова Л.В.\, СМИ) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170310T110000Z
+DTEND;VALUE=DATE-TIME:20170310T120000Z
+LOCATION:каб.301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

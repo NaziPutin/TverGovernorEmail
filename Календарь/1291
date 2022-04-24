@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x73aa50
+DTSTAMP:20220424T204126Z
+CREATED:20210312T064138Z
+LAST-MOD:20210312T063418Z
+SUMMARY:Презентация материалов\, используемых при строительстве и капитальном ремонте учреждений здравоохранения (отв. Егоров И.И.\, Козлов С.Е.)
+DTSTART;VALUE=DATE-TIME:20210312T095000Z
+DTEND;VALUE=DATE-TIME:20210312T100000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д.1а\, каб. 109
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

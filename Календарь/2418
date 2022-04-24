@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb4d2e8
+DTSTAMP:20220424T204126Z
+CREATED:20200326T113243Z
+LAST-MOD:20200327T094556Z
+SUMMARY:Заседание рабочей группы Госсовета РФ по противодействию распространению новой коронавирусной инфекции\, вызванной 2019-NCOV (в режиме видеоконференцсвязи) (отв. Ажгиревич А.И.\, Максимов М.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200327T100000Z
+DTEND;VALUE=DATE-TIME:20200327T120000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

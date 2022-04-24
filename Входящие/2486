@@ -1,0 +1,47 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 18 May 2019 07:52:09 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sat, 18 May
+ 2019 07:52:02 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Sat, 18 May 2019
+ 07:52:09 +0300
+From: =?utf-8?B?0JzQsNC60YHQuNC80L7QsiDQnNCw0LrRgdC40Lwg0JDQvdC00YDQtdC10LI=?=
+ =?utf-8?B?0LjRhw==?= <MaksimovMA@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0K7QsdC40LvQtdC5INCSLtCQLiDQodC40L3QvtC00Ys=?=
+Thread-Topic: =?utf-8?B?0K7QsdC40LvQtdC5INCSLtCQLiDQodC40L3QvtC00Ys=?=
+Thread-Index: AQHVDTVyLNd/D/31GEKE0MIh5Ls+MQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 18 May 2019 07:52:08 +0300
+Message-ID: <018e3e1c-794f-46f1-81c8-70f1eb60c9ac@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <018e3e1c-794f-46f1-81c8-70f1eb60c9ac@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 283ed327-a7f6-4044-7c46-08d6db4c9577
+Return-Path: MaksimovMA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6809688
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER658DBBE0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto">Уважаемый Игорь Михайлович!<div dir="auto">Прошу Вас рассмотреть возможность награждения заместителя председателя правительства Тверской области Синоды Виталия Александровича Грамотой в честь юбилейной даты (28.05 60 лет)</div><div dir="auto"><br></div><div dir="auto">С уважением,</div><div dir="auto">Министр здравоохранения Тверской области&nbsp;</div><div dir="auto">Максимов Максим Андреевич&nbsp;</div></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

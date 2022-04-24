@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa967a0
+DTSTAMP:20220424T204126Z
+CREATED:20200608T061336Z
+LAST-MOD:20200606T125714Z
+SUMMARY:Рабочая поездка Зиничева Евгения Николаевича – Министра РФ по делам гражданской обороны\, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий в ТО (отв. Ажгиревич А.И.\, Григорян А.Р.\, Барышков В.В.\, Веселов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200608T070000Z
+DTEND;VALUE=DATE-TIME:20200608T113000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

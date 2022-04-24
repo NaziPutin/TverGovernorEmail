@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5de074
+DTSTAMP:20220424T204126Z
+CREATED:20210611T062819Z
+LAST-MOD:20210609T153427Z
+SUMMARY:Церемония торжественного вручения государственных наград РФ\, наград ТО и паспортов гражданина РФ\, приуроченная ко Дню России (12.06.2021) (отв. Смялковский П.Е.\, Пономарев А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210611T080000Z
+DTEND;VALUE=DATE-TIME:20210611T084000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

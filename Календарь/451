@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x38ea90
+DTSTAMP:20220424T204126Z
+CREATED:20211115T072905Z
+LAST-MOD:20211115T065551Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе ТО «Развитие промышленного производства и торговли ТО» на 2021-2026 гг.» (отв. Ажгиревич А.И.\, Егоров И.И.\, Подтихова М.И.\, Кременецкая Т.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211115T120000Z
+DTEND;VALUE=DATE-TIME:20211115T130000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

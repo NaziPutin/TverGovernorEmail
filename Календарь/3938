@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1157f34
+DTSTAMP:20220424T204127Z
+CREATED:20181109T211539Z
+LAST-MOD:20181109T200446Z
+SUMMARY:Рабочая встреча. Воеводин Вячеслав Валерьевич - и.о. управляющего Отделением Пенсионного фонда РФ по Тверской области (отв. Синода В.А.\, Хохлова Е.В.\, Егоров И.И.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20181110T113000Z
+DTEND;VALUE=DATE-TIME:20181110T120000Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

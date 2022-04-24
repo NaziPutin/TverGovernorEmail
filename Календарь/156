@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x21966c
+DTSTAMP:20220424T204126Z
+CREATED:20220222T181026Z
+LAST-MOD:20220222T141657Z
+SUMMARY:Встреча с Рощиной Натальей Петровной - главой Вышневолоцкого городского округа\, заместителем председателя Ассоциации «Совет муниципальных образований Тверской области» (отв. Егоров И.И.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220222T164500Z
+DTEND;VALUE=DATE-TIME:20220222T170000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

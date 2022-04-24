@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13755bc
+DTSTAMP:20220424T204127Z
+CREATED:20180403T064157Z
+LAST-MOD:20180403T082003Z
+SUMMARY:Заседание Государственного Совета Российской Федерации\, тема: «О приоритетных направлениях деятельности субъектов Российской Федерации по содействию развитию конкуренции в Российской Федерации»  (отв. Меньщиков А.В.\, Павлова О.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180405T100000Z
+DTEND;VALUE=DATE-TIME:20180405T113000Z
+LOCATION:г.Москва\, Большой Кремлевский дворец\, Георгиевский зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

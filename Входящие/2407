@@ -1,0 +1,77 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 25 Jul 2019 17:55:11 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Thu, 25 Jul
+ 2019 17:55:11 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 25 Jul 2019 17:55:08 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 1934721E5B
+	for <rim@tverreg.ru>; Thu, 25 Jul 2019 17:55:10 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 94.100.184.5 is authorized to use 'yukore@mail.ru' in 'mfrom' identity (mechanism 'ip4:94.100.176.0/20' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="yukore@mail.ru"; helo=f521.i.mail.ru; client-ip=94.100.184.5
+Received: from f521.i.mail.ru (f521.i.mail.ru [94.100.184.5])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 23C4821E56
+	for <rim@tverreg.ru>; Thu, 25 Jul 2019 17:55:08 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=ZUIkPvQCWD8BDAPqKhh6SE85082YFK/HrZJA5O0V7qk=;
+	b=dQmhKBPitfxs2ni0D4BqPaqT3lX/FL+Hf14Doea0ozauMZhZr3s4Fjs88RCeRLSOOyl2o9Nxh/oPrXzapcte9ZcPtRocg3cUIwlkpXaiwz8+jceDMwMksqw4Fw9qSiL6tpU6o9O/QaJ1IplhGAG1H/Yu4/jxPqn97M/SEGyVYQ4=;
+Received: by f521.i.mail.ru with local (envelope-from <yukore@mail.ru>)
+	id 1hqf99-0006N7-Lk
+	for rim@tverreg.ru; Thu, 25 Jul 2019 17:55:07 +0300
+Received: by e.mail.ru with HTTP;
+	Thu, 25 Jul 2019 17:55:07 +0300
+From: =?UTF-8?B?0K7Qu9C40Y8g0JrQvtCy0LDQu9C10L3QutC+?= <yukore@mail.ru>
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0LTQvtC60LvQsNC00L3QsNGP?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Thu, 25 Jul 2019 17:55:07 +0300
+Reply-To: =?UTF-8?B?0K7Qu9C40Y8g0JrQvtCy0LDQu9C10L3QutC+?= <yukore@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1564066507.500693932@f521.i.mail.ru>
+Authentication-Results: f521.i.mail.ru; auth=pass smtp.auth=yukore@mail.ru smtp.mailfrom=yukore@mail.ru
+X-77F55803: 60667C3EE8B4F83D7F9F52485CB584D7ADE63D71A4B1B0B8D94C2646059C26A1C40FEBE6D50E61DE4792F483216C62E051CE0648C9E8651D
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE75ECF17E689F3B26BD82A6BABE6F325ACA01ED31736435A1FBFD28B28ED4578739E625A9149C048EE8C73E9E9326C42D8B237B30BB4E08982B287FD4696A6DC2FA8DF7F3B2552694A4E2F5AFA99E116B42401471946AA11AFEE3A9D0FB4FE0F998D182E101C1D80758F08D7030A58E5AD6BA297DBC24807EAA9D420A4CFB5DD3EC3C206A0E60AE059300F828B803A13C21F74E402823FEE518941B15DA834481FA18204E546F3947CEDCF5861DED71B2F389733CBF5DBD5E9C8A9BA7A39EFB7666BA297DBC24807EA117882F44604297287769387670735209ECD01F8117BC8BEA471835C12D1D977C4224003CC836476C0CAF46E325F83A522CA9DD8327EE4930A3850AC1BE2E73539D2DCE533D346436515C59FC18CEA6D731C566533BA786A40A5AABA2AD371193C9F3DD0FB1AF5EB5BEE7ED86BFAC60A27F269C8F02392CD5571747095F342E88FB05168BE4CE3AF
+X-Mailru-MI: 800
+X-Mailru-Sender: 869305CAA423590901640D4E402911E70747ECE57901C67255375296EA21CF2D6E3D69DE31CB1ECB4516F812BF58FD851F6E3CB6678593175A5127DA2C8FCB569F6225CA21065CE2C09801473E5208B2B4E0A11487748538B4A721A3011E896F
+X-Mras: OK
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.618 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (yukore[at]mail.ru)
+	FROM_EXCESS_BASE64      0.001 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: yukore@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 1a9677ee-fe32-4255-1b8f-08d711101659
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.8094412
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><br><br><br>-- <br>Р®Р»РёСЏ РљРѕРІР°Р»РµРЅРєРѕ</body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

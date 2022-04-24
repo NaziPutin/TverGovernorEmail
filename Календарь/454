@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x38faf4
+DTSTAMP:20220424T204126Z
+CREATED:20211110T181621Z
+LAST-MOD:20211110T181617Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе Тверской области «Управление природными ресурсами и охрана окружающей среды Тверской области» на 2021-2026 годы» (отв. Наумов А.В.\, Подтихова М.И.\, Егоров И.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211111T083000Z
+DTEND;VALUE=DATE-TIME:20211111T093000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

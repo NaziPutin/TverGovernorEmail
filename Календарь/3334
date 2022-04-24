@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf60c00
+DTSTAMP:20220424T204127Z
+CREATED:20190514T192504Z
+LAST-MOD:20190514T202632Z
+SUMMARY:Рабочая встреча. Соколов Алексей Валерьевич - заместитель Министра цифрового развития\, связи и массовых коммуникаций РФ\, Иванов Олег Анатольевич - заместитель Министра цифрового развития\, связи и массовых коммуникаций РФ (отв. Никитин Е.О.)
+DTSTART;VALUE=DATE-TIME:20190515T101500Z
+DTEND;VALUE=DATE-TIME:20190515T104500Z
+LOCATION:г. Москва\, ул. Тверская\, д. 7\, каб. 365
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

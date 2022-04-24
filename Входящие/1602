@@ -1,0 +1,101 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 29 Oct 2020 15:40:05 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 29 Oct
+ 2020 15:40:05 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Thu, 29 Oct 2020
+ 15:40:05 +0300
+From: =?koi8-r?B?7s/T2dLP1yDhztTPziDhzMXL08HOxNLP18ne?= <NosirovAA@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?7yDMycPByCwg2sHLzMDeydfbycggy8/O1NLBy9QgzsEg0sHa0sHCz9TL1SDT?=
+ =?koi8-r?B?yMXN2SDUxdLSydTP0snBzNjOz8fPINLB2s3F3cXOydEgz8LfxcvUz9cgx8Ha?=
+ =?koi8-r?B?z9rB0NLB18/ezs/KIMnOxtLB09TS1cvU1dLZINcg9NfF0tPLz8ogz8LMwdPU?=
+ =?koi8-r?Q?=C9?=
+Thread-Topic: =?koi8-r?B?7yDMycPByCwg2sHLzMDeydfbycggy8/O1NLBy9QgzsEg0sHa0sHCz9TL1SDT?=
+ =?koi8-r?B?yMXN2SDUxdLSydTP0snBzNjOz8fPINLB2s3F3cXOydEgz8LfxcvUz9cgx8Ha?=
+ =?koi8-r?B?z9rB0NLB18/ezs/KIMnOxtLB09TS1cvU1dLZINcg9NfF0tPLz8ogz8LMwdPU?=
+ =?koi8-r?Q?=C9?=
+Thread-Index: Adat7r05cDdBYmCwTH2gAl2xN2fdig==
+Date: Thu, 29 Oct 2020 15:40:05 +0300
+Message-ID: <fbe9969e6971415fb776d94a40837723@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <fbe9969e6971415fb776d94a40837723@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 49bc127b-bddc-4864-3a1e-08d87c07c329
+Return-Path: NosirovAA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4570773
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER33829B91
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+p.s1, li.s1, div.s1
+	{mso-style-name:s_1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><b><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal align=center style='text-align:center;text-indent:35.45pt'><b><span style='font-size:16.0pt'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></b></p><p class=MsoNormal align=center style='text-align:center;text-indent:35.45pt'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>нЙОЛПОФТПМШ фЧЕТУЛПК ПВМБУФЙ ЧП ЙУРПМОЕОЙЕ чБЫЕЗП РПТХЮЕОЙС РП ЙФПЗБН ЪБУЕДБОЙС вАДЦЕФОПК ЛПНЙУУЙЙ фЧЕТУЛПК ПВМБУФЙ 27.10.2020, РП ЧПРТПУХ ПВУФПСФЕМШУФЧ ЪБЛМАЮЕОЙС ЗПУХДБТУФЧЕООПЗП ЛПОФТБЛФБ, РТЕДНЕФПН ЛПФПТПЗП СЧМСЕФУС ЧЩРПМОЕОЙЕ ТБВПФ РП ТБЪТБВПФЛЕ УИЕНЩ ФЕТТЙФПТЙБМШОПЗП ТБЪНЕЭЕОЙС ПВЯЕЛФПЧ ЗБЪПЪБРТБЧПЮОПК ЙОЖТБУФТХЛФХТЩ Ч фЧЕТУЛПК ПВМБУФЙ ДМС ХЧЕМЙЮЕОЙС РБТЛБ ФТБОУРПТФОЩИ УТЕДУФЧ Й УРЕГЙБМШОПК ФЕИОЙЛЙ, ЙУРПМШЪХАЭЙИ РТЙТПДОЩК ЗБЪ Ч ЛБЮЕУФЧЕ НПФПТОПЗП ФПРМЙЧБ, УППВЭБЕФ.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>12.08.2020 нЙОРТПНПН фЧЕТУЛПК ПВМБУФЙ ТБЪНЕЭЕОП ЙЪЧЕЭЕОЙЕ П РТПЧЕДЕОЙЙ ПФЛТЩФПЗП ЛПОЛХТУБ Ч ЬМЕЛФТПООПК ЖПТНЕ ОБ ЧЩРПМОЕОЙЕ ЧЩЫЕХЛБЪБООЩИ ТБВПФ У ОБЮБМШОПК (НБЛУЙНБМШОПК) ГЕОПК ЛПОФТБЛФБ ОБ УХННХ 2&nbsp;900&nbsp;000 ТХВМЕК.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>лПОЛХТУОБС ДПЛХНЕОФБГЙС (Ч ОЕЕ ЧИПДЙФ, Ч ФПН ЮЙУМЕ ФЕИОЙЮЕУЛПЕ ЪБДБОЙЕ ОБ ЧЩРПМОЕОЙЕ ТБВПФ), ХФЧЕТЦДЕОБ 12.08.2020 Й.П. нЙОЙУФТБ РТПНЩЫМЕООПУФЙ Й ФПТЗПЧМЙ фЧЕТУЛПК ПВМБУФЙ лТЕНЕОЕГЛПК ф.б. Й рТЕДУЕДБФЕМЕН лПНЙФЕФБ ЗПУХДБТУФЧЕООПЗП ЪБЛБЪБ фЧЕТУЛПК ПВМБУФЙ зХМБЛПЧЩН б.у. (Ч ЙОЖПТНБГЙПООПК ЛБТФЕ ПФЧЕФУФЧЕООЩН ДПМЦОПУФОЩН МЙГПН ъБЛБЪЮЙЛБ, Б ФБЛЦЕ ЛПОФТБЛФОЩН ХРТБЧМСАЭЙН, ПФЧЕФУФЧЕООЩН ЪБ ЪБЛМАЮЕОЙЕ ЛПОФТБЛФБ СЧМСЕФУС лТЕНЕОЕГЛБС ф.б.).<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>11.09.2020 ЛПОЛХТУОПК ЛПНЙУУЙЕК ТБУУНПФТЕОЩ Й ПГЕОЕОЩ ЪБСЧЛЙ ХЮБУФОЙЛПЧ ЪБЛХРЛЙ: ппп &laquo;фТБОУРПТФОБС ЙОФЕЗТБГЙС&raquo; (йоо 7804596058) У РТЕДМПЦЕОЙЕН ГЕОЩ 2&nbsp;600&nbsp;000 ТХВМЕК; <br>ппп &laquo;в2в лПООЕЛФ&raquo; (йоо 7723616637) У РТЕДМПЦЕОЙЕН ГЕОЩ 2&nbsp;000&nbsp;000 ТХВМЕК.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>ч ТЕЪХМШФБФЕ ЛПОЛХТУОПК ЛПНЙУУЙЕК РТЙОСФП ТЕЫЕОЙЕ П РТЙЪОБОЙЙ РПВЕДЙФЕМЕН ппп &laquo;фТБОУРПТФОБС ЙОФЕЗТБГЙС&raquo; У ЙФПЗПЧЩН ВБММПН РП ЪБСЧЛЕ &#8211; 86,15 РТПФЙЧ ппп &laquo;в2в лПООЕЛФ&raquo; <br>У ЙФПЗПЧЩН ВБММПН РП ЪБСЧЛЕ &#8211; 60,0.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>вПМЕЕ ОЙЪЛПЕ ЛПМЙЮЕУФЧП ВБММПЧ Х ппп &laquo;в2в лПООЕЛФ&raquo; СЧЙМПУШ УМЕДУФЧЙЕН ПФУХФУФЧЙС Х ОЕЗП ФТЕВХЕНПК ЛЧБМЙЖЙЛБГЙЙ </span><span style='font-size:16.0pt'>(Ч ФПН ЮЙУМЕ ПРЩФБ ХЮБУФОЙЛБ РП ХУРЕЫОПНХ ЧЩРПМОЕОЙА ТБВПФ (ПЛБЪБОЙА ХУМХЗ) УПРПУФБЧЙНПЗП ИБТБЛФЕТБ Й ПВЯЕНБ).<span style='color:black'><o:p></o:p></span></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>21.09.2020 НЕЦДХ ъБЛБЪЮЙЛПН Ч МЙГЕ Й.П. нЙОЙУФТБ РТПНЩЫМЕООПУФЙ Й ФПТЗПЧМЙ фЧЕТУЛПК ПВМБУФЙ лТЕНЕОЕГЛПК ф.б. Й ппп &laquo;фТБОУРПТФОБС ЙОФЕЗТБГЙС&raquo; Ч МЙГЕ ЗЕОЕТБМШОПЗП ДЙТЕЛФПТБ чПТПОГПЧБ б.ч. ЪБЛМАЮЕО лПОФТБЛФ У ГЕОПК 2&nbsp;600&nbsp;000 ТХВМЕК Й УТПЛПН ЧЩРПМОЕОЙС ТБВПФ ОЕ РПЪДОЕЕ 2 (ДЧХИ) НЕУСГЕЧ У ДБФЩ ЕЗП ЪБЛМАЮЕОЙС, ФП ЕУФШ ОЕ РПЪДОЕЕ 22.11.2020 (ОБ 600&nbsp;000 ТХВМЕК ДПТПЦЕ НЙОЙНБМШОПЗП РТЕДМПЦЕОЙС ппп &laquo;в2в лПООЕЛФ&raquo;).<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>ч ОБУФПСЭЕЕ ЧТЕНС лПОФТБЛФ ОБИПДЙФУС Ч УФБДЙЙ ЙУРПМОЕОЙС.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt'><span style='font-size:16.0pt'>рПДТПВОЩК ДПЛМБД Й ЖПФПЗТБЖЙС ХФЧЕТЦДЕООПК ЛПОЛХТУОПК ДПЛХНЕОФБГЙЙ РТЙМБЗБЕФУС.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><i><span style='font-size:16.0pt;color:black'>уРТБЧПЮОП:<o:p></o:p></span></i></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><i><span style='font-size:16.0pt;color:black'>- ппп &laquo;фТБОУРПТФОБС ЙОФЕЗТБГЙС&raquo; СЧМСЕФУС НЙЛТПРТЕДРТЙСФЙЕН (ЛПМЙЮЕУФЧП УПФТХДОЙЛПЧ &#8211; 20 ЮЕМПЧЕЛ), ЪБТЕЗЙУФТЙТПЧБООЩН РП БДТЕУХ: З. уБОЛФ-рЕФЕТВХТЗ, ХМ. юХЗХООБС, 36, ПЖ. 104, ДБФБ РПУФБОПЧЛЙ ОБ ХЮЕФ &#8211; 18.04.2017, ЪБ ЧТЕНС ДЕСФЕМШОПУФЙ ЪБЛМАЮЕОП 15 ЛПОФТБЛФПЧ ОБ ПВЭХА УХННХ 144&nbsp;100&nbsp;000 ТХВМЕК, Ч ФПН ЮЙУМЕ ОБ ЧЩРПМОЕОЙЕ ОБХЮОП-ЙУУМЕДПЧБФЕМШУЛЙИ ТБВПФ, УЧСЪБООЩИ У ФТБОУРПТФОЩН РМБОЙТПЧБОЙЕН, ФТБОУРПТФОЩНЙ ХУМХЗБНЙ Й ФТБОУРПТФОЩН ЛПНРМЕЛУПН. зЕОЕТБМШОЩН ДЙТЕЛФПТПН ЧЩЫЕХЛБЪБООПЗП АТЙДЙЮЕУЛПЗП МЙГБ СЧМСЕФУС &#8211; чПТПОГПЧ бМЕЛУЕК чМБДЙНЙТПЧЙЮ, ХЮТЕДЙФЕМСНЙ &#8211; чПТПОГПЧ бМЕЛУЕК чМБДЙНЙТПЧЙЮ, чПТПОГПЧБ уЧЕФМБОБ дЦПТЦЕЧОБ; <o:p></o:p></span></i></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><i><span style='font-size:16.0pt;color:black'>- ппп &laquo;в2в лПООЕЛФ&raquo; СЧМСЕФУС УТЕДОЙН РТЕДРТЙСФЙЕН (ЛПМЙЮЕУФЧП УПФТХДОЙЛПЧ &#8211; 84 ЮЕМПЧЕЛБ), ЪБТЕЗЙУФТЙТПЧБООЩН РП БДТЕУХ: З. нПУЛЧБ, ХМ. рТЙЧПМШОБС, 70, ЛПТР. 1, РПН/ЛПНО </span></i><i><span lang=EN-US style='font-size:16.0pt;color:black'>XII</span></i><i><span style='font-size:16.0pt;color:black'>/32, ДБФБ РПУФБОПЧЛЙ ОБ ХЮЕФ &#8211; 27.09.2017, ЪБ ЧТЕНС ДЕСФЕМШОПУФЙ ЪБЛМАЮЕОП 17 ЛПОФТБЛФПЧ ОБ ПВЭХА УХННХ 5&nbsp;300&nbsp;000 ТХВМЕК, РТЙ ЬФПН ПВЯЕЛФЩ ЪБЛХРЛЙ, УЧСЪБООЩЕ У РТЕДНЕФПН лПОФТБЛФБ, ПФУХФУФЧПЧБМЙ. зЕОЕТБМШОЩН ДЙТЕЛФПТПН ЧЩЫЕХЛБЪБООПЗП АТЙДЙЮЕУЛПЗП МЙГБ СЧМСЕФУС &#8211; ъБКОХМЙО тХУФБН оЙЛПМБЕЧЙЮ, ХЮТЕДЙФЕМЕН &#8211; чБОУПЧЙЮ бМЕЛУЕК чМБДЙНЙТПЧЙЮ. рП УПУФПСОЙА ОБ 29.10.2020 Ч ейу УЧЕДЕОЙС ПВ ЙУРПМОЕОЙЙ лПОФТБЛФБ ПФУХФУФЧХАФ. <o:p></o:p></span></i></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt'>у ХЧБЦЕОЙЕНљљљљљљљљљљљљљљљљљљљљљ б.б. оПУЩТПЧ<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

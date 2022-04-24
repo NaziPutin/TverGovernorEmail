@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x139efcc
+DTSTAMP:20220424T204127Z
+CREATED:20180220T141052Z
+LAST-MOD:20180220T125010Z
+SUMMARY:Встреча с членами Тверской региональной общественной организации «Генеральский клуб» (отв. Петрова М.В.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180222T090000Z
+DTEND;VALUE=DATE-TIME:20180222T100000Z
+LOCATION:ул.Жигарева\, д.50\, Военная академия ВКО им. Маршала Советского Союза Г.К.Жукова
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

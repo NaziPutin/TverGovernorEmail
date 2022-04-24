@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157e854
+DTSTAMP:20220424T204127Z
+CREATED:20160909T174102Z
+LAST-MOD:20160909T174104Z
+SUMMARY:Расширенное заседание  Координационного совещания по обеспечению правопорядка в ТО (в формате селекторного совещания с участием глав МО Тверской области) (отв. Попенко В.И.\, Зайцев А.А.)
+DTSTART;VALUE=DATE-TIME:20160912T100000Z
+DTEND;VALUE=DATE-TIME:20160912T113000Z
+LOCATION:пр-д Дарвина\, 12\, Ситуационный зал ГУ МЧС России по Тверской области 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

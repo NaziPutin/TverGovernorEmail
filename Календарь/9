@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1a6f10
+DTSTAMP:20220424T204126Z
+CREATED:20220331T163521Z
+LAST-MOD:20220331T163616Z
+SUMMARY:Подготовка к очередному заседанию Совета при полномочном представителе Президента РФ в ЦФО (в режиме ЗВКС) на тему «О мерах поддержки многодетных семей в ЦФО» (15.04.2022) (отв. Новикова В.И.\, Рапохин М.Г.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220414T130000Z
+DTEND;VALUE=DATE-TIME:20220414T140000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

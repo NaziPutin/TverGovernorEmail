@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x33e9d8
+DTSTAMP:20220424T204126Z
+CREATED:20211124T085959Z
+LAST-MOD:20211123T125044Z
+SUMMARY:Совещание\, тема: «О программе дорожных работ на автомобильных дорогах города Твери в 2022 году» (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, Огоньков А.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211124T090000Z
+DTEND;VALUE=DATE-TIME:20211124T100000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

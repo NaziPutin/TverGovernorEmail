@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1a6d04
+DTSTAMP:20220424T204126Z
+CREATED:20220401T075231Z
+LAST-MOD:20220401T075156Z
+SUMMARY:Совещание\, тема: «О ходе реализации региональных проектов\, входящих в состав национального проекта «Безопасные качественные дороги» (отв. Егоров И.И.\, Подтихова М.И.\, Верхоглядов С.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220422T103000Z
+DTEND;VALUE=DATE-TIME:20220422T111500Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

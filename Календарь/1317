@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x755f3c
+DTSTAMP:20220424T204126Z
+CREATED:20210305T071339Z
+LAST-MOD:20210304T133145Z
+SUMMARY:Встреча с волонтерами акции взаимопомощи #МЫВМЕСТЕ\, приуроченная к Международному женскому дню (отв. Емельянов А.А.\, СМИ+пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20210305T070000Z
+DTEND;VALUE=DATE-TIME:20210305T073000Z
+LOCATION:Пр-т Победы\, д.14\, Центр поддержки предпринимательства «Мой бизнес» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

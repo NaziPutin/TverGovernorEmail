@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x11236ec
+DTSTAMP:20220424T204127Z
+CREATED:20181217T081958Z
+LAST-MOD:20181214T160920Z
+SUMMARY:Заседание Наблюдательного совета автономной некоммерческой организации "Агентство инвестиций в социальную сферу" (отв. Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20181218T143000Z
+DTEND;VALUE=DATE-TIME:20181218T160000Z
+LOCATION:г.Москва\, ул.Усачева\, д.24\, центральный офис корпорации "Ростех"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

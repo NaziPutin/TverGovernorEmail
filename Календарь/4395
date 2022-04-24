@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12e8bd8
+DTSTAMP:20220424T204127Z
+CREATED:20180614T120917Z
+LAST-MOD:20180614T103256Z
+SUMMARY:Выставка произведений Сидорова В.М. – народного художника СССР\, живописца\, Почетного гражданина Тверской области\, посвященной 90-летию мастера (отв.Белоцерковский А.В.\, Репина И.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180615T160000Z
+DTEND;VALUE=DATE-TIME:20180615T170000Z
+LOCATION:г. Москва\, ул.Пречистенка\, д.21\, Российская академия художеств 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157df28
+DTSTAMP:20220424T204127Z
+CREATED:20160915T193910Z
+LAST-MOD:20160915T193911Z
+SUMMARY:Осмотр установленного креста на деревянной церкви в честь Пророка и Крестителя Иоанна Предчети на Ширковом погосте и посещение церкви (отв. Пилавов М.И.\, Гагарин А.В.)
+DESCRIPTION:\n
+DTSTART;VALUE=DATE-TIME:20160916T113500Z
+DTEND;VALUE=DATE-TIME:20160916T123500Z
+LOCATION:Пеновский р-н\, Ширков погост
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

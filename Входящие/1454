@@ -1,0 +1,56 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 2 Apr 2021 15:03:55 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 2 Apr 2021
+ 15:03:55 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 2 Apr 2021 15:03:55 +0300
+From: =?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0LDQvdCw0LvQuNGC0LjRh9C10YHQutCw0Y8g0LfQsNC/0LjRgdC60LAg0L8=?=
+ =?utf-8?B?0L4g0LPRgNCw0LTQvtGB0YLRgNC+0LjRgtC10LvRjNC90L7QuSDQtNC10Y8=?=
+ =?utf-8?B?0YLQtdC70YzQvdC+0YHRgtC4?=
+Thread-Topic: =?utf-8?B?0LDQvdCw0LvQuNGC0LjRh9C10YHQutCw0Y8g0LfQsNC/0LjRgdC60LAg0L8=?=
+ =?utf-8?B?0L4g0LPRgNCw0LTQvtGB0YLRgNC+0LjRgtC10LvRjNC90L7QuSDQtNC10Y8=?=
+ =?utf-8?B?0YLQtdC70YzQvdC+0YHRgtC4?=
+Thread-Index: AQHXJ7hBFmnMMeLfyEKHFHhu37JdFA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 2 Apr 2021 15:03:55 +0300
+Message-ID: <93f2a36f33484d7da218b99248c54449@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <93f2a36f33484d7da218b99248c54449@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: d8923723-622a-4b61-2477-08d8f5cf63b1
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3980162
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div dir="auto">Р”РѕР±СЂС‹Р№ РґРµРЅСЊ.&nbsp;</div><div dir="auto">Р’ РїСЂРёРєСЂРµРїР»РµРЅРЅРѕРј С„Р°Р№Р»Рµ - РєСЂР°С‚РєР°СЏ СЃРїСЂР°РІРєР° РїРѕ С‚РµРјРµ &quot; Р”РѕРєСѓРјРµРЅС‚Р°С†РёСЏ РІ РѕР±Р»Р°СЃС‚Рё РіСЂР°РґРѕСЃС‚СЂРѕРёС‚РµР»СЊРЅРѕР№ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚Рё&quot;.&nbsp;</div><div dir="auto"><br></div><div><br></div><div align="left" dir="auto" style="font-size:100%;color:#000000"><div>-</div></div>
+<div dir="auto">&nbsp;</div>
+
+
+</body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

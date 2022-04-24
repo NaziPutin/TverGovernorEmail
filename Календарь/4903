@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13d2fec
+DTSTAMP:20220424T204127Z
+CREATED:20180116T120827Z
+LAST-MOD:20180116T133447Z
+SUMMARY:Посещение филиалов ГАУ ТО «МФЦ предоставления государственных и муниципальных услуг» в г.Твери (отв. Меньщиков А.В.\, Павлова О.В.\, Шитов А.Л.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180117T090000Z
+DTEND;VALUE=DATE-TIME:20180117T100000Z
+LOCATION:Петербургское ш..28\; Комсомольский пр-т\, д.4/4
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

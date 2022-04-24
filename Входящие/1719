@@ -1,0 +1,52 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 11 Aug 2020 17:04:38 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 11 Aug
+ 2020 17:04:36 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Tue, 11 Aug 2020 17:04:35 +0300
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?yc7Gz9LNwcPJ0SDQzyDT1NLPydTFzNjT1NfVIMTPzc/XLcnO1MXSzsHUz9c=?=
+ =?KOI8-R?B?IMTM0SDQz9bJzNnIICjX2cLP0iDaxc3FzNjO2cgg1d7B09TLz9cgyQ==?=
+ =?KOI8-R?B?INDSz8XL1MnSz9fdycvJKQ==?=
+X-KeepSent: FAA26258:DF430D2C-432585C1:00413819;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.1 September 28, 2009
+Message-ID: <OFFAA26258.DF430D2C-ON432585C1.00413819-432585C1.004D4FFE@tverreg.ru>
+From: =?KOI8-R?B?4s/C0s/XwSD0wdTY0c7BIPfR3sXTzMHXz9fOwS/hxM3JzsnT1NLBw8nR?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <BobrovaTV@tverreg.ru>
+Date: Tue, 11 Aug 2020 17:04:29 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 11.08.2020 17:04:35
+Return-Path: BobrovaTV@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: aec1047e-7d0a-49d8-7efc-08d83dff7ac0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.5035222
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"><font size="2" face="sans-serif">хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!
+рП чБЫЕНХ РПТХЮЕОЙА ОБРТБЧМСА ЙОЖПТНБГЙА
+РП ЪЕНЕМШОЩН ХЮБУФЛБН, РТЕДМБЗБЕНЩН РПД
+УФТПЙФЕМШУФЧП ДПНПЧ-ЙОФЕТОБФПЧ, Й РТЕДМПЦЕОЙС
+РТПЕЛФЙТПЧЭЙЛПЧ, ЛПФПТЩЕ ХЮБУФЧПЧБМЙ Ч
+УПЧЕЭБОЙЙ</font>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:Котенев\, Владимир Владимирович
+N:Котенев;Владимир;Владимирович;;
+EMAIL:kwwberlin@mail.ru
+ADR;TYPE=work:;;;;Oberhaardtr Weg 8\, 14193 Berlin;;Россия
+LABEL;TYPE=work:Oberhaardtr Weg 8\, 14193 Berlin
+TEL;TYPE=work,fax:+7 (4930) 9404-92-53
+TEL;TYPE=work,voice:+7 (4930) 5514-14-39
+TEL;TYPE=cell,voice:+7 (49176) 5510-29-93
+TITLE:управляющий директор Посол России в резерве
+ORG:ЭКОСЕРВИС Стратегический Консалтинг Гмбх
+VERSION:3.0
+END:VCARD
+

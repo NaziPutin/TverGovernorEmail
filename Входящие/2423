@@ -1,0 +1,54 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 4 Jul 2019 18:52:37 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 4 Jul
+ 2019 18:52:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Thu, 4 Jul 2019
+ 18:52:36 +0300
+From: =?utf-8?B?0JrQvtC80LjRgWPQsNGA0L7QstCwINCe0LvRjNCz0LAg0KHQtdGA0LPQtdC1?=
+ =?utf-8?B?0LLQvdCw?= <komissarova@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?INCw0L3QvdC+0YLQsNGG0LjRjyDQvdCwINC80LXQttCy0LXQtNC+0LzRgdGC?=
+ =?utf-8?B?0LLQtdC90L3Rg9GOINC60L7QvNC40YHRgdC40Y4=?=
+Thread-Topic: =?utf-8?B?INCw0L3QvdC+0YLQsNGG0LjRjyDQvdCwINC80LXQttCy0LXQtNC+0LzRgdGC?=
+ =?utf-8?B?0LLQtdC90L3Rg9GOINC60L7QvNC40YHRgdC40Y4=?=
+Thread-Index: AQHVMoB/MFLEa1fYKkq53eZgApgV5w==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Thu, 4 Jul 2019 18:52:35 +0300
+Message-ID: <068bd0d6-4d13-4193-bb4c-de95424dcc57@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <068bd0d6-4d13-4193-bb4c-de95424dcc57@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: df39636a-8af3-4f3a-1bde-08d70097a294
+Return-Path: komissarova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.3703678
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER454E6965
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto"><div class="gmail_quote" dir="auto"><br><blockquote class="quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div><blockquote style="border-left:1px solid #0857a6;margin:0px 0px 0px 10px;padding:0px 0px 0px 10px"><div><div>
+<base href="https://e.mail.ru/"></div>
+</div>
+</blockquote>
+</div>
+</blockquote></div><br></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

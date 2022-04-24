@@ -1,0 +1,96 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sat, 29 Jan 2022 08:26:52 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sat, 29 Jan
+ 2022 08:26:49 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Sat, 29 Jan 2022 08:26:52 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id BE5F780D6C
+	for <rim@tverreg.ru>; Sat, 29 Jan 2022 08:26:49 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 45.84.129.45 is authorized to use 'kabinet-#@mail.ru' in 'mfrom' identity (mechanism 'ip4:45.84.128.0/23' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="kabinet-#@mail.ru"; helo=f528.i.mail.ru; client-ip=45.84.129.45
+Received: from f528.i.mail.ru (f528.i.mail.ru [45.84.129.45])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 1159080B09
+	for <rim@tverreg.ru>; Sat, 29 Jan 2022 08:26:49 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail3;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From:From:Subject:Content-Type:Content-Transfer-Encoding:To:Cc; bh=oLL4xgOupby9sKqpl7KBp+Et4H519TIDaAgZPqQgCwc=;
+	t=1643434009;x=1644039409; 
+	b=Gf9WsEvM3CmVyRCDJySNgogIbT2/et9jVSfWxkd7uJRefc5SJeCydTB3nBab+tVIWRD0V1DDUbo/hoFq/BQLIBq8nkJsdqIG/2htRoEbhNAR7mUxct8+h6Utt3fwQqJ+GfDDn4qgSTcB8lbsP7KGCuGAdIbWcUCUFqPAqC+RQ4Y=;
+Received: by f528.i.mail.ru with local (envelope-from <kabinet-102@mail.ru>)
+	id 1nDgG6-0002qv-OS
+	for rim@tverreg.ru; Sat, 29 Jan 2022 08:26:47 +0300
+Received: by e.mail.ru with HTTP;
+	Sat, 29 Jan 2022 08:26:46 +0300
+From: =?UTF-8?B?0J7RgtC00LXQuyDQsNC90LDQu9C40LfQsCDQuCDQvNC+0L3QuNGC0L7RgNC4?=
+ =?UTF-8?B?0L3Qs9CwINCh0JzQmA==?= <kabinet-102@mail.ru>
+To: =?UTF-8?B?0JPQotCeINC70LjRh9C90YvQuQ==?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0KHQnNCYIDI4LTI5LjAxLjIy?=
+X-Mailer: Mail.Ru Mailer 1.0
+X-SenderField-Remind: 0
+Date: Sat, 29 Jan 2022 08:26:46 +0300
+Reply-To: =?UTF-8?B?0J7RgtC00LXQuyDQsNC90LDQu9C40LfQsCDQuCDQvNC+0L3QuNGC0L7RgNC4?=
+ =?UTF-8?B?0L3Qs9CwINCh0JzQmA==?= <kabinet-102@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1643434006.121877151@f528.i.mail.ru>
+Authentication-Results: f528.i.mail.ru; auth=pass smtp.auth=kabinet-102@mail.ru smtp.mailfrom=kabinet-102@mail.ru
+X-7564579A: 78E4E2B564C1792B
+X-77F55803: 119C1F4DF6A9251C638ED60BC7464D4D88C98B691D0B1C87345C4A68474DE3468FD872164937FA4C236C85B1B417AA8534740FDAD7D6113A61B12810AAB26986A7170264A5E7ACB6
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE780159374EDF3AAF1D82A6BABE6F325AC08BE7437D75B48FABCF491FFA38154B613377AFFFEAFD269176DF2183F8FC7C0E30E47A50CB819D6C2099A533E45F2D0395957E7521B51C2CFCAF695D4D8E9FCEA1F7E6F0F101C6778DA827A17800CE7E50C24D7D7C3118A8F08D7030A58E5AD1A62830130A00468AEEEE3FBA3A834EE7353EFBB5533756686C5B328D8C3BEB67CF770E46033F04B12C2AFD54D0F612E1DF9E95F17B0083B26EA987F6312C9EC9ECD01F8117BC8BEA471835C12D1D9774AD6D5ED66289B5278DA827A17800CE71AE4D56B06699BBC9FA2833FD35BB23D2EF20D2F80756B5F868A13BD56FB6657A471835C12D1D977725E5C173C3A84C3ED8438A78DFE0A9E117882F4460429728AD0CFFFB425014E868A13BD56FB6657E2021AF6380DFAD1A18204E546F3947CB11811A4A51E3B096D1867E19FE1407959CC434672EE6371089D37D7C0E48F6C8AA50765F7900637571EAFDAACF43475EFF80C71ABB335746BA297DBC24807EABDAD6C7F3747799A
+X-8FC586DF: 7088FE8F28191859
+X-C1DE0DAB: 0D63561A33F958A54671C756BD3E82CB357A0CAFD46A331E09A677963033E2FEBDC6A1CF3F042BAD6DF99611D93F60EF05968FE12AFC105A699F904B3F4130E343918A1A30D5E7FCCB5012B2E24CD356
+X-C8649E89: 4E36BF7865823D7055A7F0CF078B5EC49A30900B95165D34F6110710A6CC527F53F41AFE781FB061A710E72E5BE249F85F0477A7C2A192AA87954980390F5EC81D7E09C32AA3244C7810F256D7377814E708255055667EE6FE8DA44ABE2443F73EB3F6AD6EA9203E
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu530nj6fImhcD4MUrOEAnl0W826KZ9Q+tr5+wYjsrrSY/u8Y3PrTqANeitKFiSd6Yd7yPpbiiZ/d5BsxIjK0jGQgCHUM3Ry2Lt2G3MDkMauH3h0dBdQGj+BB/iPzQYh7XS329fgu+/vnDhyHwRcjP5fcmws+qQLgsivg==
+X-Mailru-MI: 800
+X-Mailru-Sender: 869305CAA4235909D77E5E4164092AF8397B666C172A73F200F20184A3E4463A313EB53DD5C44C55943CEA73DB6FD164CCBBB8973CEC9A9F0B2F5A7F3E5AE25988681E9E40AB2B73DEA85EF769B629B5AE27536645352AA2CBC292797C5BBFE6481B2AED7BCCC0A40D4ABDE8C577C2ED
+X-Mras: Ok
+X-Spam: undefined
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrfeeigdejiecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpefhvffuggfoffhrrffktgesmhdttderredtjeenucfhrhhomhepqfhtpigvpicurghhrgippiiprgcupicumhhohhipthhophiphhhrrgcuvefopicuoehkrggsihhnvghtqddutddvsehmrghilhdrrhhuqeenucggtffrrghtthgvrhhnpeeltdfgveetgeegfeeffffgvdfhlefgtdeuhedtfeetveekveeijedvfeffvdefud
+X-DrWeb-SpamVersion: Vade Retro 01.422.36#76 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.247 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	FREEMAIL_REPLYTO_END_DIGIT   0.25 Reply-To freemail username ends in digit
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_NUMSUBJECT            0.5 Subject ends in numbers excluding current years
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrfeeigdejiecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpefhvffuggfoffhrrffktgesmhdttderredtjeenucfhrhhomhepqfhtpigvpicurghhrgippiiprgcupicumhhohhipthhophiphhhrrgcuvefopicuoehkrggsihhnvghtqddutddvsehmrghilhdrrhhuqeenucggtffrrghtthgvrhhnpeeltdfgveetgeegfeeffffgvdfhlefgtdeuhedtfeetveekveeijedvfeffvdefudenucfkphepgeehrdekgedruddvledrgeeh
+X-DrWeb-SpamVersion: Vade Retro 01.422.36#76 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: kabinet-102@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 3b96a28a-f4ae-438a-0d4f-08d9e2e7f4ea
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3576137
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><div>&nbsp;</div><div>&nbsp;</div><div data-signature-widget="container"><div data-signature-widget="content"><div>--<br>Отдел анализа и мониторинга СМИ</div></div></div></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

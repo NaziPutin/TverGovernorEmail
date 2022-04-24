@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x15832e0
+DTSTAMP:20220424T204127Z
+CREATED:20160527T071557Z
+LAST-MOD:20160807T154646Z
+SUMMARY:Инспекционная поездка по теме дорожного хозяйства (ознакомление с ходом реконструкции путепровода через Октябрьскую железную дорогу в створе ул. Мира - Калининское шоссе в г. Торжок ) (отв. Суязов А.В.)
+DTSTART;VALUE=DATE-TIME:20160602T150000Z
+DTEND;VALUE=DATE-TIME:20160602T164000Z
+LOCATION:г. Торжок
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

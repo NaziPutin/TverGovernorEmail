@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10b8638
+DTSTAMP:20220424T204127Z
+CREATED:20190125T111206Z
+LAST-MOD:20190128T065424Z
+SUMMARY:Подготовка к совещанию\, тема: "О ходе подготовки государственной программы РФ по развитию сельских территорий". Проводит Медведев Д.А. - Председатель Правительства РФ (29.01.2019) (отв. Наумов А.В.\, Куликов Д.А.\, Егоров И.И.)
+DTSTART;VALUE=DATE-TIME:20190128T143000Z
+DTEND;VALUE=DATE-TIME:20190128T150000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

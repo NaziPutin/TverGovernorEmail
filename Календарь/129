@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1fbc40
+DTSTAMP:20220424T204126Z
+CREATED:20220317T131308Z
+LAST-MOD:20220317T130851Z
+SUMMARY:Совещание по вопросу развития профессионального образования в ГБПОУ «Тверской колледж сервиса и туризма» (отв. Егоров И.И.\, Перов В.В.\, Калинина О.Е.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220317T130000Z
+DTEND;VALUE=DATE-TIME:20220317T140000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

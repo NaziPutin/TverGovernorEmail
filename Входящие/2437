@@ -1,0 +1,49 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 21 Jun 2019 22:33:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 21 Jun
+ 2019 22:33:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 21 Jun 2019
+ 22:33:12 +0300
+From: =?utf-8?B?0JrQvtC80LjRgWPQsNGA0L7QstCwINCe0LvRjNCz0LAg0KHQtdGA0LPQtdC1?=
+ =?utf-8?B?0LLQvdCw?= <komissarova@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?RndkOiDQmNC90YTQvtGA0LzQsNGG0LjRjyDQv9C+INGD0YfQsNGB0YLQutGD?=
+ =?utf-8?B?INC90LAg0YPQuyDQmtC+0LzQuNC90YLQtdGA0L3QsA==?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L/QviDRg9GH0LDRgdGC0LrRgyDQvdCw?=
+ =?utf-8?B?INGD0Lsg0JrQvtC80LjQvdGC0LXRgNC90LA=?=
+Thread-Index: AQHVKGgpW7EUgM1Lj0uSXd2AboCElA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 21 Jun 2019 22:33:12 +0300
+Message-ID: <740ae480-6bae-47e7-a4c4-d097b63f10c8@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <740ae480-6bae-47e7-a4c4-d097b63f10c8@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 9bbfbff2-ec52-451e-e20c-08d6f67f4cc3
+Return-Path: komissarova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.1375453
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER454E6965
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto"><div class="gmail_quote" dir="auto"><br></div><br></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

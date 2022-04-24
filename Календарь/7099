@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157e5c0
+DTSTAMP:20220424T204127Z
+CREATED:20160909T063058Z
+LAST-MOD:20160909T063101Z
+SUMMARY:Открытие  движения по путепроводу в г. Торжке.  Посещение ГУП «Торжокское ДРСУ». Объезд автодороги Вески-Крючково в Лихославльском районе (отв. Пилавов М.И.\, Воробьев Д.В.)
+DTSTART;VALUE=DATE-TIME:20160909T100000Z
+DTEND;VALUE=DATE-TIME:20160909T123000Z
+LOCATION:г. Торжок - Лихославльский р-н
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,102 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 20 Feb 2020 21:10:20 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 20 Feb
+ 2020 21:10:06 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Thu, 20 Feb 2020 21:10:02 +0300
+From: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?z+7i5fHy6ugg5+Dx5eTg7ej/IM/w4OLo8uXr/PHy4uAg0uLl8PHq7ukg?=
+ =?windows-1251?B?7uHr4PHy6CDoIO7v5fDg8uji7e7j7iDx7uLl+eDt6P8gz/Dg4ujy5ev8?=
+ =?windows-1251?B?8fLi4CDS4uXw8eru6SDu4evg8fLoIO3gIDI1LjAyLjIwMjA=?=
+Thread-Topic: =?windows-1251?B?z+7i5fHy6ugg5+Dx5eTg7ej/IM/w4OLo8uXr/PHy4uAg0uLl8PHq7ukg?=
+ =?windows-1251?B?7uHr4PHy6CDoIO7v5fDg8uji7e7j7iDx7uLl+eDt6P8gz/Dg4ujy5ev8?=
+ =?windows-1251?B?8fLi4CDS4uXw8eru6SDu4evg8fLoIO3gIDI1LjAyLjIwMjA=?=
+Thread-Index: AQHV6BSV1wusqmql0kuvnM/zR0f76agkYAjg
+Disposition-Notification-To: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>
+Date: Thu, 20 Feb 2020 21:10:02 +0300
+Message-ID: <ba6bcd94abba469994350511f2a13ae2@tverreg.ru>
+References: <OF4871759D.C88B2DB1-ON43258514.0055C12C-43258514.00611796@tverreg.ru>
+In-Reply-To: <OF4871759D.C88B2DB1-ON43258514.0055C12C-43258514.00611796@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ba6bcd94abba469994350511f2a13ae2@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 7b4de938-920d-404e-a5f1-08d7b6301b36
+Return-Path: AzhgirevichAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:18.3986104
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER23517326
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal align=center style='text-align:center'>Уважаемый Игорь Михайлович! <o:p></o:p></p><div><p class=MsoNormal><br>&nbsp; &nbsp; &nbsp; &nbsp; Направляю проекты повестки заседания Правительства Тверской области, повестки оперативного совещания Правительства Тверской области на 25 февраля 2020 года и список экспертов по основному вопросу. <br>&nbsp; &nbsp; &nbsp; &nbsp; В соответствии с утвержденным Планом заседаний Правительства Тверской области на 2020 год основным вопросом предлагается рассмотреть итоги реализации национальных проектов на территории Тверской области в 2019 году и  ключевые мероприятия национальных проектов на территории Тверской области на 2020 год. <br>&nbsp; &nbsp; &nbsp; &nbsp; Также в проект повестки включен вопрос 2 об итогах реализации Адресной инвестиционной программы Тверской области в 2019 году, который был запланирован на 18.02.2020, рассмотрение данного вопроса на заседании Правительства Тверской области предусмотрено Порядком формирования и реализации адресной инвестиционной программы Тверской области, утвержденным постановлением Правительства Тверской области от 03.04.2018 № 110-пп. <br>&nbsp; &nbsp; &nbsp; &nbsp; Прошу согласовать. <o:p></o:p></p><div><p class=MsoNormal><br>&nbsp; &nbsp; &nbsp; &nbsp; Планируемое время проведения заседания Правительства – 1 час. 34 мин., оперативного совещания Правительства – &nbsp;29 мин. &nbsp; <br><br><br><br>С уважением <br>Заместитель Председателя Правительства Тверской области – <br>руководитель аппарата Правительства Тверской области <br>А.И. Ажгиревич <o:p></o:p></p><div><p class=MsoNormal style='margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p></div></div></div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

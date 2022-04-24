@@ -1,0 +1,99 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 8 Apr 2021 16:19:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 8 Apr 2021
+ 16:19:41 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 8 Apr 2021 16:19:44 +0300
+From: =?windows-1251?B?weXr5e3q7iDA6+Xq8eDt5PAg3vD85eLo9w==?=
+	<belenko@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDv8O7k4OblIOfk4O3o/yDM088gIsDv8uXq4CC5IDIwMSIg4y4g0u7w?=
+ =?windows-1251?B?5urg?=
+Thread-Topic: =?windows-1251?B?ziDv8O7k4OblIOfk4O3o/yDM088gIsDv8uXq4CC5IDIwMSIg4y4g0u7w?=
+ =?windows-1251?B?5urg?=
+Thread-Index: AdcseW95S1dupLLlRhWcVpFnZrZbGA==
+Date: Thu, 8 Apr 2021 16:19:43 +0300
+Message-ID: <f406822aed1a47209adbcc103319bfd9@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <f406822aed1a47209adbcc103319bfd9@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: 921ed382-02f7-4136-a376-08d8fa90f97a
+Return-Path: belenko@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3705239
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER40FB3C4A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+p.s1, li.s1, div.s1
+	{mso-style-name:s_1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=EN-US style='font-size:16.0pt;font-family:"Times New Roman","serif"'> </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>Минконтроль во исполнение пункта 4 Перечня поручений Губернатора Тверской области И.М. Рудени по итогам организационного совещания Правительства Тверской области 29.03.2021 о проведении проверки законности продажи здания МУП «Аптека № 201» города Торжка, расположенного по адресу: город Торжок, ул. Мира, д. 43, сообщает.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt'>Покупателем здания МУП «Аптека № 201» является Гурина Вероника Петровна – сестра Главы города Торжка Гурина Ю.П.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt'>Объект -  нежилое помещение, площадью 220,7 кв.м., с кадастровым номером 69:47:0130305:515, цена приобретения 2&nbsp;916&nbsp;666,67 руб.   <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Для реализации помещения была создана следующая ситуация:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>1) объявлен запрет на совершении регистрационных действий в отношении помещения, основанием для которого явилась задолженность в сумме 14&nbsp;112,0 руб. (постановление судебного пристава-исполнителя от 15.06.2020);<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>2) заключен договор от 28.08.2020 между МУП «Аптека № 201», в лице директора Соколова Н.В., и его дочерью Соколовой Е.Н. на предоставление МУП «Аптека № 201» беспроцентного займа в сумме 2&nbsp;000&nbsp;000,0 руб.  <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Согласно устным пояснениям должностных лиц Комитета по управлению имуществом города Торжка, необходимость совершения указанной сделки обусловлена наличием кредиторской задолженности МУП «Аптека № 201» и наложенным в связи с этим арестом на регистрационные действия.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Указанная сделка нарушает требования пункта 1 статьи 24 Закона о государственных и муниципальных предприятиях, которым установлен исчерпывающий перечень форм осуществления заимствований унитарным предприятием, не допускающим получение займа от физического лица. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Кроме того, незаконный займ 27.08.2020 согласован Комиссией при Администрации города Торжка. При этом в протоколе указано, что исполнение обязательств по договору займа предприятием предполагается осуществить за счет денежных средств, полученных в результате реализации Помещения.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Таким образом, договор с Соколовой Е.Н. согласован Комитетом по управлению имуществом и заключен в нарушение требований законодательства о государственных <br>и муниципальных унитарных предприятиях, направлен на увеличение кредиторской задолженности предприятия, в том числе с целью обоснования необходимости реализации Помещения.<o:p></o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Пунктом 3 статьи 18 Закона о государственных и муниципальных предприятиях, недвижимым имуществом муниципальное унитарное предприятие распоряжается только в пределах, не лишающих его возможности осуществлять деятельность, цели, предмет, виды которой определены уставом предприятия. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>При этом реализация имущества явилась одним из оснований  для невозможности МУП «Аптека № 201» осуществлять деятельность, предусмотренную Уставом.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Указанные сделки, совершенные муниципальным предприятием являются ничтожными.<o:p></o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>По результатам осуществленного Министерством анализа информации, размещенной в сети Интернет на сайте <a href="http://www.avito.ru"><span style='color:windowtext;text-decoration:none'>www.avito.ru</span></a>, <b>установлено занижение стоимости реализации помещения</b> (продано за 13,2 тыс. руб. за 1 кв. м) <b>в сравнении со схожими помещениями более, чем в 1,8 раза</b>: <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>-&nbsp;продажа нежилого помещения, площадью 183 кв.м., расположенного на первом этаже пятиэтажного жилого дома,   расположенного по адресу: г. Торжок, ул. Осташковская, д. 35, осуществляется по цене 4&nbsp;500&nbsp;000,0 руб. (24,5 тыс. руб. за 1 кв. м); <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>-&nbsp;продажа нежилого здания, площадью 202 кв.м., на участке 12,5 сот, расположенного по адресу: г. Торжок, ул. Урицкого, д. 69, осуществляется по цене 5&nbsp;500&nbsp;000,0 руб. (27,2 тыс. руб. за 1 кв. м);<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>-&nbsp;продажа нежилого помещения свободного назначения, площадью 246 кв.м., расположенного по адресу: г. Торжок, ул. Дзержинского, д. 57/59, осуществляется по цене <br>5&nbsp;500&nbsp;000,0 руб. (22,3 тыс. руб. за 1 кв. м).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Согласно выписке из ЕГРН от 06.04.2021, в настоящее время Помещение сдано по договору аренды от 17.02.2021 б/н ООО «ВисФарма», основным видом деятельности которого </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";mso-fareast-language:RU'>является торговля розничная лекарственными средствами в специализированных магазинах (аптеках) &nbsp; <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Действия должностных лиц Администрации муниципального образования городской округ город Торжок по отчуждению Помещения носили согласованный характер с покупателем, что свидетельствует о наличии признаков коррупции.</span></b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Детализированный доклад прилагается.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>         С уважением, Беленко А.Ю.<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

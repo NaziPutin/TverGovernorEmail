@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x50f090
+DTSTAMP:20220424T204126Z
+CREATED:20210721T103503Z
+LAST-MOD:20210721T103501Z
+SUMMARY:Рабочая встреча\, тема: «О реновации стадиона «Центральный» и ходе программы по реализации установки плоскостных спортивных сооружений на территории Тверской области» (отв. Вилькомир А.К.\, Новикова В.И.\, Демин А.С.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210721T104500Z
+DTEND;VALUE=DATE-TIME:20210721T113000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8bc2e8
+DTSTAMP:20220424T204126Z
+CREATED:20201130T083924Z
+LAST-MOD:20201129T100443Z
+SUMMARY:Совещание по концепции газификации РФ (в режиме ЗВКС) (отв. Жарков И.С.\, Цветков А.И.). Проводит Новак А.В. – Заместитель Председателя Правительства РФ 
+DTSTART;VALUE=DATE-TIME:20201130T093000Z
+DTEND;VALUE=DATE-TIME:20201130T103000Z
+LOCATION:г. Москва\, Ситуационный центр Правительства РФ
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

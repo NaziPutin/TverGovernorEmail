@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4dc3ec
+DTSTAMP:20220424T204126Z
+CREATED:20210816T185938Z
+LAST-MOD:20210816T173419Z
+SUMMARY:Рабочая поездка Рогозина Д.О. - генерального директора ГК "Роскосмос" в г. Тверь (отв. Ажгиревич А.И.\, Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210817T123000Z
+DTEND;VALUE=DATE-TIME:20210817T143000Z
+LOCATION:Петербургское шоссе\, д. 45Б\, ОАО «Тверской вагоностроительный завод»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

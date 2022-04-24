@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x88ad68
+DTSTAMP:20220424T204126Z
+CREATED:20201208T133643Z
+LAST-MOD:20201208T113427Z
+SUMMARY:Совещание\, тема: "О реализации ООО «СТОД» в Тверской области приоритетного инвестиционного проекта в области освоения лесов «Современные технологии обработки древесины» (отв. Егоров И.И.\, Наумов А.В.)
+DTSTART;VALUE=DATE-TIME:20201208T150000Z
+DTEND;VALUE=DATE-TIME:20201208T160000Z
+LOCATION:г. Москва\, Пресненская наб.\, д. 10\, стр. 2\, 40-й этаж
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

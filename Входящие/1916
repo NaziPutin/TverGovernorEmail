@@ -1,0 +1,46 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 15 May 2020 13:18:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 15 May
+ 2020 13:18:00 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Fri, 15 May 2020 13:18:04 +0300
+From: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?yc7G?=
+Thread-Topic: =?koi8-r?B?yc7G?=
+Thread-Index: AQHWKqIe/1P+lh0EG0Cg6Icaz9oaQA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 15 May 2020 13:18:03 +0300
+Message-ID: <09FF2AF1-4D0D-4A1A-A4A9-23D421FAAB49@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <09FF2AF1-4D0D-4A1A-A4A9-23D421FAAB49@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: dd299420-f39e-4abf-f89f-08d7f8b9411c
+Return-Path: rim@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6113181
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2D076544
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

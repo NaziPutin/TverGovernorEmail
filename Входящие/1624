@@ -1,0 +1,50 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 29 Sep 2020 19:39:47 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Tue, 29 Sep
+ 2020 19:39:45 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Tue, 29 Sep 2020
+ 19:39:47 +0300
+From: =?utf-8?B?0JjRgdCw0LrQvtCyINCu0YDQuNC5INCS0LvQsNC00LjQvNC40YDQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <isakov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J3QsCDRgdC+0LPQu9Cw0YHQvtCy0LDQvdC40LUgLSDRgNC+0LvQuNC6INC+?=
+ =?utf-8?B?INCh0YPQstC+0YDQvtCy0YHQutC+0Lwg0YPRh9C40LvQuNGJ0LU=?=
+Thread-Topic: =?utf-8?B?0J3QsCDRgdC+0LPQu9Cw0YHQvtCy0LDQvdC40LUgLSDRgNC+0LvQuNC6INC+?=
+ =?utf-8?B?INCh0YPQstC+0YDQvtCy0YHQutC+0Lwg0YPRh9C40LvQuNGJ0LU=?=
+Thread-Index: AQHWln8kpyG0/jZTd0KuIWb9QLkgdQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Tue, 29 Sep 2020 19:39:47 +0300
+Message-ID: <F501196D-216E-4CCD-B265-2851DAD02150@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <F501196D-216E-4CCD-B265-2851DAD02150@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: c1a47b94-e7ec-4bd3-5e42-08d864964736
+Return-Path: isakov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3365875
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER8E327153
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto">Игорь Михайлович, высылаю на согласование ролик о Суворовском училище, для показа завтра на Координационном совете по духовно-нравственному воспитанию.&nbsp;<div><br><a href="https://youtu.be/mVAgj5wdThU">https://youtu.be/mVAgj5wdThU</a></div><div><br></div><div>С уважением,&nbsp;</div><div><br></div><div>Юрий Исаков&nbsp;<br><div><br></div><div><br></div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

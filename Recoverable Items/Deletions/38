@@ -1,0 +1,451 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 28 Mar 2022 17:22:11 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 28 Mar
+ 2022 17:22:10 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Mon, 28 Mar 2022 17:22:10 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 9AB9A839EB
+	for <rim@tverreg.ru>; Mon, 28 Mar 2022 17:22:10 +0300 (MSK)
+Received-SPF: pass (reg.ru: 194.58.116.234 is authorized to use 'pro@reg.ru' in 'mfrom' identity (mechanism 'ip4:194.58.116.0/24' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="pro@reg.ru"; helo=mailer.reg.ru; client-ip=194.58.116.234
+Received: from mailer.reg.ru (mailer.reg.ru [194.58.116.234])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 35C9A839D2
+	for <rim@tverreg.ru>; Mon, 28 Mar 2022 17:22:07 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=reg.ru;
+	s=exim; h=Date:To:From:Subject:Message-ID:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=xGYE1k8ageLO20zeLlcfDv3OsZaZBxDawBVLJ0++OW4=; b=hW81yyjhqx9SjUkupm+MYY66JU
+	V9jH15y+ABKyJ46WxCWBuVV4J7WdieLgeVv0riuoeztkJOE6UXGUL5FkfbQwE62I083V8iCCMSuQw
+	iMwom99i3gNVfZ3gnPv+7tDPzX8yT87CJpTfYwgNm6AfFgzH+msgHQN+lFVagDPQq8+s=;
+Received: from root by mailer.reg.ru with local (Exim 4.94.2)
+	(envelope-from <pro@reg.ru>)
+	id 1nYqFs-0002z6-1g
+	for rim@tverreg.ru; Mon, 28 Mar 2022 14:22:00 +0000
+X-Mailer: REG.MAILER [ https://reg.ru ] 1.0
+Message-ID: <MS4yNjYxYjBjNTIxLjFiYzg1MGViLmIxNjc2YzM1OTVh@mailer.reg.ru>
+X-Mailer-Dispatch: 466935167
+X-Mailru-Msgtype: bulkmail_40571
+Feedback-ID: bulkmail_40571:RegRU
+Subject: =?utf-8?b?0KHQsNC50YIg0L/RgNC+0YHQtdC7INCyINCy0YvQtNCw0YfQtTog0YfRgtC+INC00LXQu9Cw0YLRjCDQuCDQutCw0Log0L/RgNC40LLQu9C10YfRjCDRgtGA0LDRhNC40Lo=?=
+From: =?utf-8?b?0JrQvtC80LDQvdC00LAgUkVHLlJV?= <pro@reg.ru>
+To: Rim@tverreg.ru
+Date: Mon, 28 Mar 2022 14:22:00 +0000
+X-DrWeb-SpamScore: 49
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudehjedgjedvucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenucfjughrpeggtgfgoffkuffhvfffsehmqhdtreertdejnecuhfhrohhmpefmohhmrghhpigrucftgffirdftfgcuoehprhhosehrvghgrdhruheqnecuggftrfgrthhtvghrnheptedtteeufedugedttdejheffudevffdutdfghfduudefgfehkefhudegleevffdunecuffhomhgrihhnpehrvghgrdhruhdphigrnhguvgigrdhruhdpghhoohhglhgvrdgtohhmpdhstghhvghmrgdrohhrghdpshgrphgvrdhruhdpphhruhhffhhmvgdrtghomhdpvhhkrdgtohhmpdhtrdhmvgdpthifihhtthgvrhdrtghomhdphihouhhtuhgsvgdrtghomhdpohhkrdhruh
+X-DrWeb-SpamVersion: Vade Retro 01.422.157#72 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  1
+	AWL                     1.704 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FUZZY_XPILL               0.1 Attempt to obfuscate words in spam
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_INFOUSMEBIZ          0.75 Prevalent use of .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life domains in spam/malware
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	KAM_TRACKIMAGE            0.2 Message has a remote image explicitly meant for tracking
+	MPART_ALT_DIFF_COUNT    1.112 HTML and text parts are different
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 49
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudehjedgjedvucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenucfjughrpeggtgfgoffkuffhvfffsehmqhdtreertdejnecuhfhrohhmpefmohhmrghhpigrucftgffirdftfgcuoehprhhosehrvghgrdhruheqnecuggftrfgrthhtvghrnheptedtteeufedugedttdejheffudevffdutdfghfduudefgfehkefhudegleevffdunecuffhomhgrihhnpehrvghgrdhruhdphigrnhguvgigrdhruhdpghhoohhglhgvrdgtohhmpdhstghhvghmrgdrohhrghdpshgrphgvrdhruhdpphhruhhffhhmvgdrtghomhdpvhhkrdgtohhmpdhtrdhmvgdpthifihhtthgvrhdrtghomhdphihouhhtuhgsvgdrtghomhdpohhkrdhruhenucfkphepudelgedrheekrdduudeirddvfeeg
+X-DrWeb-SpamVersion: Vade Retro 01.422.157#72 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: pro@reg.ru
+X-MS-Exchange-Organization-Network-Message-Id: 0c17a42c-3a68-4b64-8f26-08da10c65908
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2497687
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <!--[if !mso]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="format-detection" content="telephone=no">
+ <title></title>
+ <!--[if (gte mso 9)|(IE)]>
+ <style type="text/css">
+ table {border-collapse: collapse;}
+ .l-align_left {text-align: left !important;}
+ .l-align_right {text-align: right !important;}
+ .b-mail-full-width-img {width: 480px !important;}
+ .b-mail-discount-label {
+ background: none !important;
+ color: #000 !important;
+ display: inline;
+ font: bold 20px/24px Arial, 'Helvetica Neue', Helvetica, sans-serif !important;
+ padding-left: 0; !important;
+ margin-left: 0 !important;
+ width: auto !important;
+ }
+ .b-mail-dedicated__raid {
+ background: transparent !important;
+ color: #44A7E0 !important;
+ font-weight: bold;
+ padding: 0 !important;
+ margin-left: 0 !important;
+ }
+ </style>
+ <![endif]-->
+ <style type="text/css">
+.b-mail-voting__link:hover {
+text-decoration: none;
+}
+.b-mail-voting__button-url:hover {
+text-decoration: underline !important; color: #1d9ef9;
+}
+.b-mail-button__inner_color_default:hover {
+border-color: #f2f4f9 !important; background-color: #f2f4f9 !important;
+}
+@media only screen and (min-width: 580px) {
+ .l-align_left {
+ text-align: left !important;
+ }
+ .l-align_right {
+ text-align: right !important;
+ }
+}
+@media only screen and (max-width: 579px) {
+ .b-mail-grid_mode_full-width .b-mail-grid__column {
+ max-width: 100% !important;
+ }
+}
+@media screen and (min-width: 1140px) {
+ * [lang=l-align_right] {
+ text-align: right !important;
+ }
+ * [lang=l-align_left] {
+ text-align: left !important;
+ }
+}
+@media screen and (max-width: 1140px) {
+ .b-mail-header__full-width {
+ padding: 0 24px !important;
+ }
+}
+@media screen and (max-width: 580px) {
+ .b-mail-promo__arrow-wrapper {
+ max-width: 100% !important;
+ }
+ .b-mail-promo__arrow-wrapper {
+ max-width: 100% !important;
+ }
+}
+@media screen and (min-width: 580px) {
+ .b-mail-promo__arrow-wrapper {
+ max-width: 36px !important;
+ }
+ .b-mail-promo__arrow-wrapper {
+ max-width: 36px !important;
+ }
+}
+</style>
+</head>
+ <body style="-webkit-font-smoothing: antialiased; width: 100% !important; min-width: 100%; background-color: #ffffff; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" bgcolor="#ffffff">
+<img src="https://trackmail.reg.ru/Mi4yNjYxYjBjNTIyLjFiZDRkZDdmLjVmMGRhMmRmMGFk.gif" width="1" height="1" alt="" nocache="">
+ 
+   
+ 
+ 
+ 
+ 
+ <center class="b-mail__wrapper" style="width: 100%; table-layout: fixed;">
+ <table class="b-mail" align="center" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 580px;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="580" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td>
+ <![endif]-->
+ <!-- Невидимый прехедер для писем, работает в почтовиках: рамблер, гугл, яндекс. В мейл.ру не работает. Вставлять в начало письма, перед b-mail-header -->
+ <div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">Полезные сервисы и SEO-советы</div>
+<div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍</div>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail-grid b-mail-grid_align_center b-mail-grid_valign_bottom" background="https://img.reg.ru/news/white_mail_background.png" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="190" valign="middle">
+ <![endif]-->
+ <div class="b-mail-header b-mail-header__wrapper" style="margin: 0 24px; padding: 0;">
+ <div class="b-mail-grid__column b-mail-header__logo-wrapper" style="text-align: center; float: left; width: auto !important; max-width: 168px; vertical-align: bottom; display: inline-block; margin: 40px 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <div class="b-mail-header__logo l-align_left" style="height: 48px; margin: 0; padding: 0;">
+ <a href="https://www.reg.ru/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571">
+ <img src="https://i.reg.ru/i/mail/img/b-mail__logo.png?v18" width="168" height="48" alt="REG.RU" style="border: 0;">
+ </a> </div>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td><td width="390" valign="middle"><![endif]-->
+ <div class="b-mail-grid__column b-mail-header__content-wrapper" style="text-align: center; float: right; width: auto !important; vertical-align: bottom; display: inline-block; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <div class="l-align_right" lang="l-align_right" style="text-align: right; margin: 0; padding: 0;" align="right">
+ <p class="b-mail-header__content" style="margin: 36px 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <div class="b-mail-button" style="color: #ffffff; text-align: center; text-decoration: none; font-size: 15px; line-height: 24px; font-weight: bold; letter-spacing: normal; margin: 0; padding: 0;" align="center">
+ <div class="b-mail-button__wrapper l-align_right b-mail-header__login-button" style="text-align: right; margin: 48px 0 36px; padding: 0;" align="right">
+ 
+ <a href="https://www.reg.ru/user/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="l-color_link-blue b-mail-button b-mail-button_font_big" target="_blank" style="color: #1D9EF9 !important; text-align: center; text-decoration: none; font-size: 18px; line-height: 27px; font-weight: bold; letter-spacing: normal;">
+ <div class="b-mail-button__inner b-mail-button__inner_color_default" style="display: inherit; border-radius: 3px; color: #667695; text-align: center; background-color: #f2f4f9; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border-color: #f2f4f9; border-style: solid; border-width: 8px 24px;" align="center">Войти
+ </div>
+ </a>
+ 
+ </div>
+ </div>
+ </p>
+ </div>
+ </div>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail__promo-wrapper" style="vertical-align: top; text-align: left; background-color: #FFCC03; padding: 12px;" align="left" bgcolor="#FFCC03" valign="top">
+ <table width="100%" style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail__content b-mail__content_mode_padding-tall" style="vertical-align: top; text-align: left; background-color: #ffffff; padding: 35px;" align="left" bgcolor="#ffffff" valign="top"> <p class="b-mail-text b-mail-text_mode_title-img" style="max-height: 132px; background-color: #F2F4F9; margin: 0 0 24px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <img class="b-mail-full-width-img" src="https://img.reg.ru/news/28032022_popularnyi_sayte_1.jpg" alt="" style="display: block; width: 100%; height: auto; border: 0;">
+ </p>
+  <p class="b-mail-text b-mail-text_mode_content-title" style="letter-spacing: -0.02em; margin: 0 0 18px; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Почему важно следить<br> за посещаемостью сайта</p> <p class="b-mail-text" style="margin: 12px 0 6px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Количество посетителей — один из главных критериев эффективности <a href="https://www.reg.ru/web-sites/regsite?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">сайта</a>. Чем больше пользователей перейдут<br> на страницу, тем выше вероятность получить больше заказов<br> и повысить прибыль. В этом письме мы собрали рекомендации, которые помогут улучшить позиции ресурса в выдаче и привлечь больше лидов.<br><br><b style="font-weight: bold;">Что будет, если не работать с трафиком:</b><br>— на сайте не будет посетителей;<br>— никто не узнает о вашем бренде и не купит ваш продукт;<br>— бизнес потеряет выручку.<br>
+<div style="margin: 12px 0 0; padding: 0;">
+<a href="https://www.reg.ru/web-tools/advertising/seowizard?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" target="_blank" style="color: #ffffff; text-align: center; text-decoration: none; display: block; font-size: 18px; font-weight: bold; font-style: normal; letter-spacing: -0.01em; line-height: 34px;"> 
+<div style="display: inherit; border-radius: 3px; color: #ffffff; text-align: center; background-color: #00c084; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border: solid #00c084;" align="center">
+Увеличить трафик
+</div> 
+</a>
+ </div>
+<b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">4 сервиса для оценки позиций сайта</b>1. <b style="font-weight: bold;">Яндекс.Метрика</b>. <a href="https://www.reg.ru/r?to=https%3A%2F%2Fmetrika.yandex.ru%2Flist&amp;sign=a652bc555558e3ea6a56128ffda1fdc4&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Сервис для оценки посещаемости сайтов</a><br> и анализа поведения пользователей. Помогает узнать эффективные источники трафика, отследить клики по кнопкам, количество посещений каждой страницы.<br><br>2. <b style="font-weight: bold;">Google Analytics</b>. <a href="https://www.reg.ru/r?to=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2F%23%2Fprovision&amp;sign=fe6d53bf24321e9055fde8346781e39d&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Крупная платформа для веб-аналитики</a>.<br> По функциональности схожа с Яндекс.Метрикой. Есть возможность посмотреть как общую сводку посещаемости на сайте,<br> так и подробный анализ каждой страницы.<br><br>3. <b style="font-weight: bold;">Яндекс.Вебмастер</b>. <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwebmaster.yandex.ru%2Fsites%2F&amp;sign=e5407d6f1fc7c86b4f119b993a449230&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Проводит диагностику сайта</a> на технические ошибки, сообщает поисковым роботам о новых страницах, показывает позиции сайта по отдельным поисковым запросам.<br><br> 4. <b style="font-weight: bold;">Google Search Console</b>. Показывает, <a href="https://www.reg.ru/r?to=https%3A%2F%2Fsearch.google.com%2Fsearch-console%2Fwelcome&amp;sign=1ee4318485e6fd8768aafa7f3b4ea145&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">как Google сканирует<br> и представляет сайт</a> в результатах поиска. Конкурент Яндекс.Вебмастера. Полностью схож с ним по возможностям аналитики.<br><br>При создании сервисов Яндекс и Google опирались на алгоритмы работы своих поисковых систем, поэтому показатели в этих инструментах могут отличаться друг от друга. Рекомендуем смотреть трафик и позицию сайта в обоих сервисах.<br><b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">Как часто нужно проверять трафик?</b>Обычно трафик сайта анализируют раз в месяц. За это время новые страницы успевают проиндексироваться поисковыми роботами. Если вы часто публикуете статьи и новости, есть смысл проверять посещаемость отдельных страниц раз в две недели, чтобы понять, стала ли та или иная тема популярной.<br><br><img align="left" src="https://img.reg.ru/news/28032022_popularnyi_sayte_2.jpg" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: auto; max-width: 100%; float: left; clear: both; display: block; padding-bottom: 15px;" alt="Чек-лист здорового сайта"><br><br><b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">Как улучшить позиции сайта в выдаче: 10 советов</b>1. <b style="font-weight: bold;">Публикуйте материалы регулярно</b>. Если на сайте постоянно появляется контент, поисковые системы отмечают ресурс для себя как «активный» и чаще рекомендуют пользователям.<br><br>2. <b style="font-weight: bold;">Добавляйте ключевые слова в ваши статьи и новости</b>. Чем точнее подобрано ключевое слово, тем выше шанс попасть в топ поисковой выдачи. Запросы можно анализировать через <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwordstat.yandex.ru%2F&amp;sign=4d5201b397448aa221793e2beb5cb387&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Яндекс Wordstat</a> или <a href="https://www.reg.ru/r?to=https%3A%2F%2Ftrends.google.com%2Ftrends%2F&amp;sign=a70bf0168048e9e0f821c7fe8ce94c72&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Google Trends</a>.<br><br> 3. <b style="font-weight: bold;">Заполняйте атрибуты alt, title и description.</b> Они подсказывают поисковым системам, какой теме посвящён контент на сайте. <a href="https://help.reg.ru/hc/ru/articles/4408054720657?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571#8" style="color: #0f7ebd;">Title и description</a> используются Google для сниппетов. <a href="https://help.reg.ru/hc/ru/articles/4408054720657?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571#3" style="color: #0f7ebd;">Alt нужен</a>, когда картинка не отображается по техническим причинам.<br><br> 4. <b style="font-weight: bold;">Делайте перелинковку</b>. Это рекомендация ваших материалов<br> на внутренних и внешних ресурсах. Обратите внимание, что внешние ссылки должны быть на «хороших» сайтах и органично встраиваться в контент — иначе ваш сайт может, наоборот, потерять позиции.<br><br>5. <b style="font-weight: bold;">Добавляйте микроразметку</b>. Она внедряется на уровне HTML<br> в каждую статью, новость, видео. Нужна для дополнительных настроек отображения контента в поисковой выдаче. Например, популярная микроразметка Schema.org позволяет получать расширенные сниппеты в Яндексе и Google.<br><br> 6. <b style="font-weight: bold;">Увеличивайте скорость загрузки страницы</b>. Поисковики отдают предпочтение страницам с быстрой загрузкой. Для ускорения загрузки нужно оптимизировать картинки, скрипты и стили. Также важна скорость работы самого <a href="https://www.reg.ru/hosting/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">хостинга</a>. Оценить скорость загрузки сайта можно через Google Page Speed Insights.<br><br>7. <b style="font-weight: bold;">Делайте редиректы с удалённых страниц</b>. Информация на сайте устаревает, и её нужно удалять. Но на других сайтах и в статьях ссылки на удалённую страницу останутся. Чтобы у пользователей не появлялась ошибка 404, нужно делать <a href="https://help.reg.ru/hc/ru/sections/4408046793105?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">редиректы</a> на похожий контент или хотя бы на главную страницу. Большое количество ошибок 404 вредит рейтингу сайта.<br><br>8. <b style="font-weight: bold;">Создайте XML-карту</b>. XML-карты предназначены только для поисковых систем. Они помогаю ПС изучать структуру вашего сайта.<br><br>9. <b style="font-weight: bold;">Создайте сайт, дружелюбный к мобильной версии</b>. У Google есть робот Googlebot, который сканирует именно мобильную версию. Ему неважно, как много пользователей сидит на вашем сайте через смартфон.<br><br>10. <b style="font-weight: bold;">Избегайте серверных проблем</b>. На сайте могут быть ошибки <a href="https://help.reg.ru/hc/ru/articles/4408047730705?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">502</a>, <a href="https://help.reg.ru/hc/ru/articles/4408054723345?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">503</a>, <a href="https://help.reg.ru/hc/ru/articles/4408046908177?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">500</a>. Если они возникают часто, поисковые системы перестают вам доверять и снижают позиции в выдаче.<br><b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">Что ещё влияет на позиции сайта<br> в выдаче?</b>— <b style="font-weight: bold;">Аптайм</b> ― время непрерывной работы хостинга. Сбои<br> и недоступность сайта могут негативно повлиять на ранжирование<br> в поисковых системах. Выход — подбор более <a href="https://www.reg.ru/hosting/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">стабильного хостинга</a>.<br> — <b style="font-weight: bold;">География хостинга</b>. Этот пункт тоже связан со скоростью загрузки сайта. Чем дальше сервер хостинга от пользователя,<br> тем дольше загружается страница. <a href="https://www.reg.ru/dedicated/datacenter?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Серверы REG.RU</a> находятся<br> в России, поэтому они подойдут для бизнеса в СНГ.<br>— <b style="font-weight: bold;">Наличие SSL-сертификата</b>. Поисковые системы поддерживают сайты <a href="https://www.reg.ru/ssl-certificate/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">с SSL-сертификатом</a> и дают им позиции выше, чем сайтам без защищённого соединения. Кроме того, сами пользователи чаще заходят на безопасные сайты.<br><b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">Монетизируйте сайт с бонусом<br> от RTBSape!</b>Когда ваш сайт привлекает много трафика, на нём можно не только продавать собственные товары и услуги, но и настраивать дополнительные способы монетизации. <a href="https://www.reg.ru/r?to=https%3A%2F%2Frtb.sape.ru%2Fcontent%2Fblog%2Fkak_sohranit_i_podnyat_svoi_dohod%2F%3Futm_source%3Dregru%26utm_medium%3Drefferal%26utm_campaign%3Dmarch&amp;sign=5106913bb33b6be6a1352d84c228e073&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #0f7ebd;">Programmatic-платформа RTBSape</a> запустила большую акцию в поддержку веб-мастеров: получите 20% бонусом к доходу с сайта за апрель. Предложение актуально и при монетизации через AdFox.<br><br>Также <b style="font-weight: bold;">30 марта в 14:00</b> по московскому времени мы совместно<br> с RTBSape проведём вебинар на тему «Доход вебмастера в кризис: как не просесть и защититься от рисков». <a href="https://www.reg.ru/r?to=https%3A%2F%2Fpruffme.com%2Flanding%2Fu1404613%2Ftmp1648044967%3Futm_source%3Demail%26utm_medium%3Devent%26utm_campaign%3Dregru&amp;sign=3a1e978dbad0b3b1e224140a6b561924&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571">Регистрируйтесь</a>, чтобы познакомиться с самыми выгодными форматами монетизации<br> и о том, что важно знать сейчас о доменах и хостинге для стабильной работы вашего проекта.<br>
+</p><!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.reg.ru/r?to=https%3A%2F%2Frtb.sape.ru%2Fcontent%2Fblog%2Fkak_sohranit_i_podnyat_svoi_dohod%2F%3Futm_source%3Dregru%26utm_medium%3Drefferal%26utm_campaign%3Dmarch%20&sign=db100507b59a32febf7bfec258c4b4fc&rtm_source=e-mail&rtm_medium=e-mail&rtm_campaign=NewsSingle_40571" style="height:60px; v-text-anchor:middle; width: 480px;" arcsize="4%" stroke="f" fillcolor="#00C084;" class="l-background-color_profit-green">
+ <w:anchorlock/><center>
+ <![endif]--> <div class="b-mail-button__wrapper b-mail-button__wrapper_mode_compact" style="margin: 12px 0 0; padding: 0;"> <a href="https://www.reg.ru/r?to=https%3A%2F%2Frtb.sape.ru%2Fcontent%2Fblog%2Fkak_sohranit_i_podnyat_svoi_dohod%2F%3Futm_source%3Dregru%26utm_medium%3Drefferal%26utm_campaign%3Dmarch%20&amp;sign=db100507b59a32febf7bfec258c4b4fc&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-button__conteiner b-mail-button__conteiner_size_big" target="_blank" style="color: #ffffff; text-align: center; text-decoration: none; display: block; font-size: 18px; font-weight: bold; font-style: normal; letter-spacing: -0.01em; line-height: 34px;"> <div class="b-mail-button__inner" style="display: inherit; border-radius: 3px; color: #ffffff; text-align: center; background-color: #00c084; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border: solid #00c084;" align="center">
+ Монетизировать сайт </div> </a>
+ </div> <!--[if mso]></center></v:roundrect><![endif]-->
+ </td>
+</tr></table>
+</td>
+</tr>
+<tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 580px;">
+ <tr class="%HIDE_ME%" style="text-align: left;" align="left">
+
+ 
+ <td class="b-mail-voting b-mail-voting__wrapper" style="background-color: #ffffff; vertical-align: top; text-align: left; padding: 12px 0 0;" align="left" bgcolor="#ffffff" valign="top">
+ 
+
+ <table class="b-mail-voting__content-wrapper" style="width: 100%; max-width: 580px; border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ 
+ 
+ <p class="b-mail-voting__title" style="text-align: center; color: #364364; font-size: 24px; line-height: 36px; font-weight: bold; letter-spacing: -0.01em; margin: 0 0 12px;" align="center">
+ 
+ 
+ Оцените это письмо
+ </p>
+ 
+ <table class="b-mail-voting__content" style="width: 100%; border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="l-align_center" style="vertical-align: top; text-align: center; padding: 0;" align="center" valign="top">
+ <a href="https://vote.reg.ru/html/TWk0eU5qWXhZakJqTlRJeUxqRmlaRFJrWkRkbUxqVm1NR1JoTW1SbU1HRmsvMy80MDU3MS9lMDVkNGIxNjBjODkxNWY0Y2UzMjRmN2I4MWE4YTQxZWFkZDFjOTY5Y2E2NDExYjk0YjE1YzIxNQ==?rate=10&amp;lang=ru&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-voting__link" target="_blank" style="text-decoration: none !important;">
+ <img class="b-mail-voting__icon-wrapper b-mail-voting__icon-left" src="https://i.reg.ru/i/mail/img/voting-emoji-like.png" height="60" width="60" style="margin: 0 12px; border: 0;">
+ </a>
+ <a href="https://vote.reg.ru/html/TWk0eU5qWXhZakJqTlRJeUxqRmlaRFJrWkRkbUxqVm1NR1JoTW1SbU1HRmsvMy80MDU3MS9lMDVkNGIxNjBjODkxNWY0Y2UzMjRmN2I4MWE4YTQxZWFkZDFjOTY5Y2E2NDExYjk0YjE1YzIxNQ==?rate=1&amp;lang=ru&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-voting__link" target="_blank" style="text-decoration: none !important;">
+ <img class="b-mail-voting__icon-wrapper b-mail-voting__icon-right" src="https://i.reg.ru/i/mail/img/voting-emoji-dislike.png" height="60" width="60" style="margin: 0 12px; border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+
+ </table>
+ </td>
+</tr> 
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table align="center" cellspacing="0" cellpadding="0" border="0" class="b-mail-promo" style="width: 100%; max-width: 580px; background-color: #ffffff; margin-top: 36px; border-spacing: 0; border-collapse: collapse; color: #364364;" bgcolor="#ffffff">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-promo__ssl-wrapper" style="text-align: left; background-color: #ffffff; vertical-align: top; padding: 60px 0 0;" align="left" bgcolor="#ffffff" valign="top">
+ <table class="b-mail-grid b-mail-grid_valign_middle" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row b-mail-promo__content-wrapper_type_free-ssl" style="box-sizing: border-box; text-align: left; vertical-align: top; font-size: 0; padding: 0; border: 6px solid #f2f4f9;" align="left" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="102" valign="top" align="left">
+ <![endif]-->
+ <a href="https://www.reg.ru/company/promotions/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-promo__link-wrapper" target="_blank" style="display: inline-block; width: 100%; min-width: 170px; text-decoration: none; padding: 20px 0 20px 28px;">
+ <div class="b-mail-promo__img-wrapper" style="display: inline-block; box-sizing: content-box; width: 100%; max-width: 72px; height: 72px; vertical-align: middle; text-align: right; margin: 0; padding: 0 24px 0 0;" align="right">
+ <img src="https://i.reg.ru/i/mail/img/product-icons/free_ssl.png" alt="" width="72" height="72" style="border: 0;">
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="350" valign="middle" align="right" style="border: 6px solid #fafafa; padding-top: 20px; padding-bottom: 20px; padding-left: 20px;">
+ <![endif]-->
+ <div class="b-mail-promo__cell-wrapper" style="display: inline-block; width: 345px; max-width: 345px; vertical-align: middle; text-align: left; margin: 0; padding: 0;" align="left">
+ <p class="b-mail-promo__title" style="color: #364364; font-size: 24px; line-height: 36px; font-weight: bold; letter-spacing: -0.01em; margin: 12px 0 6px; padding: 0;">
+ Бесплатно SSL-cертификат<br> к&nbsp;домену или&nbsp;хостингу! </p>
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr><tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table align="center" cellspacing="0" cellpadding="0" border="0" class="b-mail-promo" style="width: 100%; max-width: 580px; background-color: #ffffff; margin-top: 36px; border-spacing: 0; border-collapse: collapse; color: #364364;" bgcolor="#ffffff">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-promo__blog-wrapper" style="background-color: #ffffff; vertical-align: top; text-align: left; margin: auto; padding: 60px 0 0;" align="left" bgcolor="#ffffff" valign="top">
+ <table class="b-mail-grid b-mail-grid_valign_middle" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row b-mail-promo__content-wrapper b-mail-promo__content-wrapper_type_blog" style="background-color: #f2f4f9; vertical-align: top; text-align: left; font-size: 0; padding: 0;" align="left" bgcolor="#f2f4f9" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="360" align="left" valign="middle" style=" padding-top: 15px; padding-right: 30px; padding-bottom: 30px; padding-left: 30px;">
+ <![endif]-->
+ 
+ <a href="https://www.reg.ru/blog/luchshie-servisy-dlya-podbora-klyuchevyh-slov/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-promo__link-wrapper" target="_blank" style="display: inline-block; width: 100%; min-width: 170px; text-decoration: none; padding: 20px 0 20px 28px;">
+ 
+ <div class="b-mail-promo__blog-text-wrapper" style="display: inline-block; max-width: 340px; vertical-align: middle; background-color: #f2f4f9; margin: 0; padding: 6px 28px 8px 12px;">
+ <p class="b-mail-promo__blog-title" style="max-width: 394px; color: #b7c0cf; text-align: left; font-size: 15px; line-height: 24px; font-weight: normal; letter-spacing: normal; margin: 0 0 6px;" align="left">
+ Читайте в&nbsp;блоге REG.RU </p>
+ <p class="b-mail-promo__blog-text" style="min-width: 345px; color: #364364; font-size: 18px; line-height: 27px; font-weight: bold; letter-spacing: normal;">
+ Лучшие сервисы для подбора ключевых слов
+ </p>
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="36" align="right" valign="middle" style="padding-right:30px;">
+ <![endif]-->
+ <div class="b-mail-promo__blog-arrow" style="display: inline-block; width: 80px; float: right; vertical-align: middle; margin: auto 0; padding: 30px 25px 0 5px;">
+ <img src="https://img.reg.ru/mail/b-mail-promo/b-mail-promo_icon_arrow.png" width="36" height="36" alt="Подробнее" style="border: 0;">
+ </div>
+ </a>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail b-mail-socialnets" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; background-color: #ffffff; max-width: 580px; margin: 24px auto;" bgcolor="#ffffff">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__wrapper" style="vertical-align: top; text-align: center; padding: 0;" align="center" valign="top">
+ <div class="b-mail-socialnets__links-wrapper" style="margin: 0; padding: 0;">
+ <a href="https://www.reg.ru/company/promotions/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Акции</a>
+ <a href="https://www.reg.ru/company/news/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Новости</a>
+ <a href="https://www.reg.ru/blog/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Блог</a>
+ 
+ <a href="https://www.reg.ru/support/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Помощь</a>
+ 
+ </div>
+ <table align="center" class="b-mail-grid b-mail-grid_align_center" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: auto !important; margin: 0 auto;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="378px" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
+ <![endif]-->
+ <div class="b-mail-grid__column" style="width: auto; max-width: 216px; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fvk.com%2Fregru&amp;sign=5fa3b632282193d391dbbaa651421417&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" title="vk" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_vk.png" alt="vk" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Ft.me%2Fregru&amp;sign=458a469ca8aa377fd5314605fd339248&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" title="telegram" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_telegram.png" alt="telegram" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=http%3A%2F%2Ftwitter.com%2Fregru&amp;sign=a1f73401b228af61409e393b64ec29f1&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" title="twitter" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_twitter.png" alt="twitter" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td><td valign="top"><![endif]-->
+ <div class="b-mail-grid__column" style="width: auto; max-width: 216px; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fregruvideo&amp;sign=ee2aa0f43cefbac10ac2b043240c0917&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" title="youtube" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_youtube.png" alt="youtube" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fok.ru%2Fregru&amp;sign=38f3de0759ef6b3daaf2695fc3618256&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" title="ok" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_ok.png" alt="ok" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ 
+ <div class="m-unsubscribe m-unsubscribe_type_news" style="width: 100%; max-width: 580px; text-align: center; color: #667695; font-size: 15px; line-height: 24px; font-weight: normal; letter-spacing: normal; margin: 0 0 24px; padding: 0;" align="center">
+ <a class="b-link l-color_link-blue" href="https://www.reg.ru/user/account/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571#/settings/notifications/" style="display: block; margin: 0 0 12px; color: #667695" target="_blank">Настройки рассылок</a><a class="b-link l-color_link-blue" href="https://www.reg.ru/newsletters/newsletter-unsubscribe/NmMcza4ZyzUwNjc5ODQyMS0uUmltQHR2ZXJyZWcucnU6MQ?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40571" style="color: #667695" target="_blank">Отписаться от&nbsp;рассылки</a>
+ </div>
+ </td>
+</tr>
+ 
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </table>
+ </center>
+ </body>
+</html>
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

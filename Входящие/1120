@@ -1,0 +1,218 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 22 Nov 2021 21:52:30 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 22 Nov
+ 2021 21:52:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Mon, 22 Nov 2021 21:52:30 +0300
+From: =?windows-1251?B?weXr5e3q7iDA6+Xq8eDt5PAg3vD85eLo9w==?=
+	<belenko@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDt5SDv8OXk7vHy4OLr5e3o6CDs7uvu5PvsIPHl7Pz/7CDx7vbi++/r?=
+ =?windows-1251?B?4PIg7eAg7/Do7uHw5fLl7ejlIObo6/z/IOIg4y4gyujs8Ps=?=
+Thread-Topic: =?windows-1251?B?ziDt5SDv8OXk7vHy4OLr5e3o6CDs7uvu5PvsIPHl7Pz/7CDx7vbi++/r?=
+ =?windows-1251?B?4PIg7eAg7/Do7uHw5fLl7ejlIObo6/z/IOIg4y4gyujs8Ps=?=
+Thread-Index: Adff0Yguuk2heHZrR8ih9kaOwcCzwA==
+Date: Mon, 22 Nov 2021 21:52:29 +0300
+Message-ID: <74f65630dbb44481a0b701acdbead55d@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <74f65630dbb44481a0b701acdbead55d@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: ed98a14a-28ca-44f6-8a74-08d9ade93c53
+Return-Path: belenko@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3940898
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER40FB3C4A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"Стандартный HTML Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:99;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:99;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:99;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:99;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.HTML
+	{mso-style-name:"Стандартный HTML Знак";
+	mso-style-priority:99;
+	mso-style-link:"Стандартный HTML";
+	font-family:"Courier New";
+	mso-fareast-language:RU;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1542746046;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1492623036 1669608330 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:53.4pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:89.4pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:125.4pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:161.4pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:197.4pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:233.4pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:269.4pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:305.4pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:341.4pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span lang=EN-US style='font-size:16.0pt;font-family:"Times New Roman","serif"'> </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>          Во исполнение Вашего поручения направляю информацию о причинах не предоставления 3-м молодым семьям социальных выплат на приобретение (строительство) жилья в г. Кимры:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>1. <i>Семья Балог О.А.</i> (состав 5 человек).<o:p></o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>19.07.2019 согласно договору купли-продажи земельного участка и жилого дома с использованием кредитных средств ПАО «Сбербанк» в размере 5&nbsp;556&nbsp;626,20 руб. приобрела жилой дом по адресу: Тверская область, г. Кимры, пер. Гоголя, д. 14 общей площадью 71,1 кв.м (государственная регистрация прав собственности – 24.07.2019).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>21.08.2019 от Балог О.А. в администрацию г. Кимры поступило заявление о признании в качестве нуждающейся в жилом помещении как молодая семья (документы получены сотрудником администрации Барановой Т.М.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>11.09.2019 постановлением администрации г. Кимры № 540-па «О признании молодых семей нуждающимися» молодая семья Балог О.А. признана нуждающейся в жилом помещении с указанием о приобретении семьей жилого помещения с использованием кредитных средств 19.07.2019 (постановление подписано и.о. Главы г. Кимры Брагиной С.В., проект подготовлен Барановой Т.М. – начальником отдела по учету и распределению жилой площади администрации г. Кимры (с июня 2021 года находилась в отпуске с последующим выходом на больничный, <br>по состоянию на 22.11.2021 находится на больничном), согласован: заместителем Главы администрации г. Кимры  Ольгиным Ю.В.,  начальником юридического отдела Гогян М.В. (в настоящее время указанные лица уволены и не являются сотрудниками Администрации г. Кимры).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Таким образом, на момент принятия решения о признании семьи нуждающейся в жилом помещении (11.09.2019) семья Балог О.А.  не соответствовала требованиям пункта 7 Правил предоставления выплаты, утвержденным постановлением Правительства РФ от 17.12.2010 № 1050 (в собственности имелся жилой дом общей площадью 71,1 кв.м, приобретенный 19.07.2019 с использованием кредитных средств, что, учитывая состав семьи (5 человек) и учетную норму обеспеченности граждан общей площадью жилого помещения в г. Кимры (12 метров на одного человека), превышает минимальный норматив обеспеченности жилым помещением). <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>02.10.2019 в администрацию г. Кимры поступило заявление от Балог А.И. о включении молодой семьи в состав участников соответствующих федеральной и региональной подпрограмм <br>по обеспечению жильем молодых семей.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Кроме того, в нарушение региональных правил администрацией г. Кимры не принято решение о признании или непризнании молодой семьи, имеющей достаточные доходы для оплаты расчетной (средней) стоимости жилья в части, превышающей размер предоставляемой социальной выплаты.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>04.10.2019 согласно постановлению администрации г. Кимры № 581-па семья Балог О.А. признана участницей подпрограмм (постановление подписано и.о. Главы г. Кимры Брагиной С.В., проект подготовлен Соколовой Е.А. – заместителем начальника отдела по молодежной политике и культуре, согласован: заместителем Главы администрации г. Кимры Петрухно Е.Г., начальником юридического отдела Гогян М.В., управляющим делами администрации г. Кимры Щегловым Р.Н. (в настоящее время указанные лица уволены и не являются сотрудниками администрации г. Кимры).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><i><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Справочно:<o:p></o:p></span></i></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><i><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Норма, позволяющая при определении для молодой семьи уровня обеспеченности общей площадью жилого помещения не учитывать жилое помещение, приобретенное (построенное) за счет средств жилищного кредита, обязательства по которому полностью не исполнены, вступила в силу с 01.08.2020.</span></i><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>26.03.2021 администрацией г. Кимры в лице Главы г. Кимры Балковой И.М.  семье Балог О.А. выдано свидетельство о праве на получение социальной выплаты ( в ходе проведенной ОМСУ проверки документов оснований для отказа в выдаче свидетельства не выявлено). <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Указанная проверка документов осуществлялась и.о. начальника отдела по молодежной политике и культуре администрации г. Кимры Бубновой И.В. (в настоящее время является заместителем начальника отдела), начальником юридического отдела Гогян М.В. (в настоящее время уволена и не является сотрудником администрации г. Кимры). <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>02.04.2021 Балог А.И. в ПАО «Сбербанк» открыт счет для перечисления социальной выплаты в сумме 1&nbsp;125&nbsp;243,0 руб., что составляет 20,3 % от полной стоимости кредита на покупку недвижимости.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>22.05.2021 в адрес администрации г. Кимры из банка поступила заявка на перечисление средств социальной выплаты.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Согласно пояснениям, представленным администрацией г. Кимры, в рамках проведения специалистами администрации г. Кимры (и.о. начальника отдела по молодежной политике <br>и культуре Бубновой И.В., главным специалистом вышеуказанного отдела Учуваткиной Ю.Г. (в настоящее время является начальником отдела), начальником юридического отдела Соколовой В.В.) инициативной проверки документов семьи Балог О.А. с целью перечисления средств социальной выплаты были выявлены сведения не позволяющие осуществить выплату, а именно: наличие жилого помещения, приобретенного за счет кредитных средств до написания заявления и признания молодой семьи, нуждающейся в жилом помещении.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>17.06.2021 администрацией г. Кимры принято постановление № 407-па об отказе в социальной выплате Балог А.И. на приобретение (строительство) жилья молодой семье – участнице 2021 года (постановление подписано Главой г. Кимры Балковой И.М., проект подготовлен: и.о. начальника отдела по молодежной политике и культуре администрации г. Кимры Бубновой И.В., согласован должностными лицами администрации г. Кимры, занимающими в настоящее время аналогичные должности: заместителем Главы администрации – начальником управления финансов Гавриловой Г.В., начальником Централизованной бухгалтерии Черновой Т.А., начальником юридического отдела Соколовой В.В., управляющим делами Прохоровым Е.В.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>При этом принятие решений об отказе в социальной выплате, исключении из сводного списка молодых семей – участников подпрограмм на данном этапе не предусмотрено Правилами (Региональными правилами, Административным регламентом).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>23.06.2021 администрацией г. Кимры принято постановление № 428-па о признании утратившим силу постановления от 04.10.2019 № 581-па (согласно которому семья Балог О.А. признана участницей подпрограмм по обеспечению жильем молодых семей) и об исключении из сводного списка молодых семей – участников подпрограмм семьи Балог А.И. (постановление подписано Главой г. Кимры Балковой И.М., проект согласован начальником юридического отдела Соколовой В.В.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>10.09.2021 постановлением администрации г. Кимры № 615-па семья Балог О.А. также исключена из сводного списка молодых семей, нуждающихся в жилых помещениях (постановление подписано Главой г. Кимры Балковой И.М., проект подготовлен заместителем начальника отдела по учету и распределению жилой площади Соколовой И.В., согласован: заместителями Главы администрации Пениным Е.В., Гончаровым А.В., начальником юридического отдела Соколовой В.В.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>В настоящее время на рассмотрении Кимрского городского суда находится иск Кимрского межрайонного прокурора о признании незаконными постановлений администрации г. Кимры: об отказе в социальной выплате семье Балог А.И., об исключении ее из сводных списков молодых семей – участников подпрограмм по обеспечению жильем, молодых семей, нуждающихся в жилых помещениях, а также о выплате во внеочередном порядке социальной выплаты.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>2. Семья Матвеева А.А. (в составе 4 человек)</span></b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>12.01.2019 согласно договору купли-продажи квартиры с использованием кредитных средств ПАО «Сбербанк» в размере 2&nbsp;503&nbsp;000,0 руб. приобрела квартиру по адресу: Тверская область, г. Кимры, ул. Черниговский пер., д. 2, кв. 16 общей площадью 75,8 кв.м (государственная регистрация прав собственности – 16.01.2019).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>18.11.2019 от Матвеева А.А. в администрацию г. Кимры поступило заявление о признании в качестве нуждающегося в жилом помещении как молодая семья (документы получены сотрудником администрации Барановой Т.М.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>09.12.2019 постановлением администрации г. Кимры № 745-па «О признании молодых семей нуждающимися» молодая семья Матвеева А.А. признана нуждающейся в жилом помещении с указанием о приобретении семьей жилого помещения с использованием кредитных средств 12.01.2019 (постановление подписано заместителем Главы администрации г. Кимры Петрухно Е.Г., проект подготовлен Барановой Т.М. – начальником отдела по учету и распределению жилой площади (с июня 2021 года находилась в отпуске с последующим выходом на больничный, по состоянию на 17.11.2021 находится на больничном), согласован: заместителем Главы администрации г. Кимры  Ольгиным Ю.В.,  начальником юридического отдела Гогян М.В., управляющем делами Щегловым Р.Н. (в настоящее время указанные лица уволены и не являются сотрудниками Администрации г. Кимры).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Таким образом, на момент принятия решения о признании семьи нуждающейся в жилом помещении (09.12.2019) семья Матвеева А.А.  не соответствовала требованиям пункта 7 Правил предоставления выплаты, утвержденным постановлением Правительства РФ от 17.12.2010 № 1050 (в собственности имелась квартира общей площадью 75,8 кв.м, приобретенная 12.01.2019 с использованием кредитных средств, что, учитывая состав семьи (4 человека) и учетную норму обеспеченности граждан общей площадью жилого помещения в г. Кимры (12 метров на одного человека), превышает минимальный норматив обеспеченности жилым помещением).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>14.01.2020 в администрацию г. Кимры поступило заявление от Матвеева А.А. о включении молодой семьи в состав участников соответствующих федеральной и региональной подпрограмм <br>по обеспечению жильем молодых семей с прилагаемыми документами.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Кроме того, в нарушение региональных правил администрацией г. Кимры не принято решение о признании или непризнании молодой семьи, имеющей достаточные доходы для оплаты расчетной (средней) стоимости жилья в части, превышающей размер предоставляемой социальной выплаты.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>20.01.2020 постановлением администрации г. Кимры № 23-па семья Матвеева А.А. в составе 4-х человек признана участницей вышеуказанных подпрограмм (постановление подписано заместителем Главы администрации г. Кимры Петрухно Е.Г., проект подготовлен Соколовой Е.А. – и.о. начальника отдела по молодежной политике и культуре, согласован: начальником юридического отдела Гогян М.В.,  управляющим делами администрации г. Кимры Щегловым Р.Н. (в настоящее время указанные лица уволены и не являются сотрудниками администрации г. Кимры). <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><i><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Справочно:<o:p></o:p></span></i></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><i><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Норма, позволяющая при определении для молодой семьи уровня обеспеченности общей площадью жилого помещения не учитывать жилое помещение, приобретенное (построенное) за счет средств жилищного кредита, обязательства по которому полностью не исполнены, вступила в силу с 01.08.2020.</span></i><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Факт несоответствия семьи Матвеева А.А. требованиям нуждаемости в жилом помещении выявлен начальником отдела по молодежной политике и культуре Учуваткиной Ю.Г. при проведении мониторинга данных учетных дел молодых семей после инцидента с семьей Балог О.А.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>По состоянию на 17.11.2021 семья Матвеевых является участницей программы «Молодежь Верхневолжья», вопрос о ее исключении отложен до принятия решения по семье Балог О.А. в судебном порядке.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Свидетельство о праве на получение социальной выплаты семье Матвеевых не выдано, банковский счет для перечисления социальной выплаты не открыт.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Размер потенциальной выплаты по состоянию на 22.11.2021 семье Матвеевых составляет 900&nbsp;194,4 руб.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Одновременно следует отметить, что Матвееву А.А. 02.10.2022 исполнится 36 лет, с момента достижения которых он утратит право на получение социальной выплаты (согласно списку молодых семей-участников региональной подпрограммы г. Кимры семья Матвеевых занимает позицию № 19).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Учитывая объем средств, планируемый в бюджете г. Кимры на реализацию указанной подпрограммы в 2022 году (максимально для 3-х семей), семья Матвеевых потенциально будет исключена из списка молодых семей-участников региональной подпрограммы в связи с превышением максимального возраста одного из членов семьи – участницы подпрограмм.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>3. Семья Строгоновой И.И. (в составе 3 человек).<o:p></o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>25.03.2013 в администрацию г. Кимры направлено заявление о признании в качестве нуждающейся в жилом помещении как молодая семья (документы получены сотрудником администрации Барановой Т.М.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>24.04.2013 постановлением администрации г. Кимры № 318-па «О признании молодых семей нуждающимися в жилых помещениях» молодая семья Строгоновой И.И. признана нуждающейся в жилом помещении (не имеет жилого помещения) (постановление подписано Главой г. Кимры Литвиновым М.Ю.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>30.09.2013 в администрацию г. Кимры поступило заявление от Строгоновой И.И. о включении молодой семьи в состав участников соответствующих федеральной и региональной подпрограмм по обеспечению жильем молодых семей.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>03.10.2013 постановлением администрации г. Кимры № 868-па семья Строгоновой И.И. в составе 3-х человек признана молодой семьей, имеющей достаточные доходы, либо иные денежные средства для оплаты расчетной (средней) стоимости жилья в части, превышающей размер предоставляемой социальной выплаты (постановление подписано и.о. Главы г. Кимры Брагиной С.В.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>08.10.2013 постановлением администрации г. Кимры № 889-па семья Строгоновой И.И. в составе 3-х человек признана участницей федеральной и региональной подпрограмм по обеспечению жильем молодых семей (постановление подписано и.о. Главы г. Кимры Брагиной С.В.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>В период с 08.10.2013 по 08.10.2021 семья Строгоновой И.И. являлась участницей указанных подпрограмм.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>При актуализации списков участников-подпрограмм (предусмотрено Региональными правилами) установлен факт заключения 16.04.2021 Строгоновой И.И. брака с Михайловым А.В., возраст которого – 42 года, что в соответствии с Региональными правилами является основанием для исключения семьи из списков участников-подпрограмм.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>08.10.2021 постановлением администрации г. Кимры № 672-па (постановление подписано Главой г. Кимры Балковой И.М.) семья исключена из списка молодых семей – участников региональной подпрограммы по обеспечению жильем молодых семей в связи с заключением 16.04.2021 Строгоновой И.И. брака с Михайловым А.В., возраст которого – 42 года (региональными правилами установлено ограничение – <b><i>участником программы</i></b> по обеспечению жильем молодых семей <b><i>может быть молодая семья</i></b>, <b><i>в которой возраст каждого из супругов</i></b> на день принятия ИОГВ субъекта РФ решения о включении молодой семьи – участницы мероприятия федеральной ведомственной целевой программы (региональной  программы) в список претендентов на получение социальной выплаты в планируемом году <b><i>не превышает 35 лет</i></b>.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Таким образом, вышеназванное постановление администрации г. Кимры принято правомерно.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Одновременно следует отметить, что в случае участия Строгоновой И.И. в региональной подпрограмме размер социальной выплаты на приобретение жилья по состоянию на 22.11.2021 составляет 900&nbsp;194,4 руб.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Сведения о кредитных обязательствах на приобретение (строительство) жилого помещения в учетном деле Строгоновой И.И. отсутствуют. <o:p></o:p></span></p><pre style='text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></pre><p class=MsoNormal style='text-autospace:none'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>          Предложения по итогам анализа:<o:p></o:p></span></b></p><p class=MsoNormal align=center style='text-align:center;text-autospace:none'><span style='font-size:10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>1.  При принятии решения о признании семьи нуждающейся в жилом помещении учитывается, в том числе, уровень обеспеченности общей площадью жилого помещения, рассчитываемый на основе учетной нормы площади жилого помещения, утверждаемой ОМСУ.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>В муниципальных образованиях Тверской области утверждены различные учетные нормы.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Так, например:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>- Осташковский г/о <span style='color:black;background:white'>–</span> <span style='color:black;background:white'>9 кв.м. общей площади жилого помещения на одного человека (Решение Осташковской городской Думы от 18.05.2018 № 129);<o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>- Селижаровский м/о <span style='color:black;background:white'>–</span> <span style='color:black;background:white'>9 кв.м. общей площади жилого помещения на одного человека (Постановление Администрации Селижаровского м/о от 01.04.2021 № 196);</span><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>- Удомельский г/о <span style='color:black;background:white'>–</span> <span style='color:black;background:white'>9 кв.м. общей площади жилого помещения на одного человека (Решение Удомельской городской Думы от 18.05.2017 № 204);<o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black;background:white'>- Нелидовский г/о – 10 кв. м общей площади жилого помещения на одного человека (Решение Нелидовской городской Думы от 26.08.2019 № 152-1);<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black;background:white'>- Бежецкий район – 12 кв. м общей площади жилого помещения на одного человека (Решение Собрания депутатов Бежецкого района от 23.08.2016 № 230);<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>- г. Кимры <span style='color:black;background:white'>–</span> <span style='color:black;background:white'>12 кв.м. общей площади жилого помещения на одного человека (Решение Кимрского городского Собрания от 29.09.2005 № 78);<o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black;background:white'>- г. Тверь – 14 кв. м общей площади жилого помещения на одного человека (Решение ТГД от 01.03.2006 № 74);<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black;background:white'>- Торжокский район – 15 кв. м общей площади жилого помещения на одного человека (Решение Собрания депутатов Торжокского района от 30.12.2015 № 71).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black;background:white'>С учетом вышеизложенного Комитету по делам молодежи Тверской области целесообразно проработать указанный вопрос и привести учетные нормы к единому стандарту (площади).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:10.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>2.&nbsp;Усилить информирование граждан об условиях и ограничениях по участию молодых семей в подпрограммах по обеспечению жильем (в том числе через ОМСУ, КДМ, кредитные организации).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;С уважением, Беленко А.Ю.<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

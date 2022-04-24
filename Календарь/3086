@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe65278
+DTSTAMP:20220424T204127Z
+CREATED:20190807T093833Z
+LAST-MOD:20190807T102450Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє РјРµСЂРѕРїСЂРёСЏС‚РёСЏРј РІ СЂР°РјРєР°С… Р’СЃРµСЂРѕСЃСЃРёР№СЃРєРѕРіРѕ РґРЅСЏ Р»СЊРЅСЏРЅРѕРіРѕ РїРѕР»СЏ вЂ“ 2019  (08.08.2019) (РѕС‚РІ. РќР°СѓРјРѕРІ Рђ.Р’.\, РљСѓР»РёРєРѕРІ Р”.Рђ.\, Р‘РµР»РѕСЂСѓСЃРѕРІ Р’.Рђ.) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20190807T140000Z
+DTEND;VALUE=DATE-TIME:20190807T143000Z
+LOCATION:РєР°Р±. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

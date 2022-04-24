@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x23b62c
+DTSTAMP:20220424T204126Z
+CREATED:20220209T160721Z
+LAST-MOD:20220209T160241Z
+SUMMARY:Рабочая встреча\, тема: «О концепции реконструкции (реновации) лыжной базы Гришкино и развития инфраструктуры парка Текстильщиков для занятий лыжным спортом» (отв. Новикова В.И.\, Демин А.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220209T163000Z
+DTEND;VALUE=DATE-TIME:20220209T173000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

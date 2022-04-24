@@ -1,0 +1,142 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 23 Jul 2021 18:13:59 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Fri, 23 Jul
+ 2021 18:13:55 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Fri, 23 Jul 2021 18:13:55 +0300
+From: =?windows-1251?B?wujr/Oru7OjwIMDr5erx4O3k8CDK7u3x8uDt8ujt7uLo9w==?=
+	<Vilkomir_AK@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?7eDv8ODi6//+IMLg7CAg6u7v6P4g4Ory4CDv8Ojl7OAt7+Xw5eTg9+gg?=
+ =?windows-1251?B?7u/o8egg4PD15e7r7uPo9+Xx6uj1IO3g9e7k7uosIO3g6eTl7e379SDi?=
+ =?windows-1251?B?IPXu5OUg4vvv7uvt5e3o/yAg8fLw7ujy5ev87e4t7O7t8uDm7fv1IPDg?=
+ =?windows-1251?B?4e7yIO3gIO7h+uXq8uUgq9Hv7vDy6OLt++kg9uXt8vAg7+4g4ujk4Owg?=
+ =?windows-1251?B?4/Dl4evoIOIg4+7w7uTlINLi5fDoICAgICAgICAgICAgICAgICAgICAg?=
+ =?windows-1251?B?KPAuIMLu6+PgKbsu?=
+Thread-Topic: =?windows-1251?B?7eDv8ODi6//+IMLg7CAg6u7v6P4g4Ory4CDv8Ojl7OAt7+Xw5eTg9+gg?=
+ =?windows-1251?B?7u/o8egg4PD15e7r7uPo9+Xx6uj1IO3g9e7k7uosIO3g6eTl7e379SDi?=
+ =?windows-1251?B?IPXu5OUg4vvv7uvt5e3o/yAg8fLw7ujy5ev87e4t7O7t8uDm7fv1IPDg?=
+ =?windows-1251?B?4e7yIO3gIO7h+uXq8uUgq9Hv7vDy6OLt++kg9uXt8vAg7+4g4ujk4Owg?=
+ =?windows-1251?B?4/Dl4evoIOIg4+7w7uTlINLi5fDoICAgICAgICAgICAgICAgICAgICAg?=
+ =?windows-1251?B?KPAuIMLu6+PgKbsu?=
+Thread-Index: Add/0vFt/tNCm9IkRvetzGw24ptm8w==
+Date: Fri, 23 Jul 2021 18:13:55 +0300
+Message-ID: <9c484922cdcb4d48be13722be038ea8f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <9c484922cdcb4d48be13722be038ea8f@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.198]
+X-MS-Exchange-Organization-Network-Message-Id: 45d17022-4cef-4513-3296-08d94dec7d4a
+Return-Path: Vilkomir_AK@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.1629246
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERFE59E6A0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><meta name="Generator" content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:106%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	text-align:justify;
+	text-indent:35.45pt;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	text-align:justify;
+	text-indent:35.45pt;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	text-align:justify;
+	text-indent:35.45pt;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	text-align:justify;
+	text-indent:35.45pt;
+	font-size:14.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="#0563C1" vlink="#954F72" style="word-wrap:break-word"><div class="WordSection1"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:16.0pt;line-height:106%;font-family:&quot;Times New Roman&quot;,serif">Уважаемый Игорь Михайлович! <o:p></o:p></span></b></p><p class="MsoListParagraph" style="margin-left:0cm;mso-add-space:auto"><span style="font-size:16.0pt">Во исполнение Вашего поручения данного по итогам рабочей встречи по теме «О реновации стадиона «Центральный» и ходе программы по реализации установки плоскостных сооружений на территории Тверской области» от 21 июля 2021 направляю Вам <span style="color:black;background:white">&nbsp;копию акта приема-передачи описи археологических находок, найденных в ходе выполнения&nbsp; строительно-монтажных работ на объекте </span>«Спортивный центр по видам гребли в городе Твери&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (р. Волга)».<i><span style="color:red;background:white"><o:p></o:p></span></i></span></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

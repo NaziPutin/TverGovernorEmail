@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2af8e8
+DTSTAMP:20220424T204126Z
+CREATED:20220113T060519Z
+LAST-MOD:20220112T134628Z
+SUMMARY:Рабочая встреча с участием депутатов Государственной Думы ФС РФ и сенаторов РФ по обсуждению проекта федерального закона «Об общих принципах организации местного самоуправления в единой системе публичной власти» (отв. Белорусов В.А.\, СМИ+пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20220113T080000Z
+DTEND;VALUE=DATE-TIME:20220113T083000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д.5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

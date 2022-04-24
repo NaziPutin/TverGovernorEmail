@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4d6ab8
+DTSTAMP:20220424T204126Z
+CREATED:20210820T081719Z
+LAST-MOD:20210819T155752Z
+SUMMARY:Торжественная церемония вручения государственных наград и наград Тверской области\, паспортов гражданам РФ\, приуроченная ко Дню Государственного флага РФ (отв. Смялковский П.Е.\, Пономарев А.А.\, Новикова В.И.\, Прохорова А.С.\, СМИ+пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20210820T090000Z
+DTEND;VALUE=DATE-TIME:20210820T094000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

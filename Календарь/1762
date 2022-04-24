@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x90ff40
+DTSTAMP:20220424T204126Z
+CREATED:20201020T191640Z
+LAST-MOD:20201020T135642Z
+SUMMARY:Совещание\, тема: «О порядке создания и использования областного резерва материальных ресурсов для ликвидации чрезвычайных ситуаций межмуниципального и регионального характера на территории Тверской области» (отв. Ажгиревич А.И.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20201020T160000Z
+DTEND;VALUE=DATE-TIME:20201020T170000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

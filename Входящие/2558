@@ -1,0 +1,51 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 15 Apr 2019 21:13:45 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 15 Apr
+ 2019 21:13:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Mon, 15 Apr 2019
+ 21:13:44 +0300
+From: =?utf-8?B?0JrQvtC80LjRgWPQsNGA0L7QstCwINCe0LvRjNCz0LAg0KHQtdGA0LPQtdC1?=
+ =?utf-8?B?0LLQvdCw?= <komissarova@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QviDQsNCy0YLQvtC80L7QsdC40LvRj9C8INGB0LrQvtGA0L7QuSDQv9C+?=
+ =?utf-8?B?0LzQvtGJ0Lg=?=
+Thread-Topic: =?utf-8?B?0J/QviDQsNCy0YLQvtC80L7QsdC40LvRj9C8INGB0LrQvtGA0L7QuSDQv9C+?=
+ =?utf-8?B?0LzQvtGJ0Lg=?=
+Thread-Index: AQHU87b2N0MSIBGyk0WWDmrY2unxdQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 15 Apr 2019 21:13:44 +0300
+Message-ID: <865794fa-61c6-428d-8251-fd718fba74a4@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <865794fa-61c6-428d-8251-fd718fba74a4@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: c7ea3b51-1657-4b3a-0df2-08d6c1ce192f
+Return-Path: komissarova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.9000781
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER454E6965
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto"><div class="gmail_quote" dir="auto">Уважаемый Игорь Михайлович, направляю справку по автомобилям СМП.<blockquote class="quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div>
+</div>
+</blockquote></div><br></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

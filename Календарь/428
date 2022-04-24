@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x33b918
+DTSTAMP:20220424T204126Z
+CREATED:20211118T121004Z
+LAST-MOD:20211118T120521Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе Тверской области «Управление имуществом и земельными ресурсами Тверской области» на 2021-2026 годы» (отв. Жарков И.С.\, Егоров И.И.\, Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211118T121500Z
+DTEND;VALUE=DATE-TIME:20211118T130000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

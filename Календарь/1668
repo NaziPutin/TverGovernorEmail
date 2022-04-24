@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8c479c
+DTSTAMP:20220424T204126Z
+CREATED:20201201T110023Z
+LAST-MOD:20201130T060551Z
+SUMMARY:Подготовка к приему граждан в Региональной общественной приемной Председателя Партии «Единая Россия» Д.А. Медведева в ТО (отв. Белорусов В.А.\, Скорый А.В.\, Исаков Ю.В.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20201201T113000Z
+DTEND;VALUE=DATE-TIME:20201201T115000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

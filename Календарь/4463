@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x130278c
+DTSTAMP:20220424T204127Z
+CREATED:20180609T164512Z
+LAST-MOD:20180609T160404Z
+SUMMARY:Праздничное мероприятие\, посвященное 75-летию со дня образования 12-й гвардейской военно-транспортной авиационной Минской дивизии (отв. Григорян А.Р.\, Пеньков Е.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180610T070000Z
+DTEND;VALUE=DATE-TIME:20180610T092000Z
+LOCATION:аэродром «Мигалово»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

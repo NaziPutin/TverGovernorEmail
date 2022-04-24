@@ -1,0 +1,91 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 12 Apr 2019 23:18:47 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 12 Apr
+ 2019 23:18:40 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 12 Apr 2019
+ 23:18:47 +0300
+From: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?6c7Gz9LNwcPJ0SDQzyDJ08vVIPTn6y0yINDPINfP2tfSwdTVIMTPzMXKINcg?=
+ =?koi8-r?B?9NfF0tPLz8ogx8XOxdLBw8nJ?=
+Thread-Topic: =?koi8-r?B?6c7Gz9LNwcPJ0SDQzyDJ08vVIPTn6y0yINDPINfP2tfSwdTVIMTPzMXKINcg?=
+ =?koi8-r?B?9NfF0tPLz8ogx8XOxdLBw8nJ?=
+Thread-Index: AdTxa7FDrgNStD3aQ7mGlPYOVm7iCw==
+Disposition-Notification-To: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Fri, 12 Apr 2019 23:18:47 +0300
+Message-ID: <529c2a3e03204491afe3bcf6616918d2@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <529c2a3e03204491afe3bcf6616918d2@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 8ae19a0e-f629-45d5-487c-08d6bf8411cc
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5530533
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>ч РТПЙЪЧПДУФЧЕ бТВЙФТБЦОПЗП УХДБ фЧЕТУЛПК ПВМБУФЙ ОБИПДЙМПУШ ДЕМП РП ЙУЛХ<span style='color:black'> рбп &laquo;фзл-2&raquo; П ЧПЪЧТБФЕ ДПМЕК Ч ХУФБЧОПН ЛБРЙФБМЕ ппп &laquo;фЧЕТУЛБС ЗЕОЕТБГЙС&raquo;<o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>тЕЫЕОЙЕН бТВЙФТБЦОПЗП УХДБ фЧЕТУЛПК ПВМБУФЙ ПФ 19.06.2018 Ч ХДПЧМЕФЧПТЕОЙЙ ЙУЛПЧЩИ ФТЕВПЧБОЙК рбп &laquo;фзл-2&raquo; ПФЛБЪБОП Ч РПМОПН ПВЯЕНЕ.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>уХДЕВОЩНЙ БЛФБНЙ БРЕММСГЙПООПК Й ЛБУУБГЙПООПК ЙОУФБОГЙК ТЕЫЕОЙЕ бТВЙФТБЦОПЗП УХДБ фЧЕТУЛПК ПВМБУФЙ ПУФБЧМЕОП Ч УЙМЕ, Б ЦБМПВЩ рбп &laquo;фзл-2&raquo; - ВЕЪ ХДПЧМЕФЧПТЕОЙС.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>26.03.2019 рбп &laquo;фзл-2&raquo; ОБРТБЧЙМ Ч чЕТИПЧОЩК уХД тж ЛБУУБГЙПООХА ЦБМПВХ ОБ ХЛБЪБООЩЕ ЧЩЫЕ УХДЕВОЩЕ БЛФЩ Й ИПДБФБКУФЧП П ЧПУУФБОПЧМЕОЙЙ РТПРХЭЕООПЗП РТПГЕУУХБМШОПЗП УТПЛБ.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>пРТЕДЕМЕОЙЕН УХДШЙ чЕТИПЧОПЗП уХДБ тж ъПМПФПЧПК е.о. ПФ 29.03.2019 ИПДБФБКУФЧП рбп &laquo;фзл-2&raquo; ХДПЧМЕФЧПТЕОП, РТПРХЭЕООЩК УТПЛ ОБ РПДБЮХ ЛБУУБГЙПООПК ЦБМПВЩ ЧПУУФБОПЧМЕО.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>уТПЛ ТБУУНПФТЕОЙС ЛБУУБГЙПООПК ЦБМПВЩ ЙУФЕЛБЕФ <b>27 НБС 2019 ЗПДБ.</b> <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>дП ЙУФЕЮЕОЙС ХЛБЪБООПЗП УТПЛБ<b> </b>УХДШЕК чЕТИПЧОПЗП уХДБ тж ДПМЦЕО ВЩФШ ТЕЫЕО ЧПРТПУ:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>- П РЕТЕДБЮЕ ЦБМПВЩ рбп &laquo;фзл-2&raquo; ДМС ТБУУНПФТЕОЙС Ч уХДЕВОХА ЛПММЕЗЙА РП ЬЛПОПНЙЮЕУЛЙН УРПТБН чЕТИПЧОПЗП уХДБ тж <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>- МЙВП ПВ ПФЛБЪЕ Ч ФБЛПК РЕТЕДБЮЕ.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>оБЙВПМЕЕ ПРФЙНБМШОЩН ЧБТЙБОФПН љВХДЕФ ПРТЕДЕМЕОЙЕ УХДШЙ чЕТИПЧОПЗП уХДБ тж <b>ПВ ПФЛБЪЕ Ч РЕТЕДБЮЕ</b> ЛБУУБГЙПООПК ЦБМПВЩ рбп &laquo;фзл-2&raquo; ДМС ТБУУНПФТЕОЙС Ч уХДЕВОХА ЛПММЕЗЙА РП ЬЛПОПНЙЮЕУЛЙН УРПТБН чЕТИПЧОПЗП уХДБ тж. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>рП УПУФПСОЙА ОБ 12 БРТЕМС 2019 ЗПДБ ЙОЖПТНБГЙС ПВ ЙУФТЕВПЧБОЙЙ ДЕМБ ЙЪ бТВЙФТБЦОПЗП УХДБ фЧЕТУЛПК ПВМБУФЙ ПФУХФУФЧХЕФ. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>у ХЧБЦЕОЙЕН,<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>р. уНСМЛПЧУЛЙК<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

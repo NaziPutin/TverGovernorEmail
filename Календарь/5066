@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1405d70
+DTSTAMP:20220424T204127Z
+CREATED:20171121T081456Z
+LAST-MOD:20171121T083315Z
+SUMMARY:Осмотр готовности сил и средств\, привлекаемых для обеспечения содержания автодорог г.Твери в осенне-зимний период (отв. Григорян А.Р.\, Попенко В.И.\, Павлов И.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171122T060000Z
+DTEND;VALUE=DATE-TIME:20171122T070000Z
+LOCATION:Краснофлотская наб\, д.3\, площадка СК «Юбилейный» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

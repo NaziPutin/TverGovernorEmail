@@ -1,0 +1,84 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 21 Aug 2020 21:58:50 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 21 Aug
+ 2020 21:58:50 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Fri, 21 Aug 2020
+ 21:58:50 +0300
+From: =?windows-1251?B?xODt6Ovu4uAgxeLj5e3o/yDA6+Xq8eDt5PDu4u3g?=
+	<Danilova_EA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDx8vDu6PLl6/zx8uLlIO3u4u7j7iDw4Oft7vPw7uLt5eLu4+4g7+X4?=
+ =?windows-1251?B?5fXu5O3u4+4g7+Xw5fXu5OAg9+Xw5ecg5uXr5eft7uTu8O7m7fvlIO/z?=
+ =?windows-1251?B?8ugg7eAg8fLg7fbo6CDS4uXw/CDxIPP34PHy6OXsIM7AziAi0MbEIg==?=
+Thread-Topic: =?windows-1251?B?ziDx8vDu6PLl6/zx8uLlIO3u4u7j7iDw4Oft7vPw7uLt5eLu4+4g7+X4?=
+ =?windows-1251?B?5fXu5O3u4+4g7+Xw5fXu5OAg9+Xw5ecg5uXr5eft7uTu8O7m7fvlIO/z?=
+ =?windows-1251?B?8ugg7eAg8fLg7fbo6CDS4uXw/CDxIPP34PHy6OXsIM7AziAi0MbEIg==?=
+Thread-Index: AdZ355A3OOJEk0XZSYOXVzxwcC2HRw==
+Importance: high
+X-Priority: 1
+Date: Fri, 21 Aug 2020 21:58:50 +0300
+Message-ID: <fa58b02f876f4feb900017e73bbb2f71@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <fa58b02f876f4feb900017e73bbb2f71@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 0e501b35-e279-49db-99bb-08d846043df4
+Return-Path: Danilova_EA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4589111
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER172BF3AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович! <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Разрешите доложить о сложившейся ситуации с предоставлением ОАО «РЖД» очередной рассрочки исполнения решения Пролетарского районного суда города Твери от 21.04.2016 по делу № 2-320/2016 (далее – Решение суда), в соответствии с которым на ОАО «РЖД» возложена обязанность по строительству нового <span style='color:black;background:white'>разноуровневого</span> пешеходного перехода через железнодорожные пути на станции Тверь.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>07.07.2020  ОАО «<span style='color:black;background:white'>РЖД» обратилось в суд с заявлением о предоставлении новой рассрочки исполнения Решения суда на срок 20 месяцев (</span>срок <span style='color:black;background:white'>ранее предоставленной ОАО «РЖД» истек 11.07.2020). Свое заявление ОАО «РЖД» мотивировало тем, что в ПТО на рассмотрении находится соглашение о строительстве транспортно-пересадочного узла на базе железнодорожного вокзала города Твери.</span><span style='background:white'><o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:white'>Определением Пролетарского районного суда от </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>14.07.2020  ОАО «РЖД» предоставлена рассрочка исполнения Решения суда на указанный срок.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Тверской межрайонный транспортный прокурор с определением суда о предоставлении ОАО «РЖД» очередной рассрочки не согласился и направил апелляционное представление в Тверской областной суд (дата рассмотрения на текущий момент не назначена).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С учетом длительного неисполнения ОАО «РЖД» требований решения Пролетарского районного суда города Твери от 21.04.2016 по делу № 2-320/2016, а также позиции прокурора, существует высокая вероятность удовлетворения апелляционного представления и отмены <span style='color:black;background:white'>определения суда от </span>14.07.2020  о предоставлении ОАО «РЖД» рассрочки на срок 20 месяцев.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>В этой связи прошу:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- рассмотреть возможность проведения совещания по вопросу заключения <span style='color:black;background:white'>соглашения о строительстве транспортно-пересадочного узла на базе железнодорожного вокзала города Твери с участием заинтересованных сторон;</span><span style='background:white'><o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:white'>- разрешить провести консультацию с </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Тверским областным судом.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Готова доложить по данному вопросу совместно с Министром транспорта Тверской области Насибуллиным Д.И. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением, <o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>Советник Губернатора Тверской области,<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>исполняющий обязанности начальника правового управления <o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>аппарата Правительства Тверской области<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>Данилова Е.А.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>тел.: +7(985)410-97-79(моб.)</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

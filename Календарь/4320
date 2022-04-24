@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1232774
+DTSTAMP:20220424T204127Z
+CREATED:20180712T111814Z
+LAST-MOD:20180712T074616Z
+SUMMARY:Иванов Юрий Михайлович – председатель сельскохозяйственного производственного кооператива колхоз «Красный Октябрь» Сонковского района Тверской области (отв. Орлов А.В.\, Мустюков А.Е.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180713T060000Z
+DTEND;VALUE=DATE-TIME:20180713T061500Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

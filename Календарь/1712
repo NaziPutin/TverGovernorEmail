@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8efa58
+DTSTAMP:20220424T204126Z
+CREATED:20201102T110002Z
+LAST-MOD:20201102T075155Z
+SUMMARY:Рабочая встреча\, тема: "О ходе строительства объектов дошкольного образования в Тверской области" (отв. Емельянов А.А.\, Ажгиревич А.И.\, Коваленко Ю.Н.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20201102T100000Z
+DTEND;VALUE=DATE-TIME:20201102T110000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

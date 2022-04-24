@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12482d0
+DTSTAMP:20220424T204127Z
+CREATED:20180711T142136Z
+LAST-MOD:20180711T122526Z
+SUMMARY:Заседание Правительственной комиссии по региональному развитию в Российской Федерации. Проводит Мутко В.А. – заместитель Председателя Правительства РФ (Меньщиков А.В.\, Северина И.А.\, Павлова О.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180717T080000Z
+DTEND;VALUE=DATE-TIME:20180717T100000Z
+LOCATION:г.Москва\, Краснопресненская наб.\, д.2\, Дом Правительства РФ\, Овальный зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

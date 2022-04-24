@@ -1,0 +1,103 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 10 Mar 2022 21:54:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 10 Mar
+ 2022 21:54:24 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 10 Mar 2022 21:54:28 +0300
+From: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDv7iDv8Oji5eTl7ej+IOIg7e7w7ODy6OLt7uUg8e7x?=
+ =?windows-1251?B?8u7/7ejlIPP34PHy6uAg4OLy7uzu4ejr/O3u6SDk7vDu4+ggzOXk7e7l?=
+ =?windows-1251?B?IJYgyvPr6Pbq4P8gliDK6OXi7g==?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDv7iDv8Oji5eTl7ej+IOIg7e7w7ODy6OLt7uUg8e7x?=
+ =?windows-1251?B?8u7/7ejlIPP34PHy6uAg4OLy7uzu4ejr/O3u6SDk7vDu4+ggzOXk7e7l?=
+ =?windows-1251?B?IJYgyvPr6Pbq4P8gliDK6OXi7g==?=
+Thread-Index: Adg0sD0D7eap/XNvQaOrRB4lkjXryA==
+Disposition-Notification-To: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>
+Return-Receipt-To: <AzhgirevichAI@tverreg.ru>
+Date: Thu, 10 Mar 2022 21:54:28 +0300
+Message-ID: <83fd727ed8d54bca93b380e35ef5f946@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <83fd727ed8d54bca93b380e35ef5f946@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.51]
+X-MS-Exchange-Organization-Network-Message-Id: f6982592-cdc3-42ba-3537-08da02c767d2
+Return-Path: AzhgirevichAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7510358
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER23517326
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><meta name="Generator" content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="#0563C1" vlink="#954F72"><div class="WordSection1"><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">Уважаемый Игорь Михайлович! <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">Во исполнение Вашего поручения по итогам совещания с заместителями Председателя Правительства Тверской области от 9 марта 2022 года направляю Вам информацию по приведению в нормативное состояние участка автомобильной дороги Медное – Кулицкая – Киево и дальнейшему капитальному ремонту указанного участка. <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">С уважением<span style="color:#1F497D">, </span><o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">заместитель Председателя<o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">Правительства Тверской области,<br>и.о Министра строительства Тверской области <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">А.И. Ажгиревич<o:p></o:p></span></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

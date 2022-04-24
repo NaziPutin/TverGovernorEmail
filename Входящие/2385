@@ -1,0 +1,78 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 21 Aug 2019 18:01:36 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 21 Aug
+ 2019 18:01:36 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 21 Aug 2019 18:01:30 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 3651321BE3
+	for <rim@tverreg.ru>; Wed, 21 Aug 2019 18:01:32 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 94.100.187.0 is authorized to use 'alexandra1982_06@mail.ru' in 'mfrom' identity (mechanism 'ip4:94.100.176.0/20' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="alexandra1982_06@mail.ru"; helo=f108.i.mail.ru; client-ip=94.100.187.0
+Received: from f108.i.mail.ru (f108.i.mail.ru [94.100.187.0])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 3F2B821657
+	for <rim@tverreg.ru>; Wed, 21 Aug 2019 18:01:30 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=eH35N8dYTVbXkTsurRh6q4+AAqOUeNTBxtSJuT6KTAA=;
+	b=ZH45SPRNescHvsyQUaNpzboFAbvr55hDHyrWNUNN0lB/kDi1qCwgBTLWhWC0kgSP8TiZBPGdtc0szda5NmE2VYHQsrLf1cqBK8gWlbQ/RcZPbUpYE0J9ER/xWoRh4HhxV1IWQiLlipfJpTtfOPcR25pEctfb7L7QrJzbTuwvU4s=;
+Received: by f108.i.mail.ru with local (envelope-from <alexandra1982_06@mail.ru>)
+	id 1i0S77-0007xt-Nw
+	for rim@tverreg.ru; Wed, 21 Aug 2019 18:01:30 +0300
+Received: by e.mail.ru with HTTP;
+	Wed, 21 Aug 2019 18:01:29 +0300
+From: =?UTF-8?B?0JDQu9C10LrRgdCw0L3QtNGA0LAg0J/RgNC+0YXQvtGA0L7QstCw?= <alexandra1982_06@mail.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0L4g0YHQvtCz0LvQsNGB0L7QstCw0L3QuNC4INC60L7QvNCw0L3QtNC40YA=?=
+ =?UTF-8?B?0L7QstC60Lgg0LIg0JzQvtGB0LrQstGD?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Wed, 21 Aug 2019 18:01:29 +0300
+Reply-To: =?UTF-8?B?0JDQu9C10LrRgdCw0L3QtNGA0LAg0J/RgNC+0YXQvtGA0L7QstCw?= <alexandra1982_06@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1566399689.512767302@f108.i.mail.ru>
+Authentication-Results: f108.i.mail.ru; auth=pass smtp.auth=alexandra1982_06@mail.ru smtp.mailfrom=alexandra1982_06@mail.ru
+X-77F55803: 6672BE8CEBEC45887F9F52485CB584D7EA5C12FFEB6BB26213AB5CAE9893F59B54E205AC446383E1B2570063FEB2B905DDDE7B70B5F5C79F
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE72A4E29ABED16B700D82A6BABE6F325ACA01ED31736435A1FBFD28B28ED4578739E625A9149C048EE376C1FCD0563F95E36C75B72B9FDC350B287FD4696A6DC2FA8DF7F3B2552694A4E2F5AFA99E116B42401471946AA11AFEE3A9D0FB4FE0F99E50C24D7D7C3118A8F08D7030A58E5AD6BA297DBC24807EAA9D420A4CFB5DD3E94DF0B48BAB52BCFE02CB78A0CE08FF0A45029630CCC3C608941B15DA834481FA18204E546F3947CEDCF5861DED71B2F389733CBF5DBD5E9C8A9BA7A39EFB7666BA297DBC24807EA117882F44604297287769387670735209ECD01F8117BC8BEA471835C12D1D977C4224003CC836476C0CAF46E325F83A522CA9DD8327EE4930A3850AC1BE2E7350A96522D03199FF1D54B6E84D887417A731C566533BA786A40A5AABA2AD371193C9F3DD0FB1AF5EBDFC194086D65061027F269C8F02392CD5571747095F342E88FB05168BE4CE3AF
+X-Mailru-MI: 800
+X-Mailru-Sender: 641179478317D3F0B5601562A1FB1D2B502EF2AD71739C9148845ACC6F143E5BEC814BAA875A201BF7860371CEE447D1D77643983A3E910C074387772E1095571560CF2F724BEF2E2AA3CDD27765A566965F795713B4F5A23A5DB60FBEB33A8A0DA7A0AF5A3A8387
+X-Mras: OK
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.285 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (alexandra1982_06[at]mail.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (alexandra1982_06[at]mail.ru)
+	FREEMAIL_REPLYTO_END_DIGIT   0.25 Reply-To freemail username ends in digit (alexandra1982_06[at]mail.ru)
+	FROM_EXCESS_BASE64      0.001 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: alexandra1982_06@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: c3b5dad2-5b31-41bb-58f6-08d726487331
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.1595694
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';" data-mce-style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';">Добрый день, Игорь Михайлович!</span></p><p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';" data-mce-style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';">Прошу Вас согласовать<span style="mso-spacerun: yes;" data-mce-style="mso-spacerun: yes;">&nbsp; </span>командировку в Москву на 1 день 22.08.2019 по Вашему поручению на Поклонную гору совместно с Белоцерковским А.В. и Выскубовой Н.А. </span></p><p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';" data-mce-style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';">Также планирую принять участие в совещании с исполнительным директором Общероссийской общественно-государственной организации «Российское военно-историческое общество» Барковым А.В. по благоустройству территории, прилегающей к строящемуся объекту федерального значения «Ржевский мемориал Советскому солдату в Тверской области».</span></p><p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';" data-mce-style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';">Планирую возвращение на рабочее место 22.08.2019 в 19:00.</span></p><p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';" data-mce-style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';">Командировочное разрешение в данный момент находится у Вас на подписи, скан прилагаю.</span></p><p class="MsoNormal"><span style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';" data-mce-style="font-size: 14.0pt; line-height: 115%; font-family: 'Times New Roman','serif';">С уважением, Прохорова А.С., исполняющий обязанности председателя Комитета по делам молодежи Тверской области.</span><br><br></p><br><br><br>С уважением,<br>Александра Прохорова<br>alexandra1982_06@mail.ru</body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

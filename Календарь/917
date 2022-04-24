@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x54e314
+DTSTAMP:20220424T204126Z
+CREATED:20210701T134121Z
+LAST-MOD:20210701T121300Z
+SUMMARY:Рабочая встреча\, тема: «О реконструкции объектов спортивной инфраструктуры Тверской области»  (отв. Вилькомир А.К.\, Новикова В.И.\, Демин А.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210701T150000Z
+DTEND;VALUE=DATE-TIME:20210701T160000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

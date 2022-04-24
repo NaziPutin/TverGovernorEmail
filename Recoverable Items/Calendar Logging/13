@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x15853b8
+DTSTAMP:20220424T204126Z
+CREATED:20220328T080837Z
+LAST-MOD:20220328T080837Z
+SUMMARY:Рабочая встреча\, тема: «О схеме размещения нестационарных торговых объектов\, расположенных на территории муниципальных образований Тверской области»  (отв. Ажгиревич А.И.\, Кременецкая Т.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220408T133000Z
+DTEND;VALUE=DATE-TIME:20220408T143000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

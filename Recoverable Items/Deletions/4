@@ -1,0 +1,910 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 31 Mar 2022 13:44:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Thu, 31 Mar
+ 2022 13:44:10 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 31 Mar 2022 13:44:12 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 6734A83BC1
+	for <rim@tverreg.ru>; Thu, 31 Mar 2022 13:44:11 +0300 (MSK)
+Received-SPF: pass (mail.sendsay.ru: Sender is authorized to use 'gluck-#-#-#-x_1647254640537491@mail.sendsay.ru' in 'mfrom' identity (mechanism 'include:spf.sendsay.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="gluck-#-#-#-x_1647254640537491@mail.sendsay.ru"; helo=gato172.sndsy.ru; client-ip=185.138.182.172
+Received: from gato172.sndsy.ru (gato172.sndsy.ru [185.138.182.172])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 9639483B78
+	for <rim@tverreg.ru>; Thu, 31 Mar 2022 13:44:09 +0300 (MSK)
+Received: id ECBB45A137C-1648723439
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.sendsay.ru; s=sendsay202111;
+	t=1648723439; bh=RoiyMYPlGL0e/R8GAquebaoORl3maNdhwLdmYIpAs1E=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=LEhMZ7C1nf+gUO0B488z7SdGXofKLtDb+U5IXrTLWpxPZzsKPnnDvAUCDmrjMNXrA
+	 eMYHShPfT8RF4R/cZeFjOwJC54PGjekfewL1++oDNkLMvteBtenqFfkwiCa8JUnG+G
+	 TbF5WXpbV9ul7CcDH2YmLIR7GMEFQhrV/39VZBaw=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=berator.ru; s=x-1647254640537491.56;
+	t=1648723439; bh=RoiyMYPlGL0e/R8GAquebaoORl3maNdhwLdmYIpAs1E=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=fkD2N0PvXzol/oBbeYMzyPhxy2tCUrG6RdupdOax+J5haXZumFMTSvEgNQ7C0ShOx
+	 bpSBasgTTHLrkY0sMHORFlSoGIB2rP8E/rvGCI/g8NSJ3zP4jRWza8E74iihmvc/pw
+	 F+wkRPcdFv/yXyjBLi0xytzJbYutlhkrNZoT1LvQ=
+Precedence: bulk
+List-Id: <pf38359.x_1647254640537491.sendsay>
+List-Issue: <20220331134033.pf38359.x_1647254640537491>
+List-Unsubscribe: <mailto:fbl@sendsay.ru?subject=fbl,x_1647254640537491,9,77994,48515,/20220331134033,pf38359>
+List-Subscribe: NO
+List-Archive: NO
+List-Post: NO
+X-Felis-L: 9.77994.48515.pf38359.x_1647254640537491
+X-rpcampaign: x_1647254640537491pf3835920220331134033
+Date: Thu, 31 Mar 2022 13:43:57 +0300
+Message-Id: <20220331134033.0.20220331134033_eui_@9.77994.48515.pf38359.x_1647254640537491>
+From: =?utf-8?Q?=D0=91=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80?= <mail@berator.ru>
+To: <rim@tverreg.ru>
+Subject: =?utf-8?Q?=D0=9F=D1=80=D0=B0=D0=B2=D0=B8=D0=BB=D1=8C=D0=BD=D1=8B=D0=B5=20?=
+ =?utf-8?Q?=D0=BA=D0=BE=D0=B4=D1=8B=20?=
+ =?utf-8?Q?=D0=B4=D0=BE=D1=85=D0=BE=D0=B4=D0=B0=20?=
+ =?utf-8?Q?=D0=BA=20?=
+ =?utf-8?Q?=D1=80=D0=B0=D1=81=D1=87=D0=B5=D1=82=D1=83=20?=
+ =?utf-8?Q?6-=D0=9D=D0=94=D0=A4=D0=9B?=
+X-Mailru-Msgtype: sendsay.x_1647254640537491
+Feedback-Id: x_16472546405374919:x_1647254640537491:pf38359:sendsay
+X-DrWeb-SpamScore: 90
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeigedgfeduucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenogfthfevqddquegrugetughntfgtvhguvdculdehuddmnefjrghmjfgvrgguvghrhfhivghlugcujfgvrgguvghrucfutghorhhinhhgucdlqddutddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuvghprghtohhpuceomhgrihhlsegsvghrrghtohhrrdhruheqnecuggftrfgrthhtvghrnhepvefggefftedtfeejkedvieejueevffdvgeekgeffjeethfelkeehgfehkefgueevnecuffhomhgrihhnpegsvghrrghtohhrrdhruhdpshgvnhgushgrhidrrhhupdhtrdhmvgdphigrnhguvgigrdhruhdpvhhkrdgtohhmpdhokhdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.164#31 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIMWL_WL_MED          -0.001 DKIMwl.org - Medium trust sender
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HEADER_FROM_DIFFERENT_DOMAINS  0.248 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_INFOUSMEBIZ          0.75 Prevalent use of .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life domains in spam/malware
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URI_HEX                   0.1 URI hostname has long hexadecimal sequence
+X-DrWeb-SpamScore: 90
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeigedgfeduucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenogfthfevqddquegrugetughntfgtvhguvdculdehuddmnefjrghmjfgvrgguvghrhfhivghlugcujfgvrgguvghrucfutghorhhinhhgucdlqddutddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuvghprghtohhpuceomhgrihhlsegsvghrrghtohhrrdhruheqnecuggftrfgrthhtvghrnhepvefggefftedtfeejkedvieejueevffdvgeekgeffjeethfelkeehgfehkefgueevnecuffhomhgrihhnpegsvghrrghtohhrrdhruhdpshgvnhgushgrhidrrhhupdhtrdhmvgdphigrnhguvgigrdhruhdpvhhkrdgtohhmpdhokhdrrhhunecukfhppedukeehrddufeekrddukedvrddujedv
+X-DrWeb-SpamVersion: Vade Retro 01.422.164#31 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: gluck-9-77994-48515-x_1647254640537491@mail.sendsay.ru
+X-MS-Exchange-Organization-Network-Message-Id: c7ebec1a-1467-46f2-db5f-08da130364bf
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2131012
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<!-- Define Charset -->
+	
+
+	<!-- Responsive Meta Tag -->
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+  <title>Тематическая рассылка</title><!-- Responsive Styles and Valid Styles -->
+
+
+</head>
+
+<body yahoo="fix" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f2f2f2" class="bg_color" style="background-color:#f2f2f2;">
+<tbody>
+<tr>
+<td>
+
+<table border="0" align="center" width="700" cellpadding="0" cellspacing="0" bgcolor="ffffff" class="bg_color">
+
+
+
+
+
+
+<tr>
+<td>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrapper_table" style="width: 700px; max-width: 700px; ">
+			<tbody><tr>
+				<td align="center" class="grey_bg" bgcolor="#ffffff">
+					<table cellspacing="0" cellpadding="0" border="0">
+						<tbody><tr>
+							<td class="content" style="width: 690px;">
+								<table cellspacing="0" cellpadding="0" border="0" width="100%">
+									<tbody><tr>
+										<td class="padding" style="width: 0px;">
+										</td>
+										<td class="content_row" align="center" style="width: 640px;">
+											<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" class="mobile_centered_table">
+												<tbody><tr>
+													<td height="10">
+													</td>
+												</tr>
+												<tr>
+													<td class="content_row" valign="top" align="center" style="width: 640px;">
+														<table width="590" class="mobile_centered_table" cellspacing="0" cellpadding="0" border="0">
+															<tbody><tr>
+																<td class="black_text" style="font-family: Arial, Helvetica, sans-serif; line-height: 44px; font-size: 16px; color: #1d1d1d; ; font-weight:600; text-align:left;">
+																	Практическая энциклопедия бухгалтера
+																</td>
+																<td class="black_text" style="font-family: Arial, Helvetica, sans-serif; line-height: 44px; font-size: 16px; color: #1d1d1d; ; font-weight:300; text-align:right;">
+																	<a target="_blank" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/32,=00MGstZo1aTPMjBF7CGyudA/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1Lz91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09dGVtYSZ1dG1fY2FtcGFpZ249MjAyMl8wM18zMSZ1dG1fY29udGVudD1sb2dv" data-felis_orig_uri="http://www.berator.ru/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=logo" data-felis_link_id="32" target="_blank">www.berator.ru</a>
+																</td>
+															</tr>
+
+															<tr>
+																<td height="10">
+																</td>
+															</tr>
+
+
+
+
+														</tbody></table>
+													</td>
+												</tr>
+											</tbody></table>
+										</td>
+										<td class="padding" style="width: 0px;">
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+</td>
+			</tr>
+
+
+
+
+
+
+
+
+
+
+<tr>
+
+<td>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#2b2e34" class="bg_color">
+
+		<tbody>
+		<tr>
+			<td>
+				<table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590">
+
+					<tbody>
+					<tr><td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td></tr>
+					<tr>
+						<td align="center">
+							<table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+								<tbody><tr>
+									<td align="center">
+										<table border="0" cellpadding="0" cellspacing="0" align="center">
+											<tbody>
+
+											<tr>
+
+												<!-- ======= logo ======= -->
+
+												<td align="center" style="line-height: 23px;">
+													<img mc:edit="logo" width="80" border="0" style="display: block; width: 80px;" src="http://www.berator.ru/multimedia/images/logo_white_big.png" alt="Бератор">
+												</td>
+											</tr>
+										</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+
+	        		<table border="0" align="left" width="5" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+	        			<tbody><tr><td height="20" width="5" style="font-size: 20px; line-height: 20px;">&nbsp;</td></tr>
+	        		</tbody></table>
+
+	        		<table border="0" align="right" cellpadding="0" width="480" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+								<tbody><tr><td height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td></tr>
+								<tr>
+									<td>
+										<table border="0" align="right" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+
+				        			<tbody><tr>
+				        				<td>
+				        					<table align="right" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+				        						<tbody>
+														<tr>
+															<td height="3" style="font-size: 3px; line-height: 3px;">&nbsp;</td>
+														</tr>
+														<tr>
+
+							        				<td align="right" style="color: #ffffff; font-size: 13px; font-family: Arial, Helvetica, sans-serif; line-height: 21px;">
+							        					<div class="editable_text" style=" line-height: 21px;">
+							        						Рассылка входит в&nbsp;информационное обслуживание владельцев бератора<br>Полный доступ ко&nbsp;всем материалам доступен только при <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/41,=0TztpT4qaNYF5sKGmtJCg4w/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3BlYm0vP3V0bV9zb3VyY2U9YmVyYXRvcl9wb2RrbHVjaGVuaWUmYXV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PWxpbmslMjMlMjMlMjMlMjMlMjNjb250YWN0LXNlY3Rpb24=" data-felis_orig_uri="http://www.berator.ru/pebm/?utm_source=berator_podkluchenie&amp;autm_medium=subscribe&amp;utm_campaign=2022_03_31&amp;utm_content=link#contact-section" data-felis_link_id="41" style="color: #ffffff;"> подписке на&nbsp;бератор</a>
+							        					</div>
+							        				</td>
+				        						</tr>
+				        					</tbody></table>
+				        				</td>
+				        			</tr>
+
+
+
+			        			</tbody></table>
+
+
+
+									</td>
+								</tr>
+							</tbody></table>
+						</td>
+					</tr>
+
+					<tr><td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td></tr>
+
+				</tbody></table>
+			</td>
+		</tr>
+
+	</tbody></table>
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" class="bg_color">
+
+		<tbody>
+
+
+
+
+
+		<tr>
+			<td>
+				<table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590 ">
+
+					<tbody>
+
+					<tr>
+					<td height="35" style="font-size: 35px;line-height: 35px;height:35px">&nbsp;</td>
+					</tr>
+					<tr>
+						<td valign="top" style="padding: 15px 0px 0px 0px; font-size: 14px; line-height: 21px;color:#555;font-family:Arial, Helvetica, sans-serif;" class="text_color">
+	<div class="editable_text" style="line-height: 33px">
+
+
+
+				<span class="text_container" style="color: #121214; font-size: 32px; font-family: Arial, Helvetica, sans-serif; line-height:40px;">
+
+						Правильные коды дохода к&nbsp;расчету 6-НДФЛ
+														</span>
+
+
+
+							</div>
+
+
+
+  				</td>
+							<td valign="top" style="width: 30px;"></td>
+						<td valign="top" align="right"><br>
+						<img src="http://berator.ru/images/editor_2.jpg" alt="_" width="120" style="height:120px;width:120px;border-radius: 100%;-webkit-border-radius: 100%;-moz-border-radius: 100%;">
+						<p align="right" style="text-align: center;font-size: 12px;line-height: 19px;color: #1d1d1d;font-family: Arial, Helvetica, sans-serif;">
+<em>
+<b>Ирина Морозова</b><br>
+Ведущий редактор бератора
+</em>
+</p>
+						</td>
+
+					</tr>
+
+
+
+				</tbody></table>
+
+			</td>
+		</tr>
+
+
+	</tbody></table>
+</td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>
+
+<table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590 ">
+
+					<tbody>
+
+
+
+					<tr>
+						<td align="left" style="font-size: 16px; line-height: 23px;color:#1d1d1d;font-family:Arial, Helvetica, sans-serif;" class="text_color">
+							<!-- ======= section subtitle ====== -->
+
+							<div class="editable_text">
+<span class="text_container">
+<p>Новые коды видов доходов и&nbsp;вычетов по&nbsp;НДФЛ обновляются ежегодно. Последние изменения были внесены в&nbsp;ноябре 2021&nbsp;года.</p>
+
+</span>
+							</div>
+    				</td>
+
+
+
+					</tr>
+
+
+
+
+
+				</tbody></table>
+
+
+</td>
+</tr>
+<!-- ***ПОЛОСА*** -->
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+
+
+
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+<!-- ***ПОЛОСА*** -->
+
+
+<tr bgcolor="e9f4e3">
+			<td>
+				<table border="0" align="center" width="590" cellpadding="0" cellspacing="0">
+
+					<tbody>
+<tr>
+						<td align="left" style="font-size: 12px; line-height: 21px;color:#555;font-family:Arial, Helvetica, sans-serif;" class="text_color">
+							<!-- ======= section subtitle ====== -->
+
+							<div class="editable_text" style="line-height: 21px;">
+								<span class="text_container">
+
+
+
+
+
+
+<table>
+<tbody><tr>
+<td>
+
+
+<table border="0">
+<tbody><tr>
+<td align="left" valign="top" style="padding-top: 15px; padding-right: 20px; padding-bottom: 20px;">
+<img src="http://berator.ru/images/icons/coffee-cup.png" width="100">
+</td>
+<td align="left" valign="top" style="font-size: 16px; line-height: 20px;padding-top: 30px;">
+<b style="color: #000000">С&nbsp;бератором защита вашей бухгалтерии стоит дешевле чашки кофе. Подключайте бератор сегодня выгодно!</b>
+
+</td>
+</tr>
+</tbody></table>
+
+</td>
+<td style="padding-right: 20px;">&nbsp;</td>
+<td></td>
+<td>
+<table border="0" align="left" cellpadding="0" cellspacing="0" class="half-container800">
+																	<tbody><tr>
+																		<td><a target="_blank" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/42,=0d_h7sJm23wpVBLoPCB8TEA/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3BlYm0vP3V0bV9zb3VyY2U9YmVyYXRvcl9wb2RrbHVjaGVuaWUmYXV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PWJ1dHRvbiUyMyUyMyUyMyUyMyUyM2NvbnRhY3Qtc2VjdGlvbg==" data-felis_orig_uri="http://www.berator.ru/pebm/?utm_source=berator_podkluchenie&amp;autm_medium=subscribe&amp;utm_campaign=2022_03_31&amp;utm_content=button#contact-section" data-felis_link_id="42" style="color: #ffffff; text-decoration: none;">
+
+
+
+																			<table border="0" align="center" width="140" cellpadding="0" cellspacing="0" class="button_color" bgcolor="#42a045" style="border-radius: 5px;">
+
+																				<tbody><tr><td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td></tr>
+
+																				<tr>
+													        				<td align="center" style="color: #ffffff; font-size: 14px; font-family:Arial, Helvetica, sans-serif;">
+													        					<!-- ======= main section button ======= -->
+
+														          			<div class="editable_text" style="line-height: 21px;">
+														          				<span class="text_container">
+															          			<b>ПОДКЛЮЧИТЬ</b>
+														          				</span>
+														          			</div>
+														          		</td>
+														          	</tr>
+
+																				<tr><td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td></tr>
+
+																			</tbody></table></a>
+
+																		</td>
+																	</tr>
+																</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+								</span>
+							</div>
+    				</td>
+</tr>
+
+
+	</tbody></table>
+</td>
+
+
+</tr>
+
+
+
+<!-- ***ПОЛОСА*** -->
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+
+
+
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+<!-- ***ПОЛОСА*** -->
+
+<tr>
+<td>
+
+<table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590 ">
+
+					<tbody>
+
+
+
+					<tr>
+						<td align="left" style="font-size: 16px; line-height: 23px;color:#1d1d1d;font-family:Arial, Helvetica, sans-serif;" class="text_color">
+							<!-- ======= section subtitle ====== -->
+
+							<div class="editable_text">
+<span class="text_container">
+<p>Появление новых кодов, как правило, вызвано изменениями в&nbsp;НК&nbsp;РФ. В&nbsp;последних обновлениях, в&nbsp;частности, были добавлены новые коды доходов для&nbsp;суточных, превышающих нормативные значения; для&nbsp;сумм материальной помощи; для&nbsp;доходов от&nbsp;сдачи в&nbsp;аренду помещений и&nbsp;другие.</p>
+<p>Вот краткий список новых кодов доходов и&nbsp;вычетов: </p>
+<ul>
+<li>1401 и&nbsp;1402 – доходы сдачи в&nbsp;аренду; </li>
+<li>2004 - вознаграждения за&nbsp;классное руководство педагогам; </li>
+<li>2015 - суточные, сверх норматива;</li>
+<li>323, 324 и&nbsp;329 - социальные вычеты по&nbsp;расходам на&nbsp;лекарства, медицинские и&nbsp;физкультурно-оздоровительные услуги; </li>
+<li>512 - вычет из&nbsp;сумм материальной помощи от&nbsp;образовательной организации.</li>
+</ul>
+<p>Полный перечень кодов, который вам нужен при&nbsp;заполнении расчета 6-НДФЛ, смотрите в&nbsp;бераторе: <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/33,=0K-tl_jko4W-W0-XQpbaXRA/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvNzAvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5r" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/70/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link" data-felis_link_id="33">Коды видов доходов и&nbsp;вычетов работника</a></p>
+
+
+<p>Эти коды видов доходов и&nbsp;вычетов налогоплательщика нужно применять при&nbsp;заполнении Приложения&nbsp;№&nbsp;1 «Справка о&nbsp;доходах и&nbsp;суммах налога физического лица» к&nbsp;расчету 6-НДФЛ за&nbsp;2021&nbsp;год. </p>
+
+<table align="center">
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+
+		<tr>
+			<td align="center" class="divider">
+				<img height="1" width="393" border="0" style="display: block; width: 393px; height: 1px;" src="http://berator.ru/images/subscribe/divider.png" alt="main image">
+			</td>
+
+		</tr>
+
+<tr><td height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td></tr>
+</table>
+<div class="bottomlink">
+<h2 style="line-height: 30px;">Вы намного упростите себе работу, если будете заполнять 6-НДФЛ с&nbsp;помощью экспертов бератора:</h2>
+<p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/34,=0cpLjjmkhHrBZm4WeikUkpg/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODY1OA==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28658" data-felis_link_id="34">Что учесть при&nbsp;заполнении 6-НДФЛ</a></p>
+<p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/35,=05hwAfpvUlZXeLJjmKzI_Ug/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yOTA5Ng==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_29096" data-felis_link_id="35">Разъяснения ФНС по&nbsp;заполнению 6-НДФЛ в&nbsp;сложных случаях</a></p>
+<p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/36,=0EakYotZ1nJRG0Q7aEgsR4Q/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODc0Nw==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28747" data-felis_link_id="36">Как заполнить расчет 6-НДФЛ за&nbsp;2021&nbsp;год</a></p>
+<p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/37,=0h0reoD9pJEE0LhrItMb40Q/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODc1NA==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28754" data-felis_link_id="37">Контрольные соотношения к&nbsp;форме 6-НДФЛ</a></p>
+</div>
+<table align="center">
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+
+		<tr>
+			<td align="center" class="divider">
+				<img height="1" width="393" border="0" style="display: block; width: 393px; height: 1px;" src="http://berator.ru/images/subscribe/divider.png" alt="main image">
+			</td>
+
+		</tr>
+
+<tr><td height="5" style="font-size: 5px; line-height: 5px;">&nbsp;</td></tr>
+</table>
+<h2>Сроки сдачи 6-НДФЛ</h2>
+
+<p>Ближайший расчет 6-НДФЛ нужно сдать за&nbsp;I&nbsp;квартал 2022&nbsp;года не&nbsp;позднее 30 апреля.</p>
+<p>Для&nbsp;проверки правильности формирования показателей используйте <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/38,=0h0reoD9pJEE0LhrItMb40Q/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODc1NA==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28754" data-felis_link_id="38">контрольные соотношения</a> для&nbsp;формы 6-НДФЛ.</p>
+</span>
+							</div>
+    				</td>
+
+
+
+					</tr>
+
+
+
+
+				</tbody></table>
+
+
+</td>
+</tr>
+
+
+
+<!-- ***ПОЛОСА*** -->
+<tr><td height="14" style="font-size: 14px; line-height: 14px;">&nbsp;</td></tr>
+
+
+<!-- ***ПОЛОСА*** -->
+<tr>
+<td>
+    <table align="center" bgcolor="#e9f4e3" border="0" cellpadding="0" cellspacing="0" width="100%" class="">
+        <tbody><tr>
+            <td align="center">
+                <table class="display-width" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody>
+                        <tr>
+                            <td align="center">
+                                <table class="display-width" align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+                                    <tbody>
+                                        <tr>
+                                            <td height="20"></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table class="display-width" align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <table class="display-width" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="left" border="0" cellpadding="0" cellspacing="0" width="250">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td align="left">
+                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="350">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <table align="left" border="0" cellpadding="0" cellspacing="0" width="350" style="margin-left: 50px;">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td height="10"></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td style="color:#1d1d1d; font-family:Arial, Helvetica, sans-serif; font-size:30px; font-weight:800; line-height:37px;" align="left">
+                                                                                                Защита вашей бухгалтерии <span style="color: #42a045; font-weight: 800; font-size: 30px; line-height: 37px;">дешевле чашки кофе в&nbsp;день</span>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td>
+                                                                                                <p style="font-size: 15px;line-height: 23px;color:#000; font-family:Arial, Helvetica, sans-serif;">
+                                                                                                    С&nbsp;бератором у&nbsp;вас всегда будет только актуальная информация, экспертное мнение и&nbsp;профессиональная поддержка. А&nbsp;в&nbsp;день он стоит не&nbsp;дороже чашки кофе.
+                                                                                                </p>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td height="5"></td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td class="MsoNormal" style="color:#00b4d7; font-family:Arial, Helvetica, sans-serif; font-size:15px; line-height:22px; font-weight:400;" align="left">
+                                                                                                <span href="#" style="color:#1d1d1d; text-decoration:none;" data-color="Read More" data-size="Read More" data-min="12" data-max="30">
+                                                                                                    <table border="0" align="left" cellpadding="0" cellspacing="0" class="half-container800">
+                                                                                                        <tbody>
+                                                                                                            <tr>
+                                                                                                                <td>
+                                                                                                                    <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/43,=0ZLlMxGWBuzhTo2dFir1sdw/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3BlYm0vP3V0bV9zb3VyY2U9YmVyYXRvcl9wb2RrbHVjaGVuaWUmYXV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzA5JnV0bV9jb250ZW50PWJ1dHRvbiUyMyUyMyUyMyUyMyUyM2NvbnRhY3Qtc2VjdGlvbg==" data-felis_orig_uri="http://www.berator.ru/pebm/?utm_source=berator_podkluchenie&amp;autm_medium=subscribe&amp;utm_campaign=2022_03_09&amp;utm_content=button#contact-section" data-felis_link_id="43" target="_blank" style="color: #ffffff; text-decoration: none;"><table border="0" align="center" width="250" cellpadding="0" cellspacing="0" class="button_color" bgcolor="#42a045" style="border-radius: 5px;">
+                                                                                                                        <tbody>
+                                                                                                                            <tr>
+                                                                                                                                <td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td align="center" style="color: #ffffff; font-size: 13px; font-family: Arial, Helvetica, sans-serif; font-weight: 600; line-height: 22px;">
+                                                                                        <!-- ======= main section button ======= -->
+                                                                                                                                    <div class="editable_text" style="line-height: 22px;">
+                                                                                                                                        <span class="text_container">
+                                                                                                                                            ПОДКЛЮЧИТЬ БЕРАТОР
+                                                                                                                                        </span>
+                                                                                                                                    </div>
+                                                                                                                                </td>
+                                                                                                                            </tr>
+                                                                                                                            <tr>
+                                                                                                                                <td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td>
+                                                                                                                            </tr>
+                                                                                                                        </tbody>
+                                                                                                                    </table></a>
+
+                                                                                                                </td>
+                                                                                                            </tr>
+                                                                                                        </tbody>
+                                                                                                    </table>
+                                                                                                </span>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td height="20"></td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <table class="display-width" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align="right" border="0" cellpadding="0" cellspacing="0" width="300">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td align="left">
+                                                                <table align="left" border="0" cellpadding="0" cellspacing="0">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td style="color:#1d1d1d;" align="right" width="300">
+                                                                                <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/44,=0lZIN7qlBl_S2i8ptK7KF5g/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3BlYm0vP3V0bV9zb3VyY2U9YmVyYXRvcl9wb2RrbHVjaGVuaWUmYXV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzA5JnV0bV9jb250ZW50PWltZyUyMyUyMyUyMyUyMyUyM2NvbnRhY3Qtc2VjdGlvbg==" data-felis_orig_uri="http://www.berator.ru/pebm/?utm_source=berator_podkluchenie&amp;autm_medium=subscribe&amp;utm_campaign=2022_03_09&amp;utm_content=img#contact-section" data-felis_link_id="44">
+                                                                                    <img src="http://berator.ru/images/berator_iob_2022.png" alt="Бератор" style="margin:0; border:0; padding:0; display:block; border-radius:3px;" width="280"></a><br>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr></tbody>
+    </table>
+</td>
+</tr>
+
+
+
+
+
+
+  <tr>
+       <td height="15" style="font-size: 15px; line-height: 15px;">
+        &nbsp;
+       </td>
+      </tr>
+
+
+
+
+
+	  <tr>
+       <td height="15" style="font-size: 15px; line-height: 15px;">
+        &nbsp;
+       </td>
+      </tr>
+
+
+<tr>
+			<td>
+				<table border="0" align="center" width="590" cellpadding="0" cellspacing="0" class="container590 ">
+
+					<tbody>
+<tr>
+						<td align="center" style="font-size: 12px; line-height: 21px;color:#1d1d1d;font-family:Arial, Helvetica, sans-serif;" class="text_color">
+							<!-- ======= section subtitle ====== -->
+
+							<div class="editable_text" style="line-height: 21px;">
+								<span class="text_container">
+
+<table>
+<tbody><tr>
+<td style="padding-right: 10px;">
+<p align="center" style="font-size: 21px; line-height: 28px; color: #121214;">
+Вам понравилась наша рассылка?</p>
+<p align="center">
+
+<a target="_blank" align="center" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/39,=0egd92B-ZiNCRbbOWnN1fpw/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2luZm8vP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXllcw==" data-felis_orig_uri="http://www.berator.ru/info/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=yes" data-felis_link_id="39" target="_blank"><img src="http://www.berator.ru/images/palec_vverh.png" width="35" style="border:none; text-align: center;" alt="Да"></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a target="_blank" align="center" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/40,=0m9fliBYoWAcpyqBKyZ4g5w/9,77994,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2luZm8vP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PW5v" data-felis_orig_uri="http://www.berator.ru/info/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=no" data-felis_link_id="40" target="_blank"><img src="http://www.berator.ru/images/palec_vniz.png" width="35" style="border:none; text-align: center;" alt="Нет"></a>
+
+</p>
+
+
+</td>
+
+</tr>
+</tbody></table>
+
+								</span>
+							</div>
+    				</td>
+</tr>
+
+
+	</tbody></table>
+</td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+
+<tr><td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td></tr>
+
+
+
+
+
+
+<tr>
+<td>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="2b2e34" class="bg4_color">
+
+		<tbody><tr><td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td></tr>
+
+		<tr>
+			<td>
+
+				<table border="0" align="center" width="610" cellpadding="0" cellspacing="0" class="container590">
+
+					<tbody><tr>
+						<td>
+							<table border="0" align="left" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class="container590">
+								<tbody><tr>
+									<td>
+				        		<table border="0" align="center" cellpadding="0" cellspacing="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+				        			<tbody><tr>
+				        				<td align="left" width="100">
+				        					<img width="70" border="0" style="display: block; width: 70px;" src="http://www.berator.ru/multimedia/images/logo_white_big.png" alt="Бератор">
+				        				</td>
+				        				<td align="left" class="text2_color" style="color: #ffffff; font-size: 12px; font-family: Arial, Helvetica, sans-serif; font-weight: 300; line-height: 19px;">
+				        					<div class="editable_text" style=" line-height: 22px;">
+				        						<span class="text_container">
+
+Если у&nbsp;вас есть вопросы, пишите нам по&nbsp;электронной почте support@berator.ru
+или звоните по&nbsp;телефону: &#43;7 (495) 737-44-10
+
+				        						</span>
+														<td style="vertical-align:top;width:50px;padding:5px" valign="top" width="50px">
+  <a target="_blank" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/17,=0MYrN7EVFw3ek6KMFDjVbMA/9,77994,48515,?aHR0cHM6Ly93d3cudC5tZS9iZXJhdG9yX3J1" data-felis_orig_uri="https://www.t.me/berator_ru" data-felis_link_id="17" target="_blank"><img src="http://www.berator.ru/images/icons/telegram.png" width="50px" style="border:none;font-family:Arial,Sans Serif;font-weight:600;color:#0098cd;font-size:22px; text-align: center;" alt="TG"></a>
+</td>
+<td style="vertical-align:top;width:50px;padding:5px" valign="top" width="50px">
+  <a target="_blank" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/18,=0L5PRRm4C_aO3uBcug52vow/9,77994,48515,?aHR0cHM6Ly96ZW4ueWFuZGV4LnJ1L2lkLzU5MmVjODU3N2RkZGU4YjcwZmIxYmRhMA==" data-felis_orig_uri="https://zen.yandex.ru/id/592ec8577ddde8b70fb1bda0" data-felis_link_id="18" target="_blank"><img src="http://www.berator.ru/images/icons/zen-new-icon.png" width="50px" style="border:none;font-family:Arial,Sans Serif;font-weight:600;color:#0098cd;font-size:22px; text-align: center;" alt="ZEN"></a>
+</td>
+														<td style="vertical-align:top;width:50px;padding:5px" valign="top" width="50px">
+                          <a target="_blank" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/19,=0PZp6cNLjiAIx5jeEBdnJAg/9,77994,48515,?aHR0cHM6Ly92ay5jb20vYmVyYXRvcl9ydQ==" data-felis_orig_uri="https://vk.com/berator_ru" data-felis_link_id="19" target="_blank"><img src="http://www.berator.ru/images/icons/vk.png" width="50px" style="border:none;font-family:Arial,Sans Serif;font-weight:600;color:#0098cd;font-size:22px; text-align: center;" alt="VK"></a>
+                        </td>
+												<td style="vertical-align:top;width:50px;padding:5px" valign="top" width="50px">
+                          <a target="_blank" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/20,=0u1o6HKWHuirRwqBxVsuA7Q/9,77994,48515,?aHR0cHM6Ly9vay5ydS9iZXJhdG9y" data-felis_orig_uri="https://ok.ru/berator" data-felis_link_id="20" target="_blank"><img src="http://www.berator.ru/images/icons/ok.png" width="50px" style="border:none;font-family:Arial,Sans Serif;font-weight:600;color:#0098cd;font-size:22px; text-align: center;" alt="OK"></a>
+                        </td>
+
+				        					</div>
+				        				</td>
+				        			</tr>
+			        			</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+
+
+
+
+						</td>
+					</tr>
+
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr><td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td></tr>
+
+	</tbody></table>
+</td>
+</tr>
+
+
+
+
+
+
+
+</tbody>
+</table>
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+</body>
+</html>
+
+<table cellspacing="5" cellpadding="0" border="0" align="center" style="width:100%; max-width:700px;padding:12px;" dir="ltr">
+<tr>
+<td style="font-size:12px;font-family:Arial;color:#333;line-height: 19px;" align="center">
+<font size="-1">Вы получили это письмо, потому что выразили свое согласие получать сообщения от «ООО «АБИ».
+<br>Если Вы хотите отказаться от получения писем, нажмите <a href="https://sendsay.ru/backend/member/unsub/1TE-Wj4Uge_pweNw7OOxPcOQ7sBJZ54EDVg3U6fgz63PRLURBqc3zUn-G937F3k3qUesLgw">здесь</a>.</font>
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+<img x-noattach="1" src="https://read.sendsay.ru/1.gif/x_1647254640537491,9,77994,48515,,/20220331134033,pf38359" alt="" height="1" width="1" border="0">
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

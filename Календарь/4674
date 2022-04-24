@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1385bb0
+DTSTAMP:20220424T204127Z
+CREATED:20180314T122429Z
+LAST-MOD:20180314T113403Z
+SUMMARY:Заключение специального инвестиционного контракта между Министерством промышленности и торговли РФ и ЗАО «Хамильтон Стандард-Наука» (отв. Меньщиков А.В.\, Расторгуев С.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180315T150000Z
+DTEND;VALUE=DATE-TIME:20180315T153000Z
+LOCATION:г.Москва\, Китайгородский пр-д\, д. 7
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

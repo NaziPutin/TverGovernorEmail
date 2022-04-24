@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x158e8ec
+DTSTAMP:20220424T204126Z
+CREATED:20220325T065321Z
+LAST-MOD:20220330T190115Z
+SUMMARY:Совещание\, тема: «О ходе реализации региональных проектов «Чистая вода» и «Формирование комфортной городской среды»\, входящих в состав национального проекта «Жилье и городская среда» (отв. Егоров И.И.\, Подтихова М.И.\, Цветков А.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220412T123000Z
+DTEND;VALUE=DATE-TIME:20220412T131500Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

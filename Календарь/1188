@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6b42a0
+DTSTAMP:20220424T204126Z
+CREATED:20210420T154414Z
+LAST-MOD:20210413T093347Z
+SUMMARY:Ежегодное послание Президента РФ В.В. Путина Федеральному Собранию РФ в рамках Совместного заседания палат Федерального Собрания РФ (отв. Скорый А.В.\, СМИ+ пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210421T090000Z
+DTEND;VALUE=DATE-TIME:20210421T103000Z
+LOCATION:г. Москва\, Манежная пл.\, д. 1
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

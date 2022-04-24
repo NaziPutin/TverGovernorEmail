@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xfa37c8
+DTSTAMP:20220424T204127Z
+CREATED:20190425T142151Z
+LAST-MOD:20190425T140909Z
+SUMMARY:Рабочая встреча. Мишустин М.В. - руководитель Федеральной налоговой службы (отв. Подтихова М.И.\, Егоров И.И.\, Комиссарова О.С.\, Наумов А.В.)
+DTSTART;VALUE=DATE-TIME:20190426T100000Z
+DTEND;VALUE=DATE-TIME:20190426T110000Z
+LOCATION:г. Москва\, ул. Неглинная\, д. 23\, Центральный аппарат ФНС России\, 8 этаж\, кабинет руководителя
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

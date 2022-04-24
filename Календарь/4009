@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x118068c
+DTSTAMP:20220424T204127Z
+CREATED:20181025T124322Z
+LAST-MOD:20181025T121649Z
+SUMMARY:Встреча\, тема: «О реставрации и приспособлении под современное использование объекта культурного наследия федерального значения «Дом дворянского собрания\, 1841 г.» (отв. Белоцерковский А.В.\, Репина И.А.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20181026T144500Z
+DTEND;VALUE=DATE-TIME:20181026T151500Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

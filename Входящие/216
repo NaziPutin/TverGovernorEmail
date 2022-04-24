@@ -1,0 +1,167 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 16 Mar 2022 22:35:47 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Wed, 16 Mar
+ 2022 22:35:44 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Wed, 16 Mar 2022 22:35:44 +0300
+From: =?windows-1251?B?wPD16O/l7eruIMjj7vD8IMDr5erx4O3k8O7i6Pc=?=
+	<Arkhipenko_IA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDv7iDDzyDOIPHy8O7o8uXr/PHy4uUg6CDw5ezu7fLl?=
+ =?windows-1251?B?IPHu9ujg6/zt7iDn7eD36Oz79SDu4frl6vLu4iDS4uXw8eru6SDu4evg?=
+ =?windows-1251?B?8fLoICju8vDg8ev8IMfk8ODi7u718ODt5e3o5Sk=?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDv7iDDzyDOIPHy8O7o8uXr/PHy4uUg6CDw5ezu7fLl?=
+ =?windows-1251?B?IPHu9ujg6/zt7iDn7eD36Oz79SDu4frl6vLu4iDS4uXw8eru6SDu4evg?=
+ =?windows-1251?B?8fLoICju8vDg8ev8IMfk8ODi7u718ODt5e3o5Sk=?=
+Thread-Index: Adg5bHO6+8/qVGnuRduWAVq8fqJiKw==
+Date: Wed, 16 Mar 2022 22:35:44 +0300
+Message-ID: <a0bba061af6245dcb7847bdd131e65ef@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <a0bba061af6245dcb7847bdd131e65ef@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: 94d11aec-b347-4c87-f0f1-08da078429dc
+Return-Path: Arkhipenko_IA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.7016476
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER7A9DF795
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:8.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	mso-style-link:"Без интервала Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-name:"Абзац списка\,Подпись рисунка\,Bullet List\,FooterText\,numbered\,Нумерованный список ГОСТ\,Нумерованный список ГОСТ1\,Bullet List1\,FooterText1\,numbered1\,Нумерованный список ГОСТ2\,Bullet List2\,FooterText2\,numbered2\,Нумерованный список ГОСТ11\,Bullet List11\,Буле";
+	mso-style-priority:34;
+	mso-style-link:"Абзац списка Знак\,Подпись рисунка Знак\,Bullet List Знак\,FooterText Знак\,numbered Знак\,Нумерованный список ГОСТ Знак\,Нумерованный список ГОСТ1 Знак\,Bullet List1 Знак\,FooterText1 Знак\,numbered1 Знак\,Нумерованный список ГОСТ2 Знак\,Bullet List2 Знак";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:8.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-name:"Абзац списка\,Подпись рисунка\,Bullet List\,FooterText\,numbered\,Нумерованный список ГОСТ\,Нумерованный список ГОСТ1\,Bullet List1\,FooterText1\,numbered1\,Нумерованный список ГОСТ2\,Bullet List2\,FooterText2\,numbered2\,Нумерованный список ГОСТ11\,Bullet List11\,БулеCx";
+	mso-style-priority:34;
+	mso-style-link:"Абзац списка Знак\,Подпись рисунка Знак\,Bullet List Знак\,FooterText Знак\,numbered Знак\,Нумерованный список ГОСТ Знак\,Нумерованный список ГОСТ1 Знак\,Bullet List1 Знак\,FooterText1 Знак\,numbered1 Знак\,Нумерованный список ГОСТ2 Знак\,Bullet List2 Знак";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:8.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-name:"Абзац списка\,Подпись рисунка\,Bullet List\,FooterText\,numbered\,Нумерованный список ГОСТ\,Нумерованный список ГОСТ1\,Bullet List1\,FooterText1\,numbered1\,Нумерованный список ГОСТ2\,Bullet List2\,FooterText2\,numbered2\,Нумерованный список ГОСТ11\,Bullet List11\,БулеCx";
+	mso-style-priority:34;
+	mso-style-link:"Абзац списка Знак\,Подпись рисунка Знак\,Bullet List Знак\,FooterText Знак\,numbered Знак\,Нумерованный список ГОСТ Знак\,Нумерованный список ГОСТ1 Знак\,Bullet List1 Знак\,FooterText1 Знак\,numbered1 Знак\,Нумерованный список ГОСТ2 Знак\,Bullet List2 Знак";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:8.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-name:"Абзац списка\,Подпись рисунка\,Bullet List\,FooterText\,numbered\,Нумерованный список ГОСТ\,Нумерованный список ГОСТ1\,Bullet List1\,FooterText1\,numbered1\,Нумерованный список ГОСТ2\,Bullet List2\,FooterText2\,numbered2\,Нумерованный список ГОСТ11\,Bullet List11\,БулеCx";
+	mso-style-priority:34;
+	mso-style-link:"Абзац списка Знак\,Подпись рисунка Знак\,Bullet List Знак\,FooterText Знак\,numbered Знак\,Нумерованный список ГОСТ Знак\,Нумерованный список ГОСТ1 Знак\,Bullet List1 Знак\,FooterText1 Знак\,numbered1 Знак\,Нумерованный список ГОСТ2 Знак\,Bullet List2 Знак";
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:8.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.a
+	{mso-style-name:"Без интервала Знак";
+	mso-style-priority:1;
+	mso-style-link:"Без интервала";}
+span.a0
+	{mso-style-name:"Абзац списка Знак\,Подпись рисунка Знак\,Bullet List Знак\,FooterText Знак\,numbered Знак\,Нумерованный список ГОСТ Знак\,Нумерованный список ГОСТ1 Знак\,Bullet List1 Знак\,FooterText1 Знак\,numbered1 Знак\,Нумерованный список ГОСТ2 Знак\,Bullet List2 Знак";
+	mso-style-priority:34;
+	mso-style-link:"Абзац списка\,Подпись рисунка\,Bullet List\,FooterText\,numbered\,Нумерованный список ГОСТ\,Нумерованный список ГОСТ1\,Bullet List1\,FooterText1\,numbered1\,Нумерованный список ГОСТ2\,Bullet List2\,FooterText2\,numbered2\,Нумерованный список ГОСТ11\,Bullet List11\,Буле";
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal'><b><span style='font-size:16.0pt'>Информация <o:p></o:p></span></b></p><p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal'><b><span style='font-size:16.0pt'>Министерства Тверской области по обеспечению контрольных функций по государственной программе Тверской области <o:p></o:p></span></b></p><p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:center;line-height:normal'><b><span style='font-size:16.0pt'> &laquo;О строительстве и ремонте социально значимых объектов Тверской области (отрасль &laquo;Здравоохранение&raquo;)&raquo; </span></b><b><span style='font-size:14.0pt'><o:p></o:p></span></b></p><p class=MsoNoSpacing style='text-align:justify;text-indent:35.45pt'><span style='font-size:14.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>1. Строительство объекта капитального строительства &laquo;Строительство детской областной клинической больницы по адресу: г. Тверь, Петербургское шоссе, д. 115, корп. 4&raquo;.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Разрешение на строительство от 20.02.2020 сроком действия до 19.02.2023.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Заказчик - ГКУ &laquo;Дирекция по строительству детской областной клинической больницы&raquo; (директор Широчин Д.А).<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Строительный контроль осуществляется Заказчиком самостоятельно.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Извещение о начале строительства поступило в Министерство контроля 20.07.2020.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Министерством проведено в отношении объекта капитального строительства 19 контрольно-надзорных мероприятий. <o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>В ходе проведения надзорных мероприятий выявлен нарушений. В рамках устранения нарушений, заказчиком принято решение об изменении конструктивной схемы фундамента здания, внесению изменений в проектную документацию.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>11.06.2021 положительное заключение государственной экспертизы (ФАУ &laquo;Главгосэкспертиза России&raquo;).<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>В настоящее время на строительной площадке производятся работы по возведению несущих конструкций здания выше отметки 0,000.<o:p></o:p></span></p><p class=MsoNormalCxSpMiddle style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:1.0cm;line-height:normal;text-autospace:none'><span style='font-size:16.0pt'>Заказчиком также осуществляется корректировка проектной документации в части внесения изменений в архитектурно-планировочные решения здания больницы.<o:p></o:p></span></p><p class=MsoNormalCxSpMiddle style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:1.0cm;line-height:normal;text-autospace:none'><b><span style='font-size:16.0pt'>Отставание </span></b><span style='font-size:16.0pt'>от контрактных сроков выполнения работ<b> составляет более 12 месяцев.<o:p></o:p></b></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>2. Строительство объектов капитального строительства &laquo;Строительство детской поликлиники&raquo;, с проектной документацией повторного применения, расположенные  по адресам:<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>2.1. г. Кимры, Детская поликлиника № 1, Борковское ш., д. 10;<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>2.2.&nbsp;г. Кимры, Детская поликлиника № 2, пл. Южная, д. 2;<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>2.3. г. Торжок, ул. Больничная, 30;<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>2.4. г. Тверь, ул. 2-я Грибоедова.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Заказчик по всем вышеуказанным объектам - ГКУ&nbsp;&laquo;Дирекция по строительству детской областной клинической больницы&raquo;.<o:p></o:p></span></p><p class=MsoListParagraph style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><b><span style='font-size:16.0pt'>Разрешение на строительство всех объекта не получено.<o:p></o:p></span></b></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><b><span style='font-size:16.0pt'>Извещение о начале строительства объекта в Минконтроль не поступало.<o:p></o:p></span></b></p><p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>За нарушение сроков направления в Минконтроль извещения о начале строительства, реконструкции объектов капитального строительства частью 2 статьи 9.5 КоАП РФ установлена <b>административная ответственность</b> –  в виде штрафа: на должностных лиц - от десяти тысяч до тридцати тысяч рублей; на юридических лиц - от ста тысяч до трехсот тысяч рублей.<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>За строительство, объектов капитального строительства без разрешения на строительство в случае, если для осуществления строительства необходимо получение разрешения, частью 1 статьи 9.5 КоАП РФ установлены следующие виды <b>административной ответственности</b>: на должностных лиц – штраф от двадцати тысяч до пятидесяти тысяч рублей; &nbsp;на юридических лиц – штраф от пятисот тысяч до одного миллиона рублей или административное приостановление их деятельности на срок до девяноста суток.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>3.&nbsp;Строительство объекта капитального строительства &laquo;Строительство Бежецкой центральной районной больницы&raquo;.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Заказчик ГКУ &laquo;Дирекция по строительству детской областной клинической больницы&raquo;.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><b><span style='font-size:16.0pt'>Разрешение на строительство объекта не получено.<o:p></o:p></span></b></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><b><span style='font-size:16.0pt'>Извещение о начале строительства объекта в Минконтроль не поступало.<o:p></o:p></span></b></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>В действия Заказчика <b>состав административных правонарушений</b> ответственность за которые предусмотрена частями 1 и 2 статьи 9.5 КоАП РФ.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormalCxSpMiddle style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>4.&nbsp;Строительство объекта капитального строительства &laquo;Строительство поликлиники в городе Старица Тверской области&raquo;.<o:p></o:p></span></p><p class=MsoNormalCxSpMiddle style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>Заказчик - ГКУ &laquo;Дирекция по строительству детской областной клинической больницы&raquo;.<o:p></o:p></span></p><p class=MsoNormalCxSpMiddle style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><b><span style='font-size:16.0pt'>Проводится разработка проектной документации, подготовительные работы.<o:p></o:p></span></b></p><p class=MsoNormalCxSpMiddle style='margin-bottom:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt'>После получения разрешения на строительство Заказчику необходимо направить в адрес Министерства Тверской области по обеспечению контрольных функций, предусмотренное Градостроительным кодексом Российской Федерации, извещение о начале строительства объекта.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><span style='font-size:11.0pt;line-height:115%;font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt'><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:11.0pt;line-height:115%;font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

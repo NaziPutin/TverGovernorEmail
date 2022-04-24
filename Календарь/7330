@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1580508
+DTSTAMP:20220424T204127Z
+CREATED:20160721T091954Z
+LAST-MOD:20160902T082200Z
+SUMMARY:Августовский форум педагогических работников Тверской области «Образование Верхневолжья: новые вызовы и современные решения» (отв. Вержбицкая С.В.\, Сенникова Н.А.)
+DTSTART;VALUE=DATE-TIME:20160825T094500Z
+DTEND;VALUE=DATE-TIME:20160825T113000Z
+LOCATION:г. Тверь\, ул. И.Седых\, д.1\, ТГМУ
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

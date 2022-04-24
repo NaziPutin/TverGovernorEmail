@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8db6e0
+DTSTAMP:20220424T204126Z
+CREATED:20201118T071114Z
+LAST-MOD:20201118T082851Z
+SUMMARY:Рабочая встреча\, тема: «О предложениях по распределению дотации местным бюджетам на поддержку мер по обеспечению сбалансированности местных бюджетов в 2020 году» (в режиме видео-конференц-связи) (отв. Подтихова М.И.)
+DTSTART;VALUE=DATE-TIME:20201118T090000Z
+DTEND;VALUE=DATE-TIME:20201118T103000Z
+LOCATION:Обратная связь – из рабочего кабинета 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

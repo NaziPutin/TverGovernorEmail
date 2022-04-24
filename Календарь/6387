@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157764c
+DTSTAMP:20220424T204127Z
+CREATED:20170201T054806Z
+LAST-MOD:20170201T085513Z
+SUMMARY:Совещание\, тема: «О строительстве школ в г.Твери в 2017-2018 гг. О строительстве поликлиники в мкр-не Южный г. Твери» (отв. Белоцерковский А.В.\, Вержбицкая С.В.\, Волгин А.В.\, Курынин Р.В.\, СМИ) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170201T110000Z
+DTEND;VALUE=DATE-TIME:20170201T123000Z
+LOCATION:каб.207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

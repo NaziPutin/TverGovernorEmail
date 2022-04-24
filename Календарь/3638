@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x109b890
+DTSTAMP:20220424T204127Z
+CREATED:20190221T060316Z
+LAST-MOD:20190220T214855Z
+SUMMARY:Церемония закладки камня на месте строительства нового здания Тверского суворовского военного училища. Участие принимает Борисов Ю.И. – Заместитель Председателя Правительства РФ (отв. Попенко В.И.\, СМИ+пресс-служба) \n
+DTSTART;VALUE=DATE-TIME:20190221T080000Z
+DTEND;VALUE=DATE-TIME:20190221T115000Z
+LOCATION:мкр. Мигалово\, ул. Игоря Баталова
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

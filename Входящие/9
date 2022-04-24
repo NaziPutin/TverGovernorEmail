@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 1 Apr 2022 22:55:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 1 Apr 2022
+ 22:55:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 1 Apr 2022 22:55:56 +0300
+From: =?utf-8?B?0JrQvtC30LvQvtCyINCh0LXRgNCz0LXQuSDQldCy0LPQtdC90YzQtdCy0Lg=?=
+ =?utf-8?B?0Yc=?= <Kozlov_SE@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JLQsNC60YbQuNC90LDRhtC40Y8=?=
+Thread-Topic: =?utf-8?B?0JLQsNC60YbQuNC90LDRhtC40Y8=?=
+Thread-Index: AQHYRgKAtaI7KsSle06/ja7+RLGqqA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 1 Apr 2022 22:55:56 +0300
+Message-ID: <BA41A371-0FC0-4228-BECE-0D55DBB5310C@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <BA41A371-0FC0-4228-BECE-0D55DBB5310C@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 79d732be-a21f-4c9d-3cb2-08da1419a2cf
+Return-Path: Kozlov_SE@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4680886
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER3C914FFF
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><img src="cid:FD1852C9-34CC-44BF-9353-75B94C74DA6F"><br><br><div dir="ltr">РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone</div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

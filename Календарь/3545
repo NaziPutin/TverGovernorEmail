@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x104390c
+DTSTAMP:20220424T204127Z
+CREATED:20190411T093457Z
+LAST-MOD:20190411T092021Z
+SUMMARY:Выездное совместное заседание Совета при полномочном представителе Президента РФ в Центральном федеральном округе и коллегии МЧС России (отв. Григорян А.Р.\, Наумов А.В.\, Белоцерковский А.В.\, Попенко В.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190412T090000Z
+DTEND;VALUE=DATE-TIME:20190412T105000Z
+LOCATION:г. Тула\, ул. Менделеевская\, д. 12В\, Тульский Кремль\, атриум Музейно-выставочного комплекса
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

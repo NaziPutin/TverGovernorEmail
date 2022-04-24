@@ -1,0 +1,207 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 13 Jan 2022 18:25:15 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Thu, 13 Jan
+ 2022 18:25:12 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Thu, 13 Jan 2022 18:25:13 +0300
+From: =?utf-8?B?0JDRgNGF0LjQv9C10L3QutC+INCY0LPQvtGA0Ywg0JDQu9C10LrRgdCw0L0=?=
+ =?utf-8?B?0LTRgNC+0LLQuNGH?= <Archipenko_IA@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0L/QviDQv9GA0L7QstC10YDQutC1INCd0LDRg9C80L7QstCwINCQLtCSLg==?=
+Thread-Topic: =?utf-8?B?0L/QviDQv9GA0L7QstC10YDQutC1INCd0LDRg9C80L7QstCwINCQLtCSLg==?=
+Thread-Index: AdgGR0gkJe6vQd8fTF+gv4Gr79LCygAHgCRRAIsKWEA=
+Date: Thu, 13 Jan 2022 18:25:12 +0300
+Message-ID: <402a2a90ebe14e73a4d1680d58b20159@tverreg.ru>
+References: <4c0e0a5d7eb7413ea67f1de41f23a6a2@tverreg.ru>
+ <17A904D2-2458-445F-94E0-CEF9088FB00E@tverreg.ru>
+In-Reply-To: <17A904D2-2458-445F-94E0-CEF9088FB00E@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <402a2a90ebe14e73a4d1680d58b20159@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: bcd4decb-4fd3-4cf6-036c-08d9d6a8e4cc
+Return-Path: Archipenko_IA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.6094627
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER7A9DF795
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:670908978;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1543051888 475282202 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:53.45pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:89.45pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:125.45pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:161.45pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:197.45pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:233.45pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:269.45pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:305.45pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:341.45pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal style='text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>Поручение исполняется, сегодня переговорил с Наумовым и Скорым, пояснил перспективы, пока отложили решение до понедельника, <o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>Но если на чистоту, то считаю, что своей поверкой мы можем не решить ни каких задач по минимизации рисков:<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>1. Мы привлекаем и заказчика и застройщика по полной на 880 000 руб. – поверка прокуратуры может стать поводом для обращения в суд по отмене допов к контракту + представление с «рекомендациями» о привлечении к дисциплинарной ответственности должностных лиц заказчика.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>Меры к застройщику в части недобросовестности;<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>2. Мы привлекаем только заказчика по полной на 440 000 руб. – поверка прокуратуры может стать поводом для обращения в суд по отмене допов к контракту + могут привлечь застройщика сами на 440&nbsp;000 руб. +представление с «рекомендациями» о привлечении к дисциплинарной ответственности должностных лиц заказчика.<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin-left:0cm;mso-add-space:auto;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>Меры к застройщику в части недобросовестности;<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>3. Мы привлекаем только должностное лицо заказчика на 20000 руб. – поверка прокуратуры может стать поводом для обращения в суд по отмене допов к контракту + могут привлечь заказчика и застройщика по полной на 860 000 руб. +представление с «рекомендациями» о привлечении к дисциплинарной ответственности должностных лиц заказчика.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>Меры к застройщику в части недобросовестности.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:0cm;mso-add-space:auto;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraphCxSpLast style='margin-left:0cm;mso-add-space:auto;text-indent:35.45pt'><span style='font-size:14.0pt;line-height:115%'>Проведение процедуры административного привлечения виновных лиц – лишний повод привлечь к ситуации внимание. При условии, что ни одна сторона не заинтересована в расторжении контракта, а органы прокуратуры не знаю о ситуации, на сколько велика вероятность, что данное нарушение будет обнаружено. Срок давности привлечения составляет 1 год.<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-language:RU'>From:</span></b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-language:RU'> Руденя Игорь Михайлович <br><b>Sent:</b> Tuesday, January 11, 2022 12:02 AM<br><b>To:</b> Архипенко Игорь Александрович<br><b>Subject:</b> Re: по проверке Наумова А.В.<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><div><p class=MsoNormal>Ознакомлен. Переговорим.<o:p></o:p></p></div><div><p class=MsoNormal><br><br><o:p></o:p></p><p class=MsoNormal style='margin-bottom:12.0pt'>10 янв. 2022&nbsp;г., в 20:28, Архипенко Игорь Александрович &lt;<a href="mailto:Archipenko_IA@tverreg.ru">Archipenko_IA@tverreg.ru</a>&gt; написал(а):<o:p></o:p></p></div><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>﻿ <span style='font-size:12.0pt;font-family:"Times New Roman","serif";mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal>Доброго вечера!<o:p></o:p></p><p class=MsoNormal>Сегодня Наумов Андрей&nbsp;Викторович передал Ваше поручение:<o:p></o:p></p><p class=MsoNormal>1. Провести в максимально короткие сроки проверку по заключению Наумовым А.В. дополнений к контрактам по «Кимры и Нелидово» (опередить надзорников);<o:p></o:p></p><p class=MsoNormal>2. Привлечь Наумова А.В. к административной ответственности;<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>Проверку организовал, но есть один нюанс, который хочу с Вами согласовать, поскольку не слышал /не получал само поручение<o:p></o:p></p><p class=MsoNormal>Привлечение будет по части 4. статьи 7.32 КоАП РФ, штраф&nbsp; - 20000 рублей.<o:p></o:p></p><p class=MsoNormal>Должностное лицо Минконтроля может применить статью 2.9 КоАП РФ и освободить от адм. ответственности и ограничиться устным замечанием.<o:p></o:p></p><p class=MsoNormal>Оба варианта я Наумову А.В. довел, очевидно, ему предпочтительнее без штрафа, но есть вариант, что прокуратура может попытаться обжаловать применение 2.9 КоАП РФ. С большой долей вероятности отстоим в суде наше решение по освобождению от наказания, но не 100% (риск существует).<o:p></o:p></p><p class=MsoNormal>Для ускорения процесса привлечения планируем завтра вызывать Наумова А.В. на протокол, в четверг/пятницу привлечь, вопрос со штрафом или без.<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p></div></blockquote></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

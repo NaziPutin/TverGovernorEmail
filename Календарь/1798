@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x91f8f0
+DTSTAMP:20220424T204126Z
+CREATED:20201021T071851Z
+LAST-MOD:20201019T144111Z
+SUMMARY:Торжественная церемония вручения государственных наград РФ\, наград Тверской области и паспортов гражданам РФ\, приуроченная ко Дню герба и флага Тверской области (отв. Скорый А.В.\, Ищенко А.Н.\, Пономарев А.А.\, Прохорова А.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201021T110000Z
+DTEND;VALUE=DATE-TIME:20201021T113000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

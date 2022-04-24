@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6e8be8
+DTSTAMP:20220424T204126Z
+CREATED:20210419T131942Z
+LAST-MOD:20210419T082331Z
+SUMMARY:Рабочая встреча\, тема: «О реализации региональной программы «Адресная программа Тверской области по переселению граждан из аварийного жилищного фонда на 2019-2025 гг.» (отв. Ажгиревич А.И.\, Зайцева Е.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210419T160000Z
+DTEND;VALUE=DATE-TIME:20210419T170000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

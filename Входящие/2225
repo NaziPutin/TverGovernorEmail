@@ -1,0 +1,110 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 15 Nov 2019 08:46:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 15 Nov
+ 2019 08:46:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 15 Nov 2019
+ 08:46:04 +0300
+From: =?utf-8?B?0J/QvtC00YLQuNGF0L7QstCwINCc0LDRgNC40L3QsCDQmNCy0LDQvdC+0LI=?=
+ =?utf-8?B?0L3QsA==?= <podtihova@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?UkU6INCy0YvQvdC10YHQtdC90LjQtSDQstC+0L/RgNC+0YHQsCDQvdCwINC3?=
+ =?utf-8?B?0LDRgdC10LTQsNC90LjQtSDQn9GA0LDQstC40YLQtdC70YzRgdGC0LLQsCA=?=
+ =?utf-8?B?0L/QviDQtNC+0YLQsNGG0LjQuA==?=
+Thread-Topic: =?utf-8?B?0LLRi9C90LXRgdC10L3QuNC1INCy0L7Qv9GA0L7RgdCwINC90LAg0LfQsNGB?=
+ =?utf-8?B?0LXQtNCw0L3QuNC1INCf0YDQsNCy0LjRgtC10LvRjNGB0YLQstCwINC/0L4g?=
+ =?utf-8?B?0LTQvtGC0LDRhtC40Lg=?=
+Thread-Index: AdWbHHW0OoaTki9xTFyi1xnBvb+OgAAWV9qLAACD0RA=
+Date: Fri, 15 Nov 2019 08:46:04 +0300
+Message-ID: <1fae40b6ea8d4b99b8f377f9b5cc17d1@tverreg.ru>
+References: <bc0270353be24a8da26007f048228840@tverreg.ru>
+ <4951647E-17A8-4FB4-B5A4-CFE2EAA1A343@tverreg.ru>
+In-Reply-To: <4951647E-17A8-4FB4-B5A4-CFE2EAA1A343@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <1fae40b6ea8d4b99b8f377f9b5cc17d1@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [176.114.205.114]
+X-MS-Exchange-Organization-Network-Message-Id: 25fefde1-e5c7-466e-dbcd-08d7698f1a7e
+Return-Path: podtihova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6136506
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERE6117FF0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='color:#1F497D'>Спасибо<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='mso-fareast-language:RU'>From:</span></b><span style='mso-fareast-language:RU'> Руденя Игорь Михайлович &lt;rim@tverreg.ru&gt; <br><b>Sent:</b> Friday, November 15, 2019 8:31 AM<br><b>To:</b> Подтихова Марина Ивановна &lt;podtihova@tverreg.ru&gt;<br><b>Subject:</b> Re: вынесение вопроса на заседание Правительства по дотации<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><div><p class=MsoNormal>Ознакомлен, сегодня примем решение, переговорим после 13 часов.<span style='font-size:12.0pt;mso-fareast-language:RU'><o:p></o:p></span></p></div><div><p class=MsoNormal style='margin-bottom:12.0pt'><br>14 нояб. 2019 г., в 22:01, Подтихова Марина Ивановна &lt;<a href="mailto:podtihova@tverreg.ru">podtihova@tverreg.ru</a>&gt; написал(а):<o:p></o:p></p></div><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal><span style='color:#1F497D'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Уважаемый Игорь Михайлович!</span><o:p></o:p></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Прошу рассмотреть информацию по вопросу планируемому к вынесению на заседание Правительства Тверской области 19 ноября по предоставлению дотации на сбалансированность муниципальным образованиям.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp; В нее включены 4 части: за развитие экономики на территории мо за 2018, премии главам и их заместителям, стимулирование за результаты выборов и средства на проведение кадастровых работ для перевода земель в лесной фонд.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Предлагаем к распределению по муниципальным образованиям Тверской области вторую часть дотации на 2019 год:</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>- по итогам оценки развития экономического потенциала, в сумме 200,0 млн руб.</span></b><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp; Оценка осуществлена&nbsp; Министерством экономического развития Тверской области на основе 12 показателей. Подходы к оценке и результаты были одобрены на совещании в сентябре 2019 года.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Средства </span><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:#1F497D'>- </span><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>всем муниципальным образованиям в зависимости от итогов оценки за исключением г. Твери, ЗАТО Озерный и ЗАТО Солнечный.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>- по итогам комплексной оценки эффективности деятельности органов местного самоуправления, в &nbsp;сумме 37,3 млн руб.</span></b><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp; Объемы для премирования глав и их заместителей определены по результатам оценки их деятельности, проведенной Министерством экономического развития Тверской области по 6 направлениям (экономика, финансы, демография, бюджетные отрасли, внебюджетные отрасли, внутренняя политика).</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp; &nbsp;Методика оценки и ее результаты устанавливаются двумя распоряжениями с грифом ДСП, планируются к рассмотрению на заседании Правительства Тверской области 19 ноября.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Средства распределяются по всем муниципальным образованиям за исключением </span><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:#1F497D'>&nbsp;&nbsp;</span><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>г. Твери.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>- на обеспечение расходов по переводу земель сельскохозяйственного назначения в земли лесного фонда, в общей сумме 12,1 млн руб. </span></b><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Средства распределяются по 24 муниципальным образованиям для обеспечения перевода 60,4 тыс. га.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Механизм предоставления в форме дотации </span><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>выбран<span style='color:black'> в целях сохранения средств в бюджете муниципального образования, выделенных в 2019 году (если предусматривать целевой трансферт - необходимо будет в начале 2020 года вернуть денежные средства, не все смогут использовать средства </span>в полном объеме&nbsp; в<span style='color:#1F497D'> </span><span style='color:black'>2019 году).</span></span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Министерством финансов Тверской области будет осуществлен контроль по включению данных расходов в бюджеты муниципальных образований, Министерством имущественных и земельных отношений будет осуществлен контроль за проведением конкурентных процедур.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>- на стимулирование по итогам проведения выборов в сентябре текущего года, в общей сумме 24,5 млн руб.</span></b><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'> </span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Средства&nbsp; выделяются для поощрения муниципальных образований с результатом свыше 51%.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>Суммы по муниципальным образованиям предложены А.Н. Ищенко на уровне прошлого года.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;На слайдах представлена информация в разрезе направлений по муниципальным образованиям.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='color:#1F497D'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp; </span><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>В Постановлении Правительства будет указана общая сумма по всем направлениям, без разбивки по каждому муниципальному образованию. </span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Прошу согласовать. </span><o:p></o:p></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;С уважением, Подтихова М.И.</span><o:p></o:p></p><p class=MsoNormal style='text-align:justify;text-autospace:none'><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:black'>&nbsp;</span><o:p></o:p></p></div></blockquote><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal><span style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>&lt;Слайд по распределению средств на 2019 год.pptx&gt;<o:p></o:p></span></p></div></blockquote></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x911918
+DTSTAMP:20220424T204126Z
+CREATED:20201019T114909Z
+LAST-MOD:20201019T103155Z
+SUMMARY:Заседание межведомственной рабочей группы по вопросам создания особых экономических зон и территорий опережающего социально-экономического развития в моногородах РФ (отв. Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201019T133000Z
+DTEND;VALUE=DATE-TIME:20201019T150000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

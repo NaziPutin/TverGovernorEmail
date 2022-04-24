@@ -1,0 +1,15 @@
+BEGIN:VCARD
+FN:Перский\, Леонид Романович
+N:Перский;Леонид;Романович;;
+EMAIL:е-mail:Irpersky@gmail.com
+BDAY:1956-06-22T11:59:00Z
+ADR;TYPE=work:;;www.interfax.ru;г.Москва\, 1-ая Тверская-Ямская ул.\, д.2;;127006;Россия
+LABEL;TYPE=work:www.interfax.ru\n127006\, г.Москва\, 1-ая Тверская-Ямская ул.\, д.2
+TEL;TYPE=work,fax:+7 (495) 647-17-13
+TEL;TYPE=work,voice:+7 (495) 648-17-12
+TEL;TYPE=cell,voice:+7 (985) 761-96-98
+TITLE:Директор по развитию бизнеса 
+ORG:АО «Региональная информационная служба «Интерфакс»
+VERSION:3.0
+END:VCARD
+

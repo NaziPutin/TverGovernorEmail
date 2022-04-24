@@ -1,0 +1,43 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 4 Sep 2018 16:17:35 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 4 Sep
+ 2018 16:17:34 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Tue, 4 Sep 2018 16:17:33 +0300
+From: =?KOI8-R?B?4sXMz8PF0svP19PLycog4c7E0sXKIPfMwcTMxc7P18neLw==?=
+ =?KOI8-R?B?4cTNyc7J09TSwcPJ0SD018XS08vPyiDPwszB09TJ?=
+	<BelotserkovskiyAV@web.region.tver.ru>
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?7sHQ0sHXzNHAIPfBzSDTzNXWxcLO1cAg2sHQydPL1SDQzw==?=
+ =?KOI8-R?B?INLF2tXM2NTB1MHNINDSz9fF0svJIM/Sx8HOydrBw8nJINDSz9fFxMXOydE=?=
+ =?KOI8-R?B?IMvPzsvV0sXO1M7ZyCDQ0s/DxcTV0iDOwSDQ0s/XxcTFzsnF?=
+ =?KOI8-R?B?INLFzc/O1M7ZyCDSwcLP1CDXINrEwc7JySDt7/Ug8+/7ID8gMzEgxy4g?=
+ =?KOI8-R?B?9NfF0sk=?=
+X-KeepSent: 9EF6CA34:CAABD0B1-432582FE:0048B7F7;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.1 September 28, 2009
+Message-ID: <OF9EF6CA34.CAABD0B1-ON432582FE.0048B7F7-432582FE.0049046E@web.region.tver.ru>
+Sender:
+	=?KOI8-R?B?8NLJxc3OwdEg4sXMz8PF0svP19PLz8fPIOEu9y4v4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?=
+	<Pr_Belotserkovskogo@web.region.tver.ru>
+Date: Tue, 4 Sep 2018 16:17:32 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 04.09.2018 16:17:35
+Return-Path: Pr_Belotserkovskogo@web.region.tver.ru
+X-MS-Exchange-Organization-Network-Message-Id: 6e1a6586-f0c7-4c71-4abb-08d61268c6e0
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.2187623
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

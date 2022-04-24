@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2c9f1c
+DTSTAMP:20220424T204126Z
+CREATED:20211216T091024Z
+LAST-MOD:20211216T071141Z
+SUMMARY:Посещение транспортно-пересадочного узла на территории туристского кластера "Завидово" (отв. Егоров И.И.\, Перов В.В.\, Верхоглядов С.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211216T100000Z
+DTEND;VALUE=DATE-TIME:20211216T103000Z
+LOCATION:Конаковский район\, ОЭЗ «Завидово»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

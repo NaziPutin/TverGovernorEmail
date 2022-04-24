@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x150c91c
+DTSTAMP:20220424T204127Z
+CREATED:20170602T190833Z
+LAST-MOD:20170602T190833Z
+SUMMARY:Инспекционная поездка в Осташковский район Тверской области в рамках подготовки к празднованию 350-летия обретения мощей святого преподобного Нила Столобенского (отв. Белоцерковский А.В.\, Жукова О.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170603T064000Z
+DTEND;VALUE=DATE-TIME:20170603T125000Z
+LOCATION:Осташковский р-он 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

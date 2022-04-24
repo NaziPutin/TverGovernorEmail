@@ -1,0 +1,93 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sat, 4 Dec 2021 00:10:58 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sat, 4 Dec 2021
+ 00:10:55 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Sat, 4 Dec 2021 00:10:58 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIPXu5OUg8OXs7u3y7e4t8OXx8uDi8OD26O7t7fv1?=
+ =?windows-1251?B?IPDg4e7yIO3gIO7h+uXq8uUg6vPr/PLz8O3u4+4g7eDx6+Xk6P8gq8ru?=
+ =?windows-1251?B?6+7q7uv87f8gzejq7uvg5eLx6u7j7iDx7uHu8OAsIDE4MDEg4y67?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIPXu5OUg8OXs7u3y7e4t8OXx8uDi8OD26O7t7fv1?=
+ =?windows-1251?B?IPDg4e7yIO3gIO7h+uXq8uUg6vPr/PLz8O3u4+4g7eDx6+Xk6P8gq8ru?=
+ =?windows-1251?B?6+7q7uv87f8gzejq7uvg5eLx6u7j7iDx7uHu8OAsIDE4MDEg4y67?=
+Thread-Index: AdfoicOxx3BWuePMQ/y28yv+IujHpw==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Sat, 4 Dec 2021 00:10:57 +0300
+Message-ID: <d57f7f0794ec47a59c54e1fc9da99cd3@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <d57f7f0794ec47a59c54e1fc9da99cd3@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.164]
+X-MS-Exchange-Organization-Network-Message-Id: 34fe7ce7-f09d-4565-e62d-08d9b6a166da
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1190025
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><meta name="Generator" content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="#0563C1" vlink="#954F72"><div class="WordSection1"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">По Вашему поручению, данному по итогам рабочей встречи по теме «О государственной программе Тверской области «Сохранение, популяризация и государственная охрана культурного наследия Тверской области на 2018 - 2024 годы», направляю представленную Госохранкультуры Тверской области информацию о ходе ремонтно-реставрационных работ на объекте культурного наследия федерального значения «Колокольня Николаевского собора, 1801 г.».<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">02.12.2021 и.о. начальника Госохранкультуры Тверской области Луньковой Е.В. осуществлен выезд в г. Калязин Тверской области с целью ознакомления с ремонтно-реставрационными работами на объекте культурного наследия федерального значения «Колокольня Николаевского собора, 1801 г.».<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">По состоянию на 02.12.2021<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Фасады выполнены 100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Интерьеры 97%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Электроснабжение и архитектурное освещение-100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Слаботочные сети -100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Автоматическая система колокольного звона-100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Реставрация и монтаж часов 100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Реставрация креста 100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Благоустройство 95%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Демонтаж лесов 100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">10.&nbsp;&nbsp;&nbsp; Устройство межэтажных площадок-100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">11.&nbsp;&nbsp;&nbsp; Отсечная гидроизоляция 100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">12.&nbsp;&nbsp;&nbsp; Усиление фундамента 100%<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">13.&nbsp;&nbsp;&nbsp; Восстановление белого камня 95% <o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%"><span style="font-size:16.0pt;line-height:150%;font-family:&quot;Times New Roman&quot;,serif">Завершение работ планируется до 10.12.2021.<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.8pt;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">Служебная записка Луньковой Е.В. прилагается.<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.8pt;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="margin-left:70.8pt;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">С уважением,<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:70.8pt;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">П. Смялковский <o:p></o:p></span></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

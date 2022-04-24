@@ -1,0 +1,63 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 1 Dec 2021 20:16:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 1 Dec 2021
+ 20:16:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 1 Dec 2021 20:16:29 +0300
+From: =?windows-1251?B?Q+Dr/O3o6u7i4CDS4PL8/+3gIMDr5erx4O3k8O7i7eA=?=
+	<Salnikova_TA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?xO7q6+DkIO/uIOjx7+7r7eXt6P4gz+7w8/fl7ej/IQ==?=
+Thread-Topic: =?windows-1251?B?xO7q6+DkIO/uIOjx7+7r7eXt6P4gz+7w8/fl7ej/IQ==?=
+Thread-Index: AQHX5tUqW3F+pu8sMkG7OkTACVB++w==
+Date: Wed, 1 Dec 2021 20:16:28 +0300
+Message-ID: <4e97f03fcf544e5a879d478a88e525bb@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <4e97f03fcf544e5a879d478a88e525bb@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.56.154]
+X-MS-Exchange-Organization-Network-Message-Id: 48aecbc1-91f7-4c80-6511-08d9b4ee503e
+Return-Path: Salnikova_TA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1120449
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER03A21263
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p>Уважаемый Игорь Михайлович, добрый вечер!</p>
+<p>По Вашему устному поручению в прикрепленном файле&nbsp;высылаю доклад об исполнении поручений Президента РФ №ПР-2216 от 25.12.2020&nbsp; в части закупки для фондов библиотек субъектов РФ.</p>
+<p><br>
+</p>
+<p>Врио министра культуры Тверской области Т.А. Сальникова</p>
+<p><br>
+</p>
+<p>&nbsp;</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

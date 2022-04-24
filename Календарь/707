@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4bdc24
+DTSTAMP:20220424T204126Z
+CREATED:20210831T111748Z
+LAST-MOD:20210831T063032Z
+SUMMARY:Встреча с представителями штаба общественной поддержки Всероссийской политической партии Единая Россия (отв. Белорусов В.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210831T120000Z
+DTEND;VALUE=DATE-TIME:20210831T130000Z
+LOCATION:ул. Советская\, д. 48-50
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

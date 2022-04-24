@@ -1,0 +1,205 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 12 Apr 2019 23:08:17 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 12 Apr
+ 2019 23:08:10 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 12 Apr 2019
+ 23:08:17 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDv7iDx7ufk4O3o/iDl5Ojt7uPuIOjx7+7r7ejy5ev8?=
+ =?windows-1251?B?7e7j7iDu8OPg7eAg4+7x8+Tg8PHy4uXt7e7pIOLr4PHy6CDSziDiIPH0?=
+ =?windows-1251?B?5fDlIOfg7f/y7vHy6CDoIPHu9ujg6/zt7ukg5+D56PL7IO3g8eXr5e3o?=
+ =?windows-1251?Q?=FF?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDv7iDx7ufk4O3o/iDl5Ojt7uPuIOjx7+7r7ejy5ev8?=
+ =?windows-1251?B?7e7j7iDu8OPg7eAg4+7x8+Tg8PHy4uXt7e7pIOLr4PHy6CDSziDiIPH0?=
+ =?windows-1251?B?5fDlIOfg7f/y7vHy6CDoIPHu9ujg6/zt7ukg5+D56PL7IO3g8eXr5e3o?=
+ =?windows-1251?Q?=FF?=
+Thread-Index: AdTxasegEfaZuVmdRp2iGcGNEaKqqg==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Fri, 12 Apr 2019 23:08:16 +0300
+Message-ID: <01782f29a4db48bbb383710582d199d9@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <01782f29a4db48bbb383710582d199d9@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 7c97eb5d-39fe-4471-282b-08d6bf829a09
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6080939
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:826290867;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-231063242 1675935934 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:45.0pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:81.0pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:117.0pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:153.0pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:189.0pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:225.0pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:261.0pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:297.0pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:333.0pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>В соответствии с Вашим устным поручением рассмотрен вопрос о возможности и особенностях создания единого исполнительного органа государственной власти Тверской области в сфере занятости и социальной защиты населения. По результатам рассмотрения сообщаю следующее:<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;mso-list:l0 level1 lfo1;text-autospace:none'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>На федеральном уровне вопросы в сфере занятости населения и безработицы, а также социальной защиты населения отнесены к ведению Министерства труда и социальной защиты Российской Федерации в соответствии с</span> <span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>постановлением Правительства Российской Федерации от 19.06.2012 № 610 &laquo;Об утверждении Положения о Министерстве труда и социальной защиты Российской Федерации&raquo;.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Единые исполнительные органы государственной власти в сфере труда, занятости, социального обслуживания и социальной защиты населения созданы в г. Москве, в Московской, Калужской, Костромской, Рязанской, Тульской областях.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;mso-list:l0 level1 lfo1;text-autospace:none'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Создание исполнительного органа власти возможно по решению Правительства Тверской области путем реорганизации существующих исполнительных органов государственной власти Тверской области следующими способами:<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>а) путем присоединения к Министерству социальной защиты населения Тверской области Главного управления по труду и занятости населения Тверской области с передачей функций последнего;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>б) путем объединения Министерства социальной защиты населения Тверской области и Главного управления по труду и занятости населения Тверской области, в результате которого права и обязанности каждого из указанных органов власти переходят к вновь возникшему юридическому лицу (органу власти).<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;mso-list:l0 level1 lfo1;text-autospace:none'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Ни федеральным законодательством, ни законодательством Тверской области не установлены какие-либо особенности, связанные с утверждением структуры исполнительных органов государственной власти в сфере занятости населения и социальной защиты населения.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Согласование структуры и (или) назначения руководителя исполнительного органа власти субъекта Российской Федерации в данных сферах с федеральными органами исполнительной власти не требуется.<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Учитывая изложенное, создание единого исполнительного органа власти не противоречит законодательству.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Служебная записка прилагается во вложении.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>С уважением,<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>П. Смялковский<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

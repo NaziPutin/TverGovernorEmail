@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x110935c
+DTSTAMP:20220424T204127Z
+CREATED:20181227T121834Z
+LAST-MOD:20181130T111620Z
+SUMMARY:Торжественная церемония установки закладного камня на месте строительства часовни во имя святых Михаила Тверского и Анны Кашинской в память о Михайло-Архангельском монастыре (отв. Бабичев В.И.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20181228T070000Z
+DTEND;VALUE=DATE-TIME:20181228T072000Z
+LOCATION:наб. Степана Разина\, парк Н.С. Гумилева
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

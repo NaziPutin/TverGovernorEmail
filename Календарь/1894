@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x991dac
+DTSTAMP:20220424T204126Z
+CREATED:20200902T071200Z
+LAST-MOD:20200902T070710Z
+SUMMARY:Рабочая встреча\, тема: «Об организации медицинского обслуживания сотрудников органов власти\, органов местного самоуправления и членов их семей» (отв. Егоров И.И.\, Седов К.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200902T110000Z
+DTEND;VALUE=DATE-TIME:20200902T120000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

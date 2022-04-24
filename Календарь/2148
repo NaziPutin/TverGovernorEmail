@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa7c61c
+DTSTAMP:20220424T204126Z
+CREATED:20200630T173840Z
+LAST-MOD:20200701T092143Z
+SUMMARY:Участие в общероссийском голосовании по вопросу одобрения изменений в Конституцию Российской Федерации (отв. Ищенко А.Н.\, Белорусов В.А.\, Исаков Ю.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200701T080000Z
+DTEND;VALUE=DATE-TIME:20200701T083000Z
+LOCATION:Свободный пер.\, д. 28\, Областная библиотека им. А.М. Горького
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

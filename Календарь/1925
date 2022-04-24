@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9af218
+DTSTAMP:20220424T204126Z
+CREATED:20200821T145345Z
+LAST-MOD:20200821T130613Z
+SUMMARY:Концерт "Всем миром\, всем народом\, всей землей"\, посвященный 75-летию Победы в Великой Отечественной войне и открытию Главного храма Вооруженных сил РФ (отв. Ажгиревич А.И.)
+DTSTART;VALUE=DATE-TIME:20200823T170000Z
+DTEND;VALUE=DATE-TIME:20200823T200000Z
+LOCATION:Московская обл.\, г. Кубинка\, парк "Патриот"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

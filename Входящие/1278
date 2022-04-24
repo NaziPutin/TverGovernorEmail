@@ -1,0 +1,136 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 19 Jul 2021 23:47:06 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 19 Jul
+ 2021 23:47:02 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Mon, 19 Jul 2021 23:47:05 +0300
+From: =?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?9/LwLiDSxcfJz87ZIA==?=
+Thread-Topic: =?koi8-r?B?9/LwLiDSxcfJz87ZIA==?=
+Thread-Index: Add83hY5XnbE6aXdQdCLkqTDYYaGbg==
+Date: Mon, 19 Jul 2021 23:47:04 +0300
+Message-ID: <a97fbbf1088549dead82e33c07f1caf6@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <a97fbbf1088549dead82e33c07f1caf6@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.80]
+X-MS-Exchange-Organization-Network-Message-Id: 26f34c95-c338-4d87-a33d-08d94af65e32
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.0870983
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:196696634;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-119223126 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal>дПВТЩК ЧЕЮЕТ. <o:p></o:p></p><p class=MsoNormal>ч РТЙЛТЕРМЕООПН ЖБКМЕ &#8211; УТБЧОЕОЙЕ ТЕЗЙПОПЧ РП ЧЕМЙЮЙОЕ чтр (Ч НМО ТХВМЕК), ДБООЩЕ ЪБ 2019 ЗПД (ВЕЪ ХЮЕФБ нПУЛЧЩ Й нПУ ПВМБУФЙ):<o:p></o:p></p><p class=MsoNormal>- ПВЭЙК ТЕКФЙОЗ<o:p></o:p></p><p class=MsoNormal> - ДБООЩЕ РП ЧЙДБН ДЕСФЕМШОПУФЙ.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>лТБФЛЙЕ ЧЩЧПДЩ<o:p></o:p></p><ol style='margin-top:0cm' start=1 type=1><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>фЧЕТУЛБС ПВМБУФШ РП чтр ОБ 9 НЕУФЕ (фХМШУЛБС &#8211; 3; сТПУМБЧУЛБС &#8211; 4; лБМХЦУЛБС &#8211; 6);<o:p></o:p></li><li class=MsoListParagraph style='color:red;margin-left:0cm;mso-list:l0 level1 lfo1'>рТПВМЕНОЩЕ ЧЙДЩ ДЕСФЕМШОПУФЙ фЧЕТУЛПК ПВМБУФЙ (У ФПЮЛЙ ЪТЕОЙС ТЕКФЙОЗБ):<o:p></o:p></li><ol style='margin-top:0cm' start=1 type=a><li class=MsoListParagraph style='color:red;margin-left:0cm;mso-list:l0 level2 lfo1'>брл (УЕМШУЛПЕ ИПЪСКУФЧП) / МЕУОПЕ ИПЪСКУФЧП љ&#8211; 11 НЕУФП;<o:p></o:p></li><li class=MsoListParagraph style='color:red;margin-left:0cm;mso-list:l0 level2 lfo1'>уФТПЙФЕМШУФЧП &#8211; 10 НЕУФП;<o:p></o:p></li></ol><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>пУОПЧОПК ЧЙД ДЕСФЕМШОПУФЙ &#8211; &laquo;пВТБВБФЩЧБАЭЙЕ РТПЙЪЧПДУФЧБ&raquo; - 9 НЕУФП (фХМШУЛБС &#8211; 1 НЕУФП, лБМХЦУЛБС &#8211; 2 НЕУФП). рТЙ ЬФПН ПФТЩЧ: фХМШУЛБС 262 НМТД ТХВ &#8211; лБМХЦУЛБС 207 НМТД ТХВ - фЧЕТУЛБС 90 НМТ ТХВМЕК.<o:p></o:p></li><li class=MsoListParagraph style='color:#70AD47;margin-left:0cm;mso-list:l0 level1 lfo1'><span style='color:#385723;mso-style-textfill-fill-color:#385723;mso-style-textfill-fill-alpha:100.0%'><span style='color:windowtext'>рПЪЙФЙЧОП ЧМЙСАФ ОБ ТЕКФЙОЗ ЧЙДЩ ДЕСФЕМШОПУФЙ:<o:p></o:p></span></span></li><ol style='margin-top:0cm' start=1 type=a><li class=MsoListParagraph style='color:#70AD47;margin-left:0cm;mso-list:l0 level2 lfo1'><span style='color:#385723;mso-style-textfill-fill-color:#385723;mso-style-textfill-fill-alpha:100.0%'><span style='color:windowtext'>пВЕУРЕЮЕОЙЕ ЬМ ЬОЕТЗЙЕК / ЗБЪПН /РБТПН &#8211; 2 НЕУФП фЧЕТУЛПК ПВМБУФЙ<o:p></o:p></span></span></li><li class=MsoListParagraph style='color:#70AD47;margin-left:0cm;mso-list:l0 level2 lfo1'><span style='color:#385723;mso-style-textfill-fill-color:#385723;mso-style-textfill-fill-alpha:100.0%'><span style='color:windowtext'>фПТЗПЧМС &#8211; 4 НЕУФП<o:p></o:p></span></span></li><li class=MsoListParagraph style='color:#70AD47;margin-left:0cm;mso-list:l0 level2 lfo1'><span style='color:#385723;mso-style-textfill-fill-color:#385723;mso-style-textfill-fill-alpha:100.0%'><span style='color:windowtext'>фТБОУРПТФЙТПЧЛБ Й ИТБОЕОЙЕ (РП ЖБЛФХ ЬФП МПЗЙУФЙЮЕУЛЙЕ ЛПНРМЕЛУЩ + ЮБУФЙЮОП ФТХВПРТПЧПДОЩЕ УЙУФЕНЩ ЗБЪ Й ОЕЖФШ) &#8211; 4 НЕУФП. љ<o:p></o:p></span></span></li></ol></ol><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>C</span><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'> </span><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>ХЧБЦЕОЙЕН,</span><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>еЗПТПЧ й.й. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>ъБНЕУФЙФЕМШ рТЕДУЕДБФЕМС рТБЧЙФЕМШУФЧБ фЧЕТУЛПК ПВМБУФЙ,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>нЙОЙУФТ ЬЛПОПНЙЮЕУЛПЗП ТБЪЧЙФЙС фЧЕТУЛПК ПВМБУФЙ<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>+7&nbsp;905&nbsp;602 0678<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><a href="mailto:egorov@tverreg.ru"><span style='color:#0563C1'>egorov@tverreg.ru</span></a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

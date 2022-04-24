@@ -1,0 +1,96 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 31 Oct 2018 15:59:27 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 31 Oct
+ 2018 15:59:26 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 31 Oct 2018 15:59:26 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id C0468217DB
+	for <rim@tverreg.ru>; Wed, 31 Oct 2018 15:59:27 +0300 (MSK)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'butashin@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="butashin@gmail.com"; helo=mail-lf1-f41.google.com; client-ip=209.85.167.41
+Received: from mail-lf1-f41.google.com (mail-lf1-f41.google.com [209.85.167.41])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 3B87E217D9
+	for <rim@tverreg.ru>; Wed, 31 Oct 2018 15:59:26 +0300 (MSK)
+Received: by mail-lf1-f41.google.com with SMTP id n18so3222220lfh.6
+        for <rim@tverreg.ru>; Wed, 31 Oct 2018 05:59:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :references:to;
+        bh=+BLz3/n6TWKpG0jp8ljf4oMjP8F/PItMCYdcp/5LL38=;
+        b=Snd9cYjOh6cRHXmDO3CRtN6aUuiJLkWWLZnrN9da58p2c+qYejNykpKjJfO6l2QAs1
+         9re2pp7M5TyX8TkRYNYrvlJwwTrAoG++co2QMKlTgZTGbevJhV19003aBJp+2hOFz5Xt
+         lVruCz82DuYAL50UiqIddZ6uUpau861Jzjb1THT1NU/wv8uVxvrnflK8O/Q3GV1YBNp9
+         fcMUOC7BA7EQoK/9Zm1p/fk38i7jg57Oj2Jkg1x90iWY+5MO0f4KMSVSIVkoMSQS0Z8t
+         773me4IhwLN33XCSDT6f24zihn1HPUGoZEovJuxyFH4ciKktlrWUr8Li8ONFzpyZljz9
+         /6tA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:references:to;
+        bh=+BLz3/n6TWKpG0jp8ljf4oMjP8F/PItMCYdcp/5LL38=;
+        b=e1xSz0Mh378HSNKU2Bc/kZFTEokWj00yrn1umAVFzuhKKbyybKNumlBDMhyOcWtgeP
+         OFth7s0xvc4JSXXpy61Ipc5rReHinlAChJvQyLKDbL1f4oNfFkFQDMY77FY+cT4VpK+a
+         vYXDqw1vePxqWt4qy3AOcXMQGJ9koAdDsErwaMl4CeYuoBIbJgo/8PeLmfU8CQdd/k3D
+         8hH4BWuH73EQqAAQFrJmW8+Y0qgHnWcmwtWMMKM76N1V/G3BSO8UQHH6jyshOWWId5vx
+         /4F79ziz8jke/PNsZ261hhTqICQK23m5IyCIkRfef8qzQlJ8VE6PTYrz6DhocIv+hTqT
+         C5Qg==
+X-Gm-Message-State: AGRZ1gICt8XMJ3cDskVLsgJARhesIwPR094BjpsyMRZeqcJco+wM2Ze8
+	vlz2c6IaEBp5m35d/XL4/rerpju7
+X-Google-Smtp-Source: AJdET5duwR8acoQQMsMrtxwYZy2GpkvF5RCFIa2yl2kJt+fYT2x4tcOel8zaKroOmsuI9l85UTyYqQ==
+X-Received: by 2002:a19:e601:: with SMTP id d1mr1902554lfh.71.1540990758815;
+        Wed, 31 Oct 2018 05:59:18 -0700 (PDT)
+Received: from [10.90.132.83] ([85.115.248.43])
+        by smtp.gmail.com with ESMTPSA id o22-v6sm4076323ljc.79.2018.10.31.05.59.11
+        for <rim@tverreg.ru>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 31 Oct 2018 05:59:13 -0700 (PDT)
+From: =?utf-8?B?0JTQvNC40YLRgNC40Lkg0JHRg9GC0LDRiNC40L0=?= <butashin@gmail.com>
+Date: Wed, 31 Oct 2018 15:59:10 +0300
+Subject: =?utf-8?B?RndkOiDQv9C+INC60LDQtNGA0L7QstC+0LzRgyDQstC+0L/RgNC+?=
+ =?utf-8?B?0YHRgw==?=
+Message-Id: <BF6B0CAC-80E0-48F1-9F7E-2AB1EB27E375@gmail.com>
+References: <VI1PR06MB44952935C066F3E34344BF37CFF00@VI1PR06MB4495.eurprd06.prod.outlook.com>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L4=?=
+ =?utf-8?B?0LLQuNGH?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (16A404)
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (butashin[at]gmail.com)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	MIME_QP_LONG_LINE       0.001 Quoted-printable line longer than 76 chars
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at http://www.dnswl.org/, no trust
+	RCVD_IN_SORBS_WEB         1.5 SORBS: sender is an abusable web server
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: butashin@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: 1c25e9c5-ca1d-4731-e12f-08d63f30b059
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3594342
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><br><blockquote type="cite"><div dir="ltr"><div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p style="margin-top:0;margin-bottom:0">РљР°РЅРґРёРґР°С‚ РёР· РљРѕРјРё.</p>
+</div>
+
+
+</div></blockquote><blockquote type="cite"><div dir="ltr"></div></blockquote></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

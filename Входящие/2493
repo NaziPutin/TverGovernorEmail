@@ -1,0 +1,46 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 15 May 2019 11:53:49 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 15 May
+ 2019 11:53:43 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Wed, 15 May 2019
+ 11:53:49 +0300
+From: =?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?8NLF2sXO1MHDydEgyyDTz9fF3cHOycAg7cnOy8/N09fR2tg=?=
+Thread-Topic: =?koi8-r?B?8NLF2sXO1MHDydEgyyDTz9fF3cHOycAg7cnOy8/N09fR2tg=?=
+Thread-Index: AQHVCvu2LzeQXLE7O0uIepn6Saw9bw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Wed, 15 May 2019 11:53:49 +0300
+Message-ID: <01C2A2E7-15B8-4987-B3D5-5D7B9E537322@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <01C2A2E7-15B8-4987-B3D5-5D7B9E537322@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 5da9f6ee-5392-47e8-ae59-08d6d912d924
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7561665
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"></head><body dir="auto"><br></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

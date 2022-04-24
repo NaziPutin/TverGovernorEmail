@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaf2c58
+DTSTAMP:20220424T204126Z
+CREATED:20200428T102108Z
+LAST-MOD:20200428T090952Z
+SUMMARY:Подготовка к Совещанию с высшими должностными лицами субъектов РФ\, тема: «О противодействии распространения новой коронавирусной инфекции в регионах РФ» (в режиме ВКС) (28.04.2020) (отв. Ажгиревич А.И.\, Егоров И.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200428T110000Z
+DTEND;VALUE=DATE-TIME:20200428T113000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

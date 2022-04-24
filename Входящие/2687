@@ -1,0 +1,62 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sun, 3 Feb 2019 15:56:58 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sun, 3 Feb
+ 2019 15:56:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Sun, 3 Feb 2019
+ 15:56:58 +0300
+From: =?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QvtGB0YLQsNCy0LrQsCDRgdC10YDQstC10YDQvtCyICjRgdC/0YDQsNCy?=
+ =?utf-8?B?0L7Rh9C90L4p?=
+Thread-Topic: =?utf-8?B?0J/QvtGB0YLQsNCy0LrQsCDRgdC10YDQstC10YDQvtCyICjRgdC/0YDQsNCy?=
+ =?utf-8?B?0L7Rh9C90L4p?=
+Thread-Index: AQHUu7/y/9KZF23bW0+g6wN6Ja6GFg==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sun, 3 Feb 2019 15:56:58 +0300
+Message-ID: <B762D237-66CC-4570-AA24-81060DE2165F@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <B762D237-66CC-4570-AA24-81060DE2165F@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 7989aadc-e1b9-4177-c025-08d689d71510
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7420122
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Добрый день.
+Справочно сообщаю о ситуации с поставкой серверов для системы электронного документооборота (СЭД)
+Сумма контракта 27 561 тыс руб. По состоянию на 03.02 поставленно основное оборудование на сумму 24 532 тыс руб.
+ Поставка остального (шкафы для размещения серверов)— ожидается до 20 февраля.
+Подрядчику расчитаны штрафные санкции (270,5 тыс руб), которые им оплачены. Так же оплачен денежный залог , вместо закончившейся банковской гарантии.
+Поставленное оборудование проверено сотрудниками министерства и независимой экспертизой (НИИ ИТ), отклонений от тех задания не выявлено.
+Оплата контракта будет производится только после поставки всего оборудования, его полной проверки и Настройки (30 дней с момента поставки и приема оборудования - по контракту). 
+СЭД в тестовом режиме может быть развернут на имеющемся оборудовании, процессы поставки, Настройки оборудования и Настройки СЭД будут параллельны.
+
+До 06 февраля будет готов детализированный сетевой план-график запуска СЭД в промышленную эксплуатацию, который будет направлен в Ваш адрес и будет контролироваться ежедневно.
+
+Егоров И.И.
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5dc8e4
+DTSTAMP:20220424T204126Z
+CREATED:20210611T092614Z
+LAST-MOD:20210610T123917Z
+SUMMARY:Торжественное мероприятие по открытию логистического комплекса по хранению запасных автомобильных частей АО «Торговая Компания «Альфа» в Калининском районе Тверской области (отв. Подтихова М.И.\, Дорофеев М.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210611T093000Z
+DTEND;VALUE=DATE-TIME:20210611T102000Z
+LOCATION:Калининский район\, Никулинское сельское поселение\, ул. Территория Альфа\, д. 1 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

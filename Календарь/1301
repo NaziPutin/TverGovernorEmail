@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x7503ec
+DTSTAMP:20220424T204126Z
+CREATED:20210323T060253Z
+LAST-MOD:20210322T070101Z
+SUMMARY:Торжественное вручение автомобилей скорой медицинской помощи учреждениям здравоохранения Тверской области (отв. Егоров И.И.\, Козлов С.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210323T063000Z
+DTEND;VALUE=DATE-TIME:20210323T064500Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

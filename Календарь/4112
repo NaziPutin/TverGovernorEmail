@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x11ba010
+DTSTAMP:20220424T204127Z
+CREATED:20180921T161827Z
+LAST-MOD:20181206T211332Z
+SUMMARY:Торжественная церемония открытия учений по организации взаимодействия и устранению массовых нарушений на электросетевых объектах в Тверской области (отв. Жарлицына Т.Л.\, Волгин А.В.\,СМИ+пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20180922T120000Z
+DTEND;VALUE=DATE-TIME:20180922T140000Z
+LOCATION:Краснофлотская наб.\, д. 3\, Дворец спорта "Юбилейный"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

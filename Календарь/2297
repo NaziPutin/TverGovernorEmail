@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaf4420
+DTSTAMP:20220424T204126Z
+CREATED:20200427T161026Z
+LAST-MOD:20200427T065042Z
+SUMMARY:Рабочая встреча\, тема: «О строительстве объектов  отрасли «Физическая культура и спорт» (отв. Ищенко А.Н.\, Решетов А.А.\, Биленко Д.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200427T130000Z
+DTEND;VALUE=DATE-TIME:20200427T133000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

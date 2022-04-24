@@ -1,0 +1,119 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 23 Mar 2022 18:13:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 23 Mar
+ 2022 18:13:03 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 23 Mar 2022 18:13:03 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+CC: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>,
+	=?windows-1251?B?weXw5efo7SDE7Ojy8OjpIMHu8Ojx7uLo9w==?=
+	<Berezin_DB@tverreg.ru>, =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?=
+	<egorov@tverreg.ru>, =?windows-1251?B?xuDw6u7iIMjj7vD8INHl8OPl5eLo9w==?=
+	<ZharkovIC@tverreg.ru>,
+	=?windows-1251?B?zO7w7ufu4iDF4uPl7ejpIMLg8ejr/OXi6Pc=?=
+	<Morozov_EV@tverreg.ru>,
+	=?windows-1251?B?ze7i6Oru4uAgwuDr5e3y6O3gIMji4O3u4u3g?=
+	<Novikova_VI@tverreg.ru>,
+	=?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>, =?windows-1251?B?zeDz7O7iIMDt5PDl6SDC6Ory7vDu4uj3?=
+	<naumov@tverreg.ru>, =?windows-1251?B?w/Do4+7w/+0gwPDx5e0g0OD06Oru4uj3?=
+	<grygoryan@tverreg.ru>,
+	=?windows-1251?B?0eru8PvpIMDr5erx5ekgwuvg5Ojs6PDu4uj3?=
+	<SkoriyAV@tverreg.ru>,
+	=?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>,
+	=?windows-1251?B?weXr7vDz8e7iIMLr4OTo8evg4iDA7eDy7uv85eLo9w==?=
+	<bva@tverreg.ru>, =?windows-1251?B?0e7q7uvu4iDK7u3x8uDt8ujtIMjr/Oj3?=
+	<sokolov@tverreg.ru>, "Ministerstvo_To@tverreg.ru"
+	<Ministerstvo_To@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoIDIzIOzg8PLgIDIwMjIg4+7k4CDD?=
+ =?windows-1251?B?xCAg9OXk5fDg6/zt+/Ug5+Dq7u3u4iDv7iDv7uTk5fDm6uUg4/Dg5uTg?=
+ =?windows-1251?B?7Swg8OXj6O7t7uIg6CDh6Oft5fHgIOIg8/Hr7uLo//Ug5+Dw8+Hl5u37?=
+ =?windows-1251?B?9SDx4O3q9ujp?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoIDIzIOzg8PLgIDIwMjIg4+7k4CDD?=
+ =?windows-1251?B?xCAg9OXk5fDg6/zt+/Ug5+Dq7u3u4iDv7iDv7uTk5fDm6uUg4/Dg5uTg?=
+ =?windows-1251?B?7Swg8OXj6O7t7uIg6CDh6Oft5fHgIOIg8/Hr7uLo//Ug5+Dw8+Hl5u37?=
+ =?windows-1251?B?9SDx4O3q9ujp?=
+Thread-Index: Adg+xwz2oU2Z//DpTUmIavnyMTNivA==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Wed, 23 Mar 2022 18:13:03 +0300
+Message-ID: <54a4c29ce51c4fa1bf2665c347ebc29e@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <54a4c29ce51c4fa1bf2665c347ebc29e@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: cbf325d3-5f42-42c6-0780-08da0cdfa056
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.0711356
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>По Вашему поручению направляю информацию о проектах федеральных законов, направленных на защиту граждан и экономики в условиях зарубежных санкций, принятых Государственной Думой Федерального Собрания Российской Федерации 23 марта 2022 года.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1.      Проектом Федерального закона № 84931-8 «О внесении изменений в отдельные законодательные акты Российской Федерации» предлагается <b>перенос сроков вступления</b><o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> в силу законодательных актов, содержащих наиболее <b>обременительные обязательные требования</b>, которые не могут быть соблюдены, в том числе ввиду технологических ограничений:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- перенос на 31 декабря 2024 г. срока направления заявок на получение комплексных экологических разрешений 300 предприятиями, включенными в специальный перечень; <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- перенос на 2 года требований по созданию систем автоматического контроля (комплекс технических средств, обеспечивающих автоматическое измерение и учет показателей выбросов и (или) сбросов, фиксацию и передачу информации о показателях в государственный реестр) для объектов I категории предприятиями, получившими комплексные экологические разрешения до 15 марта 2022 г.;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>-  перенос на 1 год (1 сентября 2023 г.) расширения перечня территорий участников эксперимента по квотированию выбросов загрязняющих веществ в атмосферный воздух;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- перенос на 2 года (31 декабря 2026 г.) срока завершения эксперимента по квотированию выбросов загрязняющих веществ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- перенос на 2 года введения в эксплуатацию ФГИС JIK.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Законопроект содержит ряд обеспечительных предписаний временного характера в части сроков вступления в силу подзаконных актов, содержащих обязательные требования,  приостановления особо обременительных для осуществления предпринимательской деятельности составов административных правонарушений и право Правительства Российской Федерации в последующем определить перечень статей Кодекса Российской Федерации об административных правонарушениях, не подлежащих применению в 2022 году <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2.      Проектом Федерального закона № 92634-8 «О внесении изменения в Федеральный закон «О ветеранах» предлагается установить <b>статус ветерана</b> боевых действий и инвалида боевых действий военнослужащим, а также сотрудникам иных правоохранительных и силовых структур, выполняющим <b>задачи в ходе специальной военной операции</b> на территории Украины, Донецкой Народной Республики и Луганской Народной Республики.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

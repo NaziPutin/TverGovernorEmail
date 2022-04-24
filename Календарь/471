@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x39e510
+DTSTAMP:20220424T204126Z
+CREATED:20211103T214908Z
+LAST-MOD:20211103T113024Z
+SUMMARY:Траурное мероприятие\, посвященное Дню памяти погибших при исполнении служебных обязанностей сотрудников органов внутренних дел РФ (отв. Веселов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211108T080000Z
+DTEND;VALUE=DATE-TIME:20211108T083000Z
+LOCATION:пл. Мира \, д.1/70\, Мемориал у здания УМВД России
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1f961c
+DTSTAMP:20220424T204126Z
+CREATED:20220316T181506Z
+LAST-MOD:20220316T082106Z
+SUMMARY:Совещание по вопросам строительства и ремонта социально значимых объектов ТО (отрасль "Здравоохранение") (отв. Ажгиревич А.И.\, Березин Д.Б.\, Козлов С.Е.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220317T110000Z
+DTEND;VALUE=DATE-TIME:20220317T120000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

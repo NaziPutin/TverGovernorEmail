@@ -1,0 +1,43 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 24 Mar 2021 12:13:17 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Wed, 24 Mar
+ 2021 12:13:16 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Wed, 24 Mar 2021 12:13:13 +0300
+Subject: =?KOI8-R?B?8tbF19PLycog0sHKz84=?=
+To: =?KOI8-R?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4v4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <RudenyaIM@tverreg.ru>
+X-Mailer: Lotus Notes Release 6.5 September 26, 2003
+Message-ID: <OF0468AA22.E8EAFB3C-ON432586A2.003247E4-432586A2.0032DC68@tverreg.ru>
+From: =?KOI8-R?B?4cTNyc7J09TSwcPJ0SDy1sXX08vPx88g0sHKz87BL/TXxdLTy8HR?=
+ =?KOI8-R?B?IM/CzMHT1Ng=?= <rgevsky_reg@tverreg.ru>
+Date: Wed, 24 Mar 2021 12:13:10 +0300
+X-MailFwdBy: CN=Igor Mikhaylovich Rudenya/O=TverRegAdm/C=RU
+Auto-Submitted: auto-forwarded
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 24.03.2021 12:13:15
+Content-Disposition: inline
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: 820b0e60-3369-409f-d248-08d8eea50dc6
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.3860455
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+(See attached file: Scan-210324-0006.pdf)
+----boundary-LibPST-iamunique-2146875884_-_---
+

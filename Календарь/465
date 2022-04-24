@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x398d70
+DTSTAMP:20220424T204126Z
+CREATED:20211108T184700Z
+LAST-MOD:20211108T175707Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе Тверской области «Жилищно-коммунальное хозяйство и энергетика Тверской области» на 2020-2025 годы (отв. Ажгиревич А.И.\, Егоров И.И.\, Подтихова М.И.\, Цветков А.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211108T180000Z
+DTEND;VALUE=DATE-TIME:20211108T183000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xdf9390
+DTSTAMP:20220424T204127Z
+CREATED:20190913T144035Z
+LAST-MOD:20190913T140317Z
+SUMMARY:Рабочее совещание по вопросу рассмотрения комплексной программы транспортного обслуживания и транспортной инфраструктуры городских агломераций (отв. Жарлицына Т.Л.\, Насибуллин Д.И.)
+DTSTART;VALUE=DATE-TIME:20190916T153000Z
+DTEND;VALUE=DATE-TIME:20190916T163000Z
+LOCATION:г. Москва\, ул. Ильинка\, д. 9\, подъезд 1\, 5-й этаж\, зал коллегии
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

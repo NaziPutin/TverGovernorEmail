@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8be970
+DTSTAMP:20220424T204126Z
+CREATED:20201126T133348Z
+LAST-MOD:20201126T084059Z
+SUMMARY:Рабочая встреча\, тема: «О внесении изменений в статьи 2 и 4 закона ТО «О перераспределении отдельных полномочий в области градостроительной деятельности между органами МСУ МО ТО и органами госвласти ТО» (отв. Таланина Л.А.\, Жарков И.С.\, Скорый А.В.)
+DTSTART;VALUE=DATE-TIME:20201126T120000Z
+DTEND;VALUE=DATE-TIME:20201126T123000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

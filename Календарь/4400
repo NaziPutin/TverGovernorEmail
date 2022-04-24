@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12e8e54
+DTSTAMP:20220424T204127Z
+CREATED:20180731T132009Z
+LAST-MOD:20180731T125444Z
+SUMMARY:Выездное совещание Секретаря Совета Безопасности Российской Федерации\, проводимое совместно с полномочным представителем Президента Российской Федерации в Центральном федеральном округе  (отв. Попенко В.И.\, СМИ + пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180803T100000Z
+DTEND;VALUE=DATE-TIME:20180803T130000Z
+LOCATION:г. Орел\, пл.Ленина\, д.1\, 2 этаж\, круглый зал Правительства Орловской области
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

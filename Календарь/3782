@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x110102c
+DTSTAMP:20220424T204127Z
+CREATED:20181225T150539Z
+LAST-MOD:20181225T144726Z
+SUMMARY:Подготовка к заседанию Государственного Совета РФ\, тема:"О развитии добровольчества (волонтерства) и соц. ориентированных некоммерч. организаций"(27.12.2018\,г. Москва)(отв. Белоцерковский А.В.\, Егоров И.И.\, Белорусов В.А.)Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20181226T160000Z
+DTEND;VALUE=DATE-TIME:20181226T163000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

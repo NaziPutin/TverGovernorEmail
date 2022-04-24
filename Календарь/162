@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x219e68
+DTSTAMP:20220424T204126Z
+CREATED:20220301T160827Z
+LAST-MOD:20220301T154058Z
+SUMMARY:Совещание по вопросам реализации объекта «Строительство скоростной автомобильной дороги М-11 Москва – Санкт–Петербург (3 этап км 149 – км 208) на территории ТО» (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, пресс-служба)  Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220302T070000Z
+DTEND;VALUE=DATE-TIME:20220302T080000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

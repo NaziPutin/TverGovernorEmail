@@ -1,0 +1,56 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 4 Oct 2019 18:34:06 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 4 Oct
+ 2019 18:34:01 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 4 Oct 2019
+ 18:34:06 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KnQtdCz0L7Qu9C10LIg0Jgu0J4uINCX0LDRgdC10LTQsNC90LjQtSDQodC+?=
+ =?utf-8?B?0LLQtdGC0LAg0L/RgNC4INC/0L7Qu9C90L7QvNC+0YfQvdC+0Lwg0L/RgNC1?=
+ =?utf-8?B?0LTRgdGC0LDQstC40YLQtdC70LUg0J/RgNC10LfQuNC00LXQvdGC0LAg0KA=?=
+ =?utf-8?B?0KQg0LIg0KbQpNCeICgxNi4xMC4yMDE5LCAxMyDRh9Cw0YEuIDAwINC80Lg=?=
+ =?utf-8?B?0L0uLCDQsy4g0JzQvtGB0LrQstCwKQ==?=
+Thread-Topic: =?utf-8?B?0KnQtdCz0L7Qu9C10LIg0Jgu0J4uINCX0LDRgdC10LTQsNC90LjQtSDQodC+?=
+ =?utf-8?B?0LLQtdGC0LAg0L/RgNC4INC/0L7Qu9C90L7QvNC+0YfQvdC+0Lwg0L/RgNC1?=
+ =?utf-8?B?0LTRgdGC0LDQstC40YLQtdC70LUg0J/RgNC10LfQuNC00LXQvdGC0LAg0KA=?=
+ =?utf-8?B?0KQg0LIg0KbQpNCeICgxNi4xMC4yMDE5LCAxMyDRh9Cw0YEuIDAwINC80Lg=?=
+ =?utf-8?B?0L0uLCDQsy4g0JzQvtGB0LrQstCwKQ==?=
+Thread-Index: AdV6xtpDiKktGznbQ++2PNqbZfX0+A==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 4 Oct 2019 18:34:06 +0300
+Message-ID: <85bev62clw0i-75mbm9jsd0l0-pj0qwt-pefjks-izn69a-rm93e0-cq9civv6bvty-6lyoz7m5o2vjqq089a1ktjgvjufswp1xo1t816s90z-slqtxr-cbfddgy2xmgemdq0l-mwylnr7ouq20jzp140.1570203239169@email.android.com>
+References: <1279004b322746508dc0487b188b8edb@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <85bev62clw0i-75mbm9jsd0l0-pj0qwt-pefjks-izn69a-rm93e0-cq9civv6bvty-6lyoz7m5o2vjqq089a1ktjgvjufswp1xo1t816s90z-slqtxr-cbfddgy2xmgemdq0l-mwylnr7ouq20jzp140.1570203239169@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: d9f507d1-baf4-46fd-ba27-08d748e04b09
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.8048375
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">Уважаемый Игорь Михайлович, поступило приглашение за подписью полномочного представителя Президента РФ в ЦФО Щеголева И.О. принять участие в заседании Совета при полномочном представителе Президента РФ в ЦФО на тему: «О реализации национального проекта «Здравоохранение» в регионах ЦФО» (16 октября 2019 г., 13 час. 00 мин., г. Москва, Никольский пер., д.6).<br><br>Проинформированы: Максимов М.А., Егоров И.И.<br><br>На Ваше решение.<br><br>С уважением, А.Скорый
+----boundary-LibPST-iamunique-2146875884_-_---
+

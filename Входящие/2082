@@ -1,0 +1,65 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 12 Feb 2020 17:35:09 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 12 Feb
+ 2020 17:35:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Wed, 12 Feb 2020 17:35:03 +0300
+From: =?koi8-r?B?49fF1MvP1yDhzMXL08HOxNIg6dfBzs/Xyd4=?= <CvetkovAI@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?4dbHydLF18neIOHS1MXNIOnXwc7P18ne?= <AzhgirevichAI@tverreg.ru>
+Subject: =?koi8-r?B?7yDSxc3PztTFIMTSxc7B1s7PyiDOwdPP087PyiDT1MHOw8nJINPJzMHNySDv?=
+ =?koi8-r?B?7+8g9NfF0tPLwdEg58XOxdLBw8nRINDPINXMLiDhLuTFzcXO1NjF18Eg1yDH?=
+ =?koi8-r?B?z9Iu9NfF0sk=?=
+Thread-Topic: =?koi8-r?B?7yDSxc3PztTFIMTSxc7B1s7PyiDOwdPP087PyiDT1MHOw8nJINPJzMHNySDv?=
+ =?koi8-r?B?7+8g9NfF0tPLwdEg58XOxdLBw8nRINDPINXMLiDhLuTFzcXO1NjF18Eg1yDH?=
+ =?koi8-r?B?z9Iu9NfF0sk=?=
+Thread-Index: AQHV4bCY68CB6hRxqU+v399R8ObeqQ==
+Date: Wed, 12 Feb 2020 17:35:02 +0300
+Message-ID: <a8dc2652c1484fddaa40d8e92b832853@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <a8dc2652c1484fddaa40d8e92b832853@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 66081c63-f0e9-4a7f-739e-08d7afc8bf62
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:07.0400390
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!</p>
+<p>оБРТБЧМСА ЙОЖПТНБГЙА П ТЕНПОФЕ ДТЕОБЦОПК ОБУПУОПК УФБОГЙЙ&nbsp;ппп &quot;фЧЕТУЛБС зЕОЕТБГЙС&quot;</p>
+<p>РП ХМ.б.дЕНЕОФШЕЧБ Ч ЗПТ.фЧЕТЙ. дТЕОБЦОБС УФБОГЙС ТБУРПМПЦЕОБ ОБ ХЮБУФЛЕ РТЙМЕЗБАЭЕН Л ОЕРТПИПДОПНХ&nbsp;</p>
+<p>ЛБОБМХ НБЗЙУФТБМШОЩИ ФЕРМПЧЩИ УЕФЕК, ЛБРЙФБМШОЩК ТЕНПОФ ЛПФПТЩИ ЪБЧЕТЫЕО Ч 2019 ЗПДХ.</p>
+<p>тЕНПОФ доу ВХДЕФ ЪБЧЕТЫЕО ДП 15.02.2020 ЗПДБ.</p>
+<p>у ХЧБЦЕОЙЕН гЧЕФЛПЧ б.й.</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

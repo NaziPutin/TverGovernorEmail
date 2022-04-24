@@ -1,0 +1,11 @@
+BEGIN:VCARD
+FN:Иванов\, Тимур Вадимович
+N:Иванов;Тимур;Вадимович;;
+EMAIL:ivanov@mil.ru
+BDAY:1975-08-14T21:00:00Z
+TEL;TYPE=work,voice:+7 (495) 498-86-70
+TEL;TYPE=cell,voice:+7 (985) 411-39-29
+TITLE:заместитель Министра обороны РФ
+VERSION:3.0
+END:VCARD
+

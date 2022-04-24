@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xedf1c8
+DTSTAMP:20220424T204127Z
+CREATED:20190705T170012Z
+LAST-MOD:20190708T063810Z
+SUMMARY:Совещание\, тема: «О показателях оценки эффективности деятельности муниципальных образований Тверской области в сфере экономического развития» (отв. Егоров И.И.\, Подтихова М.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190708T113000Z
+DTEND;VALUE=DATE-TIME:20190708T123000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

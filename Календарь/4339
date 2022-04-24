@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1243658
+DTSTAMP:20220424T204127Z
+CREATED:20180713T055003Z
+LAST-MOD:20180711T131204Z
+SUMMARY:Совещание\, тема: «Развитие и совершенствование налоговой базы на территории Тверской области» (отв. Меньщиков А.В.\, Северина И.А.\, Павлова О.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180713T130000Z
+DTEND;VALUE=DATE-TIME:20180713T140000Z
+LOCATION:каб.206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

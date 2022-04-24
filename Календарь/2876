@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd4d8a4
+DTSTAMP:20220424T204127Z
+CREATED:20191022T085920Z
+LAST-MOD:20191022T082321Z
+SUMMARY:Совещание\, тема: «О Программе ремонта и развития материально-технической базы государственных учреждений здравоохранения Тверской области на 2020-2023 гг.» (отв. Егоров И.И.\, Максимов М.А.\, Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191022T173000Z
+DTEND;VALUE=DATE-TIME:20191022T180000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

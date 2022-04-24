@@ -1,0 +1,308 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 22 Mar 2022 20:24:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 22 Mar
+ 2022 20:24:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Tue, 22 Mar 2022 20:24:12 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+CC: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>,
+	=?windows-1251?B?weXw5efo7SDE7Ojy8OjpIMHu8Ojx7uLo9w==?=
+	<Berezin_DB@tverreg.ru>, =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?=
+	<egorov@tverreg.ru>, =?windows-1251?B?xuDw6u7iIMjj7vD8INHl8OPl5eLo9w==?=
+	<ZharkovIC@tverreg.ru>,
+	=?windows-1251?B?zO7w7ufu4iDF4uPl7ejpIMLg8ejr/OXi6Pc=?=
+	<Morozov_EV@tverreg.ru>,
+	=?windows-1251?B?ze7i6Oru4uAgwuDr5e3y6O3gIMji4O3u4u3g?=
+	<Novikova_VI@tverreg.ru>,
+	=?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>, =?windows-1251?B?zeDz7O7iIMDt5PDl6SDC6Ory7vDu4uj3?=
+	<naumov@tverreg.ru>, =?windows-1251?B?w/Do4+7w/+0gwPDx5e0g0OD06Oru4uj3?=
+	<grygoryan@tverreg.ru>,
+	=?windows-1251?B?0eru8PvpIMDr5erx5ekgwuvg5Ojs6PDu4uj3?=
+	<SkoriyAV@tverreg.ru>,
+	=?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>,
+	=?windows-1251?B?weXr7vDz8e7iIMLr4OTo8evg4iDA7eDy7uv85eLo9w==?=
+	<bva@tverreg.ru>, =?windows-1251?B?0e7q7uvu4iDK7u3x8uDt8ujtIMjr/Oj3?=
+	<sokolov@tverreg.ru>, "Ministerstvo_To@tverreg.ru"
+	<Ministerstvo_To@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoIMPEICDv8ODi6PLl6/zx8uLl7e3u?=
+ =?windows-1251?B?4+4g7+Dq5fLgIOfg6u7t7uTg8uXr/O379SDo7ej26ODy6OIg7+4g7+7k?=
+ =?windows-1251?B?5OXw5urlIOPw4Obk4O0sIPDl4+ju7e7iIOgg4ejn7eXx4CDiIPPx6+7i?=
+ =?windows-1251?B?6P/1IOfg8PPh5ebt+/Ug8eDt6vbo6Q==?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoIMPEICDv8ODi6PLl6/zx8uLl7e3u?=
+ =?windows-1251?B?4+4g7+Dq5fLgIOfg6u7t7uTg8uXr/O379SDo7ej26ODy6OIg7+4g7+7k?=
+ =?windows-1251?B?5OXw5urlIOPw4Obk4O0sIPDl4+ju7e7iIOgg4ejn7eXx4CDiIPPx6+7i?=
+ =?windows-1251?B?6P/1IOfg8PPh5ebt+/Ug8eDt6vbo6Q==?=
+Thread-Index: Adg+ESYDAT+yWwtwRoO8iMDCjw31zw==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Tue, 22 Mar 2022 20:24:11 +0300
+Message-ID: <f100f13c5c7846f3af5d1ba84051c132@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <f100f13c5c7846f3af5d1ba84051c132@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: 1fd573a4-d020-4a49-2f59-08da0c28c820
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.4129159
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.oznaimen
+	{mso-style-name:oz_naimen;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1078164510;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1778915224 -1897635638 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:39.3pt;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:16.0pt;
+	mso-bidi-font-size:16.0pt;
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-font-weight:normal;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:75.3pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:111.3pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:147.3pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:183.3pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:219.3pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:255.3pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:291.3pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:327.3pt;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:1829861620;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-29084230 68747265 68747267 68747269 68747265 68747267 68747269 68747265 68747267 68747269;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:142.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:178.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:214.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:250.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:286.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:322.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:358.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:394.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:430.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>По Вашему поручению направляю информацию о проектах федеральных законов, направленных на защиту граждан и экономики в условиях зарубежных санкций, принятых Государственной Думой Федерального Собрания Российской Федерации 22 марта 2022 года.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></u></p><p class=MsoNormal style='margin-left:106.35pt;text-align:justify;line-height:150%'><u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1) </span></u><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Проект федерального закона № 84920-8 вносит <u>изменения в Федеральный закон от 12.04.2010 № 61-ФЗ «Об обращении лекарственных средств»</u>, направленные на ускорение ввода в обращение и применение недавно зарегистрированных лекарственных препаратов без выполнения требований к их упаковке и получения разрешения Росздравнадзора на ввод в гражданский оборот в отношении лекарственных препаратов, до момента организации производства вторичной (потребительской) упаковки в соответствии с установленными требованиями.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:106.2pt;text-align:justify;text-indent:.15pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2) Проектом федерального закона № 84933-8 «О внесении изменений в отдельные законодательные акты Российской Федерации и о приостановлении действия отдельных положений законодательных актов Российской Федерации» предусматривается ряд <u>упрощений в  регулировании импорта товаров</u> на территорию Российской Федерации, таможенную территорию Евразийского экономического союза.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>3) Проект федерального закона № 84984-8 вносит <b>изменения</b> в пункт 4 статьи 75 части первой и часть вторую <b>Налогового кодекса Российской Федерации</b>».<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>Законом  предусматривается отказ от применения в 2022 и 2023 годах в отношении организаций нормы о повышенном размере пени с 31 дня просрочки исполнения обязанности по уплате налога в размере 1/150 ставки рефинансирования.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'> По налогу на добавленную стоимость предлагается на 5 лет установить ставку 0 процентов в отношении услуг по предоставлению мест для временного проживания в гостиницах и иных средствах размещения. <o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>Также нулевая ставка НДС устанавливается в отношении услуг по предоставлению в аренду, управление, на ином праве объекта туристской индустрии, введенного в эксплуатацию после 1 января 2022 г. Ставка будет применяться в течение 20 последовательных налоговых периодов с момента ввода в эксплуатацию таких объектов.<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>По налогу на доходы физических лиц законопроектом освобождаются от налогообложения доходы физических лиц:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:88.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- в виде материальной выгоды, полученные в 2022 и 2023 годах от экономии на процентах за пользование заемными (кредитными) средствами;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:88.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- в виде процентов, полученные в 2021 и 2022 годах году по вкладам (остаткам на счетах) в банках;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:124.35pt;text-align:justify;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- в виде ценных бумаг (долей участия в уставном капитале) российских организаций и государственных ценных бумаг, полученных в 2022 году от иностранной организации, при выполнении установленных условий.<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>Изменения в части налога на прибыль направлены на расширение «безопасного» интервала для учета в расходах процентов по долговым обязательствам. Также временно фиксируется курс иностранной валюты для расчета «тонкой капитализации».<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>Предлагается в 2022 - 2024 годах курсовую разницу, начисленную по требованиям (обязательствам) выраженным в иностранной валюте, учитывать при расчете налоговой базы по мере погашения указанной задолженности с целью исключения влияния на налоговые обязательства по налогу на прибыль расчетных величин, зависящих от изменения курса рубля к иностранным валютам.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>Законопроектом предусмотрено право налогоплательщиков по налогу на прибыль организаций перейти в течение 2022 года на уплату ежемесячных авансовых платежей исходя из фактической прибыли.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>В законопроекте в целях реализации мер поддержки, определенных в Указе Президента Российской Федерации от 2 марта 2022 г. №83, для организаций отрасли информационных технологий на 2022 - 2024 годы устанавливается ставка налога на прибыль организаций в размере 0 процентов.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>По транспортному налогу законопроектом предусматривается применение с 2022 года повышающего коэффициента только для транспортных средств стоимостью свыше 10 млн. рублей.<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin-left:142.35pt;mso-add-space:auto;text-align:justify;text-indent:-18.0pt;line-height:150%;mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-size:16.0pt;line-height:150%;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;line-height:150%'>По налогу на имущество организаций предусматривается, что в отношении объектов недвижимости, налоговая база по которым определяется как их кадастровая стоимость, в 2023 году для расчета налоговой базы будет применяться кадастровая стоимость по состоянию на 1 января 2022 г.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

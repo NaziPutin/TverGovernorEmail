@@ -1,0 +1,78 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 21 Aug 2018 13:39:50 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 21 Aug
+ 2018 13:39:49 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 21 Aug 2018 13:39:49 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id E159C21292
+	for <rim@tverreg.ru>; Tue, 21 Aug 2018 13:39:49 +0300 (MSK)
+Received-SPF: pass (gge.ru: 31.173.90.36 is authorized to use 'i.manylov@gge.ru' in 'mfrom' identity (mechanism 'mx' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="i.manylov@gge.ru"; helo=mx1.gge.ru; client-ip=31.173.90.36
+Received: from mx1.gge.ru (mx1.gge.ru [31.173.90.36])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id AB25821039
+	for <rim@tverreg.ru>; Tue, 21 Aug 2018 13:39:48 +0300 (MSK)
+Received: from 00SR-EX-MB04.expertiza.ru (10.33.18.6) by
+ 00SR-EX-EDGE02.expertiza.ru (10.6.0.5) with Microsoft SMTP Server (TLS) id
+ 15.0.1365.1; Tue, 21 Aug 2018 13:39:30 +0300
+Content-Language: ru-RU
+DKIM-Signature: v=1; a=rsa-sha1; d=gge.ru; s=main; c=simple/simple;
+	t=1534847975; h=from:subject:to:date:ad-hoc;
+	bh=rTZt0U11phrPwc2veRheTwVWKNo=;
+	b=g1OiFox9ZpJlAICByvnY2TZQpQN/EAQYE0c3j55QXePS8bhHG0YgqjE385adh/i45YQnYCriLGe
+	ODE8m7jOxh5xZh1fpqa3DTg89jXHGNYbcYLHjUriV55rwfo5P3ucCr4bHvPncKU3M85Ddnyu1vSkW
+	yxmLhxNkK7mFuHCtHYMlTwRyRNXsXGsFlHcTjqm0fBLMO9gsCOccK8h2y8O470bWqkorrD3CDOyJp
+	ReyuUA1SamyI2s6qJLS5CPtfR19ic8RlE6+323oFebs0ioCljm32XfIb1DiMABUXRYSg2Wex/l3LE
+	6Pr9AUG/lBSOA7d96cZl0zPFn9DXC+WyvCXA==
+Received: from 00SR-EX-MB04.expertiza.ru (10.33.18.6) by
+ 00SR-EX-MB04.expertiza.ru (10.33.18.6) with Microsoft SMTP Server (TLS) id
+ 15.0.1365.1; Tue, 21 Aug 2018 13:39:35 +0300
+Received: from 00SR-EX-MB04.expertiza.ru ([fe80::64f4:cef3:cd49:ecd6]) by
+ 00SR-EX-MB04.expertiza.ru ([fe80::64f4:cef3:cd49:ecd6%12]) with mapi id
+ 15.00.1365.000; Tue, 21 Aug 2018 13:39:35 +0300
+From: =?koi8-r?B?7cHO2czP1yDpx8/S2CDl18fFztjF18ne?= <i.manylov@gge.ru>
+To: =?koi8-r?B?6cfP0tgg8tXExc7R?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?7uPzIMTF1NPLycUg08HE2S5kb2N4?=
+Thread-Topic: =?koi8-r?B?7uPzIMTF1NPLycUg08HE2S5kb2N4?=
+Thread-Index: AQHUOTtAhhs++YMM+E6GmHJAaWWrAQ==
+Date: Tue, 21 Aug 2018 10:39:35 +0000
+Message-ID: <9BD13B3D-7057-48BD-9A25-98A7B95CFF4C@gge.ru>
+Accept-Language: ru-RU, en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-kse-serverinfo: 00SR-EX-MB04.expertiza.ru, 9
+x-kse-attachmentfiltering-interceptor-info: protection disabled
+x-kse-antivirus-interceptor-info: scan successful
+x-kse-antivirus-info: Clean, bases: 21.08.2018 8:52:00
+X-KSE-ServerInfo: 00SR-EX-EDGE02.expertiza.ru, 9
+X-KSE-AttachmentFiltering-Interceptor-Info: protection disabled
+X-SPAM-LEVEL: Spam detection results:  0
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FROM_EXCESS_BASE64      0.105 From: base64 encoded unnecessarily
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at http://www.dnswl.org/, no trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: i.manylov@gge.ru
+X-MS-Exchange-Organization-Network-Message-Id: 824dec37-85cc-460a-8e1a-08d607526bd7
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7656764
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

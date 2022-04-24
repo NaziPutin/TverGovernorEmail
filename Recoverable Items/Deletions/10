@@ -1,0 +1,96 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 30 Mar 2022 19:05:53 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Wed, 30 Mar
+ 2022 19:05:52 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Wed, 30 Mar 2022 19:05:53 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 0C2BD83B86
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 19:05:53 +0300 (MSK)
+Received-SPF: pass (info.tele2.ru: Sender is authorized to use 'info@info.tele2.ru' in 'mfrom' identity (mechanism 'include:spf.tele2.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="info@info.tele2.ru"; helo=mail-gw2.tele2.ru; client-ip=194.176.96.147
+Received: from mail-gw2.tele2.ru (mail-gw2.tele2.ru [194.176.96.147])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id C749983888
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 19:05:51 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=info.tele2.ru; s=secureinfo; t=1648656351;
+  h=date:to:message-id:subject:mime-version:
+   content-transfer-encoding:from;
+  bh=cGY6KZef9DptzWUTIGdrVRkDPvk/5BGxMFbfCZym2Hk=;
+  b=bHz3dx8yGMBOqVmRZJWqH7/wmMlCGAY7+si5heqV7ESEfslQIW59nfQ8
+   EqetuL5yLv6fqWo9iz/tJpnHAbrkBFpsaqb6VhjtXVltNLRXUtmfV6Z2L
+   lTFB+OCROHh9pen7klnNy8T85di5LSQQtoYkOVxB9lB78vGEp7xwpD/lt
+   o=;
+From: info@info.tele2.ru
+X-IronPort-AV: E=Sophos;i="5.90,182,1643662800"; 
+   d="scan'208,217";a="297442532"
+Date: Wed, 30 Mar 2022 19:05:45 +0300 (MSK)
+To: rim@tverreg.ru
+Message-ID: <863739600.12023.1648656345707@t2ru-ds-prod-10.corp.tele2.ru>
+Subject: =?UTF-8?B?0JrQu9C40LXQvdGC0YsgVGVsZTIg0LzQvtCz0YPRgiDQt9Cw0YnQuNGC0Lg=?=
+ =?UTF-8?B?0YLRjCDRgdC80LDRgNGC0YTQvtC9INC+?=
+ =?UTF-8?B?0YIg0L/QvtCy0YDQtdC20LTQtdC90LjQuQ==?=
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeivddgleduucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephfffvffkufggtgfgsehhsggstddttdejnecuhfhrohhmpehinhhfohesihhnfhhordhtvghlvgdvrdhruhenucggtffrrghtthgvrhhnpedugeegkefghefgieejkefgtdegtdelueejheelgfejieejtdehjefgieejieffheenucffohhmrghinhepshhpmhhosgdrrhhupdhtvghlvgdvrdhruh
+X-DrWeb-SpamVersion: Vade Retro 01.422.162#91 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.401 Adjusted score from AWL reputation of From: address
+	BAYES_05                 -0.5 Bayes spam probability is 1 to 5%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeivddgleduucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephfffvffkufggtgfgsehhsggstddttdejnecuhfhrohhmpehinhhfohesihhnfhhordhtvghlvgdvrdhruhenucggtffrrghtthgvrhhnpedugeegkefghefgieejkefgtdegtdelueejheelgfejieejtdehjefgieejieffheenucffohhmrghinhepshhpmhhosgdrrhhupdhtvghlvgdvrdhruhenucfkphepudelgedrudejiedrleeirddugeej
+X-DrWeb-SpamVersion: Vade Retro 01.422.162#91 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: info@info.tele2.ru
+X-MS-Exchange-Organization-Network-Message-Id: ee3008a9-acf9-4f32-443d-08da12672ae4
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2040707
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>
+  <h1>РљР»РёРµРЅС‚С‹ Tele2 РјРѕРіСѓС‚ Р·Р°С‰РёС‚РёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ РѕС‚ РїРѕРІСЂРµР¶РґРµРЅРёР№</h1>
+  <div><p>РњРѕСЃРєРІР° вЂ“ Tele2, Р°Р»СЊС‚РµСЂРЅР°С‚РёРІРЅС‹Р№ РѕРїРµСЂР°С‚РѕСЂ РјРѕР±РёР»СЊРЅРѕР№ СЃРІСЏР·Рё, РїСЂРµРґР»Р°РіР°РµС‚ РІР»Р°РґРµР»СЊС†Р°Рј СЃРјР°СЂС‚С„РѕРЅРѕРІ РєРѕРјРїР»РµРєСЃРЅСѓСЋ Р·Р°С‰РёС‚Сѓ. РЎРµР№С‡Р°СЃ РєР»РёРµРЅС‚С‹ СЃРєР»РѕРЅРЅС‹ РїРѕРєСѓРїР°С‚СЊ Р±РѕР»РµРµ РєР°С‡РµСЃС‚РІРµРЅРЅС‹Рµ СѓСЃС‚СЂРѕР№СЃС‚РІР° Рё СЂРµР¶Рµ РѕР±РЅРѕРІР»СЏС‚СЊ РёС…: РЅРѕРІС‹Р№ СЃРµСЂРІРёСЃ РїРѕР·РІРѕР»РёС‚ РїСЂРѕРґР»РёС‚СЊ СЃСЂРѕРє Р¶РёР·РЅРё СЃРјР°СЂС‚С„РѕРЅР°.</p>
+
+<p>РљР»РёРµРЅС‚С‹ РѕРїРµСЂР°С‚РѕСЂР° РјРѕРіСѓС‚ Р·Р°С‰РёС‚РёС‚СЊ СЃРІРѕР№ РіР°РґР¶РµС‚ РѕС‚ СЂР°Р·Р»РёС‡РЅС‹С… РїРѕРІСЂРµР¶РґРµРЅРёР№. РЎРїРµС†РёР°Р»РёСЃС‚С‹ РѕС‚СЂРµРјРѕРЅС‚РёСЂСѓСЋС‚ СЃРјР°СЂС‚С„РѕРЅ, РµСЃР»Рё Сѓ РЅРµРіРѕ СЂР°Р·Р±РёР»СЃСЏ СЌРєСЂР°РЅ, С‚СЂРµСЃРЅСѓР» РєРѕСЂРїСѓСЃ, РѕРЅ СЃР»РѕРјР°Р»СЃСЏ РѕС‚ Р·Р°РјС‹РєР°РЅРёСЏ РёР»Рё Р±С‹Р» Р·Р°Р»РёС‚ РІРѕРґРѕР№. РђР±РѕРЅРµРЅС‚СЃРєР°СЏ РїР»Р°С‚Р° Р·Р° РїРѕР»СЊР·РѕРІР°РЅРёРµ СЃРµСЂРІРёСЃРѕРј вЂ“ 7 СЂСѓР±Р»РµР№ РІ РґРµРЅСЊ. РЎС‚РѕРёРјРѕСЃС‚СЊ РµРґРёРЅР° РґР»СЏ РІСЃРµС… СЃРјР°СЂС‚С„РѕРЅРѕРІ, РЅРµР·Р°РІРёСЃРёРјРѕ РѕС‚ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЏ Рё РјРѕРґРµР»Рё. Р—Р°С‰РёС‚Р° СѓСЃС‚СЂРѕР№СЃС‚РІР° РѕР±РѕР№РґРµС‚СЃСЏ РїРѕР»СЊР·РѕРІР°С‚РµР»СЋ РІСЃРµРіРѕ РІ 2 555 СЂСѓР±Р»РµР№ РІ РіРѕРґ.</p>
+
+<p>РћР±СЃР»СѓР¶РёРІР°РЅРёРµ Рё СЂРµРјРѕРЅС‚ СЃРјР°СЂС‚С„РѕРЅРѕРІ РѕСЃСѓС‰РµСЃС‚РІР»СЏРµС‚ РїР°СЂС‚РЅРµСЂ РѕРїРµСЂР°С‚РѕСЂР° вЂ“ РћРћРћ В«РЎРёРјРїР» РџСЂРѕС‚РµРєС‚В». РљРѕРјРїР°РЅРёСЏ РЅР°СЃС‡РёС‚С‹РІР°РµС‚ Р±РѕР»РµРµ 1000 СЃРµСЂРІРёСЃРЅС‹С… С†РµРЅС‚СЂРѕРІ РїРѕ РІСЃРµР№ Р РѕСЃСЃРёРё. РџСЂРё РїРѕРґРєР»СЋС‡РµРЅРёРё СЃРµСЂРІРёСЃР° РєР»РёРµРЅС‚ Р·Р°РїРѕР»РЅСЏРµС‚ Р°РЅРєРµС‚Сѓ Рё РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚ С„РѕС‚РѕРіСЂР°С„РёРё СѓСЃС‚СЂРѕР№СЃС‚РІР°. Р•СЃР»Рё СЃРјР°СЂС‚С„РѕРЅ РїСЂРѕС€РµР» РїСЂРѕРІРµСЂРєСѓ РЅР° С†РµР»РѕСЃС‚РЅРѕСЃС‚СЊ, РІ СЃР»СѓС‡Р°Рµ РµРіРѕ РїРѕР»РѕРјРєРё РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РЅРµ РЅРµСЃРµС‚ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рµ Р·Р°С‚СЂР°С‚С‹. Р’СЃРµ СЂР°СЃС…РѕРґС‹ РїРѕ СЂРµРјРѕРЅС‚Сѓ СѓСЃС‚СЂРѕР№СЃС‚РІР° Р±РµСЂРµС‚ РЅР° СЃРµР±СЏ В«РЎРёРјРїР» РџСЂРѕС‚РµРєС‚В». Р’РѕСЃСЃС‚Р°РЅРѕРІР»РµРЅРёРµ СЃРјР°СЂС‚С„РѕРЅР° РЅРµ РїСЂРѕРІРѕРґРёС‚СЃСЏ, РµСЃР»Рё РѕРЅ РїРѕРґР»РµР¶РёС‚ СЂРµРјРѕРЅС‚Сѓ РІ СЂР°РјРєР°С… РіР°СЂР°РЅС‚РёР№РЅС‹С… РѕР±СЏР·Р°С‚РµР»СЊСЃС‚РІ РїСЂРѕРёР·РІРѕРґРёС‚РµР»СЏ, РїРѕР»РѕРјРєР° РїСЂРѕРёР·РѕС€Р»Р° РІ СЂРµР·СѓР»СЊС‚Р°С‚Рµ Р·Р°РІРѕРґСЃРєРѕРіРѕ Р±СЂР°РєР°, РЅР°СЂСѓС€РµРЅРёСЏ СЂРµРєРѕРјРµРЅРґР°С†РёР№ РїРѕ СЌРєСЃРїР»СѓР°С‚Р°С†РёРё РёР»Рё СЃР°РјРѕСЃС‚РѕСЏС‚РµР»СЊРЅРѕР№ СЂР°Р·Р±РѕСЂРєРё СѓСЃС‚СЂРѕР№СЃС‚РІР°.</p>
+
+<p>РџРѕ РѕС†РµРЅРєР°Рј СЌРєСЃРїРµСЂС‚РѕРІ РєРѕРјРїР°РЅРёРё В«РЎРёРјРїР» РџСЂРѕС‚РµРєС‚В», 80% РїРѕРІСЂРµР¶РґРµРЅРёР№ СЃРјР°СЂС‚С„РѕРЅРѕРІ СЃРµРіРѕРґРЅСЏ РїСЂРёС…РѕРґРёС‚СЃСЏ РЅР° СЂР°Р·Р±РёС‚С‹Рµ СЌРєСЂР°РЅС‹. Р’С‚РѕСЂР°СЏ РїРѕ РїРѕРїСѓР»СЏСЂРЅРѕСЃС‚Рё РїСЂРёС‡РёРЅР° СЂРµРјРѕРЅС‚Р° вЂ“ РїРѕР»СЊР·РѕРІР°С‚РµР»Рё Р·Р°Р»РёРІР°СЋС‚ РґРµРІР°Р№СЃС‹ Р¶РёРґРєРѕСЃС‚СЊСЋ. РќР° С‚СЂРµС‚СЊРµРј вЂ“ РїРѕРІСЂРµР¶РґРµРЅРёСЏ Р·Р°РґРЅРµР№ РєСЂС‹С€РєРё РєРѕСЂРїСѓСЃР°. РЎРїРµС†РёР°Р»РёСЃС‚С‹ С‚Р°РєР¶Рµ РѕС‚РјРµС‡Р°СЋС‚, С‡С‚Рѕ РІ РїРѕСЃР»РµРґРЅРµРµ РІСЂРµРјСЏ СЂРѕСЃСЃРёСЏРЅРµ СЃС‚Р°Р»Рё РІРЅРёРјР°С‚РµР»СЊРЅРµРµ СЃР»РµРґРёС‚СЊ Р·Р° СЃРѕС…СЂР°РЅРЅРѕСЃС‚СЊСЋ СЃРІРѕРёС… РґРµРІР°Р№СЃРѕРІ, РїСЂРµРґРїРѕС‡РёС‚Р°СЏ СЂРµРјРѕРЅС‚РёСЂРѕРІР°С‚СЊ СЃС‚Р°СЂС‹Рµ С‚РµР»РµС„РѕРЅС‹ РІРјРµСЃС‚Рѕ РїРѕРєСѓРїРєРё РЅРѕРІС‹С…. РЎ СЃРµСЂРІРёСЃРѕРј В«Р—Р°С‰РёС‚Р° С‚РµР»РµС„РѕРЅР°В» РєР»РёРµРЅС‚С‹ СЃРјРѕРіСѓС‚ РІРѕСЃСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРјР°СЂС‚С„РѕРЅ РІ СЃР»СѓС‡Р°Рµ РїРѕР»РѕРјРєРё Рё РїСЂРѕРґРѕР»Р¶Р°С‚СЊ РёРј РїРѕР»СЊР·РѕРІР°С‚СЊСЃСЏ.</p>
+
+<p>РџСЂРё РїРѕРґРєР»СЋС‡РµРЅРёРё СЃРµСЂРІРёСЃР° В«Р—Р°С‰РёС‚Р° С‚РµР»РµС„РѕРЅР°В» РєР»РёРµРЅС‚С‹ Tele2 РјРѕРіСѓС‚ СЃС‚Р°С‚СЊ РѕР±Р»Р°РґР°С‚РµР»СЏРјРё СЃРѕРІСЂРµРјРµРЅРЅС‹С… РіР°РґР¶РµС‚РѕРІ: СЃРјР°СЂС‚-С‡Р°СЃРѕРІ, С„РёС‚РЅРµСЃ-Р±СЂР°СЃР»РµС‚РѕРІ, Р±РµСЃРїСЂРѕРІРѕРґРЅС‹С… РЅР°СѓС€РЅРёРєРѕРІ, СѓСЃС‚СЂРѕР№СЃС‚РІ Power Bank Рё РґСЂСѓРіРёС… РїСЂРёР·РѕРІ. Р”Р»СЏ СѓС‡Р°СЃС‚РёСЏ РІ Р°РєС†РёРё РЅРµРѕР±С…РѕРґРёРјРѕ РїРѕРґРєР»СЋС‡РёС‚СЊ СЃРµСЂРІРёСЃ Рё РѕРїР»Р°С‚РёС‚СЊ РµРіРѕ РЅРµ РјРµРЅРµРµ 10 СЂР°Р· РїРѕРґСЂСЏРґ РґРѕ 31 РјР°СЏ 2022 РіРѕРґР°. РџРѕРґСЂРѕР±РЅРµРµ РѕР± СѓСЃР»РѕРІРёСЏС… РїСЂРѕРІРµРґРµРЅРёСЏ Р°РєС†РёРё вЂ“ РЅР° <a href="https://t2.spmob.ru/promo_1403-3105_v2.pdf">СЃР°Р№С‚Рµ</a>. РЈСЃС‚Р°РЅРѕРІРёС‚СЊ РєРѕРјРїР»РµРєСЃРЅСѓСЋ Р·Р°С‰РёС‚Сѓ С‚РµР»РµС„РѕРЅР° РјРѕР¶РЅРѕ РІ РјРѕР±РёР»СЊРЅРѕРј РїСЂРёР»РѕР¶РµРЅРёРё РѕРїРµСЂР°С‚РѕСЂР° РІ СЂР°Р·РґРµР»Рµ В«Р¤РёРЅР°РЅСЃС‹В», РЅР° СЃР°Р№С‚Рµ <a href="https://t2.spmob.ru/">t2.spmob.ru</a> РёР»Рё СЃ РїРѕРјРѕС‰СЊСЋ РєРѕРјР°РЅРґС‹ *717#.</p>
+</div>
+  <div>
+    <a href="https://tver.tele2.ru/about/news-list/2022/03/30/klienty-tele2-mogut-zashchitit-smartfon-ot-povrezhdenij_fed" target="_blank">РџРѕРґСЂРѕР±РЅРµРµ</a>
+    <a href="https://tver.tele2.ru/about/news-list/unsubscribe?pageParams=email%3Drim%40tverreg.ru" target="_blank">РћС‚РїРёСЃР°С‚СЊСЃСЏ РѕС‚ СЂР°СЃСЃС‹Р»РєРё</a>
+  </div>
+</div>
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Р’РЅРёРјР°РЅРёРµ!!! Р•СЃР»Рё РѕС‚РїСЂР°РІРёС‚РµР»СЊ РїРѕС‡С‚С‹ РЅРµРёР·РІРµСЃС‚РµРЅ, РЅРµ РїРµСЂРµС…РѕРґРёС‚Рµ РїРѕ СЃСЃС‹Р»РєР°Рј, РЅРµ СЃРѕРѕР±С‰Р°Р№С‚Рµ РїР°СЂРѕР»СЊ Рё РЅРµ Р·Р°РїСѓСЃРєР°Р№С‚Рµ РІР»РѕР¶РµРЅРёСЏ.<br>
+РџРѕРґРѕР·СЂРёС‚РµР»СЊРЅРѕРµ РїРёСЃСЊРјРѕ РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµСЃР»Р°С‚СЊ СЃ РІР»РѕР¶РµРЅРёСЏРјРё РЅР° РїРѕС‡С‚РѕРІС‹Р№ Р°РґСЂРµСЃ СЃР»СѓР¶Р±С‹ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

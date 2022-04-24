@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10959ec
+DTSTAMP:20220424T204127Z
+CREATED:20190305T191459Z
+LAST-MOD:20190305T182936Z
+SUMMARY:Мероприятие\, приуроченное к Международному женскому дню. Встреча с трудовым коллективом ООО «Тверская швейная фабрика» (отв. Ищенко А.Н.\, Белорусов В.А.\, Расторгуев С.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190306T070000Z
+DTEND;VALUE=DATE-TIME:20190306T075000Z
+LOCATION:наб. р. Лазури\, д.24 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

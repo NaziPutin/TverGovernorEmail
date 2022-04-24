@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xbf3d98
+DTSTAMP:20220424T204126Z
+CREATED:20200225T121817Z
+LAST-MOD:20200225T082503Z
+SUMMARY:Совещание\, тема: «О Порядке определения рыночной стоимости одного квадратного метра общей площади жилого помещения по муниципальным районам\, муниципальным и городским округам Тверской области» (отв. Ажгиревич А.И.\, Егоров И.И.)
+DTSTART;VALUE=DATE-TIME:20200225T123000Z
+DTEND;VALUE=DATE-TIME:20200225T133000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

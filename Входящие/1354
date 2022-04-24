@@ -1,0 +1,70 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 1 Jun 2021 19:40:05 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 1 Jun 2021
+ 19:40:03 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Tue, 1 Jun 2021 19:40:05 +0300
+From: =?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDn4OPw/+ft5e3o6CDv7vfi+yDoIPDl6uggxez44CDiIOPu8O7k5SDO?=
+ =?windows-1251?B?8fLg+Oru4g==?=
+Thread-Topic: =?windows-1251?B?ziDn4OPw/+ft5e3o6CDv7vfi+yDoIPDl6uggxez44CDiIOPu8O7k5SDO?=
+ =?windows-1251?B?8fLg+Oru4g==?=
+Thread-Index: AQHXVwN7jnrkIPS6mkCLHwNNNmNVvQ==
+Date: Tue, 1 Jun 2021 19:40:05 +0300
+Message-ID: <591f0c346aff46259cddff2ee5dd559c@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <591f0c346aff46259cddff2ee5dd559c@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.133.121]
+X-MS-Exchange-Organization-Network-Message-Id: 1e911420-3251-426c-daa4-08d9251be926
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6301210
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p><span style="font-size: 12pt;">Уважаемый Игорь Михайлович!</span></p>
+<p><span style="font-size: 12pt;">В соответствии с Вашим поручением направляю справку Минприроды Тверской области по вопросу загрязнения нефтепродуктами</span></p>
+<p><span style="font-size: 12pt;">почвы в городе Осташков.&nbsp;</span></p>
+<p><span style="font-size: 11pt; font-family: Calibri, Helvetica, sans-serif;"><span style="font-size: 12pt;">В настоящее время Осташковским городским судом Тверской области в рамках гражданского дела № 2-72/2021 рассматривается иск&nbsp;Министерства природных ресурсов&nbsp;
+ Тверской области</span><span style="font-size: 12pt;"> об обязании Администрации Осташковского городского округа и собственника земельного участка
+</span><span style="font-size: 12pt;">кад №</span><span style="font-size: 12pt;">&nbsp;</span><span style="font-size:13.0pt;font-family:&quot;Times New Roman&quot;,serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:RU;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA"><span style="font-size: 12pt;">69:45:0080145:184</span><span style="font-size: 12pt;">&nbsp;</span></span><span style="font-size: 12pt;">Ильина
+ М.Л. солидарно очистить указанный земельный участок от нефтепродуктов в соответствии с требованиями природоохранного законодательства и провести рекультивацию.&nbsp;</span></span></p>
+<p><span style="font-size: 11pt; font-family: Calibri, Helvetica, sans-serif;"><span style="font-size: 12pt;">Очередное заседание назначено на 09.06.2021.&nbsp;</span></span></p>
+<p>Буду держать на контроле,&nbsp;</p>
+<p>С уважением,&nbsp;Цветков А.И.</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

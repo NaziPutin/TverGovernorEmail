@@ -1,0 +1,123 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 1 Apr 2022 23:21:35 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2375.24; Fri, 1 Apr
+ 2022 23:21:33 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.2176.2; Fri, 1 Apr
+ 2022 23:21:30 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 1 Apr 2022 23:21:32 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+CC: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>,
+	=?windows-1251?B?weXw5efo7SDE7Ojy8OjpIMHu8Ojx7uLo9w==?=
+	<Berezin_DB@tverreg.ru>, =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?=
+	<egorov@tverreg.ru>, =?windows-1251?B?xuDw6u7iIMjj7vD8INHl8OPl5eLo9w==?=
+	<ZharkovIC@tverreg.ru>,
+	=?windows-1251?B?zO7w7ufu4iDF4uPl7ejpIMLg8ejr/OXi6Pc=?=
+	<Morozov_EV@tverreg.ru>,
+	=?windows-1251?B?ze7i6Oru4uAgwuDr5e3y6O3gIMji4O3u4u3g?=
+	<Novikova_VI@tverreg.ru>,
+	=?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>, =?windows-1251?B?zeDz7O7iIMDt5PDl6SDC6Ory7vDu4uj3?=
+	<naumov@tverreg.ru>, =?windows-1251?B?w/Do4+7w/+0gwPDx5e0g0OD06Oru4uj3?=
+	<grygoryan@tverreg.ru>,
+	=?windows-1251?B?0eru8PvpIMDr5erx5ekgwuvg5Ojs6PDu4uj3?=
+	<SkoriyAV@tverreg.ru>,
+	=?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>,
+	=?windows-1251?B?weXr7vDz8e7iIMLr4OTo8evg4iDA7eDy7uv85eLo9w==?=
+	<bva@tverreg.ru>, =?windows-1251?B?0e7q7uvu4iDK7u3x8uDt8ujtIMjr/Oj3?=
+	<sokolov@tverreg.ru>, "Ministerstvo_To@tverreg.ru"
+	<Ministerstvo_To@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoIPTl5OXw4Ov87fv1IOfg6u7t7uI=?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoIPTl5OXw4Ov87fv1IOfg6u7t7uI=?=
+Thread-Index: AdhGBTHs62tRQIXqR5SBKDPcHhTWgA==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Fri, 1 Apr 2022 23:21:31 +0300
+Message-ID: <0a061e62c9cc44bdb2e4c30c97c9d632@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <0a061e62c9cc44bdb2e4c30c97c9d632@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: 7112af76-57be-4293-f811-08da141d3646
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.2085163
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='margin-top:12.0pt;text-align:center;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>Уважаемый Игорь Михайлович!</span><span style='font-size:12.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'> <o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;text-indent:35.4pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>В рамках мониторинга правовых актов РФ, направленных на защиту граждан и экономики в условиях зарубежных санкций, информирую о принятии 1 апреля 2022 года федеральных законов, касающихся следующих вопросов:<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>1. Федеральным законом от 01.04.2022 № 75-ФЗ &quot;О соглашениях, заключаемых при осуществлении геологического изучения, разведки и добычи углеводородного сырья, и о внесении изменения в Закон Российской Федерации &quot;О недрах&quot; регулируются отношения, возникающие в связи с заключением, исполнением и прекращением соглашений о сервисных рисках и соглашений об управлении финансированием.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>2. Федеральный закон от 01.04.2022 № 76-ФЗ &quot;О внесении изменений в Федеральный закон &quot;О Государственной корпорации по космической деятельности &quot;Роскосмос&quot; направлен на совершенствование порядка формирования специальных резервных фондов Государственной корпорации по космической деятельности «Роскосмос».<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>3. Федеральным законом от 01.04.2022 № 77-ФЗ &quot;О внесении изменений в статью 26 Федерального закона &quot;О банках и банковской деятельности&quot; и статью 9 Федерального закона &quot;Об оперативно-розыскной деятельности&quot; устанавливается срок предоставления кредитными организациями должностным лицам органов, осуществляющих оперативно-разыскную деятельность, справок по операциям и счетам юридических лиц и индивидуальных предпринимателей, а также по операциям, счетам и вкладам физических лиц.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>4. Федеральный закон от 01.04.2022 № 78-ФЗ &quot;О внесении изменений в статью 42 Федерального закона &quot;О службе в федеральной противопожарной службе Государственной противопожарной службы и внесении изменений в отдельные законодательные акты Российской Федерации&quot; направлен на совершенствование нормативно-правового регулирования вопросов прохождения службы сотрудниками федеральной противопожарной службы Государственной противопожарной службы.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>5. Федеральным законом от 01.04.2022 № 79-ФЗ &quot;О внесении изменений в Федеральный закон &quot;О государственной поддержке кинематографии Российской Федерации&quot; устанавливается, что федеральный орган исполнительной власти в области кинематографии принимает решение о государственном финансировании в размере 100% сметной стоимости производства и проката отдельных категорий национальных фильмов.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>6. Федеральным законом от 01.04.2022 № 80-ФЗ &quot;О внесении изменений в статьи 6 и 18 Федерального закона &quot;О пожарной безопасности&quot; уточнены полномочия отдельных федеральных должностных лиц по пожарному надзору, а также органы государственной власти субъектов Российской Федерации наделяются полномочием по утверждению порядка организации дублирования сигналов о возникновении пожара в подразделения пожарной охраны.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>7. Федеральным законом от 01.04.2022 № 81-ФЗ &quot;О внесении изменений в Закон Российской Федерации &quot;Об организации страхового дела в Российской Федерации&quot; и Федеральный закон &quot;Об обязательном страховании гражданской ответственности владельцев транспортных средств&quot; предусматривается создание на рынке обязательного страхования перестраховочного пула. <o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>8.&nbsp; Федеральным законом от 01.04.2022 № 82-ФЗ &quot;О внесении изменений в статью 40 Водного кодекса Российской Федерации и статью 22 Федерального закона &quot;О защите конкуренции&quot; в Водный кодекс Российской Федерации вносится изменение, которым предусматривается, что государственный контроль за экономической концентрацией в области использования водных объектов осуществляется в соответствии с Федеральным законом «О защите конкуренции».<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>9. Федеральный закон от 01.04.2022 № 83-ФЗ &quot;О внесении изменений в Федеральный закон &quot;Об особенностях прохождения федеральной государственной гражданской службы в системе Министерства иностранных дел Российской Федерации&quot; и статью 4 Федерального закона &quot;О Чрезвычайном и Полномочном После Российской Федерации в иностранном государстве и Постоянном представителе (представителе, постоянном наблюдателе) Российской Федерации при международной организации (в иностранном государстве)&quot; направлен на уточнение отдельных вопросов прохождения федеральной государственной гражданской службы в системе Министерства иностранных дел Российской Федерации, а также положения Федерального закона «О Чрезвычайном и Полномочном После Российской Федерации в иностранном государстве и Постоянном представителе (представителе, постоянном наблюдателе) Российской Федерации при международной организации (в иностранном государстве)» приводятся в соответствие с Федеральным законом «О противодействии коррупции».<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>10. Федеральным законом от 01.04.2022 № 84-ФЗ &quot;О внесении изменений в Основы законодательства Российской Федерации о нотариате&quot; предусматривается, что порядок совершения нотариальных действий консульскими должностными лицами устанавливается Основами законодательства Российской Федерации о нотариате и другими законодательными актами Российской Федерации, а также Инструкцией о порядке совершения нотариальных действий, утверждаемой Министерством иностранных дел Российской Федерации совместно с Министерством юстиции Российской Федерации.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>11. Федеральный закон от 01.04.2022 № 85-ФЗ &quot;О внесении изменений в статью 6 Федерального закона &quot;О войсках национальной гвардии Российской Федерации&quot; направлен на повышение эффективности деятельности войск национальной гвардии Российской Федерации.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>12. Федеральным законом от 01.04.2022 № 86-ФЗ &quot;О внесении изменений в статьи 5 и 20-1 Федерального закона &quot;Об основах государственного регулирования торговой деятельности в Российской Федерации&quot; и о признании утратившими силу отдельных положений законодательных актов Российской Федерации&quot; предусматривается, что федеральный орган исполнительной власти, осуществляющий функции по выработке государственной политики и нормативно-правовому регулированию в сфере внутренней торговли, является уполномоченным органом, осуществляющим функции по выработке государственной политики и нормативно-правовому регулированию по вопросам маркировки товаров средствами идентификации, а также координатором создания и функционирования государственной информационной системы мониторинга за оборотом товаров, подлежащих обязательной маркировке средствами идентификации.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>13.&nbsp; Федеральным законом от 01.04.2022 № 87-ФЗ &quot;О внесении изменения в статью 8 Федерального закона &quot;О правовом положении иностранных граждан в Российской Федерации&quot; предусматривается выдача вида на жительство в упрощенном порядке (без получения разрешения на временное проживание) иностранным гражданам и лицам без гражданства, являющимся финалистами или победителями общероссийского конкурса, проводимого автономной некоммерческой организацией «Россия – страна возможностей».<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>14.&nbsp; Федеральным законом от 01.04.2022 № 88-ФЗ &quot;О внесении изменения в статью 13 Федерального закона &quot;О Следственном комитете Российской Федерации&quot; устанавливаются полномочия председателя Следственного комитета Российской Федерации по организации воспитательной, психологической и культурно-просветительской работы, а также работы по развитию физической культуры и спорта.<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>15. Федеральным законом от 01.04.2022 № 89-ФЗ &quot;О внесении изменений в статьи 6 и 7 Федерального закона &quot;О национально-культурной автономии&quot; предусматривается наделение федерального органа исполнительной власти, осуществляющего функции по выработке и реализации государственной национальной политики Российской Федерации, полномочием по ведению реестра национально-культурных автономий. <o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;text-align:justify;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'>16. Федеральным законом от 01.04.2022 № 90-ФЗ &quot;О внесении изменений в отдельные законодательные акты Российской Федерации&quot; отдельные федеральные законы приводятся в соответствие с Федеральным законом «О цифровых финансовых активах, цифровой валюте и о внесении изменений в отдельные законодательные акты Российской Федерации» в части, касающейся интегрирования институтов цифровых финансовых активов и цифровой валюты.- установления мер поддержки студентов, потерявших места в европейских вузах из-за недружественных действий иностранных государств (постановление Правительства РФ от 21.03.2022 № 434);<o:p></o:p></span></p><p class=MsoNormal style='margin-top:12.0pt;line-height:150%;text-autospace:none'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

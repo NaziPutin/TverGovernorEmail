@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9e2e2c
+DTSTAMP:20220424T204126Z
+CREATED:20200731T092926Z
+LAST-MOD:20200731T092042Z
+SUMMARY:Селекторное совещание с главами муниципальных образований ТО\, тема:"О дополнительных мерах по предупреждению детского травматизма и гибели несовершеннолетних"(отв. Ищенко А.Н.\, Коваленко Ю.Н.\, Насибуллин Д.И.\, Чистяков Ю.А.\, Александров А.А.\,пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200731T100000Z
+DTEND;VALUE=DATE-TIME:20200731T110000Z
+LOCATION:ул. Дарвина\, д. 12\, ситуационный центр ГУ МЧС России по Тверской области
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x955d08
+DTSTAMP:20220424T204126Z
+CREATED:20200917T124154Z
+LAST-MOD:20200917T121331Z
+SUMMARY:Рабочая встреча по вопросу строительства транспортно-пересадочного узла на территории особой экономической зоны «Завидово» (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200917T130000Z
+DTEND;VALUE=DATE-TIME:20200917T140000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

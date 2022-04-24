@@ -1,0 +1,97 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 1 Apr 2022 19:05:50 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Fri, 1 Apr
+ 2022 19:05:48 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 1 Apr 2022 19:05:50 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 870BF83D78
+	for <rim@tverreg.ru>; Fri,  1 Apr 2022 19:05:49 +0300 (MSK)
+Received-SPF: pass (info.tele2.ru: Sender is authorized to use 'info@info.tele2.ru' in 'mfrom' identity (mechanism 'include:spf.tele2.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="info@info.tele2.ru"; helo=mail-gw2.tele2.ru; client-ip=194.176.96.147
+Received: from mail-gw2.tele2.ru (mail-gw2.tele2.ru [194.176.96.147])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id B624B83D33
+	for <rim@tverreg.ru>; Fri,  1 Apr 2022 19:05:42 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=info.tele2.ru; s=secureinfo; t=1648829142;
+  h=date:to:message-id:subject:mime-version:
+   content-transfer-encoding:from;
+  bh=AkbC1kQ0dqnrTKhVBUaQwAZH/hS9ia+zQhoB2gRxUAE=;
+  b=Gh9VdPieEd70NRvUE4PHYRvyPk2oBBOWScj4rjWFYvl1mjpM1i+XuQnk
+   Ieb7NQbVs1yMcXRSAIba752gz+dcuIssugCFxYwcXNCF4Xxwn5l/o8HqF
+   NMvmi97G5m9/0TDfi7W4mZdWtxMna8uvkj/naoK4zC6xSdw5ydHY9e8AK
+   A=;
+From: info@info.tele2.ru
+X-IronPort-AV: E=Sophos;i="5.90,182,1643662800"; 
+   d="scan'208,217";a="298321465"
+Date: Fri, 1 Apr 2022 19:05:38 +0300 (MSK)
+To: rim@tverreg.ru
+Message-ID: <707189067.29476.1648829138568@t2ru-ds-prod-10.corp.tele2.ru>
+Subject: =?UTF-8?B?0JjQvdGE0L7RgNC80LDRhtC40L7QvdC9?=
+ =?UTF-8?B?0L7QtSDRgdC+0L7QsdGJ0LXQvdC40LUg?=
+ =?UTF-8?B?0LTQu9GPINC60L7RgNC/0L7RgNCw0YLQuA==?=
+ =?UTF-8?B?0LLQvdGL0YUg0LrQu9C40LXQvdGC0L7Qsg==?=
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeiiedgleduucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephfffvffkufggtgfgsehhsggstddttdejnecuhfhrohhmpehinhhfohesihhnfhhordhtvghlvgdvrdhruhenucggtffrrghtthgvrhhnpeekveeitefflefhudffveeuudejteehueeugeeiuddugeelleevheefledtheduheenucffohhmrghinhepthgvlhgvvddrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.166#91 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.381 Adjusted score from AWL reputation of From: address
+	BAYES_05                 -0.5 Bayes spam probability is 1 to 5%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeiiedgleduucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephfffvffkufggtgfgsehhsggstddttdejnecuhfhrohhmpehinhhfohesihhnfhhordhtvghlvgdvrdhruhenucggtffrrghtthgvrhhnpeekveeitefflefhudffveeuudejteehueeugeeiuddugeelleevheefledtheduheenucffohhmrghinhepthgvlhgvvddrrhhunecukfhppeduleegrddujeeirdeliedrudegje
+X-DrWeb-SpamVersion: Vade Retro 01.422.166#91 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: info@info.tele2.ru
+X-MS-Exchange-Organization-Network-Message-Id: c4820802-a3c4-461e-77f2-08da13f97dd8
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2160868
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>
+  <h1>Информационное сообщение для корпоративных клиентов</h1>
+  <div><p>Tele2 информирует корпоративных клиентов об изменении параметров услуги «Детализация счета».</p>
+
+<p>С 11 апреля 2022 года стоимость заказа детализации счета в салонах связи Tele2 за один календарный месяц составит 100 рублей.</p>
+
+<p>Цена указана с учетом НДС.</p>
+
+<p>Остальные параметры услуги останутся без изменений.</p>
+
+<p>Подробное описание услуги «Детализация счета» доступно на <a href="https://tele2.ru/business/option/account-detailing-b2b">сайте</a>.</p>
+</div>
+  <div>
+    <a href="https://tver.tele2.ru/about/news-list/2022/04/01/informacionnoe-soobshchenie-dlya-korporativnyh-klientov" target="_blank">Подробнее</a>
+    <a href="https://tver.tele2.ru/about/news-list/unsubscribe?pageParams=email%3Drim%40tverreg.ru" target="_blank">Отписаться от рассылки</a>
+  </div>
+</div>
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

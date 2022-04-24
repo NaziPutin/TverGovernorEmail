@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc77e6c
+DTSTAMP:20220424T204126Z
+CREATED:20200109T204004Z
+LAST-MOD:20200109T203847Z
+SUMMARY:Совещание\, тема: «О ходе аварийно-восстановительных работ в многоквартирном доме по адресу: г. Тверь\, б-р Гусева\, д. 19» (отв. Ажгиревич А.И.\, Биленко Д.С.\, Огоньков А.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200110T063000Z
+DTEND;VALUE=DATE-TIME:20200110T070000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

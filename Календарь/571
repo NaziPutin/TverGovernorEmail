@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3ec040
+DTSTAMP:20220424T204126Z
+CREATED:20211012T184711Z
+LAST-MOD:20211012T183151Z
+SUMMARY:Совещание по подготовке к заседанию Президиума Государственного Совета РФ по вопросу «О транспортной стратегии РФ до 2030 года с прогнозом до 2035 года» (19.10.2021) (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, пресс-служба)\n
+DTSTART;VALUE=DATE-TIME:20211013T080000Z
+DTEND;VALUE=DATE-TIME:20211013T090000Z
+LOCATION:г. Москва
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

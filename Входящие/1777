@@ -1,0 +1,46 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 10 Jul 2020 17:59:45 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 10 Jul
+ 2020 17:59:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Fri, 10 Jul 2020 17:59:28 +0300
+From: =?utf-8?B?0KLQsNC70LDQvdC40L3QsCDQm9Cw0YDQuNGB0LAg0JDQu9C10LrRgdC10LU=?=
+ =?utf-8?B?0LLQvdCw?= <talanina@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JrQvtGA0LDQu9C7LiDQk9C10L3Qv9C70LDQvdGLLg==?=
+Thread-Topic: =?utf-8?B?0JrQvtGA0LDQu9C7LiDQk9C10L3Qv9C70LDQvdGLLg==?=
+Thread-Index: AQHWVsq1HgpKzzckpECeU9Cv/KfyLw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 10 Jul 2020 17:59:28 +0300
+Message-ID: <131f0d9b-1a42-4808-a779-99bbba6caea1@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <131f0d9b-1a42-4808-a779-99bbba6caea1@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 6bed5741-a371-496f-754e-08d824e1d814
+Return-Path: talanina@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:17.3897447
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER51D39CEE
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto">Уважаемый Игорь Михайлович!<div dir="auto">В соответствии с Вашим поручением направляю информацию о размещении проектов генеральных планов в федеральной геоинформационной ситеме территориального планирования (ФГИС ТП) по состоянию на 18 часов 10 июля. Вопрос держу на постоянном контроле и во взаимодействии с Кораллом.&nbsp;</div><div dir="auto">Таланина.</div></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

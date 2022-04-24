@@ -1,0 +1,76 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 18 Apr 2018 08:02:25 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 18 Apr
+ 2018 08:02:24 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 18 Apr 2018 08:02:24 +0300
+Received: from mail-lf0-f41.google.com ([209.85.215.41])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <sergey@golubev.ru>)
+	id 1f8fEa-000Ac3-98
+	for rim@tverreg.ru; Wed, 18 Apr 2018 01:02:20 -0400
+Received: by mail-lf0-f41.google.com with SMTP id v207-v6so639799lfa.10
+        for <rim@tverreg.ru>; Tue, 17 Apr 2018 22:02:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=golubev-ru.20150623.gappssmtp.com; s=20150623;
+        h=subject:references:from:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=Dvyu1yznDakKbfs4Fg4N+o8EAyyGKzlHaFlvJaQvTig=;
+        b=q3mdUGy+qiD4fGxPMQD2NcESlgVat9eNTBsWmU827og9UcrneritToVbZeNLCER7c3
+         zU6UYc4YT8kWb9HGJrwug2vqb4fHBEjafqhrEUvsLmf/znnOli617uY/9FP+MV/CYHQK
+         EVdqXWH3MoLDjOWSJbpQRzqUWEzXg5ZkJgPA1Sxmra0UhTj5gO6hx1ac3xrOFfYU6q1/
+         ihuUqu9BE8l9UxR/O71+o0gbuBA/0oz281A/mIjE0wP0mV6s1PDYicvpLl/ZnOTko6zm
+         nsA5GPwbBqMN52phLGg1nI/tXNUouCisHPOqk0mrxaHmcL67Huk5ktd2aYqICzHNB4+p
+         DYEQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:subject:references:from:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=Dvyu1yznDakKbfs4Fg4N+o8EAyyGKzlHaFlvJaQvTig=;
+        b=US/yXKkJL6DjS7OjzHr3+jTwyM3B3+eHqoKkkJ+IDIwElU3RbpleFn1D4wv1GXcEz0
+         WbYK29c7yzwvUj6jK3S1PZcXKXMgLfLnyzrkdx1T14/XmprfM8MrYfu9kYA5I8HbNz6P
+         Obgb3SRmGC4ujjJryqb7MJDWDqoLas4xiitgGRrP7sHz4dWYiob50l0N6bfpsNi0vlIN
+         Ypor23oeCzC/p0FBDfq/AgX4ikv9XfHsjXiWwrt1lVhYvmxaWmfI7ox+a0aVPRvmFVmo
+         Ba11au7LqjxKS/r/LPdUvb8jlMzjPDy+7t8fk4b7BZcu7zmP9R1uc/idJrQo+uLN/brf
+         VZsQ==
+X-Gm-Message-State: ALQs6tAx9vvb+Flo+GiPhiLyYuravgIcBOmkGfFKzO1YIstn2I+YZ31z
+	OPwUdlRCg/9iIZvvEa/7n4Z9nUQyL0s=
+X-Google-Smtp-Source: AIpwx49fSwgEcoXBAEUuthLdURAjsvM3zjL9zWaHqlHIGJQGLe7POfUcmewlR4zHOhVm3grwa23saQ==
+X-Received: by 10.46.128.76 with SMTP id p12mr325281ljg.71.1524027737259;
+        Tue, 17 Apr 2018 22:02:17 -0700 (PDT)
+Received: from [192.168.1.212] (ppp85-140-113-20.pppoe.mtu-net.ru. [85.140.113.20])
+        by smtp.gmail.com with ESMTPSA id a21-v6sm81194lfi.75.2018.04.17.22.02.15
+        for <rim@tverreg.ru>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 17 Apr 2018 22:02:16 -0700 (PDT)
+Subject: =?koi8-r?Q?Fwd:_=FA=C1=D0=C9=D3=CB=C1_=D0=CF_=C4=CF=CC=D8=DD=C9?=
+ =?koi8-r?Q?=CB=C1=CD_=F4=CF=D2=D6=CF=CB?=
+References: <1524008670.272203959@f407.i.mail.ru>
+From: =?koi8-r?B?88XSx8XKIOfPzNXCxdc=?= <sergey@golubev.ru>
+X-Mailer: iPad Mail (14G60)
+Message-Id: <DD5392B9-8E23-4DDB-B19C-08C071206355@golubev.ru>
+Date: Wed, 18 Apr 2018 08:02:14 +0300
+To: rim@tverreg.ru
+Return-Path: sergey@golubev.ru
+X-MS-Exchange-Organization-Network-Message-Id: 02cc9cef-b601-4fe1-3257-08d5a4e9935c
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.9999871
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"></head><body dir="auto"><div>йОЖПТНБГЙС ПФ ДЕРХФБФБ рЙМАЫЛЙОБ РП РТПВМЕНОПНХ ДПМЕЧПНХ УФТПЙФЕМШУФЧХ Ч фПТЦЛЕ<br><br>пФРТБЧМЕОП У iPad</div><div><br>оБЮБМП РЕТЕБДТЕУПЧБООПЗП УППВЭЕОЙС:<br><br></div><blockquote type="cite"><div><b>пФ:</b> info &lt;<a href="mailto:infotmip@mail.ru">infotmip@mail.ru</a>&gt;<br><b>дБФБ:</b> 18 БРТЕМС 2018 З., 2:44:30 GMT&#43;3<br><b>лПНХ:</b> <a href="mailto:sergey@golubev.ru">sergey@golubev.ru</a><br><b>фЕНБ:</b> <b>ъБРЙУЛБ РП ДПМШЭЙЛБН фПТЦПЛ</b><br><b>пФЧЕФ-лПНХ:</b> info &lt;<a href="mailto:infotmip@mail.ru">infotmip@mail.ru</a>&gt;<br><br></div></blockquote><div><span></span></div><blockquote type="cite"><div>
+<br><br><br><br data-mce-bogus="1">
+</div></blockquote><blockquote type="cite"><div></div></blockquote></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

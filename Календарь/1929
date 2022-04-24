@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9bbeb8
+DTSTAMP:20220424T204126Z
+CREATED:20200825T071515Z
+LAST-MOD:20200824T173746Z
+SUMMARY:Торжественное вручение школьных автобусов муниципальным образованиям Тверской области (отв. Емельянов А.А.\, Коваленко Ю.Н.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200825T070000Z
+DTEND;VALUE=DATE-TIME:20200825T073000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

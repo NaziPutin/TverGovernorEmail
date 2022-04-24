@@ -1,0 +1,211 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 18 Mar 2022 23:00:13 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Fri, 18 Mar
+ 2022 23:00:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.2176.2; Fri, 18
+ Mar 2022 23:00:07 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 18 Mar 2022 23:00:10 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+CC: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>,
+	=?windows-1251?B?weXw5efo7SDE7Ojy8OjpIMHu8Ojx7uLo9w==?=
+	<Berezin_DB@tverreg.ru>, =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?=
+	<egorov@tverreg.ru>, =?windows-1251?B?xuDw6u7iIMjj7vD8INHl8OPl5eLo9w==?=
+	<ZharkovIC@tverreg.ru>,
+	=?windows-1251?B?zO7w7ufu4iDF4uPl7ejpIMLg8ejr/OXi6Pc=?=
+	<Morozov_EV@tverreg.ru>,
+	=?windows-1251?B?ze7i6Oru4uAgwuDr5e3y6O3gIMji4O3u4u3g?=
+	<Novikova_VI@tverreg.ru>,
+	=?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>, =?windows-1251?B?zeDz7O7iIMDt5PDl6SDC6Ory7vDu4uj3?=
+	<naumov@tverreg.ru>, =?windows-1251?B?w/Do4+7w/+0gwPDx5e0g0OD06Oru4uj3?=
+	<grygoryan@tverreg.ru>,
+	=?windows-1251?B?0eru8PvpIMDr5erx5ekgwuvg5Ojs6PDu4uj3?=
+	<SkoriyAV@tverreg.ru>,
+	=?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>,
+	=?windows-1251?B?weXr7vDz8e7iIMLr4OTo8evg4iDA7eDy7uv85eLo9w==?=
+	<bva@tverreg.ru>, "Ministerstvo_To@tverreg.ru" <Ministerstvo_To@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoINPq4OfgIM/w5efo5OXt8uAg0NQg?=
+ =?windows-1251?B?6CDg6vLu4iDP8ODi6PLl6/zx8uLgINDULCDt4O/w4OLr5e3t+/Ug7eAg?=
+ =?windows-1251?B?7+7k5OXw5urzIOPw4Obk4O0g6CD96u7t7uzo6ugg4iDz8evu4uj/9SDx?=
+ =?windows-1251?B?4O3q9ujp?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIO/w6O3/8ujoINPq4OfgIM/w5efo5OXt8uAg0NQg?=
+ =?windows-1251?B?6CDg6vLu4iDP8ODi6PLl6/zx8uLgINDULCDt4O/w4OLr5e3t+/Ug7eAg?=
+ =?windows-1251?B?7+7k5OXw5urzIOPw4Obk4O0g6CD96u7t7uzo6ugg4iDz8evu4uj/9SDx?=
+ =?windows-1251?B?4O3q9ujp?=
+Thread-Index: Adg7AY6oKLZXxEFjRQS+cnPJ+mOdcQ==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Fri, 18 Mar 2022 23:00:10 +0300
+Message-ID: <5e33c9bdca294948959c0b951dcf019b@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <5e33c9bdca294948959c0b951dcf019b@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: b4244bb7-5e15-445d-73f2-08da0919e874
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.5250523
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1903175888;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-991242792 68747265 68747267 68747269 68747265 68747267 68747269 68747265 68747267 68747269;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:142.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:178.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:214.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:250.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:286.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:322.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:358.35pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:394.35pt;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:430.35pt;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt'>Уважаемый Игорь Михайлович!</span><o:p></o:p></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:16.5pt;-webkit-text-size-adjust: auto'>&nbsp;<o:p></o:p></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:16.5pt;-webkit-text-size-adjust: auto'>&nbsp;<o:p></o:p></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:18.0pt;-webkit-text-size-adjust: auto'>&nbsp;&nbsp;<span style='font-size:16.0pt'>В рамках мониторинга правовых актов РФ, направленных на защиту граждан и экономики в условиях зарубежных санкций, информирую о принятии:<o:p></o:p></span></p><p class=MsoListParagraph style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:142.35pt;text-align:justify;text-indent:-18.0pt;line-height:18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><u><span style='font-size:16.0pt'>Указа Президента РФ</span></u><span style='font-size:16.0pt'> от 18.03.2022</span> <span style='font-size:16.0pt'>№ 126 «О дополнительных временных мерах экономического характера по обеспечению финансовой стабильности Российской Федерации в сфере валютного регулирования».<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.8pt;text-indent:35.4pt'><span style='font-size:16.0pt'>Данным Указом Совету директоров Центрального банка Российской Федерации предоставлены полномочия определять размер разрешенных операций в пользу нерезидентов и ограничивать суммы покупок валюты нерезидентами на российском рынке. Центральному банку Российской Федерации предоставлены полномочия выдавать экспортерам разрешение не продавать валютную выручку.<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:18.0pt'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:142.35pt;text-align:justify;text-indent:-18.0pt;line-height:18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'> <i>актов Правительства РФ</i>, направленных на:<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:18.0pt;-webkit-text-size-adjust: auto'><span style='font-size:16.0pt;color:#111111'>- расширение перечня товаров, на которые не распространяется запрет на вывоз из РФ;<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:18.0pt'><span style='font-size:16.0pt;color:#111111'>- утверждение правил перераспределения бюджетных расходов для поддержки экономики в условиях санкций;<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:18.0pt'><span style='font-size:16.0pt;color:#111111'>- установление мер поддержки в виде субсидирования кредитных договоров, заключенных российскими кредитными организациями с системообразующими организациями в сфере промышленности и торговли.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.8pt;text-indent:35.4pt'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.8pt;text-indent:35.4pt'><span style='font-size:16.0pt'>Информационные справки и правовые акты прилагаются.</span><o:p></o:p></p><p class=MsoNormal style='-webkit-text-size-adjust: auto'><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

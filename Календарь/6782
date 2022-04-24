@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157b5dc
+DTSTAMP:20220424T204127Z
+CREATED:20161108T215217Z
+LAST-MOD:20161117T124556Z
+SUMMARY:Осмотр участка реконструкции автодороги «Москва-Санкт-Петербург» - Чуприяновка – Старый Погост с устройством пересечения в разных уровнях с Октябрьской железной дорогой в Калининском районе Тверской области (отв. Пилавов М.И.)
+DTSTART;VALUE=DATE-TIME:20161109T093000Z
+DTEND;VALUE=DATE-TIME:20161109T094000Z
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

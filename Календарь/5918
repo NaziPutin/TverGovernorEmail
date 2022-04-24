@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1521270
+DTSTAMP:20220424T204127Z
+CREATED:20170517T165059Z
+LAST-MOD:20170517T165059Z
+SUMMARY:Заседание Законодательного Собрания Тверской области. Ежегодный отчет Губернатора Тверской области «О результатах деятельности Правительства Тверской области за 2016 год» (отв. Меньщиков А.В.\, СМИ+пресс-служба)\n
+DTSTART;VALUE=DATE-TIME:20170518T080000Z
+DTEND;VALUE=DATE-TIME:20170518T093000Z
+LOCATION:ул.Советская\, д.33\, 8 этаж\, зал №1
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

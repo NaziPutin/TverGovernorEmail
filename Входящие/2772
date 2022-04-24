@@ -1,0 +1,70 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.0.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.0.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 13 Dec 2018 20:08:48 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.0.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Thu, 13 Dec
+ 2018 20:08:46 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 13 Dec 2018 20:08:42 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id E5F0921931
+	for <rim@tverreg.ru>; Thu, 13 Dec 2018 20:08:42 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'marshalkuznetsov@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="marshalkuznetsov@yandex.ru"; helo=forward500o.mail.yandex.net; client-ip=37.140.190.195
+Received: from forward500o.mail.yandex.net (forward500o.mail.yandex.net [37.140.190.195])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 59BEB21911
+	for <rim@tverreg.ru>; Thu, 13 Dec 2018 20:08:36 +0300 (MSK)
+Received: from mxback11o.mail.yandex.net (mxback11o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::62])
+	by forward500o.mail.yandex.net (Yandex) with ESMTP id C6C0F60371
+	for <rim@tverreg.ru>; Thu, 13 Dec 2018 20:08:35 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback11o.mail.yandex.net (nwsmtp/Yandex) with ESMTP id yk3F6wQYed-8Yvq5PDa;
+	Thu, 13 Dec 2018 20:08:34 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1544720915;
+	bh=NnS9+M/shrYAXe0stpEZesO9tNAvE7/bGsfQgj0L758=;
+	h=From:To:In-Reply-To:Subject:Date:Message-Id;
+	b=UxLyVYxuPZyYy1Eem5pUZXrlTSD1JWt6dWHpiPBKkmNnEn6aR2ven9rdjY9S4ZEyS
+	 +j9HsUIdk6lkZwbaYBQruHzFBS9d120aldrdlS8OSp2altMc7HD0QN/eyOS34vntW3
+	 J3Ik7ydoPO2xnOD76qz5C4bfRLr/OrZFsOqm4ZHc=
+Authentication-Results: mxback11o.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by iva8-6be7d23653d9.qloud-c.yandex.net with HTTP;
+	Thu, 13 Dec 2018 20:08:34 +0300
+From: =?utf-8?B?0JrRg9C30L3QtdGG0L7QsiDQktC70LDQtNC40LzQuNGA?= <marshalkuznetsov@yandex.ru>
+To: rim@tverreg.ru
+In-Reply-To: <4743861544696494@iva8-3af116a85b74.qloud-c.yandex.net>
+Subject: =?utf-8?B?RndkOiDQn9GA0LXQt9C10L3RgtCw0YbQuNGPINGB0YLRgNC+0LjRgtC10LvRjNC90L7QuSDQutC+0Lw=?=
+	=?utf-8?B?0L/QsNC90LjQuCDQvtC+0L4gItCc0LDRiNCw0Lsg0YHRgtGA0L7QuSI=?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Thu, 13 Dec 2018 20:08:34 +0300
+Message-Id: <233841544720914@iva8-6be7d23653d9.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (pitaniepetrovich[at]yandex.ru) (kolodovaea[at]yandex.ru) (dmitk[at]mail.ru) (marshalkuznetsov[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY          0.723 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at http://www.dnswl.org/, no trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: marshalkuznetsov@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 26473399-e92a-4022-7e39-08d6611da218
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.2059124
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div><br></div><div><br></div><div>-------- РџРµСЂРµСЃС‹Р»Р°РµРјРѕРµ СЃРѕРѕР±С‰РµРЅРёРµ --------</div><div>13.12.2018, 13:21, &quot;РџРµСЂРµРІРµСЂР·РµРІ РђР»РµРєСЃР°РЅРґСЂ РђРЅР°С‚РѕР»СЊРµРІРёС‡&quot; &lt;marshal-stroy@yandex.ru&gt;:</div><div><br></div><div><p><br><br>--&nbsp;<br>РЎ СѓРІР°Р¶РµРЅРёРµРј,<br><br>Р“РµРЅРµСЂР°Р»СЊРЅС‹Р№ РґРёСЂРµРєС‚РѕСЂ<br>РћРћРћ &quot;РњР°СЂС€Р°Р» СЃС‚СЂРѕР№&quot;<br><br>РџРµСЂРµРІРµСЂР·РµРІ РђР»РµРєСЃР°РЅРґСЂ РђРЅР°С‚РѕР»СЊРµРІРёС‡<br><br><span>&#43;7 968-562-00-05</span><br><br><span>&#43;7(495)280-73-14</span><br></p></div><div><br></div><div>-------- РљРѕРЅРµС† РїРµСЂРµСЃС‹Р»Р°РµРјРѕРіРѕ СЃРѕРѕР±С‰РµРЅРёСЏ --------</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,60 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 26 Sep 2019 18:42:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 26 Sep
+ 2019 18:42:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Thu, 26 Sep 2019
+ 18:42:12 +0300
+From: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QtdGA0LXQstC+0LfQutC4?=
+Thread-Topic: =?utf-8?B?0J/QtdGA0LXQstC+0LfQutC4?=
+Thread-Index: AQHVdID2+HLyH9mA2kSMdRAgNE9bjg==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Thu, 26 Sep 2019 18:42:11 +0300
+Message-ID: <7DE28F66-B29C-490D-B9DD-3C0DA9470C2D@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <7DE28F66-B29C-490D-B9DD-3C0DA9470C2D@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 27d0fe12-4164-4976-63a1-08d742981932
+Return-Path: rim@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7725798
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2D076544
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+В областном суде оспариваются 3 важных нормативных акта Тверской области:
+1. Закон Тверской области от 23.07.2019 № 45-ЗО «Об отдельных вопросах организации регулярных перевозок пассажиров и багажа автомобильным транспортом на территории города Твери и Тверской области». Указанным законом полномочия по организации транспортного обслуживания от органов местного переданы органам государственной власти субъекта Российской Федерации.
+Административный истец – ООО «ИНТЕРШИНА» (учредитель Рукавишников С.А.).
+Рассмотрение дела назначено на 09.10.2019. 
+2. Постановление Правительства Тверской области от 30.07.2019 № 298-пп «Об утверждении документа планирования регулярных перевозок пассажиров …..».
+Данный документ предусматривает изменение вида регулярных перевозок с нерегулируемыми тарифами на регулярные перевозки с регулируемыми тарифами с целью аннулирования свидетельств действующих перевозчиков.
+Административный истец – ООО «ИНТЕРШИНА» (учредитель Рукавишников С.А.).
+Рассмотрение дела назначено на 09.10.2019.
+3. Постановление Правительства Тверской области от 26.04.2019 № 151-пп.
+Указанным постановлением из специально отведенных мест для коллективного обсуждения общественно значимых вопросов, а также массового присутствия граждан для публичного выражения общественного мнения исключены:
+- площадь Славы, г. Тверь;
+- сквер на проспекте Ленина (напротив здания Тверского государственного технического университета).
+Административный истец – Прокудин А.С.
+Рассмотрение дела назначено на 11.10.2019. 
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

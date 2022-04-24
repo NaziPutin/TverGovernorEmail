@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x11ffbd8
+DTSTAMP:20220424T204127Z
+CREATED:20180822T112857Z
+LAST-MOD:20180822T094513Z
+SUMMARY:Совещание\, тема: «О строительстве пешеходного моста через реку Тьмака в рамках проекта реконструкции площади Победы в городе Твери» (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180823T150000Z
+DTEND;VALUE=DATE-TIME:20180823T160000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

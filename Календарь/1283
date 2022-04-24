@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x73a1cc
+DTSTAMP:20220424T204126Z
+CREATED:20210317T065346Z
+LAST-MOD:20210317T060230Z
+SUMMARY:Совещание по вопросу: "О текущем состоянии и перспективах развития промышленности (в разрезе отраслей\, а также ситуация в ОПК) в субъектах ЦФО" (в режиме ЗВКС) (отв. Ажгиревич А.И\, Егоров И.И.\, Кременецкая Т.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210317T070000Z
+DTEND;VALUE=DATE-TIME:20210317T083000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

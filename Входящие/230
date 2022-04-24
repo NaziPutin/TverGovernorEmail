@@ -1,0 +1,231 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 16 Mar 2022 11:17:28 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 16 Mar
+ 2022 11:17:28 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Wed, 16 Mar 2022 11:17:27 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 5F74781171
+	for <rim@tverreg.ru>; Wed, 16 Mar 2022 11:17:27 +0300 (MSK)
+Received-SPF: pass (reg.ru: 194.58.116.234 is authorized to use 'noreply@reg.ru' in 'mfrom' identity (mechanism 'ip4:194.58.116.0/24' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="noreply@reg.ru"; helo=mailer.reg.ru; client-ip=194.58.116.234
+Received: from mailer.reg.ru (mailer.reg.ru [194.58.116.234])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id A420E80AFF
+	for <rim@tverreg.ru>; Wed, 16 Mar 2022 11:17:25 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=reg.ru;
+	s=exim; h=Date:To:From:Subject:Message-ID:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=oRi1WFffXRmGe/Aadr9DQqpfTbo1XsXaoxwo2FqwVqs=; b=ag1kKLWObnVSPxkbmb6IIk6L2s
+	ftQ8cbm+pa+7VSpOyO+GFCMFYErG3reat0FSkxj0slgpsVMGsTWq3BNJdaxzDZbTaJxqUaHq4u/IX
+	CgwHDC16m87twfva7wyc+DVnzmirc0zYQQ4tSEe70knePUHNcYeRBftvWI08e+8lKoRk=;
+Received: from root by mailer.reg.ru with local (Exim 4.94.2)
+	(envelope-from <noreply@reg.ru>)
+	id 1nUOqS-0006Fq-6u
+	for rim@tverreg.ru; Wed, 16 Mar 2022 08:17:24 +0000
+X-Mailer: REG.MAILER [ https://reg.ru ] 1.0
+Message-ID: <MS4yNjViNjExNmM5LjFiMjczNDliLjgzOGM2ODJlYmU4@mailer.reg.ru>
+X-Mailer-Dispatch: 456355121
+X-Mailru-Msgtype: bulkmail_40437
+Feedback-ID: bulkmail_40437:RegRU
+Subject: =?utf-8?b?0J/QtdGA0LXQvdC10YHQuNGC0LUg0LTQvtC80LXQvdGLINC6INGA0L7RgdGB0LjQudGB0LrQuNC8INGA0LXQs9C40YHRgtGA0LDRgtC+0YDQsNC8OiDRgNC10LrQvtC80LXQvdC00LDRhtC40Lgg0L7RgiDQmtCmIC5SVS8u0KDQpA==?=
+From: "REG.RU" <noreply@reg.ru>
+To: Rim@tverreg.ru
+Date: Wed, 16 Mar 2022 08:17:24 +0000
+X-DrWeb-SpamScore: 40
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudefuddguddutdcutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenuchinhgtohhrrhgvtghtuceohhhtmhhlqecuthgrghculddvtddmnehinhgtohhrrhgvtghtuceosghougihqecuthgrghculddvtddmnecujfgurhepgggtgffokffuhffvffesmhhqtderredtjeenucfhrhhomhepfdftgffirdftfgdfuceonhhorhgvphhlhiesrhgvghdrrhhuqeenucggtffrrghtthgvrhhnpeeivdehiedttdfggeevveeggefgteelvdelgeffheegteefkeehfffgteefheeuueenucffohhmrghinheprhgvghdrrhhupdhomhgvhhhosgdrrhhupdhtrdhmvgdptggtthhlugdrrhhupdhohhgrgidrrhhupdhomhgvhhdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.131#110 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  1
+	AWL                     0.971 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_TAG_BALANCE_BODY     0.1 HTML has unbalanced "body" tags
+	KAM_INFOUSMEBIZ          0.75 Prevalent use of .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life domains in spam/malware
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	KAM_TRACKIMAGE            0.2 Message has a remote image explicitly meant for tracking
+	MIXED_ES                0.798 Too many es are not es
+	MPART_ALT_DIFF_COUNT    1.112 HTML and text parts are different
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	SUBJ_ALL_CAPS             0.5 Subject is all capitals
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 40
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudefuddguddutdcutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenuchinhgtohhrrhgvtghtuceohhhtmhhlqecuthgrghculddvtddmnehinhgtohhrrhgvtghtuceosghougihqecuthgrghculddvtddmnecujfgurhepgggtgffokffuhffvffesmhhqtderredtjeenucfhrhhomhepfdftgffirdftfgdfuceonhhorhgvphhlhiesrhgvghdrrhhuqeenucggtffrrghtthgvrhhnpeeivdehiedttdfggeevveeggefgteelvdelgeffheegteefkeehfffgteefheeuueenucffohhmrghinheprhgvghdrrhhupdhomhgvhhhosgdrrhhupdhtrdhmvgdptggtthhlugdrrhhupdhohhgrgidrrhhupdhomhgvhhdrrhhunecukfhppeduleegrdehkedrudduiedrvdefge
+X-DrWeb-SpamVersion: Vade Retro 01.422.131#110 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: noreply@reg.ru
+X-MS-Exchange-Organization-Network-Message-Id: 70cbfe97-eb37-4607-0aca-08da072568cf
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2060397
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <!--[if !mso]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="format-detection" content="telephone=no">
+ <title></title>
+ <!--[if (gte mso 9)|(IE)]>
+ <style type="text/css">
+ table {border-collapse: collapse;}
+ .l-align_left {text-align: left !important;}
+ .l-align_right {text-align: right !important;}
+ .b-mail-full-width-img {width: 480px !important;}
+ .b-mail-discount-label {
+ background: none !important;
+ color: #000 !important;
+ display: inline;
+ font: bold 20px/24px Arial, 'Helvetica Neue', Helvetica, sans-serif !important;
+ padding-left: 0; !important;
+ margin-left: 0 !important;
+ width: auto !important;
+ }
+ .b-mail-dedicated__raid {
+ background: transparent !important;
+ color: #44A7E0 !important;
+ font-weight: bold;
+ padding: 0 !important;
+ margin-left: 0 !important;
+ }
+ </style>
+ <![endif]-->
+ <style type="text/css">
+.b-mail-voting__link:hover {
+text-decoration: none;
+}
+.b-mail-voting__button-url:hover {
+text-decoration: underline !important; color: #1d9ef9;
+}
+.b-mail-button__inner_color_default:hover {
+border-color: #f2f4f9 !important; background-color: #f2f4f9 !important;
+}
+@media only screen and (min-width: 580px) {
+ .l-align_left {
+ text-align: left !important;
+ }
+ .l-align_right {
+ text-align: right !important;
+ }
+}
+@media only screen and (max-width: 579px) {
+ .b-mail-grid_mode_full-width .b-mail-grid__column {
+ max-width: 100% !important;
+ }
+}
+@media screen and (min-width: 1140px) {
+ * [lang=l-align_right] {
+ text-align: right !important;
+ }
+ * [lang=l-align_left] {
+ text-align: left !important;
+ }
+}
+@media screen and (max-width: 1140px) {
+ .b-mail-header__full-width {
+ padding: 0 24px !important;
+ }
+}
+@media screen and (max-width: 580px) {
+ .b-mail-promo__arrow-wrapper {
+ max-width: 100% !important;
+ }
+ .b-mail-promo__arrow-wrapper {
+ max-width: 100% !important;
+ }
+}
+@media screen and (min-width: 580px) {
+ .b-mail-promo__arrow-wrapper {
+ max-width: 36px !important;
+ }
+ .b-mail-promo__arrow-wrapper {
+ max-width: 36px !important;
+ }
+}
+</style>
+</head>
+ <body style="-webkit-font-smoothing: antialiased; width: 100% !important; min-width: 100%; background-color: #ffffff; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" bgcolor="#ffffff">
+<img src="https://trackmail.reg.ru/Mi4yNjViNjE1YmUwLjFiMzM2ZDMxLmU4ZmRiMDgxOTJi.gif" width="1" height="1" alt="" nocache="">
+ 
+   
+ 
+ 
+ 
+ 
+ <center class="b-mail__wrapper" style="width: 100%; table-layout: fixed;">
+ <table class="b-mail" align="center" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 580px;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="580" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td>
+ <![endif]-->
+ <!-- РќРµРІРёРґРёРјС‹Р№ РїСЂРµС…РµРґРµСЂ РґР»СЏ РїРёСЃРµРј, СЂР°Р±РѕС‚Р°РµС‚ РІ РїРѕС‡С‚РѕРІРёРєР°С…: СЂР°РјР±Р»РµСЂ, РіСѓРіР», СЏРЅРґРµРєСЃ. Р’ РјРµР№Р».СЂСѓ РЅРµ СЂР°Р±РѕС‚Р°РµС‚. Р’СЃС‚Р°РІР»СЏС‚СЊ РІ РЅР°С‡Р°Р»Рѕ РїРёСЃСЊРјР°, РїРµСЂРµРґ b-mail-header -->
+ <div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">Р’Р°Р¶РЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ</div>
+<div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌвЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ вЂЌ</div>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail-grid b-mail-grid_align_center b-mail-grid_valign_bottom" background="https://img.reg.ru/news/white_mail_background.png" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="190" valign="middle">
+ <![endif]-->
+ <div class="b-mail-header b-mail-header__wrapper" style="margin: 0 24px; padding: 0;">
+ <div class="b-mail-grid__column b-mail-header__logo-wrapper" style="text-align: center; float: left; width: auto !important; max-width: 168px; vertical-align: bottom; display: inline-block; margin: 40px 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <div class="b-mail-header__logo l-align_left" style="height: 48px; margin: 0; padding: 0;">
+ <a href="https://www.reg.ru/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437">
+ <img src="https://i.reg.ru/i/mail/img/b-mail__logo.png?v18" width="168" height="48" alt="REG.RU" style="border: 0;">
+ </a> </div>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td><td width="390" valign="middle"><![endif]-->
+ <div class="b-mail-grid__column b-mail-header__content-wrapper" style="text-align: center; float: right; width: auto !important; vertical-align: bottom; display: inline-block; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <div class="l-align_right" lang="l-align_right" style="text-align: right; margin: 0; padding: 0;" align="right">
+ <p class="b-mail-header__content" style="margin: 36px 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <div class="b-mail-button" style="color: #ffffff; text-align: center; text-decoration: none; font-size: 15px; line-height: 24px; font-weight: bold; letter-spacing: normal; margin: 0; padding: 0;" align="center">
+ <div class="b-mail-button__wrapper l-align_right b-mail-header__login-button" style="text-align: right; margin: 48px 0 36px; padding: 0;" align="right">
+ 
+ <a href="https://www.reg.ru/user/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" class="l-color_link-blue b-mail-button b-mail-button_font_big" target="_blank" style="color: #1D9EF9 !important; text-align: center; text-decoration: none; font-size: 18px; line-height: 27px; font-weight: bold; letter-spacing: normal;">
+ <div class="b-mail-button__inner b-mail-button__inner_color_default" style="display: inherit; border-radius: 3px; color: #667695; text-align: center; background-color: #f2f4f9; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border-color: #f2f4f9; border-style: solid; border-width: 8px 24px;" align="center">Р’РѕР№С‚Рё
+ </div>
+ </a>
+ 
+ </div>
+ </div>
+ </p>
+ </div>
+ </div>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail__promo-wrapper" style="vertical-align: top; text-align: left; background-color: #FFCC03; padding: 12px;" align="left" bgcolor="#FFCC03" valign="top">
+ <table width="100%" style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail__content b-mail__content_mode_padding-tall" style="vertical-align: top; text-align: left; background-color: #ffffff; padding: 35px;" align="left" bgcolor="#ffffff" valign="top"> <p class="b-mail-text b-mail-text_mode_title-img" style="max-height: 132px; background-color: #F2F4F9; margin: 0 0 24px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <img class="b-mail-full-width-img" src="https://img.reg.ru/news/domainrurf16032022.jpg" alt="" style="display: block; width: 100%; height: auto; border: 0;">
+ </p>
+  <p class="b-mail-text b-mail-text_mode_content-title" style="letter-spacing: -0.02em; margin: 0 0 18px; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Р РµРєРѕРјРµРЅРґР°С†РёСЏ РѕС‚ РљРѕРѕСЂРґРёРЅР°С†РёРѕРЅРЅРѕРіРѕ С†РµРЅС‚СЂР° РґРѕРјРµРЅРѕРІ .RU/.Р Р¤</p> <p class="b-mail-text" style="margin: 12px 0 6px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">РќРµРєРѕС‚РѕСЂС‹Рµ СЂРѕСЃСЃРёР№СЃРєРёРµ РїРѕР»СЊР·РѕРІР°С‚РµР»Рё СѓР¶Рµ СЃС‚РѕР»РєРЅСѓР»РёСЃСЊ СЃ <a href="https://www.reg.ru/r?to=https%3A%2F%2Ft.me%2Fdomainrupor%2F134&amp;sign=c2adc57a2618a3ec7350bfd751e9615d&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РїСЂРѕР±Р»РµРјРѕР№</a> РїРѕРґРґРµСЂР¶РєРё РґРѕРјРµРЅРѕРІ, РєРѕС‚РѕСЂС‹Рµ РѕР±СЃР»СѓР¶РёРІР°СЋС‚СЃСЏ Р·Р°СЂСѓР±РµР¶РЅС‹РјРё РєРѕРјРїР°РЅРёСЏРјРё. <a href="https://www.reg.ru/r?to=https%3A%2F%2Fcctld.ru%2Fabout%2F&amp;sign=565956903839fcdf933bb746ceb51671&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РљРѕРѕСЂРґРёРЅР°С†РёРѕРЅРЅС‹Р№ С†РµРЅС‚СЂ</a> СЂРµРєРѕРјРµРЅРґСѓРµС‚ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР°Рј РґРѕРјРµРЅРѕРІ РІ Р·РѕРЅР°С… .RU РёР»Рё .Р Р¤, РёСЃРїРѕР»СЊР·СѓСЋС‰РёРј Р·Р°СЂСѓР±РµР¶РЅС‹Рµ СѓСЃР»СѓРіРё С…РѕСЃС‚РёРЅРіР° Рё СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ РїРѕС‡С‚С‹, <a href="https://www.reg.ru/r?to=https%3A%2F%2Ft.me%2Fdomainrupor%2F139&amp;sign=223bbb35267ce469c28fee8a3b2ba49e&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РїРµСЂРµРЅРµСЃС‚Рё СЃР°Р№С‚</a> <br>РЅР° DNS-СЃРµСЂРІРµСЂС‹ СЂРѕСЃСЃРёР№СЃРєРёС… СЂРµРіРёСЃС‚СЂР°С‚РѕСЂРѕРІ Рё С…РѕСЃС‚РµСЂРѕРІ. <br>Р­С‚Рѕ РєР°СЃР°РµС‚СЃСЏ Рё РІРµР±-Р°РґСЂРµСЃРѕРІ РІ <a href="https://www.reg.ru/support/domains/perenos-domena/perenos-domena-v-regru/perenos-mezhdunarodnogo-domena-ne-ot-partnyora-directi-internet-solutions?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РґСЂСѓРіРёС… РґРѕРјРµРЅРЅС‹С… Р·РѕРЅР°С…</a>.<b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">Р’ Р·РѕРЅР°С… .RU/.Р Р¤ РІР°С€ РґРѕРјРµРЅ <br>РІ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё</b><a href="https://www.reg.ru/r?to=https%3A%2F%2Ft.me%2Fdomainrupor%2F139&amp;sign=223bbb35267ce469c28fee8a3b2ba49e&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РљР°Рє СЃРѕРѕР±С‰Р°РµС‚</a> РљРѕРѕСЂРґРёРЅР°С†РёРѕРЅРЅС‹Р№ С†РµРЅС‚СЂ, СЂРѕСЃСЃРёР№СЃРєРёРµ РґРѕРјРµРЅС‹ <a href="https://www.reg.ru/domain/new/ru?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">.RU</a> <br>Рё <a href="https://www.reg.ru/domain/new/%d0%a0%d0%a4/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">.Р Р¤</a> СЂР°Р±РѕС‚Р°СЋС‚ СЃС‚Р°Р±РёР»СЊРЅРѕ. РљР¦ РїСЂРѕРґРѕР»Р¶РёС‚ РґРµР»Р°С‚СЊ РІСЃС‘, С‡С‚РѕР±С‹ Р·Р°С‰РёС‚РёС‚СЊ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂРѕРІ РІРµР±-Р°РґСЂРµСЃРѕРІ Рё СЃРѕС…СЂР°РЅРёС‚СЊ СЃС‚Р°Р±РёР»СЊРЅС‹Р№ РґРѕСЃС‚СѓРї Рє СЃР°Р№С‚Р°Рј. Рђ РєРѕРјР°РЅРґР° REG.RU РіРѕС‚РѕРІР° РїРѕРґРґРµСЂР¶Р°С‚СЊ РІР°СЃ, РїРѕРјРѕС‡СЊ СЃ РїРµСЂРµРЅРѕСЃРѕРј Рё РѕР±РµСЃРїРµС‡РёС‚СЊ РєСЂСѓРіР»РѕСЃСѓС‚РѕС‡РЅСѓСЋ С‚РµС…РЅРёС‡РµСЃРєСѓСЋ РїРѕРґРґРµСЂР¶РєСѓ.<b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">РњС‹ РїРѕР·Р°Р±РѕС‚РёРјСЃСЏ Рѕ РІР°С€РµРј РґРѕРјРµРЅРµ</b>Р§С‚РѕР±С‹ РѕР±РµСЃРїРµС‡РёС‚СЊ СЃРІРѕРµРјСѓ СЃР°Р№С‚Сѓ Р±РµСЃРїРµСЂРµР±РѕР№РЅСѓСЋ СЂР°Р±РѕС‚Сѓ, <a href="https://www.reg.ru/domain/service/transfer/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РїРµСЂРµРЅРµСЃРёС‚Рµ РґРѕРјРµРЅ</a> РЅР° РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ РІ REG.RU. РњС‹ РіР°СЂР°РЅС‚РёСЂСѓРµРј Р±РµР·РѕРїР°СЃРЅРѕРµ Рё РЅР°РґС‘Р¶РЅРѕРµ С„СѓРЅРєС†РёРѕРЅРёСЂРѕРІР°РЅРёРµ РІР°С€РµРіРѕ РїСЂРѕРµРєС‚Р°.<b style="color: #364364; font-family: 'Helvetica', 'Arial', sans-serif; font-weight: bold; text-align: left; line-height: 27px; font-size: 24px; margin: 22px 0 10px; padding: 0; display: block;" align="left">РљР°Рє РїРµСЂРµРЅРµСЃС‚Рё РґРѕРјРµРЅ РІ REG.RU</b>Р§С‚РѕР±С‹ РїРµСЂРµРЅРµСЃС‚Рё РґРѕРјРµРЅС‹ Рє РЅР°Рј РЅР° РѕР±СЃР»СѓР¶РёРІР°РЅРёРµ, РёСЃРїРѕР»СЊР·СѓР№С‚Рµ РёРЅСЃС‚СЂСѓРєС†РёРё:<br>вЂ” <a href="https://www.reg.ru/support/domains/perenos-domena/perenos-domena-v-regru/perenos-mezhdunarodnogo-domena-ne-ot-partnyora-directi-internet-solutions?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РџРµСЂРµРЅРѕСЃ РјРµР¶РґСѓРЅР°СЂРѕРґРЅРѕРіРѕ РґРѕРјРµРЅР° РѕС‚ РґСЂСѓРіРѕРіРѕ СЂРµРіРёСЃС‚СЂР°С‚РѕСЂР° РІ REG.RU</a>;<br>вЂ” <a href="https://www.reg.ru/support/domains/perenos-domena/perenos-domena-v-regru/perenos-domena-v-zone-ru-su-rf-ot-drugogo-registratora-na-obsluzhivanie-v-regru?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РџРµСЂРµРЅРѕСЃ РґРѕРјРµРЅР° РІ Р·РѕРЅР°С… .RU Рё .Р Р¤ РѕС‚ РґСЂСѓРіРѕРіРѕ СЂРµРіРёСЃС‚СЂР°С‚РѕСЂР° РІ REG.RU</a>;<br>вЂ” <a href="https://www.reg.ru/support/domains/perenos-domena/perenos-domena-v-regru/perenos-domena-v-zone-su-ot-drugogo-registratora-v-regru?_gl=1*e7kpqs*_ga*MTQ2OTI2NjQxNS4xNjQ1MDEzNDcz*_ga_N9GCQPR82H*MTY0NjExOTgzOS42OC4xLjE2NDYxMTk5NzkuNTI.&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РџРµСЂРµРЅРѕСЃ РґРѕРјРµРЅР° РІ Р·РѕРЅРµ .SU РѕС‚ РґСЂСѓРіРѕРіРѕ СЂРµРіРёСЃС‚СЂР°С‚РѕСЂР° РІ REG.RU</a>.<br><br>Р•СЃР»Рё РІР°Рј РЅРµРѕР±С…РѕРґРёРјРѕ Р·Р°СЂРµРіРёСЃС‚СЂРёСЂРѕРІР°С‚СЊ РЅРѕРІС‹Р№ РґРѕРјРµРЅ, Р°РІС‚РѕСЂРёР·СѓР№С‚РµСЃСЊ РЅР° СЃР°Р№С‚Рµ REG.RU Рё РІС‹Р±РµСЂРёС‚Рµ РїРѕРґС…РѕРґСЏС‰РёР№ РІР°СЂРёР°РЅС‚ РґР»СЏ СЃРІРѕРµРіРѕ РїСЂРѕРµРєС‚Р° СЃСЂРµРґРё <a href="https://www.reg.ru/domain/new/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">750 РґРѕРјРµРЅРЅС‹С… Р·РѕРЅ</a>. РџСЂРё СЂРµРіРёСЃС‚СЂР°С†РёРё РЅРѕРІРѕРіРѕ РІРµР±-Р°РґСЂРµСЃР° РІ Р·РѕРЅР°С… .RU, .SU, .COM РёР»Рё .Р Р¤ РІС‹ <a href="https://www.reg.ru/company/promotions/672?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsSingle_40437" style="color: #0f7ebd;">РїРѕР»СѓС‡РёС‚Рµ РІ РїРѕРґР°СЂРѕРє</a> SSL-СЃРµСЂС‚РёС„РёРєР°С‚ СѓСЂРѕРІРЅСЏ DV РЅР° 1 РіРѕРґ Рё С…РѕСЃС‚РёРЅРі РЅР° 2 РјРµСЃСЏС†Р° Р±РµСЃРїР»Р°С‚РЅРѕ
+----boundary-LibPST-iamunique-2146875884_-_---
+

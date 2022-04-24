@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3bc164
+DTSTAMP:20220424T204126Z
+CREATED:20211027T121734Z
+LAST-MOD:20211027T141958Z
+SUMMARY:Рабочая встреча\, тема: «О строительстве комплекса объектов государственного казенного учреждения для детей-сирот «Калязинский детский дом «Родничок» (отв. Новикова В.И.\, Ажгиревич А.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211027T140000Z
+DTEND;VALUE=DATE-TIME:20211027T143000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

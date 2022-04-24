@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14a913c
+DTSTAMP:20220424T204127Z
+CREATED:20170919T081650Z
+LAST-MOD:20170919T105847Z
+SUMMARY:Селекторное совещание с главами муниципальных образований Тверской области\, тема: «О ходе подготовки к началу отопительного сезона» (отв. Титов А.А.\, Волгин А.В.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170920T090000Z
+DTEND;VALUE=DATE-TIME:20170920T110000Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

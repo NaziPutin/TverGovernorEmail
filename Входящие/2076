@@ -1,0 +1,90 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 15 Feb 2020 11:59:33 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Sat, 15 Feb
+ 2020 11:59:25 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sat, 15 Feb 2020 11:59:00 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 908FD21591
+	for <rim@tverreg.ru>; Sat, 15 Feb 2020 11:59:00 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 128.140.171.52 is authorized to use 'baa_to@mail.ru' in 'mfrom' identity (mechanism 'ip4:128.140.168.0/21' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="baa_to@mail.ru"; helo=f143.i.mail.ru; client-ip=128.140.171.52
+Received: from f143.i.mail.ru (f143.i.mail.ru [128.140.171.52])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 610DD2087D
+	for <rim@tverreg.ru>; Sat, 15 Feb 2020 11:58:59 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=/XdLkeE4ecfBxDZYoB+AXQOAzK7ZEEEWBLygyP36ApY=;
+	b=Rh5K7Ky/X7fC7aZ+2w0HIxVTYDMVm8ZPF0CaRP/P/P01RJcnuqKsPYg1+g+6b/itUniZoaI/JMUMYWpLrBMrstQdZWLQ/nfDrBFcLKUr2lX2p0/JQ5UEwRl+PK6voe4wQY6AtApJ9atatylfgo1SIZqrKTCRgjAGxtYGP5hhGiw=;
+Received: by f143.i.mail.ru with local (envelope-from <baa_to@mail.ru>)
+	id 1j2tHo-0007zz-MP
+	for rim@tverreg.ru; Sat, 15 Feb 2020 11:58:52 +0300
+Received: by e.mail.ru with HTTP;
+	Sat, 15 Feb 2020 11:58:52 +0300
+From: =?UTF-8?B?0JDRhdC80LXRgiDQkdCw0LPQsNGD0YLQtNC40L3QvtCy?= <baa_to@mail.ru>
+To: rim@tverreg.ru
+Subject: =?UTF-8?B?0JzQvtC70L7QtNC10LbQvdC+0LUg0L/RgNCw0LLQuNGC0LXQu9GM0YHRgtCy?=
+ =?UTF-8?B?0L4g0KLQstC10YDRgdC60L7QuSDQvtCx0LvQsNGB0YLQuA==?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Sat, 15 Feb 2020 11:58:52 +0300
+Reply-To: =?UTF-8?B?0JDRhdC80LXRgiDQkdCw0LPQsNGD0YLQtNC40L3QvtCy?= <baa_to@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1581757132.395128831@f143.i.mail.ru>
+Authentication-Results: f143.i.mail.ru; auth=pass smtp.auth=baa_to@mail.ru smtp.mailfrom=baa_to@mail.ru
+X-7564579A: 646B95376F6C166E
+X-77F55803: 0A44E481635329DB4E7FAE048FD183FFF65658A2B47C0803320328692F6899E53CAF22B8E7AFBBB7FBDBF69DD7E3F538DA7845A452AB094E72C2292D2F806EF40BCD9CD1A0A52119D5D140589EA4DFA8
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE700C33AD00B77E1ABD82A6BABE6F325AC9EB98D58427B1C2ABCF491FFA38154B613377AFFFEAFD269176DF2183F8FC7C013069B262EDDB3B7C2099A533E45F2D0395957E7521B51C2CFCAF695D4D8E9FCEA1F7E6F0F101C6778DA827A17800CE72ED0CA9C5E4577E6EA1F7E6F0F101C674E70A05D1297E1BBC6CDE5D1141D2B1CD54D3D16422AD4A5AA71533A10EEB4EE61F50038D4CEE2379FA2833FD35BB23D9E625A9149C048EE33AC447995A7AD18C26CFBAC0749D213D2E47CDBA5A96583BD4B6F7A4D31EC0BB23A54CFFDBC96A8389733CBF5DBD5E9D5E8D9A59859A8B6D082881546D93491CC7F00164DA146DA6F5DAA56C3B73B23E7DDDDC251EA7DABAAAE862A0553A39223F8577A6DFFEA7CFB45EC329C20C27043847C11F186F3C5E7DDDDC251EA7DABCC89B49CDF41148FA8EF81845B15A4842623479134186CDE6BA297DBC24807EABDAD6C7F3747799A
+X-D57D3AED: Y8kq8+OzVoxvgW9Op3aR8E98oNK9gy3Irm5KFwLuDg60je4lC+GbTj0M8KbzpOmgsB7wYP6nnel8wfEHQiZAehdkEk+dXNIMi+RQCqhKSRcjFHRq+NfjHA==
+X-Mailru-MI: 800
+X-Mailru-Sender: 0E9E14D9EC491FBAE22592A0E278A124D908E8DCEBA12346E36BC732BB57249C6938B2D5EDD5CB52A3888A90B10A7DB5F7887C8DC560B784EC1806608C695223B668465AE93C1804CDB71EEEFBF064CA060382F41D98B804A111E05F3B44AE6A2CAD70E9A320CAB36706E61939857249AE208404248635DF
+X-Mras: Ok
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (baa_to[at]mail.ru)
+	HTML_MESSAGE            0.001 HTML included in message
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: baa_to@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 4d8e29ff-ab0c-4983-2013-08d7b1f55822
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:32.7317287
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><p style="margin-top: 0px;" dir="ltr">Добрый день !</p>
+<p dir="ltr">Уважаемый Игорь Михайлович !</p>
+<p dir="ltr">Молодежь региона ассоциирует Вас с российским государственным деятелем, который вносит значительный вклад в развитие не только Тверской области, но и всей страны, примерным семьянином, другом&nbsp; и просто хорошим человеком, поддерживающим начинания молодого поколения.</p>
+<p dir="ltr">Сегодня Тверская область стремительно развивается, строятся детские сады и школы, восстанавливаются и ремонтируются памятники архитектуры, ремонтируются дороги, молодые семьи получают выплаты, поддерживаются местные товаропроизводители – все это благодаря Вашему чуткому и грамотному руководству. </p>
+<p dir="ltr">Примите искренние поздравления от меня лично и молодежи Верхневолжья по случаю дня Вашего рождения!</p>
+<p dir="ltr">От всей души желаем Вам крепкого здоровья, семейного благополучия, профессиональных успехов, сил, энергии и душевной гармонии.</p>
+<p dir="ltr">Мы – молодежь, готовы Вам помогать и трудиться на благо Верхневолжья!</p>
+<p dir="ltr">С уважением,<br>
+Ахмет Багаутдинов<br>
+Молодежный министр <br>
+промышленности и торговли<br>
+Тверской области, <br>
+руководитель социального проекта<br>
+«Город чистых стен»,<br>
+&#43; 7 (991) 113-25-15.</p>
+</body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

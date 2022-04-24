@@ -1,0 +1,117 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 22 Jan 2019 18:00:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Tue, 22 Jan
+ 2019 18:00:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Tue, 22 Jan 2019
+ 18:00:34 +0300
+From: =?windows-1251?B?xO7w7vTl5eLgIMzg8Ojt4CDA6/zh5fDy7uLt4A==?=
+	<dorofeeva@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?Rlc6IM/w7uXq8iDv8O7y7uru6+Ag7+4g6PLu4+DsIPDg4e735ekg4vHy?=
+ =?windows-1251?B?8OX36CDxIPP34PHy6OXsIMPz4eXw7eDy7vDgINLi5fDx6u7pIO7h6+Dx?=
+ =?windows-1251?B?8ugg7+4g8uXs5SCrziDQ5uXi8eru7CDs5ezu8Ojg6+Ug8e7i5fLx6u7s?=
+ =?windows-1251?B?8yDx7uvk4PLzIOIg0Obl4vHq7uwg8ODp7u3lINLi5fDx6u7pIO7h6+Dx?=
+ =?windows-1251?B?8ugi?=
+Thread-Topic: =?windows-1251?B?z/Du5eryIO/w7vLu6u7r4CDv7iDo8u7j4Owg8ODh7vfl6SDi8fLw5ffo?=
+ =?windows-1251?B?IPEg8/fg8fLo5ewgw/Ph5fDt4PLu8OAg0uLl8PHq7ukg7uHr4PHy6CDv?=
+ =?windows-1251?B?7iDy5ezlIKvOINDm5eLx6u7sIOzl7O7w6ODr5SDx7uLl8vHq7uzzIPHu?=
+ =?windows-1251?B?6+Tg8vMg4iDQ5uXi8eru7CDw4Onu7eUg0uLl8PHq7ukg7uHr4PHy6CI=?=
+Thread-Index: AQHUsmAxI8vvlwxlBUq7avB3O5d34aW7YRZwgAAD3hA=
+Date: Tue, 22 Jan 2019 18:00:34 +0300
+Message-ID: <63d11b6e05dd440d87d292e369f693d9@tverreg.ru>
+References: <OFF7099C48.B5C16334-ON4325838A.004FF87E-4325838A.00513726@tverreg.ru>
+ <97ddac24fe964907a0acdb70cc61941f@tverreg.ru>
+In-Reply-To: <97ddac24fe964907a0acdb70cc61941f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <63d11b6e05dd440d87d292e369f693d9@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 8a1c59ec-f46e-48ce-2e58-08d6807a5c6c
+Return-Path: dorofeeva@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4040977
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER12D8E6A2
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name="Generator" content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="#0563C1" vlink="#954F72"><div class="WordSection1"><p class="MsoNormal"><span style="font-size:14.0pt">Уважаемый Игорь Михайлович,<o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt">в соответствии с Вашим указанием направляем проект протокола по итогам рабочей встречи по теме <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt">«О Ржевском мемориале советскому солдату в Ржевском районе Тверской области&quot; , состоявшейся 21 января 2019 года. <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt;color:#1F497D;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-language:EN-US">Правовая и лингвистическая экспертизы проведены.<o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-language:EN-US">Проект перечня поручений согласовали: &nbsp;</span><span style="font-size:14.0pt">Орлов А.В., Белоцерковский А.В., Степанов В.В.</span> <o:p></o:p></p><p class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-language:EN-US">Заместитель начальника управления секретариатом <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:14.0pt;mso-fareast-language:EN-US">Губернатора Тверской области Дорофеева М.А.<o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p><p style="margin-bottom:12.0pt"><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

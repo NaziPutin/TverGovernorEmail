@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1034044
+DTSTAMP:20220424T204127Z
+CREATED:20190405T143411Z
+LAST-MOD:20190405T130157Z
+SUMMARY:Совещание\, тема: «Об участии Тверской области в международных мероприятиях (Петербургский международный экономический форум (06-08.06.2019)\, бизнес-миссия в ФРГ (16-17.05.2019)» (отв. Егоров И.И.) Состав участников согласно списку\n
+DTSTART;VALUE=DATE-TIME:20190408T130000Z
+DTEND;VALUE=DATE-TIME:20190408T140000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x152c7b0
+DTSTAMP:20220424T204127Z
+CREATED:20170418T084755Z
+LAST-MOD:20170419T161235Z
+SUMMARY:Совещание\, тема: «Заседание постояннодействующего Координационного совещания по обеспечению правопорядка в ТО.  (отв. Попенко В.И.\, Белоцерковский А.В.\, Сенникова Н.А.\, СМИ+пресс-служба) в режиме ВКС
+DTSTART;VALUE=DATE-TIME:20170420T090000Z
+DTEND;VALUE=DATE-TIME:20170420T103000Z
+LOCATION:ул. Дарвина\, д.12\, ГУ МЧС России по ТО
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

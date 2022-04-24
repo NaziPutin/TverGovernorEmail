@@ -1,0 +1,141 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 26 Jan 2022 17:06:01 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Wed, 26 Jan
+ 2022 17:05:58 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Wed, 26 Jan 2022 17:05:58 +0300
+From: =?windows-1251?B?wPD16O/l7eruIMjj7vD8IMDr5erx4O3k8O7i6Pc=?=
+	<Archipenko_IA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?1NHBIO/uIMbKIKvf7fLg8O376SDj7vDu5Lsg?=
+Thread-Topic: =?windows-1251?B?1NHBIO/uIMbKIKvf7fLg8O376SDj7vDu5Lsg?=
+Thread-Index: AdgSvGER7G91a7YwS3mHl19EjUL60Q==
+Date: Wed, 26 Jan 2022 17:05:58 +0300
+Message-ID: <582db83ce0aa4b8fa13a098a69fd3a95@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <582db83ce0aa4b8fa13a098a69fd3a95@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: 5aa1f0fe-98d3-466e-3ef7-08d9e0d4fa0c
+Return-Path: Archipenko_IA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.0779903
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER7A9DF795
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><meta name="Generator" content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="blue" vlink="purple"><div class="WordSection1"><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:#1F497D">25.01.2022 в Главархитектуру приходил оперативный сотрудник УФСБ по ТО по вопросу затянутой процедуры утверждения нового проекта планировки территории ЖК Янтарный город и состоянии дел по застройке объекта. Не исключаю, что круг интересов шире и затрагивает вопросы «социальных обязательств» нового застройщика (инвестора) по денежному (имущественному) вкладу в развитие области.<o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:#1F497D">Сегодня с активом дольщиков проведена встреча, до них доведена информация по принимаемым мерам в отношении объекта.<o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;line-height:normal"><span style="color:#1F497D"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Строительство 16-этажного (один подземный этаж) многоквартирного жилого дома ЖК «Янтарный город» приостановлено в связи с отсутствием финансирования. <o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Начало строительства 4 квартал 2016 года. Строительство остановлено в 3 квартале 2020 года.<o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Заключено 39 договоров долевого участия.<o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Данный объект подпадает под Реестр проблемных объектов, но в настоящее время не отображен в Реестре.<o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

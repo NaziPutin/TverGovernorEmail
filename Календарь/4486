@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x131bab4
+DTSTAMP:20220424T204127Z
+CREATED:20180426T125552Z
+LAST-MOD:20180521T093901Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє РџРµС‚РµСЂР±СѓСЂРіСЃРєРѕРјСѓ РјРµР¶РґСѓРЅР°СЂРѕРґРЅРѕРјСѓ СЌРєРѕРЅРѕРјРёС‡РµСЃРєРѕРјСѓ С„РѕСЂСѓРјСѓ - 2018 (24-25.05.2018) (РѕС‚РІ. РњРµРЅСЊС‰РёРєРѕРІ Рђ.Р’.\, РџР°РІР»РѕРІР° Рћ.Р’.). РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20180521T140000Z
+DTEND;VALUE=DATE-TIME:20180521T143000Z
+LOCATION:РєР°Р±. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

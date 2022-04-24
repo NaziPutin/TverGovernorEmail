@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10b87a4
+DTSTAMP:20220424T204127Z
+CREATED:20190129T021844Z
+LAST-MOD:20190129T021845Z
+SUMMARY:Совещание\, тема: "О ходе подготовки государственной программы РФ по развитию сельских территорий". Проводит Медведев Д.А. - Председатель Правительства РФ (отв. Наумов А.В.\, Куликов Д.А.\, Егоров И.И.)
+DTSTART;VALUE=DATE-TIME:20190129T100000Z
+DTEND;VALUE=DATE-TIME:20190129T110000Z
+LOCATION:Московская область\, Одинцовский район Горки-9\, Резиденция Председателя Правительства Российской Федерации
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

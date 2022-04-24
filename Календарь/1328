@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x76e5cc
+DTSTAMP:20220424T204126Z
+CREATED:20210324T090919Z
+LAST-MOD:20210322T133941Z
+SUMMARY:Встреча с делегацией Посольства Исламской Республики Иран в Российской Федерации и ООО «Международная светотехническая корпорация «БООС ЛАЙТИНГ ГРУПП» (отв. Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210324T090000Z
+DTEND;VALUE=DATE-TIME:20210324T100000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

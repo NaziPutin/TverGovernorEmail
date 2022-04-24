@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaf5a70
+DTSTAMP:20220424T204126Z
+CREATED:20200505T072703Z
+LAST-MOD:20200504T124805Z
+SUMMARY:Резерв времени (Заседание рабочей группы Госсовета РФ по противодействию распространению новой коронавирусной инфекции\, вызванной 2019-NCOV (в режиме ВКС) (отв. Ажгиревич А.И.\, Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200505T080000Z
+DTEND;VALUE=DATE-TIME:20200505T093000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

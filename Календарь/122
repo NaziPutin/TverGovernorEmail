@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1f2c24
+DTSTAMP:20220424T204126Z
+CREATED:20220304T075514Z
+LAST-MOD:20220303T104054Z
+SUMMARY:Совещание\, тема:«О ходе реализации Плана мероприятий («дор. карты») по организации эксплуатации и модернизации системы теплоснабжения г. Твери» в режиме ВКС. (отв.Цветков А.И.\,Огоньков А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220304T110000Z
+DTEND;VALUE=DATE-TIME:20220304T120000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

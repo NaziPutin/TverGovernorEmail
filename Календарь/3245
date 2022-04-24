@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf11e4c
+DTSTAMP:20220424T204127Z
+CREATED:20190623T150048Z
+LAST-MOD:20190625T161812Z
+SUMMARY:Заседание Государственного Совета РФ по теме: «О развитии национальной сети автомобильных дорог и организации безопасного дорожного движения» (отв. Жарлицына Т.Л.\, Насибуллин Д.И.\, Попенко В.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190626T100000Z
+DTEND;VALUE=DATE-TIME:20190626T120000Z
+LOCATION:г. Москва\, Большой Кремлевский Дворец\, Георгиевский зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc7e640
+DTSTAMP:20220424T204126Z
+CREATED:20200104T093424Z
+LAST-MOD:20200104T094516Z
+SUMMARY:Совещание\, тема: «О ликвидации чрезвычайной ситуации\, сложившейся в многоквартирном доме по адресу: г. Тверь\, бульвар Гусева\, д. 19» (отв. Ажгиревич А.И.\, Цветков А.И.\, Огоньков А.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200104T113000Z
+DTEND;VALUE=DATE-TIME:20200104T120000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

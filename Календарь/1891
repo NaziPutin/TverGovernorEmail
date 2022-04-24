@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9911a0
+DTSTAMP:20220424T204126Z
+CREATED:20200907T114008Z
+LAST-MOD:20200907T100405Z
+SUMMARY:Селекторное совещание с главами муниципальных образований Тверской области\, тема: «О подготовке к осенне-зимнему отопительному периоду 2020-2021 гг.» (отв. Ажгиревич А.И.\, Пушкарев В.Ю.\, Белорусов В.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200907T110000Z
+DTEND;VALUE=DATE-TIME:20200907T120000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

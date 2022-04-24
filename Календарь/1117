@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x66d91c
+DTSTAMP:20220424T204126Z
+CREATED:20210428T225846Z
+LAST-MOD:20210428T224837Z
+SUMMARY:Заседание рабочей группы по координации вопросов реализации проекта электрификации ж/д ветки от границы Московской обл. до ст. Ржев ТО и строительства новой станции «Ржевский мемориал» у д. Хорошево Ржевского р-на (отв. Верхоглядов С.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210429T073000Z
+DTEND;VALUE=DATE-TIME:20210429T084500Z
+LOCATION:Ржевский район
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

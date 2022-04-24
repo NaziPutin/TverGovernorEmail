@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157ee9c
+DTSTAMP:20220424T204127Z
+CREATED:20160823T195541Z
+LAST-MOD:20160902T082209Z
+SUMMARY:Заседание рабочей группы по контролю за реализацией региональных адресных программ ТО по переселению граждан из аварийного жилищного фонда на 2013-2017 гг. (отв. Пилавов М.И.\, Дробот А.И.)
+DTSTART;VALUE=DATE-TIME:20160829T110000Z
+DTEND;VALUE=DATE-TIME:20160829T123000Z
+LOCATION:ул. Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,921 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 24 Mar 2022 12:39:52 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 24 Mar
+ 2022 12:39:51 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 24 Mar 2022 12:39:51 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 033D480DC3
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 12:39:50 +0300 (MSK)
+Received-SPF: pass (sent2mail.com: Sender is authorized to use 'sender@sent2mail.com' in 'mfrom' identity (mechanism 'include:mail.sent2mail.com' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="sender@sent2mail.com"; helo=mail201.sent2mail.com; client-ip=95.213.172.98
+Received: from mail201.sent2mail.com (mail201.sent2mail.com [95.213.172.98])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 7B0C680DBC
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 12:39:48 +0300 (MSK)
+Received: from localhost (localhost [127.0.0.1]))
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits))
+	(No client certificate requested)
+	by mail201.sent2mail.com (Postfix) with ESMTPS id 42BD640D4E
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 12:39:41 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=tervolina.ru;
+	s=sent2mail; t=1648114781;
+	bh=4wzWw2RB4axO2+qS04f5g6dBY2TM746untviSTf6KiQ=;
+	h=List-Unsubscribe:From:To:Reply-To:Date:Subject;
+	b=BOMElAxAlPiPbzAlLW2HqFTQj8puwO3CV7w2s3nTjmGRi1cZ0mexSplDrbmWgzdPT
+	 itm2eAdne4t6h/bQC5OTfH/MciNXMC9B3YdE3IDZefGV2aL4GCwmu2BaI3jiK2QZVd
+	 RkWaY0kzZ5q9JAURBFv77mWKTVB7M+BvmkucvPM0=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=sent2mail.com;
+	s=sent2mail; t=1648114781;
+	bh=4wzWw2RB4axO2+qS04f5g6dBY2TM746untviSTf6KiQ=;
+	h=List-Unsubscribe:From:To:Reply-To:Date:Subject;
+	b=PvDXXzGmtCTiBv+B7BjNgkoYs0l+3Rnq1cdXb0rx2RFP8NfRovBytQyQ9hWNOoQhX
+	 KQTF/8dOlL9dyA35WHKvqqwCylmXk79ZdaNmX56cm64T9hDrnTymZM79lQA/0AKpup
+	 qxCpU+HBYZTXmmRClW6pEnbEjUqjFaZgxxID02emp6xEE9X3ralitf1zDvjFLrsULH
+	 zIPHSkL6Wo+WZE/3sVAR0fhrYVjRkh0BB94znwFuukNsB5PSyB+nMT+mpRKi2+Rv+m
+	 6qsFLP2R7jIhti+UBpDYfufqjzLgaVPLHb4Pv7lWBdf/ImM+kFQjkM4jPqHBARRdL0
+	 4Pbrmcss7RTHw==
+Received: from localhost (localhost [127.0.0.1]))
+	by mail.int.retailrocket.ru (Postfix) with ESMTP id BF8E6921349
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 12:39:35 +0300 (MSK)
+List-Unsubscribe: <https://api.retailrocket.net/api/2.0/partner/5b334c0797a525e954fbb05a/unsubscribe?redirect=true&mailtrackingid=623c3c57dceb062accdef0c3>
+X-RR-MailTrackingId: 623c3c57dceb062accdef0c3
+Precedence: bulk
+X-Postmaster-Msgtype: 5b334c0797a525e954fbb05a_02c397
+X-Mailru-Msgtype: 5b334c0797a525e954fbb05a_02c397
+Received: from localhost(localhost [127.0.0.1]) by machine(623c3c57dceb062accdef0c3)
+X-Track-ID: 623c3c57dceb062accdef0c3
+X-SMTPAPI: {"category":"5b334c0797a525e954fbb05a","unique_args":{"mailId":"623c3c57dceb062accdef0c3"}}
+Feedback-ID: 5b334c0797a525e954fbb05a:623aed2d97a5282d0444a600::RRocket
+Message-ID: <623c3c57dceb062accdef0c3@retailrocket.net>
+From: "TERVOLINA" <noreply@tervolina.ru>
+To: rim@tverreg.ru
+Reply-To: service@tervolina.ru
+Date: 24 Mar 2022 12:39:35 +0300
+Subject: =?utf-8?B?8J+Mt1ZFU05BISAtMjUlINC/0L4g0L/RgNC+0LzQvtC60L7Q?=
+ =?utf-8?B?tNGD?=
+X-DrWeb-SpamScore: 51
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegledgtddvucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfthfevqddquegrugetughntfgtvhguvdculdehuddmnecujfgurhepkfgghffvrhffufgtsegrtderredttdejnecuhfhrohhmpedfvffgtfggqffnkffptedfuceonhhorhgvphhlhiesthgvrhhvohhlihhnrgdrrhhuqeenucggtffrrghtthgvrhhnpeeuleehffeufeekgfffhfelvddufedtudekfedvleefjefhkedvveehveevjeeuleenucffohhmrghinheprhgvthgrihhlrhhotghkvghtrdhnvghtpdhtvghrvhholhhinhgrrdhruhdpshhokhholhhovhdrrhhupdhvkhdrtghomh
+X-DrWeb-SpamVersion: Vade Retro 01.422.149#02 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -2.375 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	HEADER_FROM_DIFFERENT_DOMAINS   0.25 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_GRABBAG3                3 Grab bag of spam that employs multiple tricks that indicate tracking of recipients
+	KAM_HUGEIMGSRC            0.2 Message contains many image tags with huge http urls
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	KAM_TRACKIMAGE            0.2 Message has a remote image explicitly meant for tracking
+	MIME_HTML_MOSTLY          0.1 Multipart message mostly text/html MIME
+	MPART_ALT_DIFF           0.79 HTML and text parts are different
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	SUBJ_ALL_CAPS             0.5 Subject is all capitals
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URIBL_RED               0.001 Contains an URL listed in the URIBL redlist [retailrocket.net]
+X-DrWeb-SpamScore: 51
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegledgtddvucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfthfevqddquegrugetughntfgtvhguvdculdehuddmnecujfgurhepkfgghffvrhffufgtsegrtderredttdejnecuhfhrohhmpedfvffgtfggqffnkffptedfuceonhhorhgvphhlhiesthgvrhhvohhlihhnrgdrrhhuqeenucggtffrrghtthgvrhhnpeeuleehffeufeekgfffhfelvddufedtudekfedvleefjefhkedvveehveevjeeuleenucffohhmrghinheprhgvthgrihhlrhhotghkvghtrdhnvghtpdhtvghrvhholhhinhgrrdhruhdpshhokhholhhovhdrrhhupdhvkhdrtghomhenucfkphepleehrddvudefrddujedvrdelke
+X-DrWeb-SpamVersion: Vade Retro 01.422.149#02 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: sender@sent2mail.com
+X-MS-Exchange-Organization-Network-Message-Id: 2833b16f-b3ec-4989-1a4e-08da0d7a3ee7
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2870676
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="ru" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<head>
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+
+
+<style>
+[x-apple-data-detectors]{color:inherit!important;text-decoration:none!important}
+[href^="tel"],[href^="sms"]{color:inherit;text-decoration:none}
+#outlook a{padding:0}
+.ReadMsgBody{width:100%}
+.ExternalClass{width:100%}
+.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{line-height:100%}
+p,a,li,td,body,table,blockquote{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+p,a,li,td,blockquote{mso-line-height-rule:exactly}
+body{margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+table{border-spacing:0;font-family:Helvetica,"Helvetica Neue",Arial,sans-serif;font-size:12px}
+table,td{border-collapse:collapse;word-break:normal;padding:0;mso-table-lspace:0;mso-table-rspace:0}
+img{border:0;line-height:100%;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic}
+.outlook-container{width:600px}
+</style>
+<style type="text/css">
+@media screen yahoo {
+  .webkit,
+.col,
+div[class*="col-"] {
+    overflow: visible!important;
+  }
+}
+</style>
+
+
+
+<style>
+@media screen and (max-width: 600px) {
+  .content-center-lg {
+    text-align: center!important;
+  }
+
+  .block-center-lg {
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+  }
+
+  .img-responsive-lg {
+    width: 100%!important;
+    height: auto!important;
+  }
+
+  .col-lg-1 {
+    max-width: 8.333%!important;
+  }
+
+  .col-lg-2 {
+    max-width: 16.667%!important;
+  }
+
+  .col-lg-3 {
+    max-width: 25%!important;
+  }
+
+  .col-lg-4 {
+    max-width: 33.333%!important;
+  }
+
+  .col-lg-5 {
+    max-width: 41.667%!important;
+  }
+
+  .col-lg-6 {
+    max-width: 50%!important;
+  }
+
+  .col-lg-7 {
+    max-width: 58.333%!important;
+  }
+
+  .col-lg-8 {
+    max-width: 66.667%!important;
+  }
+
+  .col-lg-9 {
+    max-width: 75%!important;
+  }
+
+  .col-lg-10 {
+    max-width: 83.333%!important;
+  }
+
+  .col-lg-11 {
+    max-width: 91.667%!important;
+  }
+
+  .col-lg-12 {
+    max-width: 100%!important;
+  }
+}
+@media screen and (max-width: 480px) {
+  .content-center-md {
+    text-align: center!important;
+  }
+
+  .block-center-md {
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+  }
+
+  .img-responsive-md {
+    width: 100%!important;
+    height: auto!important;
+  }
+
+  .header__salons.ver {
+    display: none!important;
+  }
+
+  .col-md-1 {
+    max-width: 7.5%!important;
+  }
+
+  .col-md-2 {
+    max-width: 15.5%!important;
+  }
+
+  .col-md-3 {
+    max-width: 24.5%!important;
+  }
+
+  .col-md-4 {
+    max-width: 32.5%!important;
+  }
+
+  .col-md-5 {
+    max-width: 40.5%!important;
+  }
+
+  .col-md-6 {
+    max-width: 49.5%!important;
+  }
+
+  .col-md-7 {
+    max-width: 57.5%!important;
+  }
+
+  .col-md-8 {
+    max-width: 65.5%!important;
+  }
+
+  .col-md-9 {
+    max-width: 74.5%!important;
+  }
+
+  .col-md-10 {
+    max-width: 82.5%!important;
+  }
+
+  .col-md-11 {
+    max-width: 90.5%!important;
+  }
+
+  .col-md-12 {
+    max-width: 99.5%!important;
+  }
+}
+@media screen and (max-width: 420px) {
+  .content-center-sm {
+    text-align: center!important;
+  }
+
+  .block-center-sm {
+    float: none!important;
+    margin-left: auto!important;
+    margin-right: auto!important;
+  }
+
+  .img-responsive-sm {
+    width: 100%!important;
+    height: auto!important;
+  }
+
+  .col-sm-1 {
+    max-width: 8.333%!important;
+  }
+
+  .col-sm-2 {
+    max-width: 16.667%!important;
+  }
+
+  .col-sm-3 {
+    max-width: 25%!important;
+  }
+
+  .col-sm-4 {
+    max-width: 33.333%!important;
+  }
+
+  .col-sm-5 {
+    max-width: 41.667%!important;
+  }
+
+  .col-sm-6 {
+    max-width: 50%!important;
+  }
+
+  .col-sm-7 {
+    max-width: 58.333%!important;
+  }
+
+  .col-sm-8 {
+    max-width: 66.667%!important;
+  }
+
+  .col-sm-9 {
+    max-width: 75%!important;
+  }
+
+  .col-sm-10 {
+    max-width: 83.333%!important;
+  }
+
+  .col-sm-11 {
+    max-width: 91.667%!important;
+  }
+
+  .col-sm-12 {
+    max-width: 100%!important;
+  }
+}
+</style>
+<style>
+@media only screen and (max-width: 480px) {
+  u ~ div .full-width {
+    min-width: 100vw;
+  }
+
+  div > u ~ div .full-width {
+    min-width: 100%;
+  }
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="x-apple-disable-message-reformatting">
+<base target="_blank">
+<title></title>
+</head>
+<body style="margin: 0; padding: 0; min-width: 100%; font-family: Helvetica,'Helvetica Neue',Arial,sans-serif; font-size: 12px; color: #000000; background-color: #ffffff;"><img src="https://tracking.retailrocket.net/1.0/event/emailopen/5b334c0797a525e954fbb05a?MailTrackingId=623c3c57dceb062accdef0c3" title="" alt="" width="1" height="1">
+  <div class="full-width" style="background-color: #ffffff; padding-left: 5px; padding-right: 5px; -webkit-box-sizing: border-box; box-sizing: border-box;">
+    <table height="100%" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; border-spacing: 0; border-collapse: collapse;"><tr><td valign="top" align="center" style="padding: 0; line-height: normal;">
+      <center class="wrapper" style="width: 100%; table-layout: fixed; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;">
+        <div class="webkit" style="width: 100%; max-width: 600px; min-width: 310px; margin: 0 auto;">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table class="outlook-container" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+          <td>
+                    <![endif]-->
+                      
+            
+            <div style="font-size:1px;line-height:1px;font-size:0;line-height:0;color:transparent;color:#ffffff;height:0;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+              <span>Скорее открывайте письмо</span>
+            </div>
+            
+            
+
+            
+          <!-- Module: Шапка -->
+          
+          
+
+<table class="header outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="header__inner row row--reverse" align="center" style="line-height: normal; font-size: 0; text-align: center; direction: rtl; padding: 10px 0;">
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="100%" cellpadding="0" cellspacing="0"><tr>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]><td width="21.66%" valign="top" align="center" style="width:21.66%"><![endif]-->
+      <div class="col col-md-12" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; direction: ltr; max-width: 130px;">
+        <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+          <tr>
+            <td class="header__contact row" align="center" style="line-height: normal; font-size: 0; text-align: center; padding: 7px 0;">
+              <!--[if (gte mso 9)|(IE)]><table width="100%" cellpadding="0" cellspacing="0"><tr><td width="100%" valign="top" align="center" style="width:100%"><![endif]-->
+              <div class="col" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; direction: ltr; max-width: 130px;">
+                <table align="center" style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+                  <tr>
+                    <td class="header__contact-phone" align="center" style="line-height: normal; padding: 0; padding-bottom: 5px;">
+                      <a href="tel:&#43;78006003440" target="_blank" style="color: #000000; text-decoration: none; font-size: 14px; line-height: 14px; white-space: nowrap;">8 800 600 34 40</a>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <!--[if (gte mso 9)|(IE)]></td></tr><tr><td width="100%" valign="top" align="center" style="width:100%"><![endif]-->
+              <div class="col" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; direction: ltr; max-width: 130px;">
+                <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+                  <tr>
+                    <td class="header__contact-mail" style="line-height: normal; padding: 0;">
+                      <a href="mailto:service@tervolina.ru" target="_blank" style="color: #000000; text-decoration: none; font-size: 14px; line-height: 14px; white-space: nowrap;">service@tervolina.ru</a>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!--[if (gte mso 9)|(IE)]></td><![endif]-->
+      <!--[if (gte mso 9)|(IE)]><td width="56.66%" valign="top" align="center" style="width:56.66%"><![endif]-->
+      <div class="col col-md-12" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; direction: ltr; max-width: 340px;">
+        <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+          <tr>
+            <td class="header__logo" align="center" style="line-height: normal; padding: 10px 0;">
+              <a href="https://clickproxy.retailrocket.net/?url=http%3A%2F%2Ftervolina.ru%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=02c9ea97-1c34-4567-87c3-602b4b52ceea&amp;linkPos=0" target="_blank"><img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/logo_Tervolina.png" width="230" alt="tervolina" style="border: 0; display: block;"></a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!--[if (gte mso 9)|(IE)]></td><![endif]-->
+      <!--[if (gte mso 9)|(IE)]><td width="21.66%" valign="top" align="center" style="width:21.66%"><![endif]-->
+      <div class="col col-md-12 header__salons-col" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; direction: ltr; max-width: 130px;">
+        <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+          <tr>
+            <td class="header__salons ver" align="center" style="line-height: normal; padding: 10px 0;">
+              <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Fwww.tervolina.ru%2Fshop%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=067cf7ce-4f94-488b-a08a-4a01cb785a85&amp;linkPos=0" target="_blank" style="color: #000000; text-decoration: none; font-size: 14px; line-height: 27px;">Салоны</a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!--[if (gte mso 9)|(IE)]></td><![endif]-->
+      <!--[if (gte mso 9)|(IE)]></tr></table><![endif]-->
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Шапка -->
+        
+          <!-- Module: Меню -->
+          
+          
+
+<table class="menu outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="row menu__items" style="line-height: normal; font-size: 0; text-align: center; padding: 10px 0;" align="center">
+      
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="100%" cellpadding="0" cellspacing="0">
+      <tr>
+      <![endif]-->
+      
+      <!--[if (gte mso 9)|(IE)]>
+      <td width="34.06%" valign="middle">
+      <![endif]-->
+      <div class="col col-md-4" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; max-width: 204.33333333333334px;">
+        <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+          <tr>
+            <td class="menu__item-wrap" style="line-height: normal; padding: 5px 0;">
+              <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+                <tr>
+                  <td align="center" nowrap="" class="menu__item " style="line-height: normal; padding: 0 5px;">
+                    <p style="margin: 0; font-size: 14px; line-height: normal; color: #000000; text-transform: uppercase;"><a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2Fobuv_90%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=d59375be-6097-454b-97e8-3d317775f011&amp;linkPos=0" target="_blank" style="color: #000000; text-decoration: none;">Для женщин</a></p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!--[if (gte mso 9)|(IE)]>
+      </td>
+      <![endif]-->
+      
+      <!--[if (gte mso 9)|(IE)]>
+      <td width="34.06%" valign="middle">
+      <![endif]-->
+      <div class="col col-md-4" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; max-width: 204.33333333333334px;">
+        <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+          <tr>
+            <td class="menu__item-wrap" style="line-height: normal; padding: 5px 0;">
+              <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+                <tr>
+                  <td align="center" nowrap="" class="menu__item " style="line-height: normal; padding: 0 5px;">
+                    <p style="margin: 0; font-size: 14px; line-height: normal; color: #000000; text-transform: uppercase;"><a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fmuzhchinam%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=6b917033-2d98-4699-ae92-965ea7da48d9&amp;linkPos=0" target="_blank" style="color: #000000; text-decoration: none;">Для мужчин</a></p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!--[if (gte mso 9)|(IE)]>
+      </td>
+      <![endif]-->
+      
+      <!--[if (gte mso 9)|(IE)]>
+      <td width="30.22%" valign="middle">
+      <![endif]-->
+      <div class="col col-md-4" style="width: 100%; display: inline-block; vertical-align: top; font-size: 12px; max-width: 181.33333333333334px;">
+        <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+          <tr>
+            <td class="menu__item-wrap" style="line-height: normal; padding: 5px 0;">
+              <table style="width: 100%; border-spacing: 0; border-collapse: collapse;" width="100%">
+                <tr>
+                  <td align="center" nowrap="" class="menu__item menu__item--last  menu__item--bold" style="line-height: normal; padding: 0 5px; border-right: none;">
+                    <p style="margin: 0; font-size: 14px; line-height: normal; color: #000000; text-transform: uppercase; font-weight: bold;"><a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2F%3FnewOnly%3D1%26utm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=580545ae-600a-4bda-8a6a-6422a9648d9c&amp;linkPos=0" target="_blank" style="color: #000000; text-decoration: none;">Новинки</a></p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <!--[if (gte mso 9)|(IE)]>
+      </td>
+      <![endif]-->
+      
+      <!--[if (gte mso 9)|(IE)]>
+      </tr>
+      </table>
+      <![endif]-->
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Меню -->
+        
+          <!-- Module: Баннер 1 -->
+          
+          <table class="banner outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2Fobuv_90%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=e6bc4350-8c91-4c5d-8984-e271395cdf1a&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-1-600x400.jpg" width="600" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-1-600x400.jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Баннер 1 -->
+        
+          <!-- Module: Интро -->
+          
+          
+<table class="intro outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="inner" align="center" style="line-height: normal; padding: 0; padding-top: 25px; padding-left: 35px; padding-bottom: 25px; padding-right: 35px;">
+      <p class="intro__title" style="margin: 0; font-size: 20px; font-weight: bold; line-height: normal; text-transform: uppercase;"></p>
+      
+<div style="font-size:10px;line-height:10px;height:10px;">&nbsp;</div>
+
+      <p class="intro__text" style="margin: 0; font-size: 14px; line-height: normal;">До 31 марта -25% по промокоду VESNA. Акция действует на модели обуви и сумок со скидкой до 30%.
+ </p>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Интро -->
+        
+          <!-- Module: Баннер 2 -->
+          
+          <table class="banner outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2Fobuv_90%2F%3Fsort%3DSORT%253AASC%26set_filter%3Dy%26arrFilter_100_MIN%3D2097%26arrFilter_100_MAX%3D20990%26arrFilter_61_536962777%3DY%26utm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=8ecada26-49be-4afe-9de6-a235009997bd&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-2-600%d1%85400.jpg" width="600" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-2-600%d1%85400.jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Баннер 2 -->
+        
+          <!-- Module: Продукты: 2 товара -->
+          
+          <table class="banner outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fproduct%2Fkrossovki_4600100250495%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=115e258c-a25f-4a2e-89cd-a199a52eab70&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-3-300%d1%85300_1.jpg" width="300" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-3-300%d1%85300_1.jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fproduct%2Fzakrytye-tufli_4600100245774%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=d433d693-0eb8-4e90-928b-ac0973a84eb2&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-4-300%d1%85300_2.jpg" width="300" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-4-300%d1%85300_2.jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Продукты: 2 товара -->
+        
+          <!-- Module: Баннер 3 -->
+          
+          <table class="banner outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Fsokolov.ru%2Fshops-map%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=852b3cf4-cc4f-4b23-adff-973c36d5962d&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/600%d1%85400%20(2).jpg" width="600" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/600%d1%85400%20(2).jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Баннер 3 -->
+        
+          <!-- Module: Интро -->
+          
+          
+<table class="intro outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="inner" align="center" style="line-height: normal; padding: 0; padding-top: 25px; padding-left: 35px; padding-bottom: 25px; padding-right: 35px;">
+      <p class="intro__title" style="margin: 0; font-size: 20px; font-weight: bold; line-height: normal; text-transform: uppercase;"></p>
+      
+<div style="font-size:10px;line-height:10px;height:10px;">&nbsp;</div>
+
+      <p class="intro__text" style="margin: 0; font-size: 14px; line-height: normal;">Успейте купить по выгодным ценам! Брендовые сумки и удобная обувь пригодятся в любом сезоне 🛍️</p>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Интро -->
+        
+          <!-- Module: 2 Баннера -->
+          
+          <table class="banner outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2Fsumki_90%2F%3FsaleOnly%3D1%26sort%3Dproperty_BASE_SALE_PRICE%253AASC%26set_filter%3Dy%26arrFilter_100_MIN%3D2495%26arrFilter_100_MAX%3D11993%26utm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=0674a9de-5f44-4699-8fcb-bcaafaef475f&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-5-300%d1%85400.jpg" width="300" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-5-300%d1%85400.jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+    <td align="center" style="padding: 0; line-height: normal;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2Fobuv_90%2F%3FsaleOnly%3D1%26utm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=e77724f7-8411-4e01-9ecc-154980ce5b12&amp;linkPos=0" target="_blank">
+        <!--[if (gte mso 9)|(IE)]>
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-6-300%d1%85400.jpg" width="300" alt="Изображение не загружено" border="0" />
+        <table width="100%" style="border-spacing:0;border-collapse:collapse;display:none;" >
+        <tr style="display:none;">
+        <td width="50%" valign="middle" style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;display:none;" >
+        <![endif]-->
+        <img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b0-23.03-6-300%d1%85400.jpg" alt="Изображение не загружено" border="0" width="100%" style="border: 0; display: block; mso-hide: all;">
+        <!--[if (gte mso 9)|(IE)]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+      </a>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: 2 Баннера -->
+        
+          <!-- Module: Spacer -->
+          
+          <table class="outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff"><tr><td style="padding: 0; font-size: 32px; line-height: 32px; height: 32px;" height="32">&nbsp;</td></tr></table>
+          
+          <!-- Module End: Spacer -->
+        
+          <!-- Module: Кнопка -->
+          
+          <table class="cta outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td align="center" style="padding: 0; line-height: normal;">
+      
+
+<div>
+  <!--[if mso]>
+    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://tervolina.ru/catalog/zhenshchinam/obuv_90/" target="_blank" style="height:32px;v-text-anchor:middle;width:162px;"  stroke="f" fillcolor="#935326">
+      <w:anchorlock/>
+      <center style="color:#ffffff;font-family:Helvetica,'Helvetica Neue',Arial,sans-serif;font-size:12px;font-weight:normal;">СМОТРЕТЬ ВСЕ</center>
+    </v:rect>
+  <![endif]-->
+  <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Ftervolina.ru%2Fcatalog%2Fzhenshchinam%2Fobuv_90%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=42e87dc5-10e4-4233-9331-0f48df799288&amp;linkPos=0" target="_blank" style="background-color:#935326;color:#ffffff;display:inline-block;font-family:Helvetica,'Helvetica Neue',Arial,sans-serif;font-size:12px;line-height:32px;font-weight:normal;text-align:center;text-decoration:none;width:162px;-webkit-text-size-adjust:none;mso-hide:all;">СМОТРЕТЬ ВСЕ</a>
+</div>
+
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Кнопка -->
+        
+          <!-- Module: Spacer -->
+          
+          <table class="outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff"><tr><td style="padding: 0; font-size: 32px; line-height: 32px; height: 32px;" height="32">&nbsp;</td></tr></table>
+          
+          <!-- Module End: Spacer -->
+        
+          <!-- Module: Подвал -->
+          
+          
+<table class="footer outer" style="border-spacing: 0; border-collapse: collapse; width: 100%; margin: 0 auto; max-width: 600px; background-color: #ffffff;" width="100%" bgcolor="#ffffff">
+  <tr>
+    <td class="footer__inner inner" style="line-height: normal; padding: 10px;">
+      <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+        <tr>
+          <td class="footer__support" style="padding: 0; line-height: normal; padding-left: 40px; padding-bottom: 20px; padding-right: 40px; background-color: #ffffff;" bgcolor="#ffffff">
+            <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+              <tr>
+                <td class="footer__support-payment" style="padding: 0; line-height: normal; width: 50%;" width="50%">
+                  <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+                    <tr>
+                      <td class="footer__support-item" style="padding: 0; line-height: normal;">
+                        <a href="https://clickproxy.retailrocket.net/?url=http%3A%2F%2Fwww.tervolina.ru%2Fbuyers%2Fdelivery%2F%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=0ff3b55a-b386-4252-b000-884313254a23&amp;linkPos=0" target="_blank" style="font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">Доставка</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="footer__support-item" style="padding: 0; line-height: normal;">
+                        <a href="https://clickproxy.retailrocket.net/?url=http%3A%2F%2Fwww.tervolina.ru%2Fbuyers%2Fpayment%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=5a053c16-7320-4067-bc97-d7ad59e08fe4&amp;linkPos=0" target="_blank" style="font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">Оплата</a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="footer__support-item" style="padding: 0; line-height: normal;">
+                        <a href="https://clickproxy.retailrocket.net/?url=http%3A%2F%2Fwww.tervolina.ru%2Fbuyers%2Freturns%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=16f2874a-6ca3-47a9-901d-07495fb2658f&amp;linkPos=0" target="_blank" style="font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">Возврат и обмен</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+                <td class="footer__support-contacts" style="padding: 0; line-height: normal; width: 50%;" width="50%">
+                  <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+                    <tr>
+                      <td class="footer__support-item" style="padding: 0; line-height: normal;">
+                        <p style="margin: 0; font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">Служба клиентской поддержки <a href="tel:&#43;78006003440" target="_blank" style="font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">8 800 600 34 40</a></p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="footer__support-item" style="padding: 0; line-height: normal;">
+                        <p style="margin: 0; font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">Бесплатный звонок по России, круглосуточно</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="footer__support-item" style="padding: 0; line-height: normal;">
+                        <a href="mailto:service@tervolina.ru" target="_blank" style="font-size: 10px; line-height: 16px; color: #474747; text-decoration: none;">service@tervolina.ru</a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td class="footer__main" style="line-height: normal; padding: 0; padding-top: 25px; padding-left: 65px; padding-bottom: 25px; padding-right: 65px; background-color: #3C3C3C; color: #ffffff;" bgcolor="#3C3C3C">
+            <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+              <tr>
+                <td class="footer__socials" style="padding: 0; line-height: normal;">
+                  <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+                    <tr>
+                      <td class="footer__socials-title" style="padding: 0; line-height: normal; padding-left: 10px; padding-right: 10px; width: 50%;" width="50%">
+                        <p style="margin: 0; font-size: 11px; line-height: normal; text-align: right; color: #ffffff;">Следуйте за нами: </p>
+                      </td>
+                      <td align="left" class="footer__socials-icons" style="padding: 0; line-height: normal; padding-left: 10px; padding-right: 10px; width: 50%;" width="50%">
+                        
+
+<table class="wa" width="auto" align="left" style="border-spacing: 0; border-collapse: collapse; width: auto;">
+  <tr>
+    
+
+    <td class="social-icon" style="padding: 0; line-height: normal; padding-left: 10px; padding-right: 10px;">
+      <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Fvk.com%2Fclub46207567%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=d45b7bb0-4693-4d6c-b176-dfaa4bb72b98&amp;linkPos=0" target="_blank"><img src="https://gallery.retailrocket.net/5b334c0797a525e954fbb05a/email_icon_vk.png" border="0" alt="vk" style="border: 0; display: block;"></a>
+    </td>
+
+    
+
+    
+  </tr>
+</table>
+
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td class="footer__unsubscribe" style="line-height: normal; padding: 0; padding-top: 25px;">
+                  <table width="100%" style="width: 100%; border-spacing: 0; border-collapse: collapse;">
+                    <tr>
+                      <td class="footer__unsubscribe-text" style="padding: 0; line-height: normal;">
+                        <p style="margin: 0; font-size: 9px; line-height: 16px; text-align: center; text-decoration: none; color: #ffffff;">
+                          Вы получили это письмо, так как Вы подписаны на рассылки от интернет-магазина <a href="https://clickproxy.retailrocket.net/?url=http%3A%2F%2Ftervolina.ru%3Futm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=4efbca00-8f3b-4210-8185-640546eb7c28&amp;linkPos=0" target="_blank" style="font-size: 9px; line-height: 16px; text-align: center; text-decoration: none; color: #ffffff;">TERVOLINA.RU</a>. 
+                          Данное письмо не является офертой. Цена товара, упомянутого в письме, актуальна на момент отправки. 
+                          Количество товара ограничено. Чтобы отписаться от рассылки, нажмите <a href="https://clickproxy.retailrocket.net/?url=https%3A%2F%2Fapi.retailrocket.net%2Fapi%2F2.0%2Fpartner%2F5b334c0797a525e954fbb05a%2Funsubscribe%3Fredirect%3Dtrue%26mailtrackingid%3D623c3c57dceb062accdef0c3%26utm_source%3Dretailrocket%26utm_medium%3Demail%26utm_campaign%3Dvesna24_03&amp;partnerId=5b334c0797a525e954fbb05a&amp;mailTrackingId=623c3c57dceb062accdef0c3&amp;linkId=553c7b80-d477-4482-8e6e-fbbbd6fad5f3&amp;linkPos=0" target="_blank" style="font-size: 9px; line-height: 16px; text-align: center; color: #ffffff; text-decoration: underline;">здесь</a>.
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td class="footer__unsubscribe-author" style="line-height: normal; padding: 0; padding-top: 25px; text-align: center;" align="center">
+                        <p style="margin: 0; font-size: 9px; line-height: normal; text-align: center; color: #ffffff;">© Tervolina  |  2022</p>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+          
+          <!-- Module End: Подвал -->
+        
+                    <!--[if (gte mso 9)|(IE)]>
+                    </td>
+          </tr>
+          </table>
+                    <![endif]-->
+                  </div>
+      </center>
+    </td></tr></table>
+  </div>
+</body>
+</html>
+
+
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

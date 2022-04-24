@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x50cd18
+DTSTAMP:20220424T204126Z
+CREATED:20210721T103704Z
+LAST-MOD:20210721T085106Z
+SUMMARY:Рабочая встреча по вопросу надежности электроснабжения отдельных муниципальных образований Тверской области (отв. Вилькомир А.К.\, Цветков А.И.\, Барышков В.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210721T113000Z
+DTEND;VALUE=DATE-TIME:20210721T123000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

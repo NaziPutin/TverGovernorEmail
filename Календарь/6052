@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1536f6c
+DTSTAMP:20220424T204127Z
+CREATED:20170403T140853Z
+LAST-MOD:20170406T135915Z
+SUMMARY:РџР°РЅРёС…РёРґР° РІ РґРµРЅСЊ РІР·СЂС‹РІР° РЎРїР°СЃРѕ-РџСЂРµРѕР±СЂР°Р¶РµРЅСЃРєРѕРіРѕ СЃРѕР±РѕСЂР° (04.04.1935) (РѕС‚РІ. Р–СѓРєРѕРІР° Рћ.Р’.\, РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р°)
+DTSTART;VALUE=DATE-TIME:20170404T050000Z
+DTEND;VALUE=DATE-TIME:20170404T053000Z
+LOCATION:СѓР».РЎРѕРІРµС‚СЃРєР°СЏ\, Р§Р°СЃРѕРІРЅСЏ РІРѕ РёРјСЏ РІСЃРµС… РўРІРµСЂСЃРєРёС… СЃРІСЏС‚С‹С…
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

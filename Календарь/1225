@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6edaf0
+DTSTAMP:20220424T204126Z
+CREATED:20210401T142033Z
+LAST-MOD:20210401T064450Z
+SUMMARY:РЎРѕРІРµС‰Р°РЅРёРµ\, С‚РµРјР°: "Рћ РїРѕРґРіРѕС‚РѕРІРєРµ Рє РїСЂРѕРІРµРґРµРЅРёСЋ Рё РїСЂР°Р·РґРЅРѕРІР°РЅРёСЋ 500-Р»РµС‚РёСЏ РѕР±СЂРµС‚РµРЅРёСЏ РјРѕС‰РµР№ СЃРІСЏС‚РѕРіРѕ РїСЂРµРїРѕРґРѕР±РЅРѕРіРѕ РњР°РєР°СЂРёСЏ РљР°Р»СЏР·РёРЅСЃРєРѕРіРѕ (08.06.2021)" (РѕС‚РІ. РЎРєРѕСЂС‹Р№ Рђ.Р’.\, РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р°)
+DTSTART;VALUE=DATE-TIME:20210401T143000Z
+DTEND;VALUE=DATE-TIME:20210401T153000Z
+LOCATION:РєР°Р±. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

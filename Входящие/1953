@@ -1,0 +1,141 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 29 Apr 2020 23:35:57 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 29 Apr
+ 2020 23:35:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Wed, 29 Apr 2020 23:35:38 +0300
+From: =?koi8-r?B?59XMwcvP1yDhzMXL08HOxNIg88XSx8XF18ne?= <gulakovas@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?UmU6IPDPINfP0NLP09Ug0NLJz8LSxdTFzsnRIM/CzNXewdTFzMXKLg==?=
+Thread-Topic: =?koi8-r?B?8M8g18/Q0s/T1SDQ0snPwtLF1MXOydEgz8LM1d7B1MXMxcou?=
+Thread-Index: AQHWHaib2rAMxVbm8keostUgVTcveaiQNrbwgABWnSk=
+Date: Wed, 29 Apr 2020 23:35:38 +0300
+Message-ID: <ea7c359c51154dbf9dbdf1ef94576fe7@tverreg.ru>
+References: <84a431ed9c514fb4aabe7e05715a020a@tverreg.ru>,<74264f9d07114db8b77413ae4d4013af@tverreg.ru>
+In-Reply-To: <74264f9d07114db8b77413ae4d4013af@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ea7c359c51154dbf9dbdf1ef94576fe7@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [93.91.113.198]
+X-MS-Exchange-Organization-Network-Message-Id: 9b7606f1-4e9f-49e4-e98c-08d7ec7ce096
+Return-Path: gulakovas@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:19.4035038
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERB0D94AFA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"><meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="RU" link="#0563C1" vlink="#954F72">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:'Times New Roman',Times,serif;" dir="ltr">
+<p>йЗПТШ нЙИБКМПЧЙЮ, ОБРТБЧМСА ЖПФПЗТБЖЙЙ ПВМХЮБФЕМЕК (ВБЛФЕТЙГЙДОЩИ ХУФБОПЧПЛ) ХЛБЪБООЩИ Ч ЙОЖПТНБГЙПООПК УРТБЧЛЕ РП ЧПРТПУХ РТЙПВТЕФЕОЙС ПВМХЮБФЕМЕК ПФ 28.04.2020.</p>
+</div>
+<hr style="display:inline-block;width:98%" tabindex="-1">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>пФ:</b> тХДЕОС йЗПТШ нЙИБКМПЧЙЮ<br>
+<b>пФРТБЧМЕОП:</b> 29 БРТЕМС 2020 З. 18:15:58<br>
+<b>лПНХ:</b> зХМБЛПЧ бМЕЛУБОДТ уЕТЗЕЕЧЙЮ<br>
+<b>фЕНБ:</b> RE: рП ЧПРТПУХ РТЙПВТЕФЕОЙС ПВМХЮБФЕМЕК.</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<div class="WordSection1">
+<p class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;mso-fareast-language:EN-US">жПФПЗТБЖЙЙ РТЙЫМЙФЕ ЙЪДЕМЙК<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;mso-fareast-language:EN-US"><o:p>&nbsp;</o:p></span></p>
+<div>
+<div style="border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">From:</span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif"> зХМБЛПЧ бМЕЛУБОДТ уЕТЗЕЕЧЙЮ &lt;gulakovas@tverreg.ru&gt;
+<br>
+<b>Sent:</b> Wednesday, April 29, 2020 1:02 AM<br>
+<b>To:</b> тХДЕОС йЗПТШ нЙИБКМПЧЙЮ &lt;rim@tverreg.ru&gt;<br>
+<b>Subject:</b> рП ЧПРТПУХ РТЙПВТЕФЕОЙС ПВМХЮБФЕМЕК.<o:p></o:p></span></p>
+</div>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<div id="divtagdefaultwrapper">
+<div id="divtagdefaultwrapper">
+<p><span style="font-size:11.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!</span><span style="color:black"><o:p></o:p></span></p>
+<p><span style="font-size:11.5pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">ч УППФЧЕФУФЧЙЙ У чБЫЙН РПТХЮЕОЙЕН РП ТЕЪХМШФБФБН РТПЧЕДЕООПЗП 27.04.2020 ПРЕТБФЙЧОПЗП УПЧЕЭБОЙС РП РТЕДХРТЕЦДЕОЙА ЪБЧПЪБ Й ТБУРТПУФТБОЕОЙС ОПЧПК ЛПТПОБЧЙТХУОПК ЙОЖЕЛГЙЙ (Covid-2019)
+ ОБРТБЧМСА ЙОЖПТНБГЙПООХА УРТБЧЛХ У БЛФХБМЙЪЙТПЧБООПК ЙОЖПТНБГЙЕК ОБ 29.04.2020.</span><span style="color:black"><o:p></o:p></span></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,100 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 23 Mar 2022 23:48:42 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 23 Mar
+ 2022 23:48:42 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Wed, 23 Mar 2022 23:48:42 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 3B0F483C4B
+	for <rim@tverreg.ru>; Wed, 23 Mar 2022 23:48:40 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'okb.kozlov@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="okb.kozlov@yandex.ru"; helo=forward105o.mail.yandex.net; client-ip=37.140.190.183
+Received: from forward105o.mail.yandex.net (forward105o.mail.yandex.net [37.140.190.183])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 8C23D83C1B
+	for <rim@tverreg.ru>; Wed, 23 Mar 2022 23:48:27 +0300 (MSK)
+Received: from forward103q.mail.yandex.net (forward103q.mail.yandex.net [IPv6:2a02:6b8:c0e:50:0:640:b21c:d009])
+	by forward105o.mail.yandex.net (Yandex) with ESMTP id 555644C33DA
+	for <rim@tverreg.ru>; Wed, 23 Mar 2022 23:48:26 +0300 (MSK)
+Received: from vla5-8987bf54d6da.qloud-c.yandex.net (vla5-8987bf54d6da.qloud-c.yandex.net [IPv6:2a02:6b8:c18:3614:0:640:8987:bf54])
+	by forward103q.mail.yandex.net (Yandex) with ESMTP id 4EC7E56A0002
+	for <rim@tverreg.ru>; Wed, 23 Mar 2022 23:48:26 +0300 (MSK)
+Received: from vla5-047c0c0d12a6.qloud-c.yandex.net (vla5-047c0c0d12a6.qloud-c.yandex.net [2a02:6b8:c18:3484:0:640:47c:c0d])
+	by vla5-8987bf54d6da.qloud-c.yandex.net (mxback/Yandex) with ESMTP id rfr4hl8dHB-mQf4mJTf;
+	Wed, 23 Mar 2022 23:48:26 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1648068506;
+	bh=exsUepidSwZfaBZxNe6ahTim9asHenJ9/IFr9D9Oikk=;
+	h=Subject:Date:From:Message-Id:To;
+	b=nndTrK1kVbDNrPCXU+z4gtbKwCcR3X9wNyM+nqapOQVwCN6C3Eu4F4vHRvAd3QPLi
+	 KepWRf+gg4dcIHPjfjj959pocKlsLsfU1oCDgLB71aZ2ViHg3q492K9J6xj7b6Ttns
+	 QuaV4BksdQyqsxsrreTswI9kZuMJ4F7mwVtTCHCA=
+Authentication-Results: vla5-8987bf54d6da.qloud-c.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by vla5-047c0c0d12a6.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id Xsd60XbQ26-mOJ0M9X8;
+	Wed, 23 Mar 2022 23:48:24 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+From: "Okb.kozlov" <okb.kozlov@yandex.ru>
+Date: Wed, 23 Mar 2022 23:48:23 +0300
+Subject: =?utf-8?B?0JLQsNC60YbQuNC90LDRhtC40Y8=?=
+Message-Id: <D3F21E74-F828-42DF-811A-1CC8417CC085@yandex.ru>
+To: rim@tverreg.ru
+X-Mailer: iPhone Mail (19D52)
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegjedgudefhecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegtgffhggffuffkvffosehmjehmrehhtdejnecuhfhrohhmpedfqfhksgdrkhhoiihlohhvfdcuoehokhgsrdhkohiilhhovheshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnheptdehuddttdduvefgfeekiefgudevhfeuhfeuhedthfeileetgeefjeelkeekfeegnecukfhppedvrgdtvdemiegskeemtgdukeemfeegkeegmedtmeeigedtmeegjegtmegttdgu
+X-DrWeb-SpamVersion: Vade Retro 01.422.147#135 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DC_IMAGE_SPAM_TEXT        0.1 Possible Image-only spam with little text
+	DC_PNG_UNO_LARGO        0.001 Message contains a single large png image
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegjedgudefhecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegtgffhggffuffkvffosehmjehmrehhtdejnecuhfhrohhmpedfqfhksgdrkhhoiihlohhvfdcuoehokhgsrdhkohiilhhovheshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnheptdehuddttdduvefgfeekiefgudevhfeuhfeuhedthfeileetgeefjeelkeekfeegnecukfhppedvrgdtvdemiegskeemtgdukeemfeegkeegmedtmeeigedtmeegjegtmegttdgu
+X-DrWeb-SpamVersion: Vade Retro 01.422.147#135 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: okb.kozlov@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 1929a7e2-6bef-4bbe-7676-08da0d0e83eb
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3931608
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<DIV>
+<IMG SRC="cid:0fe1b089-6d52-43dd-9461-2b4366a52bd4@tverreg.ru">
+</DIV><div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone<br>
+<br>
+--<br>
+<br>
+<br>
+__________________________________________________________________________________________________________<br>
+Р’РЅРёРјР°РЅРёРµ!!! Р•СЃР»Рё РѕС‚РїСЂР°РІРёС‚РµР»СЊ РїРѕС‡С‚С‹ РЅРµРёР·РІРµСЃС‚РµРЅ, РЅРµ РїРµСЂРµС…РѕРґРёС‚Рµ РїРѕ СЃСЃС‹Р»РєР°Рј, РЅРµ СЃРѕРѕР±С‰Р°Р№С‚Рµ РїР°СЂРѕР»СЊ Рё РЅРµ Р·Р°РїСѓСЃРєР°Р№С‚Рµ РІР»РѕР¶РµРЅРёСЏ.<br>
+РџРѕРґРѕР·СЂРёС‚РµР»СЊРЅРѕРµ РїРёСЃСЊРјРѕ РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµСЃР»Р°С‚СЊ СЃ РІР»РѕР¶РµРЅРёСЏРјРё РЅР° РїРѕС‡С‚РѕРІС‹Р№ Р°РґСЂРµСЃ СЃР»СѓР¶Р±С‹ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё sb_report@tverreg.ru<br>
+</div></span></font>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

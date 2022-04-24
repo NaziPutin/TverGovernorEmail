@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:Кононова\, Ирина Михайловна
+N:Кононова;Ирина;Михайловна;;
+EMAIL:i.kononova@rushistory.org
+ADR;TYPE=work:;;;;Москва\, Вороново поле\, 13/1;;Россия
+LABEL;TYPE=work:Москва\, Вороново поле\, 13/1
+TEL;TYPE=cell,voice:+7 (985) 761-86-07
+TITLE:Руководитель специальных проектов фонда
+ORG:Фонд история отечества
+VERSION:3.0
+END:VCARD
+

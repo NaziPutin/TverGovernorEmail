@@ -1,0 +1,86 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 26 Dec 2018 10:58:33 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 26 Dec
+ 2018 10:58:27 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 26 Dec 2018 10:58:28 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 97DF3205DA;
+	Wed, 26 Dec 2018 10:58:29 +0300 (MSK)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'butashin@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="butashin@gmail.com"; helo=mail-it1-f171.google.com; client-ip=209.85.166.171
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'butashin@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="butashin@gmail.com"; helo=mail-it1-f171.google.com; client-ip=209.85.166.171
+Received: from mail-it1-f171.google.com (mail-it1-f171.google.com [209.85.166.171])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 2D051201D3;
+	Wed, 26 Dec 2018 10:58:22 +0300 (MSK)
+Received: by mail-it1-f171.google.com with SMTP id m8so24794710itk.0;
+        Tue, 25 Dec 2018 23:58:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=eaU496myhQfozivkcbkaRv9wLFIrkevC5/qLpUvKvgM=;
+        b=OulKMBC+2fdVm4+ChGxDgLuSZ+YQYp1LzUNtHXTV1xcXlBBByo+hPOnbjcAXkxCCxr
+         WBy8/3VRZMhN7Un2CB2k3FBf4qaAomJMAgnpNj/lbtANQup1QS/AfeNtbU83cvqvOzlx
+         n3t6JG2GVaqEbzpOgqWeR+ffRsamgLpyLKiH9ka2k4QCMLq3Nn4eOkg3I0/QjJfDztl3
+         EL6/JW3o1LAi/d5W8jjobH4s2YhXYmZZLc0mmmPIBMPL6Am+nfPnFhRy8Wp5A07jmq4b
+         1bKFqyEJ99UuCdsPEQwI6SrTeY+6f39tOI4hSU5Ih1gJdS3d1DbiUxwq/47kMmyLcbNg
+         GrqQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=eaU496myhQfozivkcbkaRv9wLFIrkevC5/qLpUvKvgM=;
+        b=lyKfNp4Z45kXetxyiETVDwDi9IuKe57ZU3BCAtLet+GiIh7qxyrmry4d+x7v3ruj6y
+         d8+c8V/5vICeFh4jeGsTswWgBhX4yh0NVL6S4PT8YAHntDzeRtcYq4jHOKHWbDurWdV2
+         WgT7CajFCvdAXXpAvWLILqUD3E66uVi65xmoO/yAjXaFZBu8rp+2gjxLLZEhzqNKYrG9
+         5G3ZjlxvV44ZIfzX5tkZ/Fmy27o0GQt1EAtwTH7u7kjLbGpsIqAC3J4Dh03dFxh+dwOi
+         XyTkUH2x20NWmyionGzu5JLt2LlXr9LJH7HjDasCOybLosK96VfV5fVy7S/lvM32JujI
+         AqsA==
+X-Gm-Message-State: AJcUukeJRDlQ7zSg+fpu4B6PW6ywczYTnCvaZ1Z9pycJs8v+eRlh9hX5
+	eY83JVJ/CVwUDwlAjd9QvEI0W4tJk3jj+BayFiEvyg==
+X-Google-Smtp-Source: AFSGD/Vt3H5fkuEINMj26TCfIdSIifyVxJAwu0oJXy7PFsyp6p8X+REPvMzvIdKpnTUWElqxp0S+9FDD4F+befihjmY=
+X-Received: by 2002:a24:a0cb:: with SMTP id o194mr10964054ite.115.1545811093633;
+ Tue, 25 Dec 2018 23:58:13 -0800 (PST)
+References: <7f7ab7f641db43689b8e8a8cdb6522ca@wciom.com>
+In-Reply-To: <7f7ab7f641db43689b8e8a8cdb6522ca@wciom.com>
+From: =?UTF-8?B?0JTQvNC40YLRgNC40Lkg0JHRg9GC0LDRiNC40L0=?= <butashin@gmail.com>
+Date: Wed, 26 Dec 2018 10:58:02 +0300
+Message-ID: <CAF3GEp8y60HyF0VAuFbiG0MFcStwuhKiAoKbx4EvA8uAQceZiQ@mail.gmail.com>
+Subject: =?UTF-8?B?RndkOiDQn9C40YHRjNC80LAg0LPRg9Cx0LXRgNC90LDRgtC+0YDQsNC8?=
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>, 
+	=?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <pr_gubernatora@tverreg.ru>
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_ADSP_CUSTOM_MED    0.001 No valid author signature, adsp_override is CUSTOM_MED
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (sotszashitatver[at]yandex.ru) (kcson-olenino[at]yandex.ru) (guvzapdvinsbbj[at]yandex.ru) (oleninoadm[at]yandex.ru) (skorayavvolok[at]mail.ru) (butashin[at]gmail.com)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	NML_ADSP_CUSTOM_MED       0.9 ADSP custom_med hit, and not from a mailing list
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at http://www.dnswl.org/, no trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: butashin@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: 0a87e2b2-92ed-4984-d56e-08d66b07eba1
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:05.0098822
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="ltr">Игорь Михайлович, добрый день.<div>Пересылаю скан письма от нашего партнера - Фонда ВЦИОМ с которым выигран Президентский грант на на создание и апробацию технологии обратной связи с населением и независимой оценки эффективности деятельности органов власти. Благодарю Вас за поддержку проекта и готовность региона принять участие в пилотном проекте.</div><div>Официально письмо направлено в Ваш адрес почтой. Прошу определить ответственного от Правительства области за взаимодействие по проведению мероприятий в рамках гранта. Дополнительных средств из бюджета области на выполнение работ по гранту не требуется.<br><div dir="ltr" class="gmail_signature" data-smartmail="gmail_signature"><br></div><div class="gmail_signature" data-smartmail="gmail_signature">Также сообщаю, что в рамках 10-го юбилейного Гайдаровского Форума (15-17 января 2019 года) состоится панельная дискуссия &quot;Современное государственное управление:меняемся для вас&quot; (16 января в 16.00-18.00 во 2-м корпусе Академии (пр. Вернадского, 82), аудитория 237). Прошу обратить внимание, что время проведения панельной дискуссии было изменено (ранее планировалось с 15.00). Благодарю Вас за согласие принять участие и ждем Вас на дискуссии. разрешите напомнить, что необходима регистрация на Форуме, регистрация осуществляется только в электронном виде на сайте Форума по адресу <a href="http://gaidarforum.ru">gaidarforum.ru</a></div><div dir="ltr" class="gmail_signature" data-smartmail="gmail_signature"><br></div><div dir="ltr" class="gmail_signature" data-smartmail="gmail_signature">С уважением,<div>Д.А. Буташин</div><div>Проректор Академии при Президенте Российской Федерации</div></div></div></div>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

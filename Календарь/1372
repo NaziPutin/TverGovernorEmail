@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x7bc244
+DTSTAMP:20220424T204126Z
+CREATED:20210219T064829Z
+LAST-MOD:20210219T063344Z
+SUMMARY:Торжественная церемония вручения государственных и региональных наград\, посвященная Дню защитника Отечества (23.02.2021) (отв. Скорый А.В.\, Пономарев А.А.\, Веселов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210219T080000Z
+DTEND;VALUE=DATE-TIME:20210219T084000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

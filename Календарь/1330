@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x76f41c
+DTSTAMP:20220424T204126Z
+CREATED:20210226T100400Z
+LAST-MOD:20210226T083826Z
+SUMMARY:Заседание Комиссии по предупреждению и ликвидации чрезвычайных ситуаций и обеспечению пожарной безопасности Тверской области (отв. Григорян А.Р.\, Ажгиревич А.И.\, Цветков А.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210226T083000Z
+DTEND;VALUE=DATE-TIME:20210226T090000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

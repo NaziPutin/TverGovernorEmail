@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x23e4dc
+DTSTAMP:20220424T204126Z
+CREATED:20220208T175452Z
+LAST-MOD:20220208T140814Z
+SUMMARY:Посещение площадки строительства детской областной клинической больницы в городе Твери (отв. Березин Д.Б.\, Ажгиревич А.И.\, Козлов С.Е.\, пресс-служба) Состав участников согласно списку\n
+DTSTART;VALUE=DATE-TIME:20220209T100000Z
+DTEND;VALUE=DATE-TIME:20220209T105500Z
+LOCATION:Петербургское ш.\, д. 115 к. 4
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

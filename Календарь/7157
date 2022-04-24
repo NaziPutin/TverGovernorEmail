@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157edf4
+DTSTAMP:20220424T204127Z
+CREATED:20160824T082628Z
+LAST-MOD:20160902T082210Z
+SUMMARY:Встреча с инвесторами по вопросу реализации проекта по строительству  тепличного комплекса «Тепличный комбинат «Волжский Берег» (отв. Меньщиков А.В.\, Мигулев П.И.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20160826T150000Z
+DTEND;VALUE=DATE-TIME:20160826T160000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

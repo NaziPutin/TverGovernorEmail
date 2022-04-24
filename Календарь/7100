@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157e5f0
+DTSTAMP:20220424T204127Z
+CREATED:20160905T113050Z
+LAST-MOD:20160913T080250Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє СЂР°Р±РѕС‡РµР№ РїРѕРµР·РґРєРµ РІ РќРµР»РёРґРѕРІСЃРєРёР№ СЂР°Р№РѕРЅ (07.09.2016) (РѕС‚РІ. Р—Р°Р№С†РµРІ Рђ.Рђ.). РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20160906T120000Z
+DTEND;VALUE=DATE-TIME:20160906T123000Z
+LOCATION:РєР°Р±. 301-1
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

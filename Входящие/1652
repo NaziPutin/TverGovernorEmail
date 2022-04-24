@@ -1,0 +1,109 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 11 Sep 2020 22:58:01 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 11 Sep
+ 2020 22:57:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Fri, 11 Sep 2020
+ 22:58:00 +0300
+From: =?utf-8?B?0JHQtdC70LXQvdC60L4g0JDQu9C10LrRgdCw0L3QtNGAINCu0YDRjNC10LI=?=
+ =?utf-8?B?0LjRhw==?= <belenko@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J4g0LrQstCw0YDRgtC40YDQsNGFINC00LvRjyDQtNC10YLQtdC5LdGB0Lg=?=
+ =?utf-8?B?0YDQvtGCLCDQuNC30LzQtdC90LXQvdC40Lgg0J/Ql9CXINC4INC/0L7RgNGD?=
+ =?utf-8?B?0YfQtdC90LjRj9GFINC/0L4g0JbQmiAi0JLQvtC70LPQsCDQm9Cw0LnRhCI=?=
+Thread-Topic: =?utf-8?B?0J4g0LrQstCw0YDRgtC40YDQsNGFINC00LvRjyDQtNC10YLQtdC5LdGB0Lg=?=
+ =?utf-8?B?0YDQvtGCLCDQuNC30LzQtdC90LXQvdC40Lgg0J/Ql9CXINC4INC/0L7RgNGD?=
+ =?utf-8?B?0YfQtdC90LjRj9GFINC/0L4g0JbQmiAi0JLQvtC70LPQsCDQm9Cw0LnRhCI=?=
+Thread-Index: AdaIdqWuPhXPlJ2KSOOq18755Dff5Q==
+Date: Fri, 11 Sep 2020 22:58:00 +0300
+Message-ID: <c8ceeaa7f4a0410db12aee419c099fa5@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <c8ceeaa7f4a0410db12aee419c099fa5@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 791000f7-9e23-4fc7-b85c-08d8568cfcc1
+Return-Path: belenko@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4790524
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER40FB3C4A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+p.s1, li.s1, div.s1
+	{mso-style-name:s_1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Во исполнение Ваших поручений по итогам рабочей встречи по теме «О строительстве ЖК «Волга Лайф» в городе Твери» от 09.09.2020 Минконтроль сообщает.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;mso-line-height-alt:1.1pt;background:white'><b><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></b></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;mso-line-height-alt:1.1pt;background:white'><b><span style='font-size:16.0pt'>1. </span></b><b><span style='font-size:16.0pt;color:black'>О приобретении квартир в ЖК «Волга Лайф» лицам из числа детей-сирот, детей, оставшихся без попечения родителей.<o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>          В 2018 – 2019 годах Администрацией г. Твери приобретена 121 квартира на общую сумму 171&nbsp;162&nbsp;878,6 руб., в том числе:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>а)</span></b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'> в 2018 году -</span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'> 65 квартир на общую сумму 92&nbsp;862&nbsp;133 руб. (стоимость 1 квартиры - 1&nbsp;428&nbsp;648,2 руб.), расположенных по следующим адресам:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>- ул. Новочеркасская, д. 56 (17-ти этажный), 1-ый подъезд (приобретено 29 квартир). В указанном подъезде расположены 192 квартиры (12 квартир на этаже), в том числе приобретены для указанной категории граждан:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по две квартиры на 2 – 4, 6 – 8, 11 – 17 этажах;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по одной квартире на 5, 9, 10 этажах;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>- ул. Новочеркасская, д. 57 (17-ти этажный), 2-ой подъезд (приобретено 36 квартир). В указанном подъезде расположено 240 квартир (15 квартир на этаже), в том числе приобретены для указанной категории граждан:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по три квартиры на 2, 12 – 17 этажах;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по две квартиры на 3, 6, 8 – 11  этажах;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по одной квартире на 4, 5, 7 этажах.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>б)</span></b><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'> в 2019 году - 56 квартир на общую сумму 78&nbsp;300&nbsp;745,6 руб. (стоимость 1 квартиры - 1&nbsp;398&nbsp;227,6 руб.), расположенных по следующим адресам:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>- ул. Новочеркасская, д. 50 (17-ти этажный), 1-ый подъезд (приобретено 32 квартиры). В указанном подъезде расположено 96 квартир (6 квартир на этаже), в том числе приобретены для указанной категории граждан по две квартиры на каждом этаже начиная со 2-го;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>- ул. Новочеркасская, д. 50 (17-ти этажный), 2-ой подъезд (приобретено 24 квартиры). В указанном подъезде расположено 96 квартир (6 квартир на этаже), в том числе приобретены для указанной категории граждан:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по две квартиры на 2 – 8, 17 этажах;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>• по одной квартире на 9 – 16 этажах.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Таким образом, Администрацией г. Твери приобреталось в одном подъезде от 24 до 36 квартир. Указанные обстоятельства не будут способствовать социализации детей-сирот и их приобщению к «нормальному» укладу жизни, а могут привести к формированию «обособленных» групп.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:34.6pt;mso-line-height-alt:1.1pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Подробный доклад прилагается.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>2. О порядке приведения в соответствие с генеральным планом правил землепользования и застройки и полномочиях органов местного самоуправления.<o:p></o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>В соответствии с </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>пунктом 1 части 2 статьи 33 Градостроительного кодекса РФ основанием для рассмотрения главой администрации вопроса о внесении изменений в правила землепользования и застройки является несоответствие их генеральному плану.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Согласно положению «О комиссии по землепользованию и застройке города Твери», утвержденному постановлением Администрации города Твери от 09.11.2012 № 1727, полномочия по доработке проекта внесения изменений в правила землепользования и застройки города Твери в случае обнаружения органом местного самоуправления его несоответствия генеральному плану возложены на комиссию по землепользованию и застройке города Твери.</span><span style='font-size:14.0pt;font-family:"Times New Roman","serif"'><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Таким образом, Администрация города Твери наделена самостоятельными полномочиями на внесение изменений в правила землепользования и застройки города Твери.</span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>3. О  поручениях и докладах во исполнение поручений Губернатора Тверской области по вопросу строительства ЖК «Волга Лайф», данных Министерству строительства Тверской области, Главному управлению архитектуры и градостроительной деятельности  Тверской области, Администрации города Твери.<o:p></o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Министерством проанализирована информация, представленная аппаратом Правительства Тверской области, Администрацией города Твери, Главным управлением архитектуры и градостроительной деятельности Тверской области и Министерством строительства Тверской области о данных им поручениях и их исполнении по вопросу, связанному со строительством ЖК «Волга Лайф», в ответ на запрос Минконтроля.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Согласно представленной вышеуказанными органами информации Главному управлению архитектуры и градостроительной деятельности Тверской области, Министерству строительства Тверской области и Администрации города Твери по указанному вопросу поручения не давались.<span style='color:black'><o:p></o:p></span></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.4pt;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>Вместе с тем в октябре 2018 года во исполнение подпункта 10 пункта 2 протокола совещания с участием Губернатора Тверской области по теме «Изменения регионального законодательства в области ООПТ» от 28.09.2018 № 308/ПЛ под председательством заместителя Председателя Правительства Тверской области – Министра природных ресурсов и экологии Тверской области Наумова А.В. было проведено совещание по вопросу прекращения строительства ЖК «Волга Лайф» по адресу: станция Дорошиха, улица Театралов и поселок Черкассы.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:42.55pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>На указанном совещании присутствовали: Наумов А.В., Комиссарова О.С., Смялковский П.Е., Цветкова М.А., Мосевкин А.О. (начальник отдела Минстроя и ЖКХ), от города Твери - Аристов Е.В. и Ефремов В.В., генеральный директор ООО «Тверское ДСК» - Сальникова О.В.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:42.55pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Согласно протоколу совещания от 16.10.2018 Главе администрации г. Твери Огонькову А.В. было рекомендовано подготовить и направить в Минприроды предложения о вариантах расторжения договоров аренды земельных участков, заключенных в целях жилищного строительства ЖК «Волга Лайф», а также информацию о свободных земельных участках, находящихся в муниципальной собственности г. Твери, пригодных для организации жилищного строительства, с целью дальнейшего предоставления ООО «ДСК-Проект 3».<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:42.55pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Администрацией города Твери во исполнение указанного протокола в адрес Правительства Тверской области (письмо от 06.11.2018 № 01/6498-и) направлена информация об отсутствии нарушений по договору аренды земельных участков от 18.02.2014 № 004-з/14 со стороны ООО «ДСК-Проект 3».<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>          Для решения вопроса Администрацией города Твери была предложена возможность расторжения договора аренды по соглашению сторон в соответствии с частью 1 статьи 450 ГК РФ.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>          В качестве компенсационных земельных участков, пригодных для переноса строительной площадки ЖК «Волга Лайф», были предложены территории: в Московском районе г. Твери к югу от м/р «Южный», в районе ул. Крайняя в Заволжском районе, в районе жилой застройки «Новый город» в Черногубовском с/п Калининского района.<o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:0cm;text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Каких-либо дальнейших мер по реализации предложенных вариантов для решения проблемы ЖК «Волга Лайф» и прекращения строительства Администрацией города Твери не производилось.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;С уважением, Беленко А.Ю.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1ac3ac
+DTSTAMP:20220424T204126Z
+CREATED:20220330T110946Z
+LAST-MOD:20220330T062728Z
+SUMMARY:Встреча с Школьником Александром Яковлевичем - директором ФГБУ культуры "Центральный музей Великой Отечественной войны 1941-1945 годов" (+2 человека) (отв. Новикова В.И.\, Жарков И.С.\, Подтихова М.И.\, Ефремов Д.А.\, Прохорова А.С.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220330T080000Z
+DTEND;VALUE=DATE-TIME:20220330T090000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

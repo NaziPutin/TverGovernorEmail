@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14d59d4
+DTSTAMP:20220424T204127Z
+CREATED:20170803T140003Z
+LAST-MOD:20170803T122630Z
+SUMMARY:Подготовка к совещанию «О сохранении\, предотвращении загрязнения и рациональном использовании реки Волги» (08.08.2017\, г.Волгоград) (отв. Мигулев П.И.\, Наумов А.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170804T150000Z
+DTEND;VALUE=DATE-TIME:20170804T160000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

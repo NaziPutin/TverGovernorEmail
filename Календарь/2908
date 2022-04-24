@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd84050
+DTSTAMP:20220424T204127Z
+CREATED:20191015T194253Z
+LAST-MOD:20191015T145331Z
+SUMMARY:Заседание Совета при полномочном представителе Президента РФ в ЦФО на тему: «О реализации национального проекта «Здравоохранение» в регионах ЦФО» (отв. Белоцерковский А.В.\, Максимов М.А.\, Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191016T100000Z
+DTEND;VALUE=DATE-TIME:20191016T123000Z
+LOCATION:г. Москва\, Никольский пер.\, д. 6\, межокружной ситуационный центр\, 1-й этаж\, зал заседаний 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

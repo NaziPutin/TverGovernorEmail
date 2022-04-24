@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x7f22e8
+DTSTAMP:20220424T204126Z
+CREATED:20210210T094224Z
+LAST-MOD:20210210T065227Z
+SUMMARY:Совещание\, тема: «О реализации полномочий по обращению с животными без владельцев на территории Тверской области» (отв. Наумов А.В.\, Строгонов А.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210210T090000Z
+DTEND;VALUE=DATE-TIME:20210210T100000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

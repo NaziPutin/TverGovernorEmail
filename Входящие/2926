@@ -1,0 +1,73 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 22 Oct 2018 13:41:22 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 22 Oct
+ 2018 13:41:22 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 22 Oct 2018 13:41:21 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 87815213D6
+	for <rim@tverreg.ru>; Mon, 22 Oct 2018 13:41:22 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward100j.mail.yandex.net; client-ip=5.45.198.240
+Received: from forward100j.mail.yandex.net (forward100j.mail.yandex.net [5.45.198.240])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id E1942209AB
+	for <rim@tverreg.ru>; Mon, 22 Oct 2018 13:41:20 +0300 (MSK)
+Received: from mxback1j.mail.yandex.net (mxback1j.mail.yandex.net [IPv6:2a02:6b8:0:1619::10a])
+	by forward100j.mail.yandex.net (Yandex) with ESMTP id 68FB85D814BE
+	for <rim@tverreg.ru>; Mon, 22 Oct 2018 13:41:13 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback1j.mail.yandex.net (nwsmtp/Yandex) with ESMTP id l0PLtP7EvV-fCtqfJrE;
+	Mon, 22 Oct 2018 13:41:12 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1540204872;
+	bh=Sj5TiomJRhh+T3YLJMwBlney4MNSDB7rYJx1x0yeiGg=;
+	h=From:To:Subject:Date:Message-Id;
+	b=ED89ewnJg1ud4hL184ekSsY1LrIH0vCKBGs0j/8hoQ3poDI1ymKcP+2GvzXW6JjIu
+	 Yike2HC2hOsU+1kASqjPnRGA+SexgqteJBoH+SBcg9TV04i6KgMFce1v0HLVAZW5g3
+	 SwNPGEP0rCsnAFGE7VD0txZoKL/MfI/b4hJuUpAY=
+Authentication-Results: mxback1j.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt5-0fa3e541b8b9.qloud-c.yandex.net with HTTP;
+	Mon, 22 Oct 2018 13:41:12 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0KHRgtC10L3QvtCz0YDQsNC80LzQsCAg0LrQvtC80LjRgtC10YLQsCDRgSDQv9C+0LfQuNGG0LjQtdC5?=
+	=?utf-8?B?INCk0JDQoQ==?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 22 Oct 2018 13:41:12 +0300
+Message-Id: <16430761540204872@myt5-0fa3e541b8b9.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (lena-shukina16[at]yandex.ru) (89520635555[at]mail.ru) (sdprto[at]rambler.ru) (gribkovcom[at]mail.ru) (elenalvova-08[at]yandex.ru) (tver.petrushenko[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 15ce86d0-6acc-40ec-dbe5-08d6380ae8bb
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7500663
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+                                                                           Добрый день Игорь Михайлович!
+     По вашему поручению на совещании 19.10. отправляю Вам стенограмму с выдержкой позиции ФАС по заказным перевозкам. 
+
+-- 
+С Уважением Станислав Анатольевич
+                        Петрушенко
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

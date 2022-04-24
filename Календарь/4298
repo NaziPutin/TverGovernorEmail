@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1224ae4
+DTSTAMP:20220424T204127Z
+CREATED:20180726T134647Z
+LAST-MOD:20180726T115932Z
+SUMMARY:Рабочая поездка Гордеева Алексея Васильевича – заместителя Председателя Правительства Российской Федерации в Тверскую область (отв. Орлов А.В.\, Мустюков А.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180727T073000Z
+DTEND;VALUE=DATE-TIME:20180727T155000Z
+LOCATION:Конаковский р-он\; Бежецкий р-он\; г.Бежецк\; г.Тверь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

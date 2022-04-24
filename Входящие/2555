@@ -1,0 +1,100 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 17 Apr 2019 08:31:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 17 Apr
+ 2019 08:31:07 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Wed, 17 Apr 2019
+ 08:31:07 +0300
+From: =?utf-8?B?0JHQsNGA0YvRiNC60L7QsiDQktCw0LvQtdGA0LjQuSDQktC40LrRgtC+0YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <baryshkov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?UkU6INCd0LAg0L/RgNC+0LLQtdGA0LrRgyDQv9C+INC80LDRgtC10YDQuNCw?=
+ =?utf-8?B?0LvQsNC8INGB0LzQuC4g0YHRgNC+0LogMTAg0LTQvdC10Lk=?=
+Thread-Topic: =?utf-8?B?0J3QsCDQv9GA0L7QstC10YDQutGDINC/0L4g0LzQsNGC0LXRgNC40LDQu9Cw?=
+ =?utf-8?B?0Lwg0YHQvNC4LiDRgdGA0L7QuiAxMCDQtNC90LXQuQ==?=
+Thread-Index: AQHU78rWuDXLG5p4YEK41zqGPgISa6Y/3Sig
+Date: Wed, 17 Apr 2019 08:31:07 +0300
+Message-ID: <2557b6088afe4cd5823ded4c43bedff3@tverreg.ru>
+References: <B4B45286-2D07-4C03-A923-866E9A869F58@tverreg.ru>
+In-Reply-To: <B4B45286-2D07-4C03-A923-866E9A869F58@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <2557b6088afe4cd5823ded4c43bedff3@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 04ecf8d8-e7f1-44fc-572b-08d6c2f5e4a3
+Return-Path: baryshkov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7011096
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERACE419D4
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.s22, li.s22, div.s22
+	{mso-style-name:s22;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.s16
+	{mso-style-name:s16;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Уважаемый Игорь Михайлович! Направляю Вам служебную записку по обозначенной Вами проблеме по Осташковскому району.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Руденя Игорь Михайлович <br><b>Sent:</b> Wednesday, April 10, 2019 9:26 PM<br><b>To:</b> Барышков Валерий Викторович<br><b>Cc:</b> Наумов Андрей Викторович; Орлов Андрей Викторович<br><b>Subject:</b> На проверку по материалам сми. срок 10 дней<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=s22 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:10.8pt'><span class=s16>На платформе «Местная петиция» создано обращение с просьбой&nbsp;прекратить&nbsp;вырубку леса в&nbsp;Осташковскомрайоне. Объемы промышленной вырубки леса резко выросли в конце 2018&nbsp;–&nbsp;начале 2019 года.</span><o:p></o:p></p><p class=s22 style='margin:0cm;margin-bottom:.0001pt;mso-line-height-alt:10.8pt;text-align:start'><span class=s16>Вырубку производят рядом с деревнями&nbsp;Ясенское&nbsp;и&nbsp;Лохово&nbsp;и водоемами: озером Сиг и береговой линией озера&nbsp;Волго.</span><o:p></o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x11b78a8
+DTSTAMP:20220424T204127Z
+CREATED:20181011T140504Z
+LAST-MOD:20181011T065807Z
+SUMMARY:Совещание\, тема: "О мерах по регулированию иностранных трудовых мигрантов на рынке труда Тверской области" (отв. Павлова О.В.\, Исаев С.А.\, пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20181012T110000Z
+DTEND;VALUE=DATE-TIME:20181012T120000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

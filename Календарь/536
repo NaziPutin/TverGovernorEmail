@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3c5edc
+DTSTAMP:20220424T204126Z
+CREATED:20211126T134430Z
+LAST-MOD:20211126T112250Z
+SUMMARY:Совещание\, тема: «О реализации мероприятий по внедрению новой модели пассажирских перевозок на территории  Тверской области» (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211126T123000Z
+DTEND;VALUE=DATE-TIME:20211126T133000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

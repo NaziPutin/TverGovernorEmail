@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x938f14
+DTSTAMP:20220424T204126Z
+CREATED:20201001T191736Z
+LAST-MOD:20201001T185730Z
+SUMMARY:Торжественное мероприятие\, посвященное 80-летию профессионального образования в РФ (отв. Емельянов А.А.\, Коваленко Ю.Н.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201002T070000Z
+DTEND;VALUE=DATE-TIME:20201002T072000Z
+LOCATION:Театральная пл.\, д. 1\, Тверская академическая областная филармония\, 3 этаж\, концертный зал  
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

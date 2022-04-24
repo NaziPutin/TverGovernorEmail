@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3afcdc
+DTSTAMP:20220424T204126Z
+CREATED:20211029T071541Z
+LAST-MOD:20211028T111233Z
+SUMMARY:Торжественная церемония вручения государственных наград РФ\, наград Губернатора Тверской области\, посвященная Дню работника сельского хозяйства и перерабатывающей промышленности (отв. Наумов А.В.\, Скорый А.В.\, Пономарев А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211029T083000Z
+DTEND;VALUE=DATE-TIME:20211029T090000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

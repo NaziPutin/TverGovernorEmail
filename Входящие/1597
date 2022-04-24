@@ -1,0 +1,262 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 2 Nov 2020 21:01:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 2 Nov
+ 2020 21:01:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Mon, 2 Nov 2020
+ 21:01:08 +0300
+From: =?windows-1251?B?weXr5e3q7iDA6+Xq8eDt5PAg3vD85eLo9w==?=
+	<belenko@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?z+4g4u7v8O7x8yDx7e7x4CDx4Ozu4u7r/O3u6SDv7vHy8O7p6uggw+7r?=
+ =?windows-1251?B?8/jq7iDFLsAuLCDw4PHv7uvu5uXt7e7pIOQuIMfg4e7w7uL85SwgyuDh?=
+ =?windows-1251?B?6/Pq7uLx6u7lIPEv7ywgyuDr6O3o7fHq6Okg8ODp7u0=?=
+Thread-Topic: =?windows-1251?B?z+4g4u7v8O7x8yDx7e7x4CDx4Ozu4u7r/O3u6SDv7vHy8O7p6uggw+7r?=
+ =?windows-1251?B?8/jq7iDFLsAuLCDw4PHv7uvu5uXt7e7pIOQuIMfg4e7w7uL85SwgyuDh?=
+ =?windows-1251?B?6/Pq7uLx6u7lIPEv7ywgyuDr6O3o7fHq6Okg8ODp7u0=?=
+Thread-Index: AdaxQhsHQqvRT0ExRCG6sm0Lxlfwag==
+Date: Mon, 2 Nov 2020 21:01:08 +0300
+Message-ID: <d16ef45c5c484182b98a7fa8c2020773@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <d16ef45c5c484182b98a7fa8c2020773@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 3bcb275a-5a17-47dd-ff51-08d87f594688
+Return-Path: belenko@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5750354
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER40FB3C4A
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:359472366;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-491464480 1145238078 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:60.55pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.55pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:132.55pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.55pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:204.55pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:240.55pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:276.55pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:312.55pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:348.55pt;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:1988513074;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-942657746 -228675402 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:60.55pt;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.55pt;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:132.55pt;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.55pt;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:204.55pt;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:240.55pt;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:276.55pt;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:312.55pt;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:348.55pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Министерством Тверской области по обеспечению контрольных функций совместно с аппаратом Правительства Тверской области во исполнение Вашего поручения по итогам организационного совещания от 02.11.2020 изучен вопрос сноса самовольной постройки Голушко Елены  Александровны, расположенной д. Заборовье, Каблуковское с/п, Калининский район.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Голушко Елене Александровне на праве собственности принадлежит земельный участок с кадастровым номером 69:10:0180701:3 с видом разрешенного использования «для ведения личного подсобного хозяйства и индивидуального жилищного строительства». На смежном земельном участке, используемом Голушко Е.А. без оформления прав и получения разрешительной документации, был возведен объект жилищного строительства.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Спорный земельный участок был сформирован Администрацией Каблуковского с/п (кадастровый номер 69:10:0180701:536) и предоставлен в аренду Брежневу А.Н. по результатам аукциона (договор от 20.06.2016 № 108). Между Голушко Е.А. и Брежневым А.Н. в 2018 году заключен договор уступки прав и обязанностей по договору аренды (на сумму 200&nbsp;000 руб.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Впоследствии 20.11.2019 договор аренды между Брежневым А.Н. и Администрацией Каблуковского с/п был расторгнут, земельный участок передан Администрации Калининского района.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'> В целях восстановления права на указанный земельный участок Голушко Е.А. обратилась в Калининский районный суд Тверской области с исковым заявлением о признании за ней права аренды спорного земельного участка (дело № 2-732/2020). <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Вступившим в законную силу решением Калининского районного суда Тверской области от 20.07.2020 в удовлетворении иска Голушко Е.А. было отказано на основании пункта 7 статьи 448 ГК РФ, которым установлен запрет на перенаем земельного участка, предоставленного по договору, подлежащему заключению только на торгах и фактически заключенному на них. Договор уступки прав и обязанностей по договору аренды, заключенный между Голушко Е.А. и Брежневым А.Н., суд квалифицировал как ничтожную сделку.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Администрация Каблуковского с/п обратилась в Калининский районный суд Тверской области с иском к Голушко Е.А. о сносе самовольной постройки. 26.10.2020 вынесено решение об удовлетворении заявленных Администрацией Каблуковского с/п требований и обязании Голушко Е.А. за собственный счет снести самовольную постройку. <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Формальных нарушений законодательства в действиях Администрации Каблуковского с/п не усматривается.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>При имеющихся обстоятельствах для защиты нарушенных прав Голушко Е.А. могут быть предприняты следующие действия:<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Обращение в суд с самостоятельным иском о применении последствий недействительности ничтожной сделки от 07.03.2018 между Брежневым А.Н. и Голушко Е.А. об уступке прав и обязанностей по договору аренды от 20.06.2016 № 108 с целью взыскания уплаченной по данной сделке суммы в размере 200&nbsp;000 рублей.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Направление в Тверской областной суд (в течение 1 месяца) апелляционной жалобы на решение Калининского районного суда Тверской области от 26.10.2020 по делу № 2-611/2020, в рамках рассмотрения которой возможны: <o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>отказ Администрации Каблуковского с/п от иска о сносе самовольной постройки в порядке статьи 326.1 ГПК РФ;<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>заключение между Голушко Е.А. и Администрацией Каблуковского с/п мирового соглашения об увеличении срока исполнения судебного решения.<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Повторное проведение Администрацией Калининского района (к которой с 01.01.2017 перешли права по распоряжению земельными участками, находящимися в государственной собственности до разграничения) аукциона на продажу права аренды спорного земельного участка. Рискообразующим фактором является участие в торгах неограниченного круга лиц, при котором победителем может быть признано третье лицо. <o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l1 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Реализация права на первоочередное получение земельных участков для индивидуального жилищного строительства, ведения подсобного хозяйства инвалидами и семьями, имеющими в своем составе инвалидов, предусмотренного статьей 17 Федерального закона от 24.11.1995 № 181-ФЗ «О социальной защите инвалидов в Российской Федерации» в порядке, установленном статьей 39.6 ЗК РФ. Данное право может быть реализовано братом Голушко Е.А. (исходя из публикации брат Голушко имеет статус инвалида) при условии, что он состоит на учете в качестве нуждающегося в улучшении жилищных условий или имеет основания для постановки на такой учет.<o:p></o:p></span></p><p class=MsoNoSpacing style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>Увеличение площади земельного участка, находящегося в собственности Голушко Е.А. за счет включения в его состав спорного смежного земельного участка, находящегося в государственной собственности до разграничения, путем перераспределения (в силу ЗК РФ осуществляется за плату в размере кадастровой стоимости –  485,0 тыс. руб.).<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Предоставляемая информация согласована со Смялковским П.Е., Даниловой Е.А.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>         <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'>         &nbsp;С уважением, Беленко А.Ю.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

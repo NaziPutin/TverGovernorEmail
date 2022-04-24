@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 16 Mar 2022 16:03:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 16 Mar
+ 2022 16:03:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 16 Mar 2022 16:03:07 +0300
+From: =?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J4g0L/QvtCy0YDQtdC20LTQtdC90LjQuCDQstC+0LTQvtCy0L7QtNCwINCy?=
+ =?utf-8?B?INCz0L7RgC7QotCy0LXRgNC4?=
+Thread-Topic: =?utf-8?B?0J4g0L/QvtCy0YDQtdC20LTQtdC90LjQuCDQstC+0LTQvtCy0L7QtNCwINCy?=
+ =?utf-8?B?INCz0L7RgC7QotCy0LXRgNC4?=
+Thread-Index: AQHYOTYuBTPjleEKxEGkA1ABRD9bFg==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Wed, 16 Mar 2022 16:03:07 +0300
+Message-ID: <DD467DA5-3277-493C-8839-1EEB759DB0D7@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <DD467DA5-3277-493C-8839-1EEB759DB0D7@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: be1805d3-30cc-4e02-c72e-08da074d5109
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4480945
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Уважаемый Игорь Михайлович! В 16:00 от диспетчера ТверьВодоканал поступило сообщение о повреждении водовода диам.600 мм по адресу Тверь, ул.Старобежецкая 46. Снижены параметры по давлению в Пролетарском, Центральном и Московском р-нах Твери. ТверьВодоканал ведутся работы по локализации участка водовода. Сроки восстановления нормативных параметров - до 19:00. На контроле. С уважением Цветков А.И.
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,158 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 25 Jul 2019 18:15:06 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Thu, 25 Jul
+ 2019 18:15:05 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 25 Jul 2019 18:15:03 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 883DF21E79
+	for <rim@tverreg.ru>; Thu, 25 Jul 2019 18:15:04 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 217.69.141.10 is authorized to use 'yukore@mail.ru' in 'mfrom' identity (mechanism 'ip4:217.69.128.0/20' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="yukore@mail.ru"; helo=f368.i.mail.ru; client-ip=217.69.141.10
+Received: from f368.i.mail.ru (f368.i.mail.ru [217.69.141.10])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 02D4B21E70
+	for <rim@tverreg.ru>; Thu, 25 Jul 2019 18:15:01 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=E7y3rf3ISmB3ssjnP5ky+Xg5anYBn7pL1bJOdosACa4=;
+	b=LUWCsa89tyGdWhcRPQs4jspNbYo7038+7wbRgGdekESuJ/LRIw0i5UzQ4mn1+M3ASpxu7VshrHZk+uvcuphphWQttZ8DjdAx6gjOCu8ET8Rm0lwo4UnuDD7cydZIjCSDdJ1C5YnU9PaURPtGPhOru1UA5/SANmBKSxFy5O/LMr4=;
+Received: by f368.i.mail.ru with local (envelope-from <yukore@mail.ru>)
+	id 1hqfSJ-0005Zc-AV
+	for rim@tverreg.ru; Thu, 25 Jul 2019 18:14:55 +0300
+Received: by e.mail.ru with HTTP;
+	Thu, 25 Jul 2019 18:14:55 +0300
+From: =?UTF-8?B?0K7Qu9C40Y8g0JrQvtCy0LDQu9C10L3QutC+?= <yukore@mail.ru>
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?RndkOiDQodC70YPQttC10LHQvdCw0Y8g0LfQsNC/0LjRgdC60LAg0L/QviA=?=
+ =?UTF-8?B?0LvQsNGA0LXQs9GOICLQodCw0LvRjtGCIiDQuCDQv9C+0YDRg9GH0LXQvdC4?=
+ =?UTF-8?B?0LUg?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Thu, 25 Jul 2019 18:14:55 +0300
+Reply-To: =?UTF-8?B?0K7Qu9C40Y8g0JrQvtCy0LDQu9C10L3QutC+?= <yukore@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1564067695.550638964@f368.i.mail.ru>
+Authentication-Results: f368.i.mail.ru; auth=pass smtp.auth=yukore@mail.ru smtp.mailfrom=yukore@mail.ru
+X-77F55803: 3FB72713B6841EEE9110AD76CAB125BE988784FC6C4AE31FBAF9747269415E8C839613928A76E20FE43FFACF9CC3DFF6ECFAB562642265A6
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE71A3FBA68FD0609FED82A6BABE6F325ACA01ED31736435A1F1B59CA4C82EFA6584BBC5B4B66B09A1A404D27894659E477F6B57BC7E64490618DEB871D839B73339E8FC8737B5C22498424CA1AAF98A6958941B15DA834481FCF19DD082D7633A0E7DDDDC251EA7DABA471835C12D1D977725E5C173C3A84C3CA5A41EBD8A3A0199FA2833FD35BB23DF004C906525384306FED454B719173D6725E5C173C3A84C3C9EEE74C166EF7BCA7BB34692E633E3625A4AB119743A3B3C4224003CC836476C0CAF46E325F83A50BF2EBBBDD9D6B0F2FAC53CFDB3248022623479134186CDE6BA297DBC24807EABDAD6C7F3747799A
+X-Mailru-MI: 800
+X-Mailru-Sender: 869305CAA423590901640D4E402911E720CB5C6C899C4DEE70393A27EEF58CAE6E3D69DE31CB1ECB4516F812BF58FD851F6E3CB6678593175A5127DA2C8FCB569F6225CA21065CE2C09801473E5208B2B4E0A11487748538B4A721A3011E896F
+X-Mras: OK
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.487 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (yukore[at]mail.ru) (yukore[at]mail.ru)
+	FROM_EXCESS_BASE64      0.001 From: base64 encoded unnecessarily
+	HTML_IMAGE_ONLY_32      0.001 HTML: images with 2800-3200 bytes of words
+	HTML_MESSAGE            0.001 HTML included in message
+	MIXED_ES                2.299 Too many es are not es
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: yukore@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: adcac354-faec-489c-b0d5-08d71112de56
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.1342503
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Уважаемый Игорь Михайлович!<br>Направляю Вам докладную и перечень поручений по итогам рассмотрения ситуации в г. Кимры.<br>Ввиду отсутствия иных каналов связи направляю в порядке исключения с личной электронной почты.<br>С уважением, Коваленко Ю.Н.<br><br><br>-------- Пересылаемое сообщение --------<br>
+От кого: Министерство образования/Администрация Тверской области &lt;dep_obrazov@tverreg.ru&gt;<br>
+Кому: kovalenko@tverreg.ru, yukore@mail.ru<br>
+
+Дата: Четверг, 25 июля 2019, 18:08 &#43;03:00<br>
+Тема: Служебная записка по ларегю &quot;Салют&quot; и поручение <br>
+<br>
+
+
+
+
+
+
+
+<div class="js-helper js-readmsg-msg">
+	<style type="text/css"></style>
+ 	<div>
+		
+		
+            <div id="style_15640673320885985980_BODY"><div class="class_1564090203">
+<br><font face="sans-serif" color="#800080" size="1">----- Переслано:
+Obrazovaniya Ministerstvo/TverRegAdm/RU дата: 25.07.2019 18:05 -----</font>
+<br>
+<table class="mceItemTable" width="100%">
+<tbody><tr>
+<td>
+</td><td width="100%">
+<table class="mceItemTable" width="100%">
+<tbody><tr valign="top">
+<td width="100%"></td></tr></tbody></table>
+<br>
+<table class="mceItemTable" width="100%">
+<tbody><tr>
+<td><font face="sans-serif" color="#e26200" size="2"><b>Obrazovaniya Ministerstvo
+&nbsp;</b></font>
+</td><td><font face="sans-serif" color="#8f8f8f" size="2">кому:</font>
+</td><td><font face="sans-serif" size="2">Obrazovaniya Ministerstvo</font>
+</td><td>
+<div align="right"><font face="sans-serif" size="1">25.07.2019 17:51</font></div></td></tr></tbody></table>
+<br></td></tr></tbody></table>
+<br>
+<table class="mceItemTable" width="100%">
+<tbody><tr valign="top">
+<td><img src="https://img.imgsmail.ru/r/1.gif">
+</td><td width="100%">
+</td><td>
+</td></tr><tr>
+<td valign="top"><font face="sans-serif" color="#8f8f8f" size="1">От:</font>
+</td><td><font face="sans-serif" size="1">Obrazovaniya Ministerstvo/TverRegAdm/RU</font>
+</td><td valign="top">
+<div align="right"></div>
+</td></tr><tr valign="top">
+<td>
+</td><td>
+</td><td>
+</td></tr><tr>
+<td valign="top"><font face="sans-serif" color="#8f8f8f" size="1">Кому:</font>
+</td><td><font face="sans-serif" size="1">Obrazovaniya Ministerstvo/TverRegAdm/RU@ADM</font>
+</td><td valign="top"></td></tr></tbody></table>
+<br>
+<br>
+<table class="mceItemTable" width="100%">
+<tbody><tr valign="top">
+<td width="100%"></td></tr></tbody></table>
+<br>
+<br>
+<br>
+</div></div>
+            
+        
+		
+	</div>
+
+	
+</div>
+
+
+
+<br><hr>
+<br>-- <br>Юлия Коваленко<br></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

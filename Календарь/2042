@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa1e040
+DTSTAMP:20220424T204126Z
+CREATED:20200721T072653Z
+LAST-MOD:20200720T135112Z
+SUMMARY:Совещание\, тема: «О состоянии расчетов организаций коммунального комплекса за потребленный природный газ и электроэнергию» (отв. Ажгиревич А.И.\, Цветков А.И.\, Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200721T113000Z
+DTEND;VALUE=DATE-TIME:20200721T123000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,61 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 11 Mar 2019 14:23:23 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 11 Mar
+ 2019 14:23:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Mon, 11 Mar 2019
+ 14:23:22 +0300
+From: =?utf-8?B?0KDQsNGB0YLQvtGA0LPRg9C10LIg0KHQtdGA0LPQtdC5INCQ0LvQtdC60YE=?=
+ =?utf-8?B?0LDQvdC00YDQvtCy0LjRhw==?= <rastorguev@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+CC: =?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>
+Subject: =?utf-8?B?0KPRh9Cw0YHRgtC40LUg0L/RgNC10LTRgdGC0LDQstC40YLQtdC70LXQuSA=?=
+ =?utf-8?B?0KLQstC10YDRgdC60L7QuSDQvtCx0LvQsNGB0YLQuCAg0LIg0LLRi9C10Lc=?=
+ =?utf-8?B?0LTQvdC+0Lwg0YHQtdC80LjQvdCw0YDQtSAt0YHQvtCy0LXRidCw0L3QuNC4?=
+ =?utf-8?B?ICwsINCY0YHQv9C+0LvRjNC30L7QstCw0L3QuNC1INGE0L7RgNC8INC/0L4=?=
+ =?utf-8?B?0LTQtNC10YDQttC60Lgg0LzQvtC90L7Qs9C+0YDQvtC00L7QsiAsLCAxMy4w?=
+ =?utf-8?B?My4yMDE4INCzLiDQmtCw0LvRg9Cz0LAg?=
+Thread-Topic: =?utf-8?B?0KPRh9Cw0YHRgtC40LUg0L/RgNC10LTRgdGC0LDQstC40YLQtdC70LXQuSA=?=
+ =?utf-8?B?0KLQstC10YDRgdC60L7QuSDQvtCx0LvQsNGB0YLQuCAg0LIg0LLRi9C10Lc=?=
+ =?utf-8?B?0LTQvdC+0Lwg0YHQtdC80LjQvdCw0YDQtSAt0YHQvtCy0LXRidCw0L3QuNC4?=
+ =?utf-8?B?ICwsINCY0YHQv9C+0LvRjNC30L7QstCw0L3QuNC1INGE0L7RgNC8INC/0L4=?=
+ =?utf-8?B?0LTQtNC10YDQttC60Lgg0LzQvtC90L7Qs9C+0YDQvtC00L7QsiAsLCAxMy4w?=
+ =?utf-8?B?My4yMDE4INCzLiDQmtCw0LvRg9Cz0LAg?=
+Thread-Index: AQHU1/zV2riCly5fykunhdEJe6Vf/A==
+Date: Mon, 11 Mar 2019 14:23:21 +0300
+Message-ID: <1F15DC83-3F76-4862-A7A3-C432697A9C19@tverreg.ru>
+References: <12178711552301042@iva1-5148b5385b62.qloud-c.yandex.net>
+In-Reply-To: <12178711552301042@iva1-5148b5385b62.qloud-c.yandex.net>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <1F15DC83-3F76-4862-A7A3-C432697A9C19@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 021f1d29-09ea-4f0b-3680-08d6a613f880
+Return-Path: rastorguev@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1740418
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERFDF01689
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto">&nbsp; &nbsp; Уважаемый Игорь Михайлович ! в приложенном файле направляю Вам для рассмотрения &nbsp;служебную записку по вопросу участия представителей Тверской области в семинаре - совещании ,,Использование форм поддержки Моногородов ,,. Прошу Вашего согласования . &nbsp; &nbsp; &nbsp;<div><div dir="ltr">С Уважением. &nbsp; &nbsp;<br>С.А. Расторгуев. &nbsp;И.О. Министра Промышленности и Торговли Тверской Области .&nbsp;</div><blockquote type="cite"><div dir="ltr"><img src="cid:3FCC3F9B-027C-44E9-B0BB-2EFF855BB669" id="3FCC3F9B-027C-44E9-B0BB-2EFF855BB669"></div></blockquote><blockquote type="cite"><div dir="ltr"><img src="cid:4287832D-46B7-43ED-8347-4A92359EF809" id="4287832D-46B7-43ED-8347-4A92359EF809"></div></blockquote><blockquote type="cite"><div dir="ltr"><img src="cid:4E74320F-8CBA-42EB-AE5A-191BE1EC01C3" id="4E74320F-8CBA-42EB-AE5A-191BE1EC01C3"></div></blockquote><blockquote type="cite"><div dir="ltr"><img src="cid:9E736096-C1F7-4E45-882F-AD8CCD70F092" id="9E736096-C1F7-4E45-882F-AD8CCD70F092"></div></blockquote></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

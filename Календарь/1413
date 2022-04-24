@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x7f8aa0
+DTSTAMP:20220424T204126Z
+CREATED:20210204T141218Z
+LAST-MOD:20210204T160455Z
+SUMMARY:Подготовка к Совещанию по вопросам дальнейшего восстановления  и  функционирования Казанского  женского монастыря Тверской и  Кашинской  Епархии Русской  Православной Церкви (05.02.2021) (отв. Емельянов А.А.\, Жарков И.С.\, Смирнов М.Ю.\, Зайцева Е.В.)
+DTSTART;VALUE=DATE-TIME:20210204T161500Z
+DTEND;VALUE=DATE-TIME:20210204T164500Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

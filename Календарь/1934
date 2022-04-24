@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9be828
+DTSTAMP:20220424T204126Z
+CREATED:20200901T060202Z
+LAST-MOD:20200901T055801Z
+SUMMARY:Торжественное мероприятие\, посвященное «Дню знаний» и церемонии открытия нового комплекса зданий Тверского суворовского военного училища (отв. Ажгиревич А.И.\, Веселов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200901T070000Z
+DTEND;VALUE=DATE-TIME:20200901T103000Z
+LOCATION:согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

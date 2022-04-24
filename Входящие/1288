@@ -1,0 +1,98 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 13 Jul 2021 20:15:47 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 13 Jul
+ 2021 20:15:45 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Tue, 13 Jul 2021 20:15:47 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?zuEg7uH65ery5SDq8+v88vPw7e7j7iDt4PHr5eTo/yD25fDq7uL8INHv?=
+ =?windows-1251?B?4PHgIM/w5e7h8ODm5e3o/yDiIOMuIMfz4fbu4uUg?=
+Thread-Topic: =?windows-1251?B?zuEg7uH65ery5SDq8+v88vPw7e7j7iDt4PHr5eTo/yD25fDq7uL8INHv?=
+ =?windows-1251?B?4PHgIM/w5e7h8ODm5e3o/yDiIOMuIMfz4fbu4uUg?=
+Thread-Index: Add4Ch0UO7I1lLfJSKSxcUfD7fXsvg==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Tue, 13 Jul 2021 20:15:47 +0300
+Message-ID: <e8c352dcf3e8470f86dc7aacea41d6bb@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <e8c352dcf3e8470f86dc7aacea41d6bb@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.191]
+X-MS-Exchange-Organization-Network-Message-Id: 42d99b14-50c0-4de8-0040-08d94621db06
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5760147
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 63.8pt;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection2
+	{page:WordSection2;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>По Вашему поручению Минимуществом Тверской области и аппаратом Правительства Тверской области совместно с Госохранкультурой Тверской области, Минкультуры Тверской области и Администрацией Зубцовского района изучен вопрос о статусе объекта культурного наследия <span style='background:white'>церковь Спаса Преображения в г. Зубцове Тверской области, проведен анализ законодательства и архивных документов, подготовлена информационная справка (прилагается).<o:p></o:p></span></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;background:white'>Основные выводы:<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> Объект отчужден из публичной собственности в 1993 году (по договору № 12 от 07.06.1993 года с Фондом имущества Зубцовского района и зарегистрированному в БТИ города Зубцова 2.12.1993 за № 71), до момента его объявления в 1999 году объектом культурного наследия (постановление Законодательного собрания Тверской области от 27.05.1999 № 296-П-2).<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>По итогам проведенного анализа законодательства и архивных документов нарушений при отчуждении данного объекта не выявлено. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> После признания данного объекта объектом культурного наследия охранное обязательство с требованиями по содержанию и использованию органом по охране памятников не оформлялось, соответствующие обременения в ЕГРН не зарегистрированы.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Предложения:<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> В целях обременения прав собственника Госохранкультуре  Тверской области необходимо в кратчайшие сроки оформить охранное обязательство с требованиями по содержанию и использованию объекта культурного наследия, направить его собственнику и в Управление Росреестра для регистрации в ЕГРН.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> В случае, если <b>собственник</b> объекта культурного наследия <b>не выполнит</b> требований <b>охранного обязательства</b> к сохранению такого объекта или совершает действия, угрожающие сохранности данного объекта и влекущие утрату им своего значения, возможны следующие варианты:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- обращение Госохранкультуры  Тверской области в суд с <b>иском к собственнику о понуждении исполнить требования</b> охранного обязательства в натуре;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- обращение Госохранкультуры  Тверской области в суд с <b>иском об изъятии у собственника</b> бесхозяйственно содержимого <b>объекта культурного наследия</b>.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>В случае принятия судом решения об изъятии объекта культурного наследия у собственника, содержащего данный объект ненадлежащим образом, по представлению Госохранкультуры Тверской области Минимущество Тверской области вправе выкупить указанный объект (цена определяется соглашением между органом по управлению имуществом и собственником выкупаемого имущества, а в случае спора судом)  или организовать их продажу с публичных торгов (собственнику передается вырученная от продажи сумма за вычетом расходов на проведение торгов и стоимости восстановительных работ, а к новому собственнику переходят обязательства по сохранению объекта).<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Данная информация, выводы и предложения согласованы с заместителем Председателя Правительства- Министром имущественных и земельных отношений Тверской области Жарковым И.С. и начальником Главного управления по  государственной  охране  объектов культурного  наследия  Тверской  области Смирновым М.Ю.<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением,<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>П. Смялковский <o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p></div><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif;mso-fareast-language:EN-US'><br clear=all style='page-break-before:always'></span><div class=WordSection2><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

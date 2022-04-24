@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x918038
+DTSTAMP:20220424T204126Z
+CREATED:20201007T061746Z
+LAST-MOD:20201006T174044Z
+SUMMARY:Совещание\, тема: «Об основных подходах к формированию бюджета Тверской области на 2021 г. и плановый период 2022-2023 гг.» (с участием глав муниципальных образований Тверской области) (отв. Подтихова М.И.\, Егоров И.И.\, Александров А.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201007T090000Z
+DTEND;VALUE=DATE-TIME:20201007T110000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

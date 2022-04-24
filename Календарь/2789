@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd12478
+DTSTAMP:20220424T204127Z
+CREATED:20191129T111131Z
+LAST-MOD:20191129T110632Z
+SUMMARY:Рабочая встреча\, тема: «О программных документах Тверской области (инвестиционные программы субъектов электроэнергетики)» (отв. Рощин К.С.\, Цветков А.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191129T143000Z
+DTEND;VALUE=DATE-TIME:20191129T153000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa813c8
+DTSTAMP:20220424T204126Z
+CREATED:20200604T063102Z
+LAST-MOD:20200603T053625Z
+SUMMARY:Совещание\, тема: «О торжественных мероприятиях\, приуроченных к празднованию 75-летия Победы в Великой Отечественной войне 1941-1945 гг.» (24.06.2020) (отв. Ищенко А.Н.\, Буданцева А.Н.\, Белорусов В.А.\, Веселов А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200604T110000Z
+DTEND;VALUE=DATE-TIME:20200604T120000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

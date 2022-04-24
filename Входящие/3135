@@ -1,0 +1,60 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 25 Apr 2018 23:05:20 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 25 Apr
+ 2018 23:05:20 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 25 Apr 2018 23:05:20 +0300
+Received: from f411.i.mail.ru ([185.5.136.82])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <disav@list.ru>)
+	id 1fBQfE-000Djv-H2
+	for rim@tverreg.ru; Wed, 25 Apr 2018 16:05:16 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=list.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=zh0B2obtyhyfx9lPW5DZUFfIRN816ygVamIJpxVPBs8=;
+	b=iaKR4J5yjJKPWQJVeZVtzdGc/lEUZmhNeiEparjDEgFQQSqL4bUSS2hjv6HdG2aT3Yb2GEFM/3Ck1/xJjYcUaAVPHY7eXIUj3UDZsaIxnjgAfiVYR+jufbTpbxzyBmsUU/qrh3hV/rvwo3nQeFBzabOj8KsfUtn6DknQYsKFC08=;
+Received: by f411.i.mail.ru with local (envelope-from <disav@list.ru>)
+	id 1fBQfB-0002dR-Tf
+	for rim@tverreg.ru; Wed, 25 Apr 2018 23:05:14 +0300
+Received: by e.mail.ru with HTTP;
+	Wed, 25 Apr 2018 23:05:13 +0300
+From: =?UTF-8?B?0JTQuNC90LAg0KHQsNCy0LXQu9GM0LXQstCw?= <disav@list.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0L/RgNC10YHRgS3RgNC10LvQuNC3INC/0L4g0LrQvtC90YHQvtC70LjQtNCw?=
+ =?UTF-8?B?0YbQuNC4INCw0LrRgtC40LLQvtCyINCyINCW0JrQpSAo0L/QviDQuNGC0L4=?=
+ =?UTF-8?B?0LPQsNC8INGB0L7QstC10YnQsNC90LjRjyAyMy4wNCk=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Wed, 25 Apr 2018 23:05:13 +0300
+Reply-To: =?UTF-8?B?0JTQuNC90LAg0KHQsNCy0LXQu9GM0LXQstCw?= <disav@list.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1524686713.867906862@f411.i.mail.ru>
+Authentication-Results: f411.i.mail.ru; auth=pass smtp.auth=disav@list.ru smtp.mailfrom=disav@list.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7DF4263082F780B15C4224003CC836476D1DB134E79BD61627866D6147AF826D87410791632142F88050B4341795A5451089D37D7C0E48F6C8AA50765F79006373DBEFD3D78F85D4C055EDA93374BBD32089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E7024847893F9AA87235E5BFE6E7EFDEDCD789D4C264860C145E
+X-Mailru-MI: 800
+X-Mailru-Sender: 641179478317D3F0B5601562A1FB1D2BCA834FF024C97744A1C56639B8BB8D041985E64FE4484AF436A01ED70D48E15256A4A15965C97B492D6C0AEAFAD325A9B87B27889F2B092C577F194272E68142C475F3A3CB9BE0035EA11F3C5F3A97E8AE208404248635DF
+X-Mras: OK
+X-Spam: undefined
+Return-Path: disav@list.ru
+X-MS-Exchange-Organization-Network-Message-Id: 41b75b9c-f49c-4983-c150-08d5aae7df68
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2343868
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Игорь Михайлович, добрый вечер!<br>Извините за позднее письмо.&nbsp;<br>Дублирую направленный вчера на согласование пресс-релиз по итогам совещания о консолидации активов в сфере ЖКХ Тверской области (Вы просили показать Вам текст). Текст предварительно согласован с Т.Л. Жарлицыной.<br>Прошу Вас согласовать.<br>Спасибо!<br><br><br>---<br>С уважением,<br>Дина Савельева,<br><br>8-905-607-50-60</body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

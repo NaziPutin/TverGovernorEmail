@@ -1,0 +1,62 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 29 May 2020 19:49:25 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 29 May
+ 2020 19:49:23 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Fri, 29 May 2020 19:49:25 +0300
+From: =?koi8-r?B?49fF1MvP1yDhzMXL08HOxNIg6dfBzs/Xyd4=?= <CvetkovAI@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>
+Subject: =?koi8-r?B?78Ig1dPUwc7P18vFIMfFzsXSwdTP0sEgxMzRIOvB28nO08vPyiDj8uI=?=
+Thread-Topic: =?koi8-r?B?78Ig1dPUwc7P18vFIMfFzsXSwdTP0sEgxMzRIOvB28nO08vPyiDj8uI=?=
+Thread-Index: AQHWNdaSosBRZDXxrESVvWqTDGBH3A==
+Date: Fri, 29 May 2020 19:49:25 +0300
+Message-ID: <8eac7346084c4d5eb880c6153aa7f4a0@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <8eac7346084c4d5eb880c6153aa7f4a0@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: fa1c311c-85ed-415e-c7ed-08d803f03ee7
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7070908
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!&nbsp;</p>
+<p>уЕЗПДОС, 29.05.2020 ОБ фр-25 Ч ЗПТПДЕ лБЫЙО ХМ.чПОЦЙОУЛБС 2 (лБЫЙОУЛБС гтв) ХУФБОПЧМЕОБ, РПДЛМАЮЕОБ Й ПРТПВПЧБОБ</p>
+<p>ДЙЪЕМШОБС&nbsp;<span style="font-size: 12pt;">ЬМЕЛФТПУФБОГЙС НПЭОПУФША 100 ЛчФ, ЧЩДБООБС нЙОЪДТБЧХ ЙЪ ПВМБУФОПЗП ТЕЪЕТЧБ. рП ЙОЖПТНБГЙЙ ЬМЕЛФТПУЕФЕЧПК ПТЗБОЙЪБГЙЙ&nbsp;бчт ЪБЛБЪБО&nbsp;</span></p>
+<p><span style="font-size: 12pt;">Й ПРМБЮЕО, РПУФХРЙФ ОБ УЛМБД - 01 ЙАОС 2020. дП 02 ЙАОС ВХДЕФ УНПОФЙТПЧБО ОБ тйуь лБЫЙОУЛПК гтв.</span></p>
+<p><span style="font-size: 12pt;"><br>
+</span></p>
+<p><span style="font-size: 12pt;">гЧЕФЛПЧ б.й.</span></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

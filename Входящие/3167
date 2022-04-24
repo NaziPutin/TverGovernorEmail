@@ -1,0 +1,54 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 4 Apr 2018 10:20:17 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 4 Apr
+ 2018 10:20:17 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 4 Apr 2018 10:20:17 +0300
+Received: from forward105o.mail.yandex.net ([37.140.190.183])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <tver.petrushenko@yandex.ru>)
+	id 1f3ciL-0005Qk-CX
+	for rim@tverreg.ru; Wed, 04 Apr 2018 03:20:13 -0400
+Received: from mxback13j.mail.yandex.net (mxback13j.mail.yandex.net [IPv6:2a02:6b8:0:1619::88])
+	by forward105o.mail.yandex.net (Yandex) with ESMTP id 42C494442589
+	for <rim@tverreg.ru>; Wed,  4 Apr 2018 10:20:11 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback13j.mail.yandex.net (nwsmtp/Yandex) with ESMTP id WQcGujAKFA-KARma7Jl;
+	Wed, 04 Apr 2018 10:20:10 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1522826410;
+	bh=GySZgzp17i7gNPYxNGFir9ihdxlIk71/YE1jNWG8XlA=;
+	h=From:To:In-Reply-To:Subject:Message-Id:Date;
+	b=EEl30/MNl/DVp8q56dncGE5AFZbqgDY2GGGksyP1RJXBoSWQ5S7OB5o/bCXk8wUCu
+	 lmgsycOKBPrgf2IKHXxKJBgLhI9xaU3MseefWjDlCNJXSF8xawagRCazScULdoNf8o
+	 9DMwXJgVnAxnJToSsj7wSoM0h5bxsydXVgtAAoGI=
+Authentication-Results: mxback13j.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by web7j.yandex.ru with HTTP;
+	Wed, 04 Apr 2018 10:20:10 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+In-Reply-To: <!&!AAAAAAAAAAAYAAAAAAAAACHosRAl+XBFmkFboLkVIwDCgAAAEAAAADlEx+0yg8JAs1+DMLb8DjkBAAAAAA==@zsto.ru>
+Subject: =?utf-8?B?INC/0YDQvtC10LrRgiDQt9Cw0LrQvtC90LA=?=
+Message-Id: <1718101522826410@web7j.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Wed, 04 Apr 2018 10:20:10 +0300
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: fca80c6e-e72a-4bb2-f431-08d599fc8431
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7968927
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Добрый день Игорь Михайлович!</div><div>&nbsp;&nbsp;&nbsp;&nbsp; Прошу Вас рассмотреть законопроект по градостроительной деятельности . Принятие данного законопроекта даст возможность в более сжатые сроки выполнять инфраструктурные проекты по всей территории области и не затрачивать средства компаний для согласований.</div><div>Это существенно влияет на развитие и реконструкцию теплоснабжения, водоснабжения, электроснабжения и газоснабжения. В приложении к пояснительной записке дан расчёт&nbsp; реально&nbsp;сэкономленных &nbsp;средств когда была данная норма в законе.&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp; Также я передал таблицы по стоимости тех присоединения к газовым сетям для граждан Жарлицыной Татьяне Леонидовне. Анализ таблиц показал что конечная стоимость выросла на величину &nbsp;согласований. Средняя цена подключения жилого дома выросла с 48 т.р до 90 т.р. К сожалению МРСК, Водоканал, Тверьгорэлектро такие данные не ведут, я запрашивал и сейчас и в ноябре 2016 года.</div><div>&nbsp;&nbsp;&nbsp;&nbsp; Принятие данного законопроекта снимет большую долю жалоб по стоимости со стороны жителей, подключение объектов ускорится и будет носить системный характер, контроль МО остается в полной мере.</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>С Уважением Станислав Петрушенко</div><div>&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

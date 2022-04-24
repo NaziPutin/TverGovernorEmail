@@ -1,0 +1,408 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 23 Mar 2022 15:51:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 23 Mar
+ 2022 15:51:14 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Wed, 23 Mar 2022 15:51:14 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id A9910807BC
+	for <rim@tverreg.ru>; Wed, 23 Mar 2022 15:51:12 +0300 (MSK)
+Received-SPF: pass (mail.sendsay.ru: Sender is authorized to use 'gluck-#-#-#-x_1647254640537491@mail.sendsay.ru' in 'mfrom' identity (mechanism 'include:spf.sendsay.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="gluck-#-#-#-x_1647254640537491@mail.sendsay.ru"; helo=gato208.sndsy.ru; client-ip=185.138.182.208
+Received: from gato208.sndsy.ru (gato208.sndsy.ru [185.138.182.208])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id F29E980755
+	for <rim@tverreg.ru>; Wed, 23 Mar 2022 15:51:09 +0300 (MSK)
+Received: id 8B7C8BE76A7-1648039860
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.sendsay.ru; s=sendsay202111;
+	t=1648039860; bh=UQWL67OK7XDymWNQeXQyf119c7Fyn6anWW8xVh1CK/0=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=GiZuqBQs30Wt8vtCBhY3xvrBRuXunbBSSbhNbwf46l7l2xk1Tt7p6QGqYpFQnFqFR
+	 Qp5cSYYCcTGM4GxrHmaR+DIAeDsc0PaeLxiGA2nvg7Z69rp3n2uawPQBF362MMONrS
+	 FvJPT7r82ffEc/f9AN0p8Drg/4L4iZWlTNsWSBFU=
+Precedence: bulk
+List-Id: <pf337.x_1647254640537491.sendsay>
+List-Issue: <20220323154939.pf337.x_1647254640537491>
+List-Unsubscribe: <mailto:fbl@sendsay.ru?subject=fbl,x_1647254640537491,5,26296,48515,/20220323154939,pf337>
+List-Subscribe: NO
+List-Archive: NO
+List-Post: NO
+X-Felis-L: 5.26296.48515.pf337.x_1647254640537491
+X-rpcampaign: x_1647254640537491pf33720220323154939
+Date: Wed, 23 Mar 2022 15:51:00 +0300
+Message-Id: <20220323154939.0.20220323154939_eui_@5.26296.48515.pf337.x_1647254640537491>
+From: =?utf-8?Q?=D0=91=D1=83=D1=85=D0=B3=D0=B0=D0=BB=D1=82=D0=B5=D1=80=D0=B8=D1=8F=2Eru?= <mail@buhgalteria.ru>
+To: <rim@tverreg.ru>
+Subject: =?utf-8?Q?=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF=20?=
+ =?utf-8?Q?=D0=BA=20?=
+ =?utf-8?Q?=D0=BF=D0=BE=D1=80=D1=82=D0=B0=D0=BB=D1=83=20?=
+ =?utf-8?Q?=D0=91=D1=83=D1=85=D0=B3=D0=BE=D0=B4=20?=
+ =?utf-8?Q?=D0=B2=20?=
+ =?utf-8?Q?=D0=BF=D0=BE=D0=B4=D0=B0=D1=80=D0=BE=D0=BA=20?=
+ =?utf-8?Q?=D0=BF=D1=80=D0=B8=20?=
+ =?utf-8?Q?=D0=BF=D0=BE=D0=BA=D1=83=D0=BF=D0=BA=D0=B5=20?=
+ =?utf-8?Q?=D0=BA=D0=BD=D0=B8=D0=B3=D0=B8=20?=
+ =?utf-8?Q?=C2=AB=D0=93=D0=BE=D0=B4=D0=BE=D0=B2=D0=BE=D0=B9=20?=
+ =?utf-8?Q?=D0=BE=D1=82=D1=87=D0=B5=D1=82=20?=
+ =?utf-8?Q?2021=C2=BB?=
+X-Mailru-Msgtype: sendsay.x_1647254640537491
+Feedback-Id: x_16472546405374915:x_1647254640537491:pf337:sendsay
+X-DrWeb-SpamScore: 51
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegjedgfeeiucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfthfevqddquegrugetughntfgtvhguvdculdehuddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuhiigrhgrpihtvghppiiprdhruhcuoehmrghilhessghuhhhgrghlthgvrhhirgdrrhhuqeenucggtffrrghtthgvrhhnpeeiieekveeuuefgvddtieelteelieegvefhgfdukedugeeijeevgfdvvefgtedvgfenucffohhmrghinhepshgvnhgushgrhidrrhhupdgsvghrrghtohhrrdhruhdpsghuhhhgohgurdhruhdpsghuhhhgrghlthgvrhhirgdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.147#36 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIMWL_WL_MED          -0.001 DKIMwl.org - Medium trust sender
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	HEADER_FROM_DIFFERENT_DOMAINS   0.25 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URI_HEX                   0.1 URI hostname has long hexadecimal sequence
+X-DrWeb-SpamScore: 51
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegjedgfeeiucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfthfevqddquegrugetughntfgtvhguvdculdehuddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuhiigrhgrpihtvghppiiprdhruhcuoehmrghilhessghuhhhgrghlthgvrhhirgdrrhhuqeenucggtffrrghtthgvrhhnpeeiieekveeuuefgvddtieelteelieegvefhgfdukedugeeijeevgfdvvefgtedvgfenucffohhmrghinhepshgvnhgushgrhidrrhhupdgsvghrrghtohhrrdhruhdpsghuhhhgohgurdhruhdpsghuhhhgrghlthgvrhhirgdrrhhunecukfhppedukeehrddufeekrddukedvrddvtdek
+X-DrWeb-SpamVersion: Vade Retro 01.422.147#36 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: gluck-5-26296-48515-x_1647254640537491@mail.sendsay.ru
+X-MS-Exchange-Organization-Network-Message-Id: 98aa63c3-f5af-4a23-5310-08da0ccbd095
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2509956
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><table width="100%" bgcolor="#f3f4fa">
+<tr>
+<td>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="width:100%;max-width:100%;">
+	<tbody><tr>
+		<td align="center" valign="top">
+
+			<table class="row" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width:800px;max-width:800px;">
+				<tbody><tr>
+					<td align="center" valign="top" bgcolor="#017594">
+
+						<table class="row" width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;">
+							<tbody><tr>
+								<td height="10" align="center" valign="top" style="font-size:10px;line-height:10px;">&nbsp;</td>
+							</tr>
+							<tr>
+													<td class="content_row" valign="top" align="left" style="width: 700px;">
+														<table width="700" class="mobile_centered_table" cellspacing="0" cellpadding="0" border="0">
+															<tbody>
+<tr>
+																<td height="5">
+																</td>
+															</tr>
+																<tr>
+																<td class="black_text" style="font-family: 'Open Sans', Arial, sans-serif; line-height: 44px; font-size: 16px; color: #1d1d1d; ; font-weight:300; text-align:left;width: 80px;">
+
+
+																	<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/26,=06dtuj2m82sNC6d8hn5EhPQ/5,26296,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1Lz91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09dGVtYSZ1dG1fY2FtcGFpZ249MjAyMl8wM18xNSZ1dG1fY29udGVudD1sb2dv" data-felis_orig_uri="http://www.berator.ru/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_15&amp;utm_content=logo" data-felis_link_id="26" target="_blank">
+																	<img style="width: 200px;" src="https://www.buhgalteria.ru/images/logo_buhgalteria_white.png" alt="Бератор">
+																	</a>
+																</td>
+																<td width="350" align="right">
+                                  <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                      <tr style="height:7.5px;">
+                                        <td style="font-family:'Poppins',Arial,Helvetica,sans-serif;color:#ffffff;font-size:16px;line-height:22px;"><b>Осталась неделя до&nbsp;сдачи годового отчета</b></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+
+															</tr>
+<tr>
+																<td height="10">
+																</td>
+															</tr>
+
+														</tbody></table>
+													</td>
+												</tr>
+
+							</tr>
+						</tbody></table>
+
+					</td>
+				</tr>
+			</tbody></table>
+
+		</td>
+	</tr>
+</tbody></table>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#f3f4fa" style="width:100%;max-width:100%;">
+	<tbody><tr>
+		<td align="center" valign="top">
+
+			<table class="row ui-resizable" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width:800px;max-width:800px;">
+				<tbody><tr>
+					<td data-bgcolor="Inner Background Color" class="whiteBgcolor" align="center" valign="top" bgcolor="#FFFFFF">
+
+						<table class="row" width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="width:600px;max-width:600px;">
+
+							<tbody><tr>
+								<td height="30" align="center" valign="top" style="font-size:30px;line-height:30px;">&nbsp;</td>
+							</tr>
+
+							<tr>
+								<td class="containerPadding" align="center" valign="top" style="font-size:0;padding:0">
+
+									<table class="row" border="0" width="630" align="center" cellpadding="0" cellspacing="0" style="width:630px;max-width:630px;">
+
+										<tbody>
+										<tr>
+											<td align="center" valign="middle" style="font-family:'Poppins',Arial,Helvetica,sans-serif;color:#010937;font-size:30px;line-height:37px;font-weight:700;letter-spacing:0px;padding:0px;padding-bottom:10px;">
+												Доступ к&nbsp;порталу Бухгод в&nbsp;подарок при&nbsp;покупке книги «Годовой&nbsp;отчет&nbsp;2021»
+											</td>
+										</tr>
+
+
+									</tbody></table>
+
+								</td>
+							</tr>
+
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#f3f4fa" style="width:100%;max-width:100%;">
+      <tbody>
+         <tr>
+            <td align="center" valign="top">
+               <table class="row" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width:800px;max-width:800px;">
+                  <tbody>
+                     <tr>
+                        <td align="center" valign="top" bgcolor="ffffff">
+                           <table class="row" width="700" border="0" align="center" cellpadding="0" cellspacing="0" style="width:700px;max-width:700px;">
+                              <tbody>
+                                 <tr>
+                                    <td data-resizable-height="" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+                                 </tr>
+<tr>
+									<td>
+
+									<table>
+									<tr>
+									<td align="left" valign="top" style="padding:0;padding-top: 30px;"><img src="https://www.buhgalteria.ru/upload/imgs/go2021_ver3.png" alt="Годовой отчет" border="0" width="400" style="display:block;border:0;max-width:380px"></td>
+									<td width="30" style="font-size:30px;height:30px;line-height:30px;">&nbsp;</td>
+									<td class="centerText" align="left" valign="middle">
+									<p style="font-family:'PT Sans',sans-serif;color:#666666;font-size:15px;line-height:23px;font-weight:400;letter-spacing:0px;padding:0;">
+									Если вы еще не сдали годовую отчетность, то срочно покупайте нашу книгу - она поможет подготовить отчет вовремя!</p>
+
+									<p style="font-family:'PT Sans',sans-serif;color:#666666;font-size:15px;line-height:23px;font-weight:400;letter-spacing:0px;padding:0;">Чтобы ускорить сдачу отчетности, вместе с&nbsp;книгой мы дарим доступ к&nbsp;порталу Бухгод - электронной версии книги «Годовой&nbsp;отчет&nbsp;2021 под&nbsp;редакцией В.И.&nbsp;Мещерякова». Торопитесь заказать книгу сегодня - осталось мало экземпляров!</p>
+
+									<div style="background-color: #f8f8f8; padding: 20px;">
+
+									<table class="centerFloat" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 264px;">
+								<tbody>
+									<tr>
+										<td align="center" valign="middle" style="font-family:'Poppins',Arial,Helvetica,sans-serif;color:#010937;font-size:32px;font-weight:700;letter-spacing:0px;padding:0px;padding-bottom:25px;">
+											<p style="font-family:'Poppins',Arial,Helvetica,sans-serif;color:#010937;font-size:25px;line-height:30px;font-weight:700;letter-spacing:0px;">Годовой&nbsp;отчет&nbsp;2021 под&nbsp;редакцией В.И.&nbsp;Мещерякова</p>
+											<p style="font-family:'PT Sans',sans-serif;color:#1d1d1d;font-size:12px;line-height:22px;font-weight:700;letter-spacing:0px;padding:0;">Доступ к сайту www.buhgod.ru в подарок<br> Доставка книги в любой регион бесплатно</p>
+										</td>
+									</tr>
+									<tr>
+										<td align="center" valign="middle" style="font-family:'Poppins',Arial,Helvetica,sans-serif;color:#010937;font-size:20px; line-height: 27px;font-weight:700;padding:0px;padding-bottom:35px;">
+											<p><b style="color: #cccccc;">4&nbsp;460 ₽</b> <b style="font-size:30px; line-height: 35px;font-weight:700; color: #ff0000;">1&nbsp;500 ₽</b><br>
+											<span style="font-family:'Poppins',Arial,Helvetica,sans-serif;color:#ff0000;font-size:15px;line-height:23px;font-weight:700;letter-spacing:0px;padding:0;">Скидка 66%</span></p>
+										</td>
+									</tr>
+									<tr>
+										<td bgcolor="#ff0000" data-editable="" class="button" style=" font-family: 'Open Sans', sans-serif;font-size: 14px; color: red; text-align:center; text-transform: uppercase; font-weight:bold; border: 2px solid #ff0000; border-radius: 5px;" height="40" width="200" align="center">
+																	<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/27,=0cXHJtZ9g1re28TPIwztOQA/5,26296,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvZ29kb3ZveS1vdGNoZXQvP3V0bV9zb3VyY2U9YWtpemFfZ28yMXNraWRrYTMzJnV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzE1JnV0bV9jb250ZW50PWJ1dHRvbiUyMyUyMyUyMyUyMyUyM2xvdA==" data-felis_orig_uri="https://www.buhgalteria.ru/godovoy-otchet/?utm_source=akiza_go21skidka33&amp;utm_medium=subscribe&amp;utm_campaign=2022_03_15&amp;utm_content=button#lot" data-felis_link_id="27" target="_blank" style="text-decoration: none; color: #ffffff; width:100%; display: block; line-height: 40px;">
+																		<span>КУПИТЬ КНИГУ</span>
+																	</a>
+																</td>
+									</tr>
+									<tr>
+                                       <td height="15">
+                                       </td>
+                                    </tr>
+									<tr style="font-family:'PT Sans',sans-serif;">
+                                       <td align="center"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/28,=0nKlpULIX0IGOx6cnTt2IbA/5,26296,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvZ29kb3ZveS1vdGNoZXQvaW52b2ljZV9nbzIxLmRvY3g/dXRtX3NvdXJjZT1ha2l6YV9nbzIxc2tpZGthMzMmdXRtX21lZGl1bT1zdWJzY3JpYmUmdXRtX2NhbXBhaWduPTIwMjJfMDNfMTUmdXRtX2NvbnRlbnQ9YnV0dG9u" data-felis_orig_uri="https://www.buhgalteria.ru/godovoy-otchet/invoice_go21.docx?utm_source=akiza_go21skidka33&amp;utm_medium=subscribe&amp;utm_campaign=2022_03_15&amp;utm_content=button" data-felis_link_id="28">Скачать счет</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/29,=0sTgSjzGfa5P9T54BF901bw/5,26296,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYnVocHJlc3MvMTM1Mi8xNTE4NzMvP3V0bV9zb3VyY2U9YWtpemFfZ28yMXNraWRrYTMzJnV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzE1JnV0bV9jb250ZW50PWJ1dHRvbg==" data-felis_orig_uri="https://www.buhgalteria.ru/buhpress/1352/151873/?utm_source=akiza_go21skidka33&amp;utm_medium=subscribe&amp;utm_campaign=2022_03_15&amp;utm_content=button" data-felis_link_id="29">Оплатить картой</a>
+                                       </td>
+                                    </tr>
+									<tr>
+                                       <td height="30">
+                                       </td>
+                                    </tr>
+
+								</tbody>
+							</table>
+
+							</div>
+
+									</td>
+									</tr>
+
+									</table>
+
+									</td>
+									</tr>
+                                 <tr>
+                                    <td style="font-size:60px;height:60px;line-height:60px;">&nbsp;</td>
+                                 </tr>
+                              </tbody>
+                           </table>
+
+
+                        </td>
+                     </tr>
+
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+
+
+
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrapper_table" style="background-color: #ffb750;width: 800px; max-width: 800px; ">
+			<tbody><tr>
+				<td align="center" bgcolor="#017594">
+					<table cellspacing="0" cellpadding="0" border="0">
+						<tbody><tr>
+							<td class="content" style="width: 800px;">
+								<table cellspacing="0" cellpadding="0" border="0" width="100%">
+									<tbody><tr>
+										<td class="padding" style="width: 50px;">
+										</td>
+										<td class="content_row" align="left" style="width: 700px;">
+											<table class="mobile_centered_table" cellspacing="0" cellpadding="0" border="0">
+												<tbody>
+												<tr>
+																<td class="section_h" height="20">
+																</td>
+															</tr>
+												<tr>
+
+													<td valign="top" class="one_half" width="410">
+														<table cellspacing="0" cellpadding="0" border="0">
+															<tbody>
+																<tr>
+																<td height="10">
+																</td>
+															</tr>
+															<tr>
+																<td class="black_text" data-editable="" style="font-family: 'Open Sans', Arial, sans-serif; line-height: 35px; font-size:28px; color: #0d1e30; text-transform:uppercase; font-weight:800;">
+																	<span style="font-size: 28px;color: #ffffff;text-transform: none;font-weight: normal;"><br><b>Ваш подарок: доступ к&nbsp;порталу Бухгод.ру</b>
+																</td>
+															</tr>
+															<tr>
+																<td height="10">
+																</td>
+															</tr>
+
+															<tr>
+																<td>
+																	<table cellspacing="0" cellpadding="0" border="0" class="mobile_centered_table">
+																		<tbody>
+																		<tr>
+																			<td class="black_text" data-editable="" style="font-size:15px; color:#ffffff; line-height:22px; font-family: 'Open Sans', Arial, sans-serif;">
+<br>
+<span style="font-size:15px;">
+Портал идеально подойдет для&nbsp;вас, если вы предпочитаете работать с&nbsp;информацией в&nbsp;электронном виде. На&nbsp;сайте вы найдете все материалы книги и&nbsp;свежие новости, они будут информировать вас обо&nbsp;всех изменениях в&nbsp;законодательстве.</span>
+																				<br><br>
+																				<table class="tablet_centered_table" cellspacing="0" cellpadding="0" border="0">
+															<tbody><tr>
+																<td bgcolor="#ff0000" data-editable="" class="button" style=" font-family: 'Open Sans', sans-serif;font-size: 14px; color: red; text-align:center; text-transform: uppercase; font-weight:bold; border: 2px solid #ff0000; border-radius: 5px;" height="40" width="200" align="center">
+																	<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/30,=0AVl8lvY6Zd79mmF6yJA2FA/5,26296,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvZ29kb3ZveS1vdGNoZXQvJTIzJTIzJTIzJTIzJTIzbG90P3V0bV9zb3VyY2U9YnVoZ2FsdGVyaWFfZ28mdXRtX21lZGl1bT1zdWJzY3JpYmUmdXRtX2NhbXBhaWduPTIwMjJfMDNfMTUmdXRtX2NvbnRlbnQ9YnV0dG9u" data-felis_orig_uri="https://www.buhgalteria.ru/godovoy-otchet/#lot?utm_source=buhgalteria_go&amp;utm_medium=subscribe&amp;utm_campaign=2022_03_15&amp;utm_content=button" data-felis_link_id="30" target="_blank" style="text-decoration: none; color: #ffffff; width:100%; display: block; line-height: 40px;">
+																		<span>Купить книгу</span>
+																	</a>
+																</td>
+															</tr>
+														</tbody></table>
+
+
+
+
+
+																	</tr>
+																	</tbody></table>
+																</td>
+															</tr>
+															<tr>
+																<td class="section_h" height="20">
+																</td>
+															</tr>
+
+														</tbody></table>
+													</td>
+
+													<td width="25" class="nomobile">
+													</td>
+													<td class="one_half" valign="center" align="center" width="350">
+
+															<img src="https://www.buhgalteria.ru/godovoy-otchet/images/go2021_03.png" width="368" style="display: block;" border="0" alt="_">
+
+													</td>
+												</tr>
+												<tr>
+																<td class="section_h" height="20">
+																</td>
+															</tr>
+											</tbody></table>
+										</td>
+										<td class="padding" style="width: 20px;">
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+
+
+
+</td>
+</tr>
+</table>
+
+<br><br><br><font size="-1"><em>
+Вы получили это письмо, потому что выразили свое согласие получать сообщения от &quot;ООО &quot;АБИ&quot;&quot;.
+<br>
+Если Вы хотите отказаться от получения писем, нажмите <a href="https://sendsay.ru/backend/member/unsub/1QkGO16JOfPhzfds6Ou5LdeI_sx9R-dwYUiDg6-sk62TTZBhG89b_X3uC7WTTw0zvUeQQ">здесь</a>.</em>
+</font>
+<br>
+<img x-noattach="1" src="https://read.sendsay.ru/1.gif/x_1647254640537491,5,26296,48515,,/20220323154939,pf337" alt="" height="1" width="1" border="0">
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

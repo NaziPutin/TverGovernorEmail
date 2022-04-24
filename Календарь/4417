@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12f5cd4
+DTSTAMP:20220424T204127Z
+CREATED:20180620T084549Z
+LAST-MOD:20180620T075440Z
+SUMMARY:Торжественные мероприятия\, посвященные выпуску офицеров-слушателей Военной академии ВКО им. Маршала Советского Союза Г.К.Жукова и Тверского суворовского военного училища (отв. Попенко В.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180623T070000Z
+DTEND;VALUE=DATE-TIME:20180623T083000Z
+LOCATION:г.Тверь\, пл.Победы
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1341fbc
+DTSTAMP:20220424T204127Z
+CREATED:20180428T122022Z
+LAST-MOD:20180503T142850Z
+SUMMARY:Торжественное мероприятие по передаче после реставрации г. Ржеву  памятника «Мемориальный комплекс воинам-казахстанцам 100-й и 101-й отдельных стрелковых бригад в г. Ржев» (отв. Белоцерковский А.В.\, Степанов В.В.\, Зайцев А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180508T084500Z
+DTEND;VALUE=DATE-TIME:20180508T143000Z
+LOCATION:г. Ржев\; Селижаровский\, Осташковский\, Пеновский районы
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

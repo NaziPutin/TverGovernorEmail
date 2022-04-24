@@ -1,0 +1,114 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 28 Mar 2022 11:44:49 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Mon, 28 Mar
+ 2022 11:44:49 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.2176.2; Mon, 28
+ Mar 2022 11:44:48 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Mon, 28 Mar 2022 11:44:48 +0300
+From: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?4dbHydLF18neIOHS1MXNIOnXwc7P18ne?= <AzhgirevichAI@tverreg.ru>,
+	=?koi8-r?B?4sXSxdrJziDkzcnU0snKIOLP0snTz9fJ3g==?= <Berezin_DB@tverreg.ru>,
+	=?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>,
+	=?koi8-r?B?9sHSy8/XIOnHz9LYIPPF0sfFxdfJ3g==?= <ZharkovIC@tverreg.ru>,
+	=?koi8-r?B?7c/Sz9rP1yDl18fFzsnKIPfB08nM2MXXyd4=?= <Morozov_EV@tverreg.ru>,
+	=?koi8-r?B?7s/XycvP18Eg98HMxc7Uyc7BIOnXwc7P187B?= <Novikova_VI@tverreg.ru>,
+	=?koi8-r?B?8M/E1MnIz9fBIO3B0snOwSDp18HOz9fOwQ==?= <podtihova@tverreg.ru>,
+	=?koi8-r?B?7sHVzc/XIOHOxNLFyiD3ycvUz9LP18ne?= <naumov@tverreg.ru>,
+	=?koi8-r?B?59LJx8/S0c4g4dLTxc4g8sHGycvP18ne?= <grygoryan@tverreg.ru>,
+	=?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?= <SkoriyAV@tverreg.ru>,
+	=?koi8-r?B?49fF1MvP1yDhzMXL08HOxNIg6dfBzs/Xyd4=?= <CvetkovAI@tverreg.ru>,
+	=?koi8-r?B?4sXMz9LV08/XIPfMwcTJ08zB1yDhzsHUz8zYxdfJ3g==?= <bva@tverreg.ru>,
+	=?koi8-r?B?88/Lz8zP1yDrz87T1MHO1MnOIOnM2Mne?= <sokolov@tverreg.ru>,
+	"Ministerstvo_To@tverreg.ru" <Ministerstvo_To@tverreg.ru>
+Subject: =?koi8-r?B?78LPwt3Fzs7B0SDJzsbP0s3Bw8nRIM8g0NLJztHUyckg2sEg0MXSyc/EINMg?=
+ =?koi8-r?B?MjQuMDIuMjAyMiDQzyAyOC4wMy4yMDIyIMfPxMEgxsXExdLBzNjO2cgg7vDh?=
+ =?koi8-r?B?LCDOwdDSwdfMxc7O2cggzsEg2sHdydTVIMfSwdbEwc4gySDcy8/Oz83Jy8kg?=
+ =?koi8-r?B?1yDV08zP18nRyCDawdLVwsXWztnIINPBzsvDyco=?=
+Thread-Topic: =?koi8-r?B?78LPwt3Fzs7B0SDJzsbP0s3Bw8nRIM8g0NLJztHUyckg2sEg0MXSyc/EINMg?=
+ =?koi8-r?B?MjQuMDIuMjAyMiDQzyAyOC4wMy4yMDIyIMfPxMEgxsXExdLBzNjO2cgg7vDh?=
+ =?koi8-r?B?LCDOwdDSwdfMxc7O2cggzsEg2sHdydTVIMfSwdbEwc4gySDcy8/Oz83Jy8kg?=
+ =?koi8-r?B?1yDV08zP18nRyCDawdLVwsXWztnIINPBzsvDyco=?=
+Thread-Index: AdhCgAecZqlk3YiuRlGSjvtuNXRU3g==
+Disposition-Notification-To: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Mon, 28 Mar 2022 11:44:48 +0300
+Message-ID: <e3edd033be2c45b5b30edbaaf329f67b@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <e3edd033be2c45b5b30edbaaf329f67b@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: 8d5cc1a1-45b6-41dd-d5d1-08da109737aa
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1330330
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:center;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:10.0pt;margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%'>бРРБТБФПН рТБЧЙФЕМШУФЧБ фЧЕТУЛПК ПВМБУФЙ РПДЗПФПЧМЕОБ ПВПВЭЕООБС ЙОЖПТНБГЙС П РТЙОСФЙЙ ЪБ РЕТЙПД У 24.02.2022 РП 28.03.2022 ЗПДБ ЖЕДЕТБМШОЩИ ЪБЛПОПЧ, хЛБЪПЧ рТЕЪЙДЕОФБ тж, БЛФПЧ рТБЧЙФЕМШУФЧБ тж, ОБРТБЧМЕООЩИ ОБ ЪБЭЙФХ ЗТБЦДБО Й ЬЛПОПНЙЛЙ Ч ХУМПЧЙСИ ЪБТХВЕЦОЩИ УБОЛГЙК (РТЙМБЗБЕФУС).<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

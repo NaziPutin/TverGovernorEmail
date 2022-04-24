@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:Соколов\, Константин Ильич
+N:Соколов;Константин;Ильич;;
+EMAIL:sokolov@tverreg.ru
+BDAY:1971-01-28T00:00:00Z
+TEL;TYPE=home,voice:+7 (904) 000-10-21
+TEL;TYPE=cell,voice:+7 (910) 539-71-42
+TITLE:начальник управления референтуры аппарата Правительства Тверской области
+ORG:Аппарат Правительства Тверской области
+NOTE:sokkon@yandex.ru  - личный\n\n
+VERSION:3.0
+END:VCARD
+

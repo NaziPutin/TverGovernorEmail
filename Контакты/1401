@@ -1,0 +1,9 @@
+BEGIN:VCARD
+FN:Пилавов\, Михаил Иванович
+N:Пилавов;Михаил;Иванович;;
+BDAY:1970-11-20T21:00:00Z
+TEL;TYPE=work,voice:+7 (989) 088-88-78
+TEL;TYPE=cell,voice:+7 (989) 855-55-77
+VERSION:3.0
+END:VCARD
+

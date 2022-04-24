@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3c8f3c
+DTSTAMP:20220424T204126Z
+CREATED:20211022T142340Z
+LAST-MOD:20211021T135039Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе ТО «Развитие транспортного комплекса и дорожного хозяйства Тверской области» на 2020-2028 гг.» (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, Егоров И.И.\, Подтихова М.И) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211022T150000Z
+DTEND;VALUE=DATE-TIME:20211022T160000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

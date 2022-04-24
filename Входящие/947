@@ -1,0 +1,51 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 27 Jan 2022 19:29:02 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 27 Jan
+ 2022 19:29:01 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Thu, 27 Jan 2022 19:29:01 +0300
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?MTIyINPQ0sHXy8E=?=
+X-KeepSent: 55CF160C:31F259EF-432587D7:005A40B7;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.3 September 15, 2011
+Message-ID: <OF55CF160C.31F259EF-ON432587D7.005A40B7-432587D7.005A8B3C@tverreg.ru>
+From:
+	=?KOI8-R?B?7c/Sz9rP1yDl18fFzsnKIPfB08nM2MXXyd4v9NfF0tPLwdEgz8LMwdPU2A==?=
+	<MEV@tverreg.ru>
+Date: Thu, 27 Jan 2022 19:28:59 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 27.01.2022 19:28:59
+Return-Path: MEV@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: ff39d534-bed0-460d-0751-08d9e1b220b8
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2530504
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"><font size="2" face="sans-serif">йЗПТШ нЙИБКМПЧЙЮ, УРТБЧЛБ
+РП 122 ОБ ФЕЛХЭЙК НПНЕОФ:</font>
+<br><font size="2" face="sans-serif">- РЙЛПЧЩЕ ЧЩЪПЧБ</font>
+<br><font size="2" face="sans-serif">- ЛПМЙЮЕУФЧП ПРЕТБФПТПЧ</font>
+<br><font size="2" face="sans-serif">- ЛПМЙЮЕУФЧП МЙОЙК</font>
+<br>
+<br>
+<br>
+<br>
+<br><font size="2" face="sans-serif">нПТПЪПЧ еЧЗЕОЙК</font>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

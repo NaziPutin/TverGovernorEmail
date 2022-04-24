@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:Инюцын\, Антон Юрьевич
+N:Инюцын;Антон;Юрьевич;;
+EMAIL:iay@minenergo.gov.ru
+BDAY:1980-07-15T20:00:00Z
+TEL;TYPE=work,fax:+7 (495) 631-87-67
+TEL;TYPE=work,voice:+7 (495) 631-88-06
+TITLE:Заместитель Министра энергетики
+ORG:Министерство энергетики РФ
+VERSION:3.0
+END:VCARD
+

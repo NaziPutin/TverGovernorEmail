@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xef0430
+DTSTAMP:20220424T204127Z
+CREATED:20190704T081601Z
+LAST-MOD:20190703T151121Z
+SUMMARY:Рабочая встреча\, тема: «О методике по определению норматива формирования расходов на содержание органов местного самоуправления» (отв. Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190704T143000Z
+DTEND;VALUE=DATE-TIME:20190704T153000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

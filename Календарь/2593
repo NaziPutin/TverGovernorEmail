@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc20ce0
+DTSTAMP:20220424T204126Z
+CREATED:20200203T140534Z
+LAST-MOD:20200203T134725Z
+SUMMARY:Подготовка к Совместному расширенному заседанию Президиума Государственного Совета РФ и Совета при Президенте РФ по науке и образованию (06.02.2020) (отв. Белоцерковский А.В.\, Ищенко А.Н.\, Наумов А.В.\, Соколов С.А.\, Егоров И.И.)
+DTSTART;VALUE=DATE-TIME:20200203T170000Z
+DTEND;VALUE=DATE-TIME:20200203T173000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

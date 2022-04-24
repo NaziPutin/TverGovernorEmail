@@ -1,0 +1,50 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 17 Jun 2021 23:27:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 17 Jun
+ 2021 23:27:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 17 Jun 2021 23:27:34 +0300
+From: =?utf-8?B?0J/QvtC00YLQuNGF0L7QstCwINCc0LDRgNC40L3QsCDQmNCy0LDQvdC+0LI=?=
+ =?utf-8?B?0L3QsA==?= <podtihova@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JjQvdGE0L4g0LfQsNC00L7Qu9C20LXQvdC90L7RgdGC0Ywg0L/QviDQsNGA?=
+ =?utf-8?B?0LXQvdC00LUg0JzQni5kb2N4?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L4g0LfQsNC00L7Qu9C20LXQvdC90L7RgdGC0Ywg0L/QviDQsNGA?=
+ =?utf-8?B?0LXQvdC00LUg0JzQni5kb2N4?=
+Thread-Index: AQHXY7c0AlAb93SSh0O8aWYA70hiZQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Thu, 17 Jun 2021 23:27:34 +0300
+Message-ID: <F6555DCE-0CDF-4508-9EC4-14921E31BEF4@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <F6555DCE-0CDF-4508-9EC4-14921E31BEF4@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 2694132d-c704-4e80-8e59-08d931ce56ef
+Return-Path: podtihova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4391208
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERE6117FF0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div dir="ltr">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Уважаемый Игорь Михайлович! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;По Вашему поручению подготовлена информация по получению доходов от аренды муниципального имущества &nbsp;по выбранным &nbsp;муниципалитетам . &nbsp;Дополнительно будет направлена информация &nbsp;по Калининскому району.&nbsp;<br>&nbsp;С уважением, Подтихова &nbsp;М.И.<br></div></body></html>
+<html><head></head><body dir="auto"><div dir="ltr"></div><br><br><div dir="ltr">Отправлено с iPhone</div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

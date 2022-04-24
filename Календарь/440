@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x35121c
+DTSTAMP:20220424T204126Z
+CREATED:20211117T182230Z
+LAST-MOD:20211117T181323Z
+SUMMARY:Рабочая встреча\, тема: «Об организации  мероприятий\, посвященных празднованию Нового 2022 года и Рождества Христова» (отв. Новикова В.И.\, Смялковский П.Е.\, Ефремов Д.А.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211117T183000Z
+DTEND;VALUE=DATE-TIME:20211117T190000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

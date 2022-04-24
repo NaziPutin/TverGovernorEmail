@@ -1,0 +1,58 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 6 May 2019 23:05:06 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 6 May
+ 2019 23:05:03 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Mon, 6 May 2019
+ 23:05:06 +0300
+From: =?utf-8?B?0JrQvtC80LjRgWPQsNGA0L7QstCwINCe0LvRjNCz0LAg0KHQtdGA0LPQtdC1?=
+ =?utf-8?B?0LLQvdCw?= <komissarova@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KPRh9Cw0YHRgtC+0Log0L/QviDRg9C7LtCV0YTQuNC80L7QstCw?=
+Thread-Topic: =?utf-8?B?0KPRh9Cw0YHRgtC+0Log0L/QviDRg9C7LtCV0YTQuNC80L7QstCw?=
+Thread-Index: AQHVBEb/Tni8HDRJuESemwftUaiqDA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 6 May 2019 23:05:06 +0300
+Message-ID: <413feebd-291a-4a00-8b9d-d162aac5d6a3@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <413feebd-291a-4a00-8b9d-d162aac5d6a3@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 8f713932-077e-4319-ac47-08d6d25e2256
+Return-Path: komissarova@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7088020
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER454E6965
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto"><br><div class="gmail_quote" dir="auto">Уважаемый Игорь Михайлович, направляю информацию по земельному участку на ул.Ефимова,32 (который ранее испрашивало суворовское училище).<blockquote class="quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div>
+<blockquote style="border-left:1px solid #0857a6;margin:0px 0px 0px 10px;padding:0px 0px 0px 10px">
+<div>
+<div><base href="https://e.mail.ru/">
+<div>
+<div></div>
+</div>
+<base href="https://e.mail.ru/"></div>
+</div>
+</blockquote>
+</div>
+</blockquote></div><div class="gmail_quote" dir="auto">В соответствии с Вашим поручением все мероприятия по подготовке к торгам под жилищное строительство нами проведены.</div><br></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

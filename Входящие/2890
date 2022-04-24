@@ -1,0 +1,65 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sat, 3 Nov 2018 01:23:50 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sat, 3 Nov
+ 2018 01:23:50 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sat, 3 Nov 2018 01:23:49 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id A05AA21A55
+	for <rim@tverreg.ru>; Sat,  3 Nov 2018 01:23:50 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 94.100.177.106 is authorized to use 'yukore@mail.ru' in 'mfrom' identity (mechanism 'ip4:94.100.176.0/20' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="yukore@mail.ru"; helo=smtp46.i.mail.ru; client-ip=94.100.177.106
+Received: from smtp46.i.mail.ru (smtp46.i.mail.ru [94.100.177.106])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id AA82621A4F
+	for <rim@tverreg.ru>; Sat,  3 Nov 2018 01:23:49 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=To:Date:Message-Id:Subject:Mime-Version:From:Content-Transfer-Encoding:Content-Type; bh=75PVqW5ytR1cUIiCpS3ZNsmMj5WtUcAzecHeNHKG9mw=;
+	b=kQcx5+z6pJroRBEMe8h6eK27o0SiUZztVNajgGqmStT3v0ecVGMOZ0CNpGtZ9AvnajvYApq3Rh+76TNFTl+fKtd+eUxljFOIeVqgAJnjuP+F16GUjbpmj6Ep0MeD6QvuvcLrqsWshkWxJE0H/mYU6IrPsA3cEFlO8xTBdqEMGKA=;
+Received: by smtp46.i.mail.ru with esmtpa (envelope-from <yukore@mail.ru>)
+	id 1gIhr2-0004GL-EL
+	for rim@tverreg.ru; Sat, 03 Nov 2018 01:23:48 +0300
+From: =?koi8-r?B?4MzJ0SDrz9fBzMXOy88=?= <yukore@mail.ru>
+Subject: =?koi8-r?B?79DF0sHUydfOwdEgyc7Gz9LNwcPJ0SDQzyDT1cnDycTV?=
+Message-Id: <AA8FD079-A203-42E2-9DFF-53E2A00895F9@mail.ru>
+Date: Sat, 3 Nov 2018 01:19:40 +0300
+To: =?koi8-r?B?6cfP0tgg8tXExc7R?= <rim@tverreg.ru>
+X-Mailer: iPad Mail (12B435)
+Authentication-Results: smtp46.i.mail.ru; auth=pass smtp.auth=yukore@mail.ru smtp.mailfrom=yukore@mail.ru
+X-77F55803: ABQATh8ydylaeFBL0qwpQTnPfOaH4wr5b6gHrunrTKokjvKQQ0nV0C4X6dq5ATCU
+X-7FA49CB5: 0D63561A33F958A54E7398A026563688D5326D4A42B064D6A3FC4520A10E3A468941B15DA834481FA18204E546F3947CD2DCF9CF1F528DBCF6B57BC7E64490618DEB871D839B7333395957E7521B51C2545D4CF71C94A83E9FA2833FD35BB23D27C277FBC8AE2E8B8C7ADC89C2F0B2A5A471835C12D1D977C4224003CC8364767815B9869FA544D8D32BA5DBAC0009BE9E8FC8737B5C2249E948697DC93A752D3AA81AA40904B5D9CF19DD082D7633A0E7DDDDC251EA7DABD81D268191BDAD3D78DA827A17800CE79C49E88482E10C61CD04E86FAF290E2D40A5AABA2AD3711975ECD9A6C639B01B78DA827A17800CE73AF57AE7EFD6A64280EB9C656C011A8B75ECD9A6C639B01B4E70A05D1297E1BBC6867C52282FAC85D9B7C4F32B44FF57DB1D15339D2937A5BD9CCCA9EDD067B1EDA766A37F9254B7
+X-Mailru-Sender: 39107491C105C679E38D9AB154FA7338FDEB4062A806ECBA9D85E9C8D4B8DE64394C4D58F0314692126B277D709E0580C77752E0C033A69E59CB1A209B24CA380C1FA3BF061E0D533453F38A29522196
+X-Mras: OK
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (yukore[at]mail.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: yukore@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: ebb620e0-56e2-4b56-8385-08d64111dd7c
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.0938453
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Уважаемый Игорь Михайлович!
+Осуществлена оперативная отработка информации о попытке суицида у Министерством здравоохранения (Барышев Игорь Владимирович). Малькова Анна, обучающаяся 10класса школы 31 г. Тверь. Доставлена в Бурашево. Опрошена и освидетельствована. Согласно результатов, причиной ситуации послужила ссора с молодым человеком. Приняла решения попугать, за перила не выходила, покончить с жизнью не планировала. Находилась в состоянии алкогольного опьянения. Забрана из больницы под подписку родителями. Мама - медицинский работник. Управлению образования поставлена задача организовать психологическое сопровождение, работу с семьей, провести анализ работы школы в направлении профилактической работы и психологического сопровождения.
+С уважением, Коваленко Ю. Н.
+
+Отправлено с iPad
+----boundary-LibPST-iamunique-2146875884_-_---
+

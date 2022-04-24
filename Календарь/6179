@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1568d38
+DTSTAMP:20220424T204127Z
+CREATED:20170306T173858Z
+LAST-MOD:20170307T102507Z
+SUMMARY:Заседание Комиссии по формированию направлений финансирования расходов областного бюджета Тверской области\, связанных с осуществлением городом Тверью функций административного центра Тверской области (отв. Меньщиков А.В.\, Северина И.А.\, СМИ)
+DTSTART;VALUE=DATE-TIME:20170307T130000Z
+DTEND;VALUE=DATE-TIME:20170307T150000Z
+LOCATION:каб.207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

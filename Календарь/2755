@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xcdd670
+DTSTAMP:20220424T204127Z
+CREATED:20191219T151541Z
+LAST-MOD:20191219T152718Z
+SUMMARY:Традиционная предновогодняя встреча с представителями гражданского общества Тверской области (отв. Ищенко А.Н.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191220T110000Z
+DTEND;VALUE=DATE-TIME:20191220T131000Z
+LOCATION:ул. Советская\, д. 16\, Тверской областной академический театр драмы
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

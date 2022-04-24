@@ -1,0 +1,391 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 1 Apr 2022 20:13:00 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 1 Apr 2022
+ 20:13:00 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 1 Apr 2022 20:13:00 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id ACE5C8116D
+	for <rim@tverreg.ru>; Fri,  1 Apr 2022 20:12:59 +0300 (MSK)
+Received-SPF: pass (newsteam.ru: 185.201.55.135 is authorized to use 'readers-report@newsteam.ru' in 'mfrom' identity (mechanism 'mx' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="readers-report@newsteam.ru"; helo=mail.pravda.ru; client-ip=185.201.55.135
+Received: from mail.pravda.ru (unknown [185.201.55.135])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 68BC481152
+	for <rim@tverreg.ru>; Fri,  1 Apr 2022 20:12:58 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=newsteam.ru; h=
+	list-unsubscribe:list-id:reply-to:sender:to:date:from
+	:mime-version:content-type:content-transfer-encoding:message-id
+	:subject; s=mail; bh=Yau1LNQVkMT7/RjNqcR0SW5snjk=; b=m5VxcBjo13C
+	IJxDNrDHYK8gMh4/86hatiiejyTqfM3nRzKTOzn9xdeuCSyoWy4uz5RdvOgrCryv
+	IPbg2iSj9bRmt5v4Yk0klYDjy6xEvvlCGssR3fA4Sfmy2cmXM1EAtaUL95idRfcw
+	JZg6UbbT6wCSJjzEtDLw3sYIvZIXze60=
+X-ListServer: CommuniGate Pro LIST 6.1.19
+List-Unsubscribe: <mailto:readers-off@newsteam.ru>
+List-ID: <readers.newsteam.ru>
+Precedence: list
+Reply-To: "Pravda.Ru Community" <readers@newsteam.ru>
+Sender: "Pravda.Ru Community" <readers@newsteam.ru>
+To: "Pravda.Ru Community" <readers@newsteam.ru>
+Date: Fri, 1 Apr 2022 20:12:33 +0300
+From: pravdanews@newsteam.ru
+X-Original-Message-ID: <d1dbdeaedbb9db894bb27338cb3c00ee@pravda.pravda-team.ru>
+Message-ID: <list-6854974@mail.pravda.ru>
+Subject: =?utf-8?B?0JjQvdGC0LXRgNC10YHQvdGL0LUg0LzQsNGC0LXRgNC40LA=?=
+ =?utf-8?B?0LvRiyDQvdCwINGB0LDQudGC0LUgUHJhdmRhLnJ1?=
+X-DrWeb-SpamScore: 49
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeiiedguddtvdcutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucgoufhushhpvggtthffohhmrghinhculdegledmnecujfgurhepjfejphhrshfvfffhgggtgffkufeshhekredttddtjeenucfhrhhomhepphhrrghvuggrnhgvfihssehnvgifshhtvggrmhdrrhhunecuggftrfgrthhtvghrnhepkedvjeffiedtueegvdeviedugfdtheekgeefiefgiedvvdelkeejieeguddviefhnecuffhomhgrihhnpehprhgrvhgurgdrrhhupdhmrghilhdrrhhupdhokhdrrhhupdhtfihithhtvghrrdgtohhmpdhvkhdrtghomhdpfhgrtggvsghoohhkrdgtohhm
+X-DrWeb-SpamVersion: Vade Retro 01.422.166#102 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.570 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RDNS_NONE               0.793 Delivered to internal network by a host with no rDNS
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 49
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeiiedguddtvdcutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucgoufhushhpvggtthffohhmrghinhculdegledmnecujfgurhepjfejphhrshfvfffhgggtgffkufeshhekredttddtjeenucfhrhhomhepphhrrghvuggrnhgvfihssehnvgifshhtvggrmhdrrhhunecuggftrfgrthhtvghrnhepkedvjeffiedtueegvdeviedugfdtheekgeefiefgiedvvdelkeejieeguddviefhnecuffhomhgrihhnpehprhgrvhgurgdrrhhupdhmrghilhdrrhhupdhokhdrrhhupdhtfihithhtvghrrdgtohhmpdhvkhdrtghomhdpfhgrtggvsghoohhkrdgtohhmnecukfhppedukeehrddvtddurdehhedrudefhe
+X-DrWeb-SpamVersion: Vade Retro 01.422.166#102 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: readers-report@newsteam.ru
+X-MS-Exchange-Organization-Network-Message-Id: e827c75d-a1bb-4f84-1172-08da1402e006
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2500690
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Интересные материалы на сайте Pravda.ru</title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #efefef;" height="100%">
+    <tbody>
+    <tr><td valign="top" align="center"><table border="0" cellpadding="0" cellspacing="0" width="600"></table>
+        <table border="0" cellpadding="0" cellspacing="0" width="600" style="border: 1px solid #dddddd;background-color:#ffffff;margin-top:0px;">
+            <tbody>
+            <tr>
+                <td bgcolor="#e4eff7" valign="middle" style="color: #787878;font-family: Arial;padding: 5px 30px 5px 30px;" align="left" height="40">
+                    <div style="font-size: 14px;letter-spacing: 1px;font-weight: bold;color: #787878;">
+                        <a href="https://www.pravda.ru/" target="_blank">
+                            <img src="https://www.pravda.ru/pix/logo.gif" alt="">
+                        </a>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" valign="top" style="padding: 0px 30px 0px 30px;font-family: Arial;color: #efefef;font-size: 14px;line-height: 1.5em;" align="left">
+                    <div style="font-size: 14px;line-height: 1.6em;color: #444444;text-align: left;padding-top: 15px">
+                        <table width="100%" style="background-color: #ffffff;">
+                            <tbody>
+                                                                                    <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/economics/1695252-kontrsankcii/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/5/2/1695252_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/economics/1695252-kontrsankcii/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Экономист: недружественные страны даже не почувствуют снижения нашего экспорта</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/accidents/1695237-ustroitsja_na_rabotu/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/3/7/1695237_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/accidents/1695237-ustroitsja_na_rabotu/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Как устроиться на работу без обмана: малоизвестные приёмы мошенников</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/world/1695226-peregovory_rf_ukraina/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/2/6/1695226_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/world/1695226-peregovory_rf_ukraina/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Политолог: США хотят конфликта, поэтому переговоры РФ и Украины бесполезны</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://nasledie.pravda.ru/1695213-zhestokie_eksperimenty/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/1/3/1695213_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://nasledie.pravda.ru/1695213-zhestokie_eksperimenty/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Попытки учёных &quot;улучшить человечество&quot; к добру не приводят</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://military.pravda.ru/1694287-rossiya/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/8/7/1694287_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://military.pravda.ru/1694287-rossiya/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Эксперт: забота о мирных украинцах тормозит армию России на 200%</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/world/1695205-germanija/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/0/5/1695205_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/world/1695205-germanija/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Общественник из Германии рассказал об акциях в поддержку России</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/world/1695173-crimea/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/7/3/1695173_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/world/1695173-crimea/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Эксперт подтвердил планы ВСУ атаковать Крым и Донбасс</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/society/1693489-chlenovreditelstvo/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/4/8/9/1693489_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/society/1693489-chlenovreditelstvo/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Опасный &quot;креатив&quot;: жертвы моды расплачиваются здоровьем</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/economics/1695170-parallel/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/7/0/1695170_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/economics/1695170-parallel/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">&quot;Параллельный импорт&quot; в России: история и перспективы</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/economics/1694269-ehkonomika/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/2/6/9/1694269_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/economics/1694269-ehkonomika/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Эксперт рассказал, почему в России не будет дефицита продуктов</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://military.pravda.ru/1695172-belgorod/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/7/2/1695172_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://military.pravda.ru/1695172-belgorod/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Эксперты рассказали о последствиях атаки вертолётов ВСУ на Белгород</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/economics/1695174-beljaev_dollar_kurs/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/7/4/1695174_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/economics/1695174-beljaev_dollar_kurs/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Экономист Беляев: предел укрепления нацвалюты РФ — 77 рублей за доллар</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/economics/1695158-eksportgaza/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/5/8/1695158_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/economics/1695158-eksportgaza/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Россия резко сократила поставки газа за рубеж. Это начало?</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/culture/1695149-nikolai_burljaev/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/4/9/1695149_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/culture/1695149-nikolai_burljaev/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Николай Бурляев: &quot;Время безответственности заканчивается&quot;</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/world/1695128-china_europa/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/2/8/1695128_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/world/1695128-china_europa/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Саммит ЕС — Китай обсудит спецоперацию России на Украине</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://cinema.pravda.ru/news/1695141-kerri/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/4/1/1695141_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://cinema.pravda.ru/news/1695141-kerri/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Джим Керри заявил о завершении карьеры в Голливуде</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/economics/1695121-rubl/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/1/2/1/1695121_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/economics/1695121-rubl/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Санкции и рубль: Запад увяз в экономической войне с Россией</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/society/1695091-zherar_deparde/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/0/9/1/1695091_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/society/1695091-zherar_deparde/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Жерар Депардье: &quot;Российский народ не несёт ответственности&quot;</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        <tr></tr>
+                            <tr>
+                                                                        <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/world/1695086-koronavirus/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/0/8/6/1695086_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/world/1695086-koronavirus/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">В ВОЗ заявили о практическом исчезновении ряда штаммов COVID-19</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                            <td valign="top" style="font-family: Arial;font-size: 18px;color: #444444;width: 50%;padding: 10px 15px;line-height:1.2em;">
+                                            <a href="https://www.pravda.ru/news/economics/1695079-centrobank/?from=email_subscribe" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                                <img src="https://img.pravda.ru/image/preview/article/0/7/9/1695079_five.jpeg" style="max-width:300px;width: 100%;margin-bottom: 2px;">
+                                            </a>
+                                            <div align="left">
+                                                <div style="min-height: 21px">
+                                                    <a href="https://www.pravda.ru/news/economics/1695079-centrobank/?from=email_subscribe" style="font-size: 16px;text-decoration:none;font-weight:bold;color: #2271a5;" target="_blank">Центробанк упростил денежные переводы за границу для физлиц</a>
+                                                </div>
+                                            </div>
+                                        </td>
+                                                                </tr>
+                                                        </tbody>
+                        </table>
+                        <div style="padding: 4px 0 15px 0;">
+                            <div style="width:100%;font-size: 16px;padding-top: 0px;padding-bottom:0px" align="center">
+                                <div style="width:250px;color: #ffffff;background-color:#4d83c9;border: 1px solid #2e67b1;border-bottom: 1px solid #4d83c9;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;line-height: 1;padding: 8px 0;text-align: center;text-shadow: 0 -1px 0 #204e99;">
+                                    <div style="padding: 0px;">
+                                        <a href="https://www.pravda.ru/?from=email_subscribe" style="text-decoration: none;color: #ffffff;" target="_blank">Посмотреть все материалы</a>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px;" align="center">
+                                <tbody>
+                                <tr><td style="vertical-align: top;text-align: center;">
+                                    <div>
+                                        <ul class="social-footer" style="list-style-type: none;height: 25px;padding: 0;">
+                                            <li style="float: left;background: none;margin: 0 7px;"><a rel="nofollow" style="float: left;height: 24px;width: 24px;background: url('https://pravda.ru/pix/social-icons-bw.png') no-repeat 0px -149px;" class="mail" href="http://my.mail.ru/community/pravdaru/"></a></li>
+                                            <li style="float: left;background: none;margin: 0 7px;"><a rel="nofollow" style="float: left;height: 24px;width: 24px;background: url('https://pravda.ru/pix/social-icons-bw.png') no-repeat 0px -49px;" class="ok" href="http://ok.ru/pravdaru"></a></li>
+                                            <li style="float: left;background: none;margin: 0 7px;"><a rel="nofollow" style="float: left;height: 24px;width: 24px;background: url('https://pravda.ru/pix/social-icons-bw.png') no-repeat 0px -199px;" class="twitter" href="https://twitter.com/pravdaru"></a></li>
+                                            <li style="float: left;background: none;margin: 0 7px;"><a rel="nofollow" style="float: left;height: 24px;width: 24px;background: url('https://pravda.ru/pix/social-icons-bw.png') no-repeat 0px -99px;" class="vk" href="https://vk.com/pravda_ru"></a></li>
+                                            <li style="float: left;background: none;margin: 0 7px;"><a rel="nofollow" style="float: left;height: 24px;width: 24px;background: url('https://pravda.ru/pix/social-icons-bw.png') no-repeat;" class="facebook" href="https://www.facebook.com/pravdaonline"></a></li>
+                                        </ul>
+                                    </div>
+                                </td></tr>
+                                </tbody>
+                            </table>
+                                                    </div>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="600" style="background-color: #efefef;border: 0;border-bottom: 0;margin-top: 20px;">
+            <tbody>
+            <tr></tr>
+            <tr><td style="color:#808080;font-size:12px;line-height:150%;padding-top:0;padding-right:0;padding-bottom:20px;padding-left:0;text-align:center;">
+                <div>Вы получили это письмо, поскольку Вы подписались на
+                рассылку новостей медиахолдинга Pravda.Ru.<br> Для того, чтобы отписаться от
+                рассылки, отправьте письмо произвольного содержания <nobr>на адрес
+                <a href="mailto:readers-off@newsteam.ru">readers-off@newsteam.ru</a>.</nobr></div>
+                <div>Любые вопросы и замечания Вы можете оставить на нашей <a href="https://www.pravda.ru/feedback.html" target="_blank">странице обратной связи</a></div>            </td></tr>
+            <tr>
+                <td style="color:#808080;font-size:12px;line-height:150%;padding-top:0;padding-right:0;padding-bottom:20px;padding-left:0;text-align:center;" valign="top"><em>Copyright © 1999-2022</em>&nbsp;|&nbsp;Технология и дизайн принадлежат ООО «Правда.Ру»</td>
+            </tr>
+            </tbody>
+        </table>
+    </td></tr>
+    </tbody>
+</table>
+</body>
+</html>
+
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

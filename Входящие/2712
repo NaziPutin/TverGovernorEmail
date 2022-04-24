@@ -1,0 +1,51 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 18 Jan 2019 13:12:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 18 Jan
+ 2019 13:12:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 18 Jan 2019
+ 13:12:14 +0300
+From: =?utf-8?B?0KHRgtC10L/QsNC90L7QsiDQktCw0LTQuNC8INCS0LDQu9C10YDRjNC10LI=?=
+ =?utf-8?B?0LjRhw==?= <stepanov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KHQu9GD0LbQtdCx0L3QsNGPINC30LDQv9C40YHQutCwINC/0L4g0LzQtdGA?=
+ =?utf-8?B?0L7Qv9GA0LjRj9GC0LjRjiDQsNC70YzRgtC10YDQvdCw0YLQuNCy0L3QvtC8?=
+ =?utf-8?B?0YMg0YTQvtGA0YPQvNGDICLQodC10LvQuNCz0LXRgCI=?=
+Thread-Topic: =?utf-8?B?0KHQu9GD0LbQtdCx0L3QsNGPINC30LDQv9C40YHQutCwINC/0L4g0LzQtdGA?=
+ =?utf-8?B?0L7Qv9GA0LjRj9GC0LjRjiDQsNC70YzRgtC10YDQvdCw0YLQuNCy0L3QvtC8?=
+ =?utf-8?B?0YMg0YTQvtGA0YPQvNGDICLQodC10LvQuNCz0LXRgCI=?=
+Thread-Index: AQHUrxZIySo5TiN1P0qJj2rFaWvAfQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 18 Jan 2019 13:12:13 +0300
+Message-ID: <ec51a412-97f3-48db-b6ff-886c30924503@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ec51a412-97f3-48db-b6ff-886c30924503@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: fb648140-4fd8-4618-8746-08d67d2d6af2
+Return-Path: stepanov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7736273
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER5E7AFA18
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto">Уважаемый Игорь Михайлович, направляю на рассмотрение служебную записку по проведению мероприятия в качестве альтернативе форуму &quot;Селигер&quot; .<div dir="auto"><br></div><div dir="auto">С уважением</div><div dir="auto">Вадим Степанов&nbsp;</div></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

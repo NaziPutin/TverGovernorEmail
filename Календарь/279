@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x283c48
+DTSTAMP:20220424T204126Z
+CREATED:20220121T090709Z
+LAST-MOD:20220120T145001Z
+SUMMARY:Рабочая встреча по вопросам строительства Спасо-Преображенского собора в г. Твери (отв. Бабичев В.И.\, Огоньков А.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220121T083000Z
+DTEND;VALUE=DATE-TIME:20220121T093000Z
+LOCATION:ул. Советская\, д. 10\, Тверское епархиальное управление
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

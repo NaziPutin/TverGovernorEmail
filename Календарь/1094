@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6429c0
+DTSTAMP:20220424T204126Z
+CREATED:20210528T162713Z
+LAST-MOD:20210528T062826Z
+SUMMARY:Праздничные мероприятия\, посвященные началу XXII Большого Волжского Крестного хода\, приуроченного к 500-летию со дня обретения мощей преподобного Макария Калязинского\n(отв. Скорый А.В.\, Новикова В.И.\, Ефремов Д.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210529T075500Z
+DTEND;VALUE=DATE-TIME:20210529T101000Z
+LOCATION:Осташковский г.о.\, д. Волговерховье\, исток реки Волги
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

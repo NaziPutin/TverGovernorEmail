@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3b8154
+DTSTAMP:20220424T204126Z
+CREATED:20211028T083115Z
+LAST-MOD:20211028T055006Z
+SUMMARY:Селекторное совещание по вопросам обеспечения безопасности в МО ТО в период нерабочих дней с 30.10 по 07.11.2021 (с участием глав МО ТО в режиме ВКС) (отв. Новикова В.И.\, Веселов А.В.\, Цветков А.И.\, Григорян А.Р.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211028T090000Z
+DTEND;VALUE=DATE-TIME:20211028T100000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

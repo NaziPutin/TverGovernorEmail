@@ -1,0 +1,58 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 2 Dec 2019 10:01:10 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 2 Dec
+ 2019 10:01:10 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Mon, 2 Dec 2019 10:01:10 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JPQvtC70L7QtNC10YYg0J4u0K4uINCh0L7QstC10YnQsNC90LjQtSAo0LIg?=
+ =?utf-8?B?INGA0LXQttC40LzQtSDQktCa0KEpINC/0L4g0LLQvtC/0YDQvtGB0YMg0Lo=?=
+ =?utf-8?B?0LDRgdGB0L7QstC+0LPQviDQuNGB0L/QvtC70L3QtdC90LjRjyDRgNCw0YE=?=
+ =?utf-8?B?0YXQvtC00L7QsiDRhNC10LTQtdGA0LDQu9GM0L3QvtCz0L4g0LHRjtC00LY=?=
+ =?utf-8?B?0LXRgtCwINCyIDIwMTkg0LMuICg0LjEyLjIwMTksIDExINGH0LDRgS4gMzAg?=
+ =?utf-8?B?0LzQuNC9Lik=?=
+Thread-Topic: =?utf-8?B?0JPQvtC70L7QtNC10YYg0J4u0K4uINCh0L7QstC10YnQsNC90LjQtSAo0LIg?=
+ =?utf-8?B?INGA0LXQttC40LzQtSDQktCa0KEpINC/0L4g0LLQvtC/0YDQvtGB0YMg0Lo=?=
+ =?utf-8?B?0LDRgdGB0L7QstC+0LPQviDQuNGB0L/QvtC70L3QtdC90LjRjyDRgNCw0YE=?=
+ =?utf-8?B?0YXQvtC00L7QsiDRhNC10LTQtdGA0LDQu9GM0L3QvtCz0L4g0LHRjtC00LY=?=
+ =?utf-8?B?0LXRgtCwINCyIDIwMTkg0LMuICg0LjEyLjIwMTksIDExINGH0LDRgS4gMzAg?=
+ =?utf-8?B?0LzQuNC9Lik=?=
+Thread-Index: AdWo4BrthvABbL9BSviN32pc5TZE4Q==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 2 Dec 2019 10:01:10 +0300
+Message-ID: <-xcs69bf91nr0-861jrymhbxrh1aosba-hwwwt0-e3n64s-4uamzf5gxmxy-huwl0ufm8cga-nky0afnwekslxkgre1-wavpgw-jkhqze6kazsu-qptmdein4c7wa5waih-t9sx6p-fsxlj8y8zzykuqqnnk.1575270079714@email.android.com>
+References: <7114feb9abfe415cb7a33355dc28c9df@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <-xcs69bf91nr0-861jrymhbxrh1aosba-hwwwt0-e3n64s-4uamzf5gxmxy-huwl0ufm8cga-nky0afnwekslxkgre1-wavpgw-jkhqze6kazsu-qptmdein4c7wa5waih-t9sx6p-fsxlj8y8zzykuqqnnk.1575270079714@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: a12ddef1-0846-4aaa-ee2b-08d776f5698c
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5460327
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">Уважаемый Игорь Михайлович!<br><br>Информирую Вас о том, что в Ваш адрес поступила телеграмма за подписью директора Департамента культуры Правительства РФ Скороспелова П. с приглашением принять личное участие в совещании у Заместителя Председателя Правительства РФ Голодец О.Ю. (в&nbsp; режиме ВКС) по вопросу кассового исполнения расходов федерального бюджета в 2019 г. в отраслях культуры, спорта и туризма (4.12.2019, 11 час. 30 мин.).<br><br>Проинформированы: Белоцерковский А.В., Решетов А.А., Репина И.А., Перов В.В., Подтихова М.И.<br><br>При этом обращаю Ваше внимание на то, что 4.12.2019 с 10 час. 00 мин. в Вашем рабочем графике запланировано посещение Единого диспетчерского центра скорой медицинской помощи и ГБУЗ «Клиническая больница скорой медицинской помощи».<br><br>На Ваше решение.<br><br>С уважением, А.Скорый
+----boundary-LibPST-iamunique-2146875884_-_---
+

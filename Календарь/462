@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3986a8
+DTSTAMP:20220424T204126Z
+CREATED:20211111T071911Z
+LAST-MOD:20211111T063820Z
+SUMMARY:Рабочая встреча по вопросам развития Мультимедийного исторического парка «Россия – моя история» (отв. Новикова В.И.\, Ажгиревич А.И.\, Прохорова А.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211111T110000Z
+DTEND;VALUE=DATE-TIME:20211111T120000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

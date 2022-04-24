@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x98ee94
+DTSTAMP:20220424T204126Z
+CREATED:20200908T104322Z
+LAST-MOD:20200907T132242Z
+SUMMARY:Селекторное совещание с главами муниципальных образований Тверской области (по списку)\, тема: «О ходе подготовки к Единому дню голосования (11-13.09.2020)» (отв. Ищенко А.Н.\, Белорусов В.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200908T100000Z
+DTEND;VALUE=DATE-TIME:20200908T110000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

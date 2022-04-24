@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1aab08
+DTSTAMP:20220424T204126Z
+CREATED:20220329T142142Z
+LAST-MOD:20220329T141856Z
+SUMMARY:Рабочая поездка полномочного представителя Президента РФ в ЦФО И.О. Щеголева в Тверскую область (отв. Морозов Е.В.\, Новикова В.И.\, Ажгиревич А.И.\, Веселов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220427T070000Z
+DTEND;VALUE=DATE-TIME:20220427T150000Z
+LOCATION:Согласно программе поездки
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

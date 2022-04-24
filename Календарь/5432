@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14dbf2c
+DTSTAMP:20220424T204127Z
+CREATED:20170807T162453Z
+LAST-MOD:20170807T162453Z
+SUMMARY:Выездное совещание Председателя Правительства РФ Д.А. Медведева по вопросу "О сохранении\, предотвращении загрязнения и рациональном использовании реки Волги" (отв. Мигулев П.И.\, Наумов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170808T090000Z
+DTEND;VALUE=DATE-TIME:20170808T142000Z
+LOCATION:г.Волгоград 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

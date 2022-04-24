@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sat, 5 Mar 2022 16:38:38 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sat, 5 Mar 2022
+ 16:38:35 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Sat, 5 Mar 2022 16:38:38 +0300
+From: =?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J4g0LLRi9GF0L7QtNC90YvRhSDQtNC90Y/RhSDRgSAwNiDQv9C+IDA4LjAz?=
+ =?utf-8?Q?.2022?=
+Thread-Topic: =?utf-8?B?0J4g0LLRi9GF0L7QtNC90YvRhSDQtNC90Y/RhSDRgSAwNiDQv9C+IDA4LjAz?=
+ =?utf-8?Q?.2022?=
+Thread-Index: AQHYMJZR4hwZsc56zkibHpgc7qGkVQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 5 Mar 2022 16:38:38 +0300
+Message-ID: <C362CC09-E880-46B8-9A20-10F3634FA13C@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <C362CC09-E880-46B8-9A20-10F3634FA13C@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 30b0fbd6-b60b-4cdd-b891-08d9fead742a
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3600982
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Уважаемый Игорь Михайлович! По выходным. Прошу согласовать мое место нахождение: 06 и 07.03 - Нелидово (с семьей), 08.03 - Тверь (на работе). По состоянию на 05.03 все объекты ком.инфраструктуры работают - штатно. НПЯ в период до 09.03 не прогнозируются. Прошедшие выходные 23.02, 26.02 и 27.02 находился в Твери. С уважением, Цветков А.И.
+----boundary-LibPST-iamunique-2146875884_-_---
+

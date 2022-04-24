@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1381f64
+DTSTAMP:20220424T204127Z
+CREATED:20180315T122318Z
+LAST-MOD:20180315T105222Z
+SUMMARY:Селекторное совещание с главами МО ТО\, тема: «Готовность сил и средств муниципальных образований ТО к ликвидации последствий ЧС в условиях неблагоприятных погодных явлений в период с 17 по 18 марта 2018 г.» (отв. Григорян А.Р.\, Попенко В.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180316T120000Z
+DTEND;VALUE=DATE-TIME:20180316T130000Z
+LOCATION:пр-д Дарвина\, 12\, Ситуационный центр ГУ МЧС России по Тверской области 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

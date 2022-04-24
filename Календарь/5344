@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14b7ef4
+DTSTAMP:20220424T204127Z
+CREATED:20170828T080718Z
+LAST-MOD:20170831T121728Z
+SUMMARY:Встреча с общественностью Центрального района г.Твери (отв. Огиенко Л.Н.\, Балаян О.Р.\, Белорусов В.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170831T135000Z
+DTEND;VALUE=DATE-TIME:20170831T153000Z
+LOCATION:пл. Славы\, д.3\, Детская школа искусств\, 1 этаж\, актовый зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

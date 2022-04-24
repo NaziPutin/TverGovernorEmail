@@ -1,0 +1,100 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 25 Mar 2022 19:01:40 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Fri, 25 Mar
+ 2022 19:01:38 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 25 Mar 2022 19:01:40 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 46C0080D85
+	for <rim@tverreg.ru>; Fri, 25 Mar 2022 19:01:38 +0300 (MSK)
+Received-SPF: pass (info.tele2.ru: Sender is authorized to use 'info@info.tele2.ru' in 'mfrom' identity (mechanism 'include:spf.tele2.ru' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="info@info.tele2.ru"; helo=mail-gw2.tele2.ru; client-ip=194.176.96.147
+Received: from mail-gw2.tele2.ru (mail-gw2.tele2.ru [194.176.96.147])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 3120582346
+	for <rim@tverreg.ru>; Fri, 25 Mar 2022 19:01:36 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=info.tele2.ru; s=secureinfo; t=1648224096;
+  h=date:to:message-id:subject:mime-version:
+   content-transfer-encoding:from;
+  bh=7AboW5rdR38qmEi9Lqy2Q7P1F1ZDUYJ+9NQQtdfGtaY=;
+  b=LhUYfRFGhOspsrUDJbVEwp95hsvv0JBDtRBS4csdRCRYxd0CSFp58tVB
+   NSGsqZHO6cu5bEyacPqI5F2xykyffzEex8Wp0QzJpy+AFSZ3t6G0uCNF5
+   /RHLCbtQWdDFIhkKPGDJLaOwVXlPMPm54dfeS5zgjlKc59sKIV8GF+VUM
+   I=;
+From: info@info.tele2.ru
+X-IronPort-AV: E=Sophos;i="5.90,182,1643662800"; 
+   d="scan'208,217";a="295855591"
+Date: Fri, 25 Mar 2022 19:01:29 +0300 (MSK)
+To: rim@tverreg.ru
+Message-ID: <1826273456.8118.1648224089223@t2ru-ds-2-prod-01.corp.tele2.ru>
+Subject: =?UTF-8?B?0JLQtdGB0L3RgyDRgtCy0LXRgNC40Yc=?=
+ =?UTF-8?B?0Lgg0LLRgdGC0YDQtdGC0LjQu9C4INCy?=
+ =?UTF-8?B?INGC0L7RgNCz0L7QstGL0YUg0YbQtdC9?=
+ =?UTF-8?B?0YLRgNCw0YUg0Lgg0L/QsNGA0LrQsNGF?=
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudehuddgjeeiucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephfffvffkufggtgfgsehhsgertddttdejnecuhfhrohhmpehinhhfohesihhnfhhordhtvghlvgdvrdhruhenucggtffrrghtthgvrhhnpeejudekvdfhjefgfefgteelvedttedvudfhieekvdetueffiefgudetleehiedugeenucffohhmrghinhepthgvlhgvvddrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.151#76 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     1.073 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FUZZY_XPILL               0.1 Attempt to obfuscate words in spam
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudehuddgjeeiucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephfffvffkufggtgfgsehhsgertddttdejnecuhfhrohhmpehinhhfohesihhnfhhordhtvghlvgdvrdhruhenucggtffrrghtthgvrhhnpeejudekvdfhjefgfefgteelvedttedvudfhieekvdetueffiefgudetleehiedugeenucffohhmrghinhepthgvlhgvvddrrhhunecukfhppeduleegrddujeeirdeliedrudegje
+X-DrWeb-SpamVersion: Vade Retro 01.422.151#76 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: info@info.tele2.ru
+X-MS-Exchange-Organization-Network-Message-Id: b527d873-0816-414c-9d63-08da0e78bfca
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2650707
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>
+  <h1>Весну тверичи встретили в торговых центрах и парках</h1>
+  <div><p>Tele2, альтернативный оператор мобильной связи, проанализировал статистику работы сети в Твери за март. Компания зафиксировала рост интернет-трафика в торговых центрах и городских парках на 50% в сравнении с прошлым годом. В топе у тверичей: ТЦ «Рубин», пешеходная улица Трехсвятская и Городской сад.</p>
+
+<p>В первой половине марта 2022 года вопреки ожиданиям число гостей в торговых центрах достигало пиковых значений не только по выходным, но и в будние дни. Клиенты Tele2 чаще всего посещали крупные моллы, где помимо магазинов есть фуд-корты, зоны отдыха и развлечений.</p>
+
+<p>Так, самым популярным ТЦ у тверичей стал «Рубин» – за анализируемый период дата-трафик в нем вырос в 1,5 раза год к году. На второй и третьей позициях рейтинга с небольшим отставанием расположились ТЦ «РИО» и «Олимп».</p>
+
+<p>Кроме того, статистика показала, что тверские клиенты начали проводить больше времени на свежем воздухе. Любимыми местами для прогулок у жителей стали пешеходная улица Трехсвятская и Городской сад: дата-трафик здесь вырос на 50% год к году. Серебро и бронза рейтинга у двух набережных – Афанасия Никитина и Степана Разина, где спрос на гигабайты увеличился на 25% и 20% соответственно.</p>
+
+<p>К слову, аналогичная динамика отмечается и в столице. По данным Tele2, в среднем торговые центры Москвы посетило на 55% больше людей, чем годом ранее. А в парках москвичи потратили на 33% больше трафика, чем в прошлом году. Тройка парков-лидеров по объему скачанного трафика выглядит так: Сокольники, Парк Горького, Зарядье.</p>
+
+<p>В условиях повышенной активности пользователей качество связи Tele2 остается на высоком уровне. Чтобы обеспечивать стабильную работу сети, в 2021 году специалисты Tele2 оснастили новым технологичным оборудованием 50% базовых станций Тверской области и улучшили качество связи в Твери и во всех районах области.</p>
+</div>
+  <div>
+    <a href="https://tver.tele2.ru/about/news-list/2022/03/25/vesnu-tverichi-vstretili-v-torgovyh-centrah-i-parkah" target="_blank">Подробнее</a>
+    <a href="https://tver.tele2.ru/about/news-list/unsubscribe?pageParams=email%3Drim%40tverreg.ru" target="_blank">Отписаться от рассылки</a>
+  </div>
+</div>
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

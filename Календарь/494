@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3a6dec
+DTSTAMP:20220424T204126Z
+CREATED:20211103T204737Z
+LAST-MOD:20211103T110248Z
+SUMMARY:Встреча с представителями волонтерских организаций в рамках региональной акции «Мы едины»\, приуроченной к Дню народного единства (отв. Александров А.А.\, Прохорова А.С.\, Скорый А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211104T080000Z
+DTEND;VALUE=DATE-TIME:20211104T090000Z
+LOCATION:ул. Советская\, д. 58\, Информационно-библиотечный центр ФГБОУ ВО «Тверской государственный университет»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

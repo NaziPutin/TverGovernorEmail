@@ -1,0 +1,213 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 25 Feb 2022 17:38:01 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Fri, 25 Feb
+ 2022 17:38:01 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Fri, 25 Feb 2022 17:38:00 +0300
+From: =?windows-1251?B?wPD16O/l7eruIMjj7vD8IMDr5erx4O3k8O7i6Pc=?=
+	<Arkhipenko_IA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?6u7t8vDu6/wg5+Ag/fLg7+Ds6CDo8e/u6+3l7ej/IOPu8eru7fLw4Ory?=
+ =?windows-1251?Q?=EE=E2?=
+Thread-Topic: =?windows-1251?B?6u7t8vDu6/wg5+Ag/fLg7+Ds6CDo8e/u6+3l7ej/IOPu8eru7fLw4Ory?=
+ =?windows-1251?Q?=EE=E2?=
+Thread-Index: AdgqVGavj/PqkYf7TjmwbLJVtESTyg==
+Date: Fri, 25 Feb 2022 17:38:00 +0300
+Message-ID: <dc1ca07ac3b84a8daa1493c7e39eae61@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <dc1ca07ac3b84a8daa1493c7e39eae61@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: 905fbd44-b318-4535-e3e7-08d9f86c6c1a
+Return-Path: Arkhipenko_IA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.6337615
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER7A9DF795
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Andale Sans UI";}
+@font-face
+	{font-family:+mn-ea;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+p.s1, li.s1, div.s1
+	{mso-style-name:s_1;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.ConsPlusNormal, li.ConsPlusNormal, div.ConsPlusNormal
+	{mso-style-name:ConsPlusNormal;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:36.0pt;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:2068413680;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2048182536 645172552 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:71.45pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:107.45pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:143.45pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:179.45pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:215.45pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:251.45pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:287.45pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:323.45pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:359.45pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>О представлении предложений </span><span style='font-size:16.0pt'>при проведении контроля за этапами выполнения работ по госконтрактам.<o:p></o:p></span></p><p class=s1 style='margin:0cm;margin-bottom:.0001pt;text-align:justify;text-indent:35.45pt;background:white'><span style='font-size:16.0pt;color:black'>Проведен анализ исполнения распоряжения Правительства Тверской области от 01.04.2014 № 150-рп «О совершенствовании системы закупок для нужд Тверской области».<o:p></o:p></span></p><p class=ConsPlusNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>Задачу мониторинга соблюдения сроков исполнения этапов исполнения контрактов и, как следствие, недопущения нарушений их исполнения, срыва реализации графика приоритетных закупок, национальных (региональных) проектов, адресной инвестиционной программы призваны решать программные комплексы.  Программный комплекс «WEB-Торги-КС» призван решить задачи, в том числе по осуществлению контроля за исполнением этапов госконтрактов.<o:p></o:p></span></p><p class=ConsPlusNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>Комитет государственного заказа Тверской области использует программный комплекс «WEB-Торги-КС», а также наделен полномочиями по его развитию, методологическому сопровождению и эксплуатации.<o:p></o:p></span></p><p class=ConsPlusNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>На основании вышеизложенного, считаем возможным:<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif";background:white'>поручить Комитету госзаказа как органу по регулированию контрактной системы разработать правовой акт, в соответствии с которым заказчикам Тверской области обеспечить включение в условия контракта этапы его исполнения с конкретизацией соответствующих сроков, а также обязать заказчиков вносить соответствующие сведения <br>в </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>«WEB-Торги-КС»</span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";background:white'>;<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin:0cm;margin-bottom:.0001pt;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman","serif"'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman","serif";background:white'>Поручить Комитету госзаказа совместно с Министерством цифрового развития и информационных технологий Тверской области обеспечить доработку программного комплекса </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";color:black'>«WEB-Торги-КС» либо разработать иной программный продукт с учетом обозначенных выше предложений.  </span><span style='font-size:16.0pt;font-family:"Times New Roman","serif";background:white'><o:p></o:p></span></p><p class=ConsPlusNormal style='text-align:justify;text-indent:35.45pt'><b><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></b></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

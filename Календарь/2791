@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd12b40
+DTSTAMP:20220424T204127Z
+CREATED:20191125T092104Z
+LAST-MOD:20191125T083703Z
+SUMMARY:Совещание\, тема: "О программных документах Тверской области (инвестиционные программы субъектов электроэнергетики)" (отв. Ажгиревич А.И.\, Рощин К.С.\, Цветков А.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191125T113000Z
+DTEND;VALUE=DATE-TIME:20191125T123000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

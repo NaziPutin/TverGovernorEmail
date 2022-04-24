@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1133e8c
+DTSTAMP:20220424T204127Z
+CREATED:20181217T081918Z
+LAST-MOD:20181214T114946Z
+SUMMARY:Заседание Совета при полномочном представителе Президента РФ в ЦФО\, тема: «Защита интересов работников старшего возраста: опыт\, проблемы\, перспективы» (отв. Синода В.А.\, Егоров И.И.\, Исаев С.А.\, Хохлова Е.В.)
+DTSTART;VALUE=DATE-TIME:20181218T130000Z
+DTEND;VALUE=DATE-TIME:20181218T143000Z
+LOCATION:г.Москва\, ул.Новый Арбат\, д.36\, зал заседаний сектор "С"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

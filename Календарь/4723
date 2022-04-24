@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x139b080
+DTSTAMP:20220424T204127Z
+CREATED:20180227T140243Z
+LAST-MOD:20180301T080629Z
+SUMMARY:Торжественные мероприятия\, приуроченные к 75-летию со дня освобождения города воинской славы Ржева\, Ржевского и Зубцовского районов от немецко-фашистских захватчиков (отв. Белоцерковский А.В.\, Зайцев А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180303T070000Z
+DTEND;VALUE=DATE-TIME:20180303T104500Z
+LOCATION:г.Ржев\, Ржевский район\, г.Зубцов
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,50 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 30 May 2019 12:46:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 30 May
+ 2019 12:46:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Thu, 30 May 2019
+ 12:46:22 +0300
+From: =?utf-8?B?0KLQsNC70LDQvdC40L3QsCDQm9Cw0YDQuNGB0LAg0JDQu9C10LrRgdC10LU=?=
+ =?utf-8?B?0LLQvdCw?= <talanina@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QvtGA0YPRh9C10L3QuNC1INC/0L4g0LHQtdGA0LXQs9GDINCS0L7Qu9Cz?=
+ =?utf-8?B?0Lgg0LIg0KLQstC10YDQuA==?=
+Thread-Topic: =?utf-8?B?0J/QvtGA0YPRh9C10L3QuNC1INC/0L4g0LHQtdGA0LXQs9GDINCS0L7Qu9Cz?=
+ =?utf-8?B?0Lgg0LIg0KLQstC10YDQuA==?=
+Thread-Index: AQHVFsyJ+1G8CNPyDkGYQTWx0py8Zg==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Thu, 30 May 2019 12:46:22 +0300
+Message-ID: <e1d4000a2d754d60a7b819f0af9f378f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <e1d4000a2d754d60a7b819f0af9f378f@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: d79bc3b3-5e12-45bd-e0de-08d6e4e3ac8c
+Return-Path: talanina@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4670973
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERB9F82E54
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><div><br></div><div>Уважаемый Игорь Михайлович!</div><div>В ходе выезда на территорию в районе вагонзавода установлено следующее:</div><div>1. Территория охраняется. Частная собственность (сделали запрос сведений в Росреестре, завтра будет известен собственник).</div><div>2. Территория, включая берег Волги, засыпана строительным мусором, в том числе бетонными плитами. Возможно, это плиты с территории областной больницы (разобранного здания).</div><div>3. Выравнивание не свежее.</div><div>4. Разрешений на какую-либо деятельность на этом участке город не выдавал.</div><div>На наш взгляд, целесообразно привлечь Минприроды в рамках полномочий по водопользованию, Росприроднадзор в рамках контроля использования береговой полосы, а также Минстрой в рамках исследования вопроса происхождения плит (на разобранном объекте они подлежали утилизации).</div><div>Сведения о собственнике участка представляют дополнительно.</div><div><br></div><div><br></div><div id="composer_signature"><div style="font-size:85%;color:#575757" dir="auto">Отправлено со смартфона Samsung Galaxy.</div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

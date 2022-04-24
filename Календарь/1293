@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x73c4b0
+DTSTAMP:20220424T204126Z
+CREATED:20210315T122357Z
+LAST-MOD:20210315T065257Z
+SUMMARY:Совещание с ВДЛ субъектов ЦФО по защите населения и территорий от чрезвычайных ситуаций в паводкоопасный период и пожароопасный сезон 2021 г. (в режиме ВКС) (отв. Ажгиревич А.И.\, Григорян А.Р.\, Веселов А.В.\, Барышков В.В.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20210315T130000Z
+DTEND;VALUE=DATE-TIME:20210315T140000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

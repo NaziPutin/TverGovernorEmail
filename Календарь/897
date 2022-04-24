@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5386e0
+DTSTAMP:20220424T204126Z
+CREATED:20210723T092116Z
+LAST-MOD:20210721T112415Z
+SUMMARY:Расширенное заседание Межведомственной комиссии при Правительстве Тверской области по земельным отношениям (отв. Жарков И.С.\, Таланина Л.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210723T103000Z
+DTEND;VALUE=DATE-TIME:20210723T113000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

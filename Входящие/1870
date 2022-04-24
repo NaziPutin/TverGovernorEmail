@@ -1,0 +1,99 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 29 May 2020 23:02:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 29 May
+ 2020 23:02:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Fri, 29 May 2020 23:02:07 +0300
+From: =?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?= <SkoriyAV@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?7yDQ0sXEzM/Wxc7J0cgg1yDSwcLP3snKIMfSwcbJyyDOwSAxIMnAztEgMjAy?=
+ =?koi8-r?Q?0_=C7.?=
+Thread-Topic: =?koi8-r?B?7yDQ0sXEzM/Wxc7J0cgg1yDSwcLP3snKIMfSwcbJyyDOwSAxIMnAztEgMjAy?=
+ =?koi8-r?Q?0_=C7.?=
+Thread-Index: AdY1818jjzQmbkLkS02NDnKl9piqJgAAI3Wg
+Disposition-Notification-To: =?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?=
+	<SkoriyAV@tverreg.ru>
+Return-Receipt-To: <SkoriyAV@tverreg.ru>
+Date: Fri, 29 May 2020 23:02:06 +0300
+Message-ID: <d80977d1406f439eb60ecb0034694f2b@tverreg.ru>
+References: <eab3dc41e5414a1d98a75c8fe890e86e@tverreg.ru>
+In-Reply-To: <eab3dc41e5414a1d98a75c8fe890e86e@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <d80977d1406f439eb60ecb0034694f2b@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 39e8fb1a-4b2e-4929-02d6-08d8040b2a4e
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:07.2601036
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>ч ХРТБЧМЕОЙЕ УЕЛТЕФБТЙБФПН зХВЕТОБФПТБ фЧЕТУЛПК ПВМБУФЙ ПФ ЪБНЕУФЙФЕМС рТЕДУЕДБФЕМС рТБЧЙФЕМШУФЧБ йЭЕОЛП б.о. РПУФХРЙМЙ&nbsp; ДПРПМОЙФЕМШОЩЕ РТЕДМПЦЕОЙС РП ЧЛМАЮЕОЙА НЕТПРТЙСФЙК Ч чБЫ ТБВПЮЙК ЗТБЖЙЛ ОБ 1 ЙАОС 2020 З. (РПОЕДЕМШОЙЛ):<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>14.00-14.30<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>нЕТПРТЙСФЙЕ, РТЙХТПЮЕООПЕ Л нЕЦДХОБТПДОПНХ ДОА ЪБЭЙФЩ ДЕФЕК Й чУЕНЙТОПНХ ДОА ТПДЙФЕМЕК (ПВЭЕОЙЕ У УЕНШСНЙ Ч ТЕЦЙНЕ члу)<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>(ПФЧ. йЭЕОЛП б.о., еНЕМШСОПЧ б.б., вХДБОГЕЧБ б.о., РТЕУУ-УМХЦВБ)<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>15.00-16.00<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>уПЧЕЭБОЙЕ, ФЕНБ: &laquo;п ФПТЦЕУФЧЕООЩИ НЕТПРТЙСФЙСИ, РТЙХТПЮЕООЩИ Л РТБЪДОПЧБОЙА 75-МЕФЙС рПВЕДЩ Ч чЕМЙЛПК пФЕЮЕУФЧЕООПК ЧПКОЕ 1941-1945 ЗЗ.&raquo; (24.06.2020) (Ч ТЕЦЙНЕ члу)<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>(ПФЧ. йЭЕОЛП б.о., вХДБОГЕЧБ б.о., вЕМПТХУПЧ ч.б., чЕУЕМПЧ б.ч., РТЕУУ-УМХЦВБ).<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>оБ чБЫЕ ТЕЫЕОЙЕ.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>у ХЧБЦЕОЙЕН,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>б.ч.уЛПТЩК <o:p></o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

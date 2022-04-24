@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8b9230
+DTSTAMP:20220424T204126Z
+CREATED:20201203T134323Z
+LAST-MOD:20201203T123015Z
+SUMMARY:Совещание\, тема: «Об утверждении инвестиционных программ субъектов электроэнергетики на 2021 г. и последующий период» (отв. Подтихова М.И.\, Рощин К.С.\, Цветков А.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20201203T150000Z
+DTEND;VALUE=DATE-TIME:20201203T160000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

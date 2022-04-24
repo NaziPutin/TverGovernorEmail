@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd59914
+DTSTAMP:20220424T204127Z
+CREATED:20191014T131816Z
+LAST-MOD:20191014T151515Z
+SUMMARY:Совещание\, тема: "О госпрограмме Тверской области "Государственное управление и гражданское общество Тверской области на 2018 - 2023 гг." (отв. Орлов А.В.\, Подтихова М.И.\, Егоров И.И.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191014T160000Z
+DTEND;VALUE=DATE-TIME:20191014T170000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

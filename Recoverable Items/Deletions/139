@@ -1,0 +1,850 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 22 Mar 2022 13:19:28 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 22 Mar
+ 2022 13:19:28 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 22 Mar 2022 13:19:28 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id BA80080CAB
+	for <rim@tverreg.ru>; Tue, 22 Mar 2022 13:19:26 +0300 (MSK)
+Received-SPF: pass (e2.expertsender.com: 46.248.181.189 is authorized to use '#=1f491202-f51a-488f-b2d3-6a1826cee79d=#=#@e2.expertsender.com' in 'mfrom' identity (mechanism 'ip4:46.248.181.128/26' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="#=1f491202-f51a-488f-b2d3-6a1826cee79d=#=#@e2.expertsender.com"; helo=mta7.expertsender.com; client-ip=46.248.181.189
+Received: from mta7.expertsender.com (mta7.expertsender.com [46.248.181.189])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id D9B7580B58
+	for <rim@tverreg.ru>; Tue, 22 Mar 2022 13:19:18 +0300 (MSK)
+Received: by mta7.expertsender.com id h76h9u2rlssq for <rim@tverreg.ru>; Tue, 22 Mar 2022 10:19:11 +0000 (envelope-from <10272=1f491202-f51a-488f-b2d3-6a1826cee79d=270=710850@e2.expertsender.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; q=dns/txt;
+ d=i-on.ru; s=expertsender1k;
+ h=Date:Subject:From:To;
+ bh=VlQgLE0qtS+vMhd0P7W5epHDbZEg2n+16fGeTLDIWMY=;
+ b=MCwYFVBJPTL2rbU/ZmHGw+ZTJ/pNU1xpEib69zU8UW84DTphLDB3RlWJwO0wDWnr1LWB
+ 7OU2ySC5SFdwzwTGbLh0kqqUwPDcj6ZGFYrYpTbQ122I3hhatSmsKI9cSulO1ibVCM3mIM
+ 6M1aqHeRiR2a4ZiTy2PZGIpL1wCIB6WQA=
+Date: Tue, 22 Mar 2022 10:19:11 +0000
+Message-ID: <10272=1f491202-f51a-488f-b2d3-6a1826cee79d=270=710850@links.i-on.ru>
+Subject: =?utf-8?Q?=D0=AD=D0=BA=D1=81=D0=BF=D0=B5=D1=80=D1=82=D1=8B_=D0=BD=D0=B0_?= 
+ =?utf-8?Q?=D1=81=D0=B2=D1=8F=D0=B7=D0=B8!?=
+From: "=?utf-8?Q?=D0=9D=D0=9E=D0=A3-=D0=A5=D0=90=D0=A3?=" <info@i-on.ru>
+Reply-To: =?utf-8?Q?=D0=9D=D0=9E=D0=A3-=D0=A5=D0=90=D0=A3?= <info@i-on.ru>
+To: rim@tverreg.ru
+List-Unsubscribe: <mailto:nlu=2on=clr8056kla07dl1lgn3etl4ym~=2o=nurl=a9533c5a@f2.expertsender.com>,
+ <https://links.i-on.ru/u/cQQ/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/2989bde6>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Message-Type: newsletter
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeghedgtdekucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhepggffkfgtgffuhfhrvffjsehhqhertddttdejnecuhfhrohhmpedfjffqjgdqigetjgdfuceoihhnfhhosehiqdhonhdrrhhuqeenucggtffrrghtthgvrhhnpeeuiedvvdekheduudehveehfffggeeiuefhveelgeeugfehteetkeeuveeihefgveenucffohhmrghinhepihdqohhnrdhruh
+X-DrWeb-SpamVersion: Vade Retro 01.422.145#08 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     1.217 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	HEADER_FROM_DIFFERENT_DOMAINS   0.25 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_COMMENT_SAVED_URL  1.391 HTML message is a saved web page
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_HOSTKARMA_W      -2.5 Sender listed in HOSTKARMA-WHITE
+	RCVD_IN_MSPIKE_H5       0.001 Excellent reputation (+5)
+	RCVD_IN_MSPIKE_WL       0.001 Mailspike good senders
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_REMOTE_IMAGE           0.01 Message contains an external image
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeghedgtdekucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhepggffkfgtgffuhfhrvffjsehhqhertddttdejnecuhfhrohhmpedfjffqjgdqigetjgdfuceoihhnfhhosehiqdhonhdrrhhuqeenucggtffrrghtthgvrhhnpeeuiedvvdekheduudehveehfffggeeiuefhveelgeeugfehteetkeeuveeihefgveenucffohhmrghinhepihdqohhnrdhruhenucfkphepgeeirddvgeekrddukedurddukeel
+X-DrWeb-SpamVersion: Vade Retro 01.422.145#08 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path:
+	10272=1f491202-f51a-488f-b2d3-6a1826cee79d=270=710850@e2.expertsender.com
+X-MS-Exchange-Organization-Network-Message-Id: 8740c205-1ff9-4e70-42fb-08da0bed7283
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2610380
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html><!-- saved from url=(0059)http://a115.ion.ru/Shops_Projects/Plazma/email_constructor/ --><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+<!-- Устанавливаем масштабирование -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Заставляем использовать последнюю версию движка у ослика -->
+<meta name="x-apple-disable-message-reformatting">
+<!-- Вырубаем авто масштабирование в iOS 10 Mail -->
+
+<title>email</title>
+
+<!--Стили-->
+<style>
+:root {
+    color-scheme: light dark;
+    supported-color-schemes: light dark;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.img_reset img {
+    width: 100%!important;
+    height: auto!important;
+    display: block!important;
+}
+a[x-apple-data-detectors],  /* iOS */ .unstyle-auto-detected-links a, .aBn {
+    border-bottom: 0 !important;
+    cursor: default !important;
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+
+@media only screen and (max-width: 665px) {
+/*для тела рассылки*/
+.ad_td {
+    width: 100% !important;
+    min-width: 0 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+/*Отступы 20px в мобильной версии*/
+.none {
+    display: block !important;
+    width: auto !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    box-sizing: border-box !important;
+}
+.top {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 0 !important;
+    padding-bottom: 20px !important;
+    padding-left: 0 !important;
+    margin-bottom: 0 !important;
+    box-sizing: border-box !important;
+}
+.right {
+    display: block !important;
+    width: auto !important;
+    padding-left: 0px !important;
+    padding-right: 20px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    box-sizing: border-box !important;
+}
+.bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 0 !important;
+    padding-left: 0 !important;
+    padding-bottom: 20px !important;
+    padding-right: 0!important;
+    box-sizing: border-box !important;
+}
+.left {
+    display: block !important;
+    width: auto !important;
+    padding-left: 20px !important;
+    padding-right: 0px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    box-sizing: border-box !important;
+}
+.left_top {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.right_top {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    box-sizing: border-box !important;
+}
+.top_bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 0px !important;
+    box-sizing: border-box !important;
+}
+.left_right {
+    display: block !important;
+    width: auto !important;
+    padding-top: 0px !important;
+    padding-right: 20px !important;
+    padding-bottom: 0px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.left_bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 20px !important;
+    padding-left: 15px !important;
+    box-sizing: border-box !important;
+}
+.right_bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 0px !important;
+    padding-right: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 0px !important;
+    box-sizing: border-box !important;
+}
+.right_top_bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 0px !important;
+    box-sizing: border-box !important;
+}
+.left_top_bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 20px !important;
+    box-sizing: border-box !important;
+}
+.left_right_bottom {
+    display: block !important;
+    width: auto !important;
+    padding-top: 0px !important;
+    padding-right: 20px !important;
+    padding-bottom: 15px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.left_right_top {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 0px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.all {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 30px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.all2 {
+    display: block !important;
+    width: auto !important;
+    padding-top: 30px !important;
+    padding-right: 20px !important;
+    padding-bottom: 10px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.all3 {
+    display: block !important;
+    width: auto !important;
+    padding-top: 0px !important;
+    padding-right: 20px !important;
+    padding-bottom: 0px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+}
+.hide-xs {
+    display: none!important;
+}
+.all_border-top {
+    display: block !important;
+    width: auto !important;
+    padding-top: 20px !important;
+    padding-right: 20px !important;
+    padding-bottom: 20px !important;
+    padding-left: 20px !important;
+    box-sizing: border-box !important;
+    border-top: 1px solid #e2e2e2 !important;
+}
+.clean {
+    display: block !important;
+    width: auto !important;
+}
+/*Для мобильных версий скрывание и показ элементов*/
+.show {
+    display: table-cell !important;
+    width: auto !important;
+    max-height: inherit !important;
+    overflow: visible !important;
+    float: none !important;
+}
+.hide {
+    display: none !important;
+}
+/*Классы для шапки*/
+.spacer_top_only {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 10px !important;
+    padding-bottom: 0px !important;
+    display: block !important;
+    width: auto !important;
+    box-sizing: border-box !important;
+}
+.spacer_bottom_only {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+    display: block !important;
+    width: auto !important;
+    box-sizing: border-box !important;
+    text-align: left !important;
+}
+/*Для подвальной картинки*/
+.spacer_small {
+    padding-right: 0px !important;
+    padding-left: 5px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    display: block !important;
+    width: auto !important;
+    box-sizing: border-box !important;
+}
+/*с тегом P*/
+.wrapper {
+    display: block !important;
+    width: auto !important;
+    border-top: 1px solid #e2e2e2;
+    padding-top: 20px !important;
+}
+.all_border {
+    display: block !important;
+    width: auto !important;
+    border-top: 1px solid #e2e2e2;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px !important;
+    box-sizing: border-box !important;
+}
+/*Выравниание картинки поговори с экспертом*/
+.bottom_left {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 0px !important;
+    padding-bottom: 10px !important;
+    display: block !important;
+    width: auto !important;
+    box-sizing: border-box !important;
+    text-align: left !important;
+}
+.adaptive {
+    width: 100% !important;
+    min-width: 0 !important;
+    padding: 0 !important;
+}
+.adaptive_btn {
+    width: 60% !important;
+    min-width: 200px !important;
+}
+/*left_right для тега <p>*/
+.spacer {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+}
+/*линия*/
+.spacer_border {
+    display: block !important;
+    width: auto !important;
+    border-top: 1px solid #e2e2e2;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px !important;
+    box-sizing: border-box !important;
+}
+.spacer_border_1 {
+    display: block !important;
+    width: auto !important;
+    border-top: 1px solid #e2e2e2;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    padding-top: 20px !important;
+    box-sizing: border-box !important;
+}
+.spacer_border_bottom {
+    display: block !important;
+    width: auto !important;
+    border-bottom: 1px solid #e2e2e2;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    padding-top: 20px !important;
+    box-sizing: border-box !important;
+}
+/*p.middle_spacer {
+		text-align: center !important;
+		margin-right: 20px !important;
+		margin-left: 20px !important;
+	}*/
+            /*Для картинок*/
+.c_img {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+}
+.c_img_icon {
+    float: none !important;
+    width: 96px !important;
+    max-width: 96px !important;
+    height: auto !important;
+}
+/*Для лого НОУ-ХАУ в шапке*/
+.c_img_kh {
+    float: none !important;
+    width: 169px !important;
+    max-width: 169px !important;
+    height: auto !important;
+}
+.c_img_icon {
+    float: none !important;
+    width: 96px !important;
+    max-width: 96px !important;
+    height: auto !important;
+}
+.c_img_50 {
+    float: none !important;
+    width: 50% !important;
+    max-width: 50% !important;
+    height: auto !important;
+}
+.c_img_30 {
+    float: none !important;
+    width: 80% !important;
+    max-width: 80% !important;
+    height: auto !important;
+}
+.c_img_tpx {
+    float: none !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+/**/
+.button_arrow {
+    vertical-align: -1px !important;
+}
+}
+</style>
+<!--Стили-->
+
+</head>
+
+<body bgcolor="#F0F5FA" style="margin:0; padding:0; width:100% !important">
+
+<!--Основа-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-spacing:0 !important; background-color:#F0F5FA" align="center">
+<tbody>
+  <tr>
+    <td align="center" style="margin:0;" id="start"><table border="0" cellspacing="0" cellpadding="0" style="border-spacing:0 !important; min-width:640px; width:640px; max-width:640px;" align="center" class="adaptive" id="container">
+      <tbody id="content">
+        <tr><!--Шапка-->
+          <td align="left" valign="middle" class="none"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%; line-height:1px">
+              <tbody>
+                <tr>
+                  <td align="left" class="spacer_top_only" style="padding-top:35px; padding-bottom:35px;"><a href="https://links.i-on.ru/c/cQQ/Qre/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/16df9459" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-kh_logo.png" class="c_img_kh" width="209" height="34" alt="" style="vertical-align:top;" border="0"></a></td>
+                  <td valign="bottom" align="right" class="bottom_left" style="padding-top:35px;padding-bottom:35px;"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-talk_to_expert.png" width="241" height="34" alt="" style="vertical-align:top;" border="0"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/Шапка--></tr>
+        <tr><!--Тизер-->
+          <td valign="top" align="center" style="padding-top:0px; padding-bottom:0px;"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-head.jpg" width="640" style="vertical-align:top; width:640px; border-radius: 20px 20px 0 0 " border="0" class="c_img"></td>
+          <!--/Тизер--></tr>
+        
+        <tr><!--Приветствие-->
+          <td align="left" valign="top" bgcolor="#ffffff" style="padding-top:40px; padding-bottom:25px; padding-left:40px; padding-right:40px" class="all"><span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:18px; line-height:22px; color: #000000; font-weight:bold;">Уважаемый клиент, здравствуйте!</span></td>
+          <!--/Приветствие--></tr>
+        <tr><!--Основной текст-->
+          <td align="left" valign="top" bgcolor="#ffffff" style="padding-top:0px; padding-bottom:20px; padding-left:40px; padding-right:20px" class="left_right_bottom"><span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:16px; color:#525252; line-height:24px"> Эксперты Ноу-Хау остаются на&nbsp;связи!&nbsp;<br>
+            Мы&nbsp;работаем для вас и&nbsp;продолжаем делиться самой полезной и&nbsp;актуальной информацией о&nbsp;цифровой технике!
+            Мы&nbsp;ждем вас в&nbsp;наших розничных <a href="https://links.i-on.ru/c/cQQ/Qrf/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/b2a1169c" target="_blank" style="color: #525C7A; text-decoration:underline; ">магазинах</a> и&nbsp;в&nbsp;интернет-магазине <a href="https://links.i-on.ru/c/cQQ/Qru/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/2be26d13" target="_blank" style="color: #525C7A; text-decoration:underline; ">ноу-хау.рф</a>.</span></td>
+          <!--/Основной текст--></tr>
+        <tr><!--разделитель-->
+          <td><table cellspacing="0" cellpadding="0" class="hide" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--></tr>
+        <tr> 
+          <!--Заголовок-->
+          <td align="center" valign="top" bgcolor="#ffffff" width="320px" style="padding-top:15px; padding-bottom:30px; padding-left:40px; padding-right:40px" class="all5"><span style="font-family: Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:24px; line-height:28px; color: #000000; font-weight:bold;"> Мы  в социальных сетях </span></td>
+          <!--/Заголовок--> 
+        </tr>
+			  
+			  
+		  <tr><!--Иконки внизу-->
+          <td bgcolor="#ffffff"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="padding-bottom:20px;  padding-top:0px; padding-left:30px; padding-right:15px; width:275px;" class="left_right_bottom" width="275"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                      <tbody>
+                        <tr>
+                          <td valign="top" align="center"><a href="https://links.i-on.ru/c/cQQ/Qr0/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/e8e70935" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-3.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Telegram</span></a></td>
+                          <td valign="top" align="center" style="padding-left: 20px"><a href="https://links.i-on.ru/c/cQQ/Qay/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/aa15b10e" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-1.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Яндекс.Дзен</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <td valign="top" style="padding-bottom:20px; padding-top:0px; padding-left:10px; padding-right:30px; width:275px;" width="275" class="left_right_bottom"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                      <tbody>
+                        <tr>
+                          <td valign="top" align="center" style="padding-right: 15px"><a href="https://links.i-on.ru/c/cQQ/QaF/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/b54439c2" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-4.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Vkontakte</span></a></td>
+                          <td valign="top" align="center" style="padding-left: 15px"><a href="https://links.i-on.ru/c/cQQ/Qac/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/f8cd4a58" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-2.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">You Tube</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/Иконки внизу--></tr>	  
+			  
+			  
+        
+        <tr><!--разделитель-->
+          <td><table cellspacing="0" cellpadding="0" class="hide" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--></tr>
+        <tr> 
+          <!--Заголовок-->
+          <td align="center" valign="top" bgcolor="#ffffff" width="320px" style="padding-top:15px; padding-bottom:30px; padding-left:40px; padding-right:40px" class="all5"><span style="font-family: Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:24px; line-height:28px; color: #000000; font-weight:bold;"> Напоминаем, что ваши бонусные баллы активны и&nbsp;программа лояльности работает! </span></td>
+          <!--/Заголовок--> 
+        </tr>
+        <tr><!--разделитель-->
+          <td><table cellspacing="0" cellpadding="0" class="hide" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--></tr>
+        <tr> 
+          <!--Один товар-->
+          <td bgcolor="#ffffff" style="padding-top:0px; padding-left:0px; padding-right:0px; padding-bottom: 0px; text-align: center;" class="left_right_top"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%; border-radius: 20px; border-color: #E5ECF3">
+              <tbody text-align="center">
+                <tr style="display: inline-block"> 
+                  <!--Один товар-->
+                  <td bgcolor="#ffffff" style="padding-top:30px; padding-left:40px; padding-right:30px; padding-bottom: 30px" class="all"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;  ; border-radius: 20px; border-color: #E5ECF3">
+                      <tbody>
+                        <tr>
+                          <td valign="top" bgcolor="#ffffff" style="padding-bottom:15px;  padding-top:15px; padding-left:1px; padding-right:0px; vertical-align: middle; width:122px;" class="all bottom" width="122"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-custom3.png" width="122" style="vertical-align: middle;  width:122px;" border="0"></td>
+                          <td class="all" valign="top" align="left" style="padding-right:0px; width:40px; border-collapse:collapse; width:40px;"></td>
+                          <td valign="middle" align="left" style="padding-bottom:30px; padding-top:30px; padding-left:15px; padding-right:30px; width:428px;" width="428" class="left_right_bottom"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:18px; line-height:22px; color: #000000; font-weight: bold;">Бонусы</span><br>
+                            <br>
+                            <span style="font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#000000; line-height:20px">До&nbsp;50% от&nbsp;стоимости покупки на&nbsp;карту!</span></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  
+                  <!--/Один товар--> 
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--> 
+        </tr>
+        <tr> 
+          <!--Один товар-->
+          <td bgcolor="#ffffff" style="padding-top:0px; padding-left:0px; padding-right:0px; padding-bottom: 0px; text-align: center;" class="left_right_top"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%; border-radius: 20px; border-color: #E5ECF3">
+              <tbody text-align="center">
+                <tr style="display: inline-block"> 
+                  <!--Один товар-->
+                  <td bgcolor="#ffffff" style="padding-top:30px; padding-left:40px; padding-right:30px; padding-bottom: 30px" class="all"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;  ; border-radius: 20px; border-color: #E5ECF3">
+                      <tbody>
+                        <tr>
+                          <td valign="top" bgcolor="#ffffff" style="padding-bottom:15px;  padding-top:15px; padding-left:1px; padding-right:0px; vertical-align: middle; width:122px;" class="all bottom" width="122"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-custom2.png" width="122" style="vertical-align: middle;  width:122px;" border="0"></td>
+                          <td class="all" valign="top" align="left" style="padding-right:0px; width:40px; border-collapse:collapse; width:40px;"></td>
+                          <td valign="middle" align="left" style="padding-bottom:30px; padding-top:30px; padding-left:15px; padding-right:30px; width:428px;" width="428" class="left_right_bottom"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:18px; line-height:22px; color: #000000; font-weight: bold;">Кешбэк</span><br>
+                            <br>
+                            <span style="font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#000000; line-height:20px">До&nbsp;3000 баллов уже через 7&nbsp;дней после покупки!</span></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  
+                  <!--/Один товар--> 
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--> 
+        </tr>
+        <tr> 
+          <!--Один товар-->
+          <td bgcolor="#ffffff" style="padding-top:0px; padding-left:0px; padding-right:0px; padding-bottom: 0px; text-align: center;" class="left_right_top"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%; border-radius: 20px; border-color: #E5ECF3">
+              <tbody text-align="center">
+                <tr style="display: inline-block"> 
+                  <!--Один товар-->
+                  <td bgcolor="#ffffff" style="padding-top:30px; padding-left:40px; padding-right:30px; padding-bottom: 30px" class="all"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;  ; border-radius: 20px; border-color: #E5ECF3">
+                      <tbody>
+                        <tr>
+                          <td valign="top" bgcolor="#ffffff" style="padding-bottom:15px;  padding-top:15px; padding-left:1px; padding-right:0px; vertical-align: middle; width:122px;" class="all bottom" width="122"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-custom1.png" width="122" style="vertical-align: middle;  width:122px;" border="0"></td>
+                          <td class="all" valign="top" align="left" style="padding-right:0px; width:40px; border-collapse:collapse; width:40px;"></td>
+                          <td valign="middle" align="left" style="padding-bottom:30px; padding-top:30px; padding-left:15px; padding-right:30px; width:428px;" width="428" class="left_right_bottom"><span style="font-family:Tahoma, Geneva, sans-serif; font-size:18px; line-height:22px; color: #000000; font-weight: bold;">Выгодные покупки</span><br>
+                            <br>
+                            <span style="font-family:Tahoma, Geneva, sans-serif; font-size:14px; color:#000000; line-height:20px">Доступ к&nbsp;закрытым распродажам и&nbsp;специальным акциям!</span></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  
+                  <!--/Один товар--> 
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--> 
+        </tr>
+        <tr><!--Баннер с кнопкой-->
+          <td bgcolor="#ffffff" style="padding-top:0px; padding-left:0px; padding-right:0px; padding-bottom: 0px" class="none"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr><!--Баннер-->
+                  <td bgcolor="#ffffff" align="center" valign="top" style="padding-bottom:15px; padding-top:5px; " class="bottom"><!-- Кнопка-->
+                    
+                    <table cellpadding="0" cellspacing="0" style="border-collapse:collapse;" class="adaptive_btn">
+                      <tbody>
+                        <tr>
+                          <td bgcolor="ffcc00" valign="middle" style="text-align:center; height:45px; width:140px; vertical-align:middle; border-radius: 6px;" class="adaptive_btn"><a href="https://links.i-on.ru/c/cQQ/Qam/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/75dfb536" title="Магазины" target="_blank" style="font-family:Helvetica Neue, Helvetica, Arial, Roboto, sans-serif; font-size:14px; line-height:20px; color: #000000; font-weight:bold; text-decoration:none !important; text-decoration:none; display:block; padding-top:8px; padding-bottom:8px">Подробнее<span style="font-family:Tahoma, Verdana, Geneva, Roboto, sans-serif; font-size:18px;line-height:0px; vertical-align:-1px;" class="button_arrow"> ›</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <!--/Баннер с кнопкой--></tr>
+              </tbody>
+            </table></td>
+        </tr>
+        <tr><!--разделитель-->
+          <td><table cellspacing="0" cellpadding="0" class="hide" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--></tr>
+        <tr><!--Баннер с кнопкой-->
+          <td bgcolor="#ffffff" style="padding-top:0px; padding-left:0px; padding-right:0px; padding-bottom: 0px" class="none"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr><!--Баннер-->
+                  <td bgcolor="#ffffff" align="center" valign="top" class="bottom"><a href="https://links.i-on.ru/c/cQQ/Qab/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/2dc83624" target="_blank"><img width="640" src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-banner.jpg" class="c_img" style="width:640px;"></a> 
+                    <!--/Кнопка--></td>
+                  <!--/Баннер с кнопкой--></tr>
+              </tbody>
+            </table></td>
+        </tr>
+        <tr><!--разделитель-->
+          <td><table cellspacing="0" cellpadding="0" class="hide" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--></tr>
+        <tr><!--Иконки внизу-->
+          <td bgcolor="#ffffff"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="padding-bottom:20px;  padding-top:0px; padding-left:30px; padding-right:15px; width:275px;" class="left_right_bottom" width="275"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                      <tbody>
+                        <tr>
+                          <td valign="top" align="center"><a href="https://links.i-on.ru/c/cQQ/Qao/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/04a44b8f" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-i1.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Онлайн<br>
+                            консультация <br>
+                            с&nbsp;экспертами</span></a></td>
+                          <td valign="top" align="center" style="padding-left: 20px"><a href="https://links.i-on.ru/c/cQQ/QaL/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/daa13bde" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-i2.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Наши<br>
+                            лучшие<br>
+                            акции</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <td valign="top" style="padding-bottom:20px; padding-top:0px; padding-left:10px; padding-right:30px; width:275px;" width="275" class="left_right_bottom"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                      <tbody>
+                        <tr>
+                          <td valign="top" align="center" style="padding-right: 15px"><a href="https://links.i-on.ru/c/cQQ/Qai/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/97284844" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-i3.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Ваш <br>
+                            бонусный <br>
+                            баланс</span></a></td>
+                          <td valign="top" align="center" style="padding-left: 15px"><a href="https://links.i-on.ru/c/cQQ/Qa7/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/d3f0ab48" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-i4.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Ближайшие <br>
+                            магазины</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/Иконки внизу--></tr>
+        <tr><!--разделитель-->
+          <td><table cellspacing="0" cellpadding="0" class="hide" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0 0 0px 0px"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+                <tr>
+                  <td align="left" valign="middle" bgcolor="#ffffff" style="border-radius: 0px 0px 0 0"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2936/email_files-1tpx.gif" height="20" style="vertical-align:top;  width: 20px" width="20"></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/разделитель--></tr>
+        <tr><!--Иконки внизу-->
+          <td bgcolor="#ffffff"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+              <tbody>
+                <tr>
+                  <td valign="top" style="padding-bottom:20px;  padding-top:0px; padding-left:30px; padding-right:15px; width:275px;" class="left_right_bottom" width="275"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                      <tbody>
+                        <tr>
+                          <td valign="top" style="padding-right: 15px" align="center"><a href="https://links.i-on.ru/c/cQQ/Qa2/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/e4022a46" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2975/email_files-footer_icon_01.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Онлайн-консультация</span></a></td>
+                          <td valign="top" align="center" style="padding-left: 20px"><a href="https://links.i-on.ru/c/cQQ/QaX/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/056b3fe6" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2975/email_files-footer_icon_02.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Бесплатная доставка</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <td valign="top" style="padding-bottom:20px; padding-top:0px; padding-left:10px; padding-right:30px; width:275px;" width="275" class="left_right_bottom"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                      <tbody>
+                        <tr>
+                          <td valign="top" align="center" style="padding-right: 15px"><a href="https://links.i-on.ru/c/cQQ/Qa6/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/06f5d734" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2975/email_files-footer_icon_03.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Дистанционная <br>
+                            IT-поддержка</span></a></td>
+                          <td valign="top" align="center" style="padding-left: 15px"><a href="https://links.i-on.ru/c/cQQ/Qak/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/e653b6fd" style="color: #525252; text-decoration:underline;" target="_blank"><img src="https://click2.esv2.com/Content/i2/10272/HostedImages/2975/email_files-footer_icon_04.png" width="122" style="vertical-align:top; width:122px;" border="0" class="c_img_75"><br>
+                            <span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:13px; color:#525252; line-height:20px">Бонусы <br>
+                            за&nbsp;покупку</span></a></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                </tr>
+              </tbody>
+            </table></td>
+          <!--/Иконки внизу--></tr>
+        <tr>
+          <td align="center" style="margin:0"><table border="0" cellspacing="0" cellpadding="0" style="border-spacing:0 !important; min-width:640px; width:640px; max-width:640px;" align="center" class="adaptive" id="container2">
+              <tbody id="content2">
+                <tr>
+                  <td align="center" style="margin:0"><table border="0" cellspacing="0" cellpadding="0" style="border-spacing:0 !important; min-width:640px; width:640px; max-width:640px;" align="center" class="adaptive" id="container3">
+                      <tbody id="content3">
+                        <tr><!--Иконки внизу-->
+                          <td><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%; margin-top: 20px;">
+                              <tbody>
+                                <tr>
+                                  <td valign="center" style="padding-bottom:20px;  padding-top:0px; padding-left:0px; padding-right:0px; width:220px;" class="left_right_bottom" width="220"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" style="width:220px; padding-left:0px;"><span style="font-family: Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:18px; line-height:24px; color: #525C7A; "><a style="text-decoration: none; color:#525C7A" href="https://links.i-on.ru/c/cQQ/QaH/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/3856c6ac">8 495 514-12-12</a></span></td>
+                                        </tr>
+                                      </tbody>
+                                    </table></td>
+                                  <td valign="center" style="padding-bottom:20px; padding-top:0px; padding-left:0px; padding-right:0px; width:210px;" width="210" class="left_right_bottom"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" style="width:210px;"><p style="margin-bottom:0px; margin-top:0px;"> <a href="https://links.i-on.ru/c/cQQ/QaE/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/113abb07" target="_blank"> <img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-vk.png" width="18" height="18" alt="НОУ-ХАУ в Instagram" border="0" style="vertical-align:top;"></a> <img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-1tpx.gif" style="height:10px;" height="10"> <a href="https://links.i-on.ru/c/cQQ/Qar/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/10f5cf6e" target="_blank"><img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-fb.png" width="18" height="18" alt="НОУ-ХАУ в Instagram" border="0" style="vertical-align:top;"></a> <img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-1tpx.gif" style="height:10px;" height="10"> <a href="https://links.i-on.ru/c/cQQ/Qaa/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/89b6b4e1" target="_blank"> <img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-ya.png" width="19" height="18" alt="НОУ-ХАУ в Facebook" border="0" style="vertical-align:top;"></a> <img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-1tpx.gif" style="height:10px;" height="10"> <a href="https://links.i-on.ru/c/cQQ/Qan/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/d1a137f3" target="_blank"> <img src="https://links.i-on.ru/Content/i2/10272/HostedImages/3450/email_files-utube.png" width="19" height="18" alt="НОУ-ХАУ в Facebook" border="0" style="vertical-align:top;"></a> </p></td>
+                                        </tr>
+                                      </tbody>
+                                    </table></td>
+                                  <td valign="center" style="padding-bottom:20px; padding-top:0px; padding-left:0px; padding-right:0px; width:210px;" width="210" class="left_right_bottom"><table cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse; width:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" style="width:100px; padding-right: 0px;"><span style="font-family: Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:18px; line-height:24px; color: #525C7A;"><a href="https://links.i-on.ru/c/cQQ/Qaj/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/3356ca81" style="color: #525C7A; text-decoration:underline;" target="_blank"><nobr>ноу-хау.рф</nobr></a></span></td>
+                                        </tr>
+                                      </tbody>
+                                    </table></td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                          <!--/Иконки внизу--></tr>
+                        <tr> 
+                          <!--Лигал-->
+                          <td align="left" style="line-height:14px;padding-top:15px;padding-left:40px;padding-right:40px;padding-bottom:0px;" class="left_right_top"><span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif;font-size:10px;color:#aaaaaa;line-height:14px;"> <sup>*</sup> Информация о количестве бонусов актуальна на момент отправки. Подробная информация о бонусной программе на сайте <a href="https://links.i-on.ru/c/cQQ/Qas/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/c5f0b312" target="_blank" style="color: #525C7A; text-decoration:underline; ">карта.ноу-хау.рф.</a> </span></td>
+                          <!--/Лигал--> 
+                        </tr>
+                        <tr><!--Низ-->
+                          <td align="left" style="line-height:14px; padding-top:15px; padding-left:40px; padding-right:30px; padding-bottom:30px;" class="all"><span style="font-family:Helvetica Neue, Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size:10px; color:#aaaaaa; line-height:14px">Вы получили это сообщение, потому что вы подписаны на рассылку от магазинов электроники НОУ-ХАУ и выразили желание получать от нас информацию о новинках, специальных предложениях, акциях и подарках. Если вы считаете, что отправка данного сообщения не была санкционирована, вы можете <a href="https://links.i-on.ru/u/cQQ/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/2989bde6" target="_blank" style="color: #525C7A; text-decoration:underline; ">отписаться от&nbsp;рассылки.</a><br>
+                            <br>
+                            <a href="https://links.i-on.ru/c/cQQ/QaI/yp22iz1BCDPGD_Mv24YUUa/bE/cWCc/F/ed53bad0" target="_blank" style="color: #525C7A">Открыть в браузере</a></span></td>
+                          <!--/Низ--></tr>
+                      </tbody>
+                    </table></td>
+                </tr>
+              </tbody>
+            </table>
+            
+            <!--Основа-->
+            
+<img src="https://links.i-on.ru/o/cQQ/yp22iz1BCDPGD_Mv24YUUa/cWCc/F/728983b7" alt=""></body>
+</html>
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

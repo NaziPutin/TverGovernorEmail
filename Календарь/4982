@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13e4f80
+DTSTAMP:20220424T204127Z
+CREATED:20171226T100336Z
+LAST-MOD:20171227T131230Z
+SUMMARY:Рабочая поездка в Тверскую область Ливинского Павла Анатольевича - генерального директора\, председателя Правления ПАО "Россети" (отв. Жарлицына Т.Л.\, Волгин А.В.\, Седов К.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171228T074200Z
+DTEND;VALUE=DATE-TIME:20171228T113000Z
+LOCATION:согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

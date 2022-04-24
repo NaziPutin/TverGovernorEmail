@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157b6b4
+DTSTAMP:20220424T204127Z
+CREATED:20161108T081701Z
+LAST-MOD:20161130T071505Z
+SUMMARY:Совместное заседание Совета при полномочном представителе Президента РФ в ЦФО и Коллегии при полномочном представителе Президента РФ по вопросам правоохранительной деятельности\, обороны и безопасности (отв. Титов А.А.\, Попенко В.И.)
+DTSTART;VALUE=DATE-TIME:20161130T070000Z
+DTEND;VALUE=DATE-TIME:20161130T090000Z
+LOCATION:г. Москва\, ул.Новый Арбат\, д.36 сектор «С» здания Правительства Москвы\, зал заседаний
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6ce4f8
+DTSTAMP:20220424T204126Z
+CREATED:20210412T164614Z
+LAST-MOD:20210412T162306Z
+SUMMARY:Рабочая встреча\, тема: «О создании и  обеспечении инженерной  инфраструктурой инновационно-промышленного парка Тверской области «Боровлево-3» (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210412T170000Z
+DTEND;VALUE=DATE-TIME:20210412T173000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

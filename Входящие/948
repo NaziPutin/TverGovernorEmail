@@ -1,0 +1,64 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 27 Jan 2022 18:56:24 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 27 Jan
+ 2022 18:56:24 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 27 Jan 2022 18:56:24 +0300
+From: =?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?xO7q6+DkIO/uIOLu7/Du8fMg9e7k4CDi7vHx8uDt7uLo8uXr/O379SDw?=
+ =?windows-1251?B?4OHu8iDm6Ovu4+4g5O7s4CC5MjUg4iDk5fAu0fLg8PvpIM/u4+7x8iDu?=
+ =?windows-1251?Q?=F2__27.01.2022?=
+Thread-Topic: =?windows-1251?B?xO7q6+DkIO/uIOLu7/Du8fMg9e7k4CDi7vHx8uDt7uLo8uXr/O379SDw?=
+ =?windows-1251?B?4OHu8iDm6Ovu4+4g5O7s4CC5MjUg4iDk5fAu0fLg8PvpIM/u4+7x8iDu?=
+ =?windows-1251?Q?=F2__27.01.2022?=
+Thread-Index: AQHYE5SM2i3JfSwP3Uaf4DojzsfgRg==
+Date: Thu, 27 Jan 2022 18:56:24 +0300
+Message-ID: <1a1511ec3f154734aa5884b709f88287@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <1a1511ec3f154734aa5884b709f88287@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.133.218]
+X-MS-Exchange-Organization-Network-Message-Id: e49dbaa1-1515-4b53-7fed-08d9e1ad91f8
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.8543222
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" dir="ltr" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;">
+<p><span style="font-size: 12pt; font-family: Calibri, Helvetica, sans-serif;">Уважаемый Игорь Михайлович!&nbsp;</span></p>
+<p><span style="font-size: 12pt; font-family: Calibri, Helvetica, sans-serif;">Направляю доклад о ходе восстановительных работ в дер.Старый Погост за 27.01.2021 года.&nbsp;</span></p>
+<p><span style="font-size: 12pt; font-family: Calibri, Helvetica, sans-serif;"></span><span style="font-size: 12pt; font-family: Calibri, Helvetica, sans-serif;">Работы выполняются согласно плану мероприятий, на Объекте работает 14 человек, в том числе инженерно-технических
+ работников 2 человека и 12 человек рабочих.</span></p>
+<p><span style="font-size: 12pt; font-family: Calibri, Helvetica, sans-serif;">Цветков А.И.</span></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

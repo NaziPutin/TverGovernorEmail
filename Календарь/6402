@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1577b14
+DTSTAMP:20220424T204127Z
+CREATED:20170123T183429Z
+LAST-MOD:20170223T074828Z
+SUMMARY:Совещание\, тема: "О предложениях по муниципальным образованиям Тверской области для размещения 10 спортивных площадок по программе «Газпром – детям»" (отв. Белоцерковский А.В.\, Мирошкин М.А.\, СМИ)
+DTSTART;VALUE=DATE-TIME:20170202T163000Z
+DTEND;VALUE=DATE-TIME:20170202T173000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x15805e2
+DTSTAMP:20220424T204127Z
+CREATED:20160720T145909Z
+LAST-MOD:20160811T200931Z
+SUMMARY:Торжественное мероприятие\, посвященное Дню строителя (отв. Пилавов М.И.\, Дробот А.И.)
+DESCRIPTION:В рамках мероприятия:\n14.00 Встреча с ветеранами строительной отрасли\;\n14.30 Торжественная часть\;\n15.30 Осмотр выставки организаций строительной отрасли.\n
+DTSTART;VALUE=DATE-TIME:20160811T110000Z
+DTEND;VALUE=DATE-TIME:20160811T124500Z
+LOCATION:г. Тверь\, ДК "Металлист"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

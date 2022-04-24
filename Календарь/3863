@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1124b24
+DTSTAMP:20220424T204127Z
+CREATED:20190318T162927Z
+LAST-MOD:20190318T073533Z
+SUMMARY:Торжественное мероприятие\, посвященное 25-летию Законодательного Собрания Тверской области (отв. Ищенко А.Н.\, Охлобыстин Ю.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190319T120000Z
+DTEND;VALUE=DATE-TIME:20190319T123000Z
+LOCATION:ул. Советская\, д. 16\, Тверской академический театр драмы
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1583fd4
+DTSTAMP:20220424T204127Z
+CREATED:20160522T184232Z
+LAST-MOD:20160807T154658Z
+SUMMARY:Встреча с лидерами общественного мнения по теме: «Патриотическое воспитание». Участие принимает Потехина Ирина Петровна - заместитель полномочного представителя Президента РФ в ЦФО
+DTSTART;VALUE=DATE-TIME:20160531T120000Z
+DTEND;VALUE=DATE-TIME:20160531T133000Z
+LOCATION:ул. Советская\, д.23
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3c4668
+DTSTAMP:20220424T204126Z
+CREATED:20211027T091558Z
+LAST-MOD:20211027T064445Z
+SUMMARY:Совместное с полномочным представителем Президента РФ в ЦФО совещание Секретаря Совета Безопасности РФ Патрушева Н.П. по вопросу: «Обеспечение информационной безопасности на территории ЦФО» (в режиме ЗВКС) (отв. Ажгиревич А.И.\, Веселов А.В.)
+DTSTART;VALUE=DATE-TIME:20211027T100000Z
+DTEND;VALUE=DATE-TIME:20211027T110000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

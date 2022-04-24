@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6ece78
+DTSTAMP:20220424T204126Z
+CREATED:20210401T160948Z
+LAST-MOD:20210401T120322Z
+SUMMARY:Рабочая встреча с Патрушевым Дмитрием Николаевичем –Министром сельского хозяйства Российской Федерации (отв. Егоров И.И.\, Каравайный К.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210402T080000Z
+DTEND;VALUE=DATE-TIME:20210402T090000Z
+LOCATION:г. Москва\, Орликов переулок\, д. 1/11\, Министерство сельского хозяйства РФ
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

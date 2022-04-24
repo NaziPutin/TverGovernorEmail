@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x73a6a8
+DTSTAMP:20220424T204126Z
+CREATED:20210316T090114Z
+LAST-MOD:20210316T111321Z
+SUMMARY:Рабочая встреча\, тема: "Об увеличении заработной платы сотрудникам государственного казенного учреждения "Управление противопожарной службы\, защиты населения и территорий Тверской области" (отв. Веселов А.В.\, Григорян А.Р.\, Подтихова М.И.)\n
+DTSTART;VALUE=DATE-TIME:20210316T120000Z
+DTEND;VALUE=DATE-TIME:20210316T123000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

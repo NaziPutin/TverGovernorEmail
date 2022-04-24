@@ -1,0 +1,106 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 10 Mar 2022 21:32:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 10 Mar
+ 2022 21:32:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 10 Mar 2022 21:32:08 +0300
+From: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?4dbHydLF18neIOHS1MXNIOnXwc7P18ne?= <AzhgirevichAI@tverreg.ru>,
+	=?koi8-r?B?4sXSxdrJziDkzcnU0snKIOLP0snTz9fJ3g==?= <Berezin_DB@tverreg.ru>,
+	=?koi8-r?B?59LJx8/S0c4g4dLTxc4g8sHGycvP18ne?= <grygoryan@tverreg.ru>,
+	=?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>,
+	=?koi8-r?B?9sHSy8/XIOnHz9LYIPPF0sfFxdfJ3g==?= <ZharkovIC@tverreg.ru>,
+	=?koi8-r?B?7c/Sz9rP1yDl18fFzsnKIPfB08nM2MXXyd4=?= <Morozov_EV@tverreg.ru>,
+	=?koi8-r?B?7sHVzc/XIOHOxNLFyiD3ycvUz9LP18ne?= <naumov@tverreg.ru>,
+	=?koi8-r?B?7s/XycvP18Eg98HMxc7Uyc7BIOnXwc7P187B?= <Novikova_VI@tverreg.ru>,
+	=?koi8-r?B?8M/E1MnIz9fBIO3B0snOwSDp18HOz9fOwQ==?= <podtihova@tverreg.ru>,
+	=?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?= <SkoriyAV@tverreg.ru>,
+	=?koi8-r?B?49fF1MvP1yDhzMXL08HOxNIg6dfBzs/Xyd4=?= <CvetkovAI@tverreg.ru>
+Subject: =?koi8-r?B?6c7Gz9LNwcPJ0SDPINDSwdfP19nIIMHL1MHIIPDSwdfJ1MXM2NPU18Eg8uYs?=
+ =?koi8-r?B?IM7B0NLB18zFzs7ZyCDOwSDawd3J1NUgx9LB1sTBziDJINzLz87PzcnLySDX?=
+ =?koi8-r?B?INXTzM/XydHIINrB0tXCxdbO2cgg08HOy8PJyiA=?=
+Thread-Topic: =?koi8-r?B?6c7Gz9LNwcPJ0SDPINDSwdfP19nIIMHL1MHIIPDSwdfJ1MXM2NPU18Eg8uYs?=
+ =?koi8-r?B?IM7B0NLB18zFzs7ZyCDOwSDawd3J1NUgx9LB1sTBziDJINzLz87PzcnLySDX?=
+ =?koi8-r?B?INXTzM/XydHIINrB0tXCxdbO2cgg08HOy8PJyiA=?=
+Thread-Index: Adg0rLjDXVm5gbalQDOeJ2teiWOO2A==
+Disposition-Notification-To: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Thu, 10 Mar 2022 21:32:08 +0300
+Message-ID: <3a32ecf5a25a4840be9a56f372c28c4f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <3a32ecf5a25a4840be9a56f372c28c4f@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: 5b0c2a9c-7c34-496b-f234-08da02c448c7
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4910869
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рП чБЫЕНХ РПТХЮЕОЙА ОБРТБЧМСА ЙОЖПТНБГЙА П РТЙОСФЩИ РТБЧПЧЩИ БЛФБИ рТБЧЙФЕМШУФЧБ тж, ОБРТБЧМЕООЩИ ОБ ЪБЭЙФХ ЗТБЦДБО Й ЬЛПОПНЙЛЙ Ч ХУМПЧЙСИ ЪБТХВЕЦОЩИ УБОЛГЙК.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>дБООЩЕ БЛФЩ ЛБУБАФУС:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ЙЪНЕОЕОЙС РПТСДЛБ РТЕДПУФБЧМЕОЙЕ ЧТЕНЕООПЗП ХВЕЦЙЭБ ЗТБЦДБОБН хЛТБЙОЩ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ХУФБОПЧМЕОЙС ПУОПЧБОЙС ОЕТБЪНЕЭЕОЙС Ч УЙУФЕНЕ ЪБЛХРПЛ ЙОЖПТНБГЙЙ П РПУФБЧЭЙЛБИ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ХУФБОПЧМЕОЙС ПФУТПЮЛЙ РП ЙУРПМОЕОЙА ПВСЪБФЕМШУФЧ РП УХВУЙДЙСН ДМС РТПНЩЫМЕООЙЛПЧ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ПРТЕДЕМЕОЙС РЕТЕЮОЕК ФПЧБТПЧ Й ПВПТХДПЧБОЙС, ЧТЕНЕООП ЪБРТЕЭЈООЩИ Л ЧЩЧПЪХ ЙЪ тПУУЙЙ, Б ФБЛЦЕ ХУФБОПЧМЕОЙС ТБЪТЕЫЙФЕМШОПЗП РПТСДЛБ ЧЩЧПЪБ ПФДЕМШОЩИ ФПЧБТПЧ;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>- ЧЧЕДЕОЙС НПТБФПТЙС ОБ РТПЧЕДЕОЙЕ РТПЧЕТПЛ РТЕДРТЙСФЙК Й РТЕДРТЙОЙНБФЕМЕК.<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>йОЖПТНБГЙПООЩЕ УРТБЧЛЙ РТЙМБЗБАФУС<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>у ХЧБЦЕОЙЕН,<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>р. уНСМЛПЧУЛЙК <o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

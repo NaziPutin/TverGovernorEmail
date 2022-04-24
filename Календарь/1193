@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6b68e4
+DTSTAMP:20220424T204126Z
+CREATED:20210413T144638Z
+LAST-MOD:20210413T082944Z
+SUMMARY:Подготовка к визиту  Кошанова Ерлана Жакановича – руководителя Администрации Президента Республики Казахстан во Ржевский район Тверской области (14.04.2021) (отв. Егоров И.И.\, Скорый А.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210413T140000Z
+DTEND;VALUE=DATE-TIME:20210413T143000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

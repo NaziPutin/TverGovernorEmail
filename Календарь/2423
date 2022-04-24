@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb4db3c
+DTSTAMP:20220424T204126Z
+CREATED:20200326T144132Z
+LAST-MOD:20200326T082009Z
+SUMMARY:Рабочая встреча\, тема: «О единовременной денежной выплате в 2020 году к 75-й годовщине Победы в Великой Отечественной войне" (отв. Ищенко А.Н.\, Новикова В.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200326T140000Z
+DTEND;VALUE=DATE-TIME:20200326T150000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

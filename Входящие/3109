@@ -1,0 +1,118 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sat, 12 May 2018 11:11:45 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sat, 12 May
+ 2018 11:11:45 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sat, 12 May 2018 11:11:45 +0300
+Received: from f178.i.mail.ru ([94.100.178.95])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <orlov@tverreg.ru>)
+	id 1fHPcz-0002qT-AJ
+	for rim@tverreg.ru; Sat, 12 May 2018 04:11:41 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=References:In-Reply-To:Content-Type:Message-ID:Reply-To:Resent-From:Date:MIME-Version:Subject:To:From; bh=zVeC8YH97V6LSyKLgUBLeOoSG/dvsseNTcHOC8NEHRc=;
+	b=Nk6BV5144aTRkKHldv8v+9STUfhbDuQbpylYF8pHo7RZCT0H3e3kl/7lcFGF5GG1DMJzr763zKxHZrtobVT8WxL0de6lxUZerYEP1aso8/p0WLgu7dcTANVLahP5s2e1lEiDHZewrhURUUMa/TLm96/e5IqLGQ3lUoamEuS2KiY=;
+Received: by f178.i.mail.ru with local (envelope-from <orlov@tverreg.ru>)
+	id 1fHPcx-0005CZ-47
+	for rim@tverreg.ru; Sat, 12 May 2018 11:11:39 +0300
+Received: by e.mail.ru with HTTP;
+	Sat, 12 May 2018 11:11:39 +0300
+From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <orlov@tverreg.ru>
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?UmU6INCg0LXQt9GO0LzQtSDQm9C40YLQvtCy0LrQviDQnS7QnS4=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Sat, 12 May 2018 11:11:39 +0300
+Resent-From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+X-Letter-Fingerprint: ufKOLA3P0V7QkquaarUvnZuZWppHYIYf
+Reply-To: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <orlov@tverreg.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1526112699.353170931@f178.i.mail.ru>
+Authentication-Results: f178.i.mail.ru; auth=pass smtp.auth=orlov@tverreg.ru smtp.mailfrom=orlov@tverreg.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7DF4263082F780B15C4224003CC836476D1DB134E79BD61627866D6147AF826D888465842FCAE27CEA91134F3A18ACC25089D37D7C0E48F6C8AA50765F79006379C40E80E04620F667301D2098820520D089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E7028C9DFF55498CEFB0BD9CCCA9EDD067B1EDA766A37F9254B7
+X-DMARC-Policy: no
+X-Mailru-MI: 800
+X-Mailru-Sender: 641179478317D3F0B5601562A1FB1D2B2A11F67ABE13C1E6A7D5FC77A46A5C82141CCEFC5ED6D9A2882F9098EF1C8C1629380EAE0A631D0E3E5D775140466456585F08B951987FA3127AB1F986A42001FA703B83F3917E41C77752E0C033A69E3453F38A29522196
+X-Mras: OK
+X-Spam: undefined
+In-Reply-To: <89ec628f738e458690d5026136bcf219@tverreg.ru>
+References: <1524657668.64722278@f399.i.mail.ru>
+ <6708773C4CB8734682D68479FD431D836C00AE61@ex03.res.vgtrk>
+ <89ec628f738e458690d5026136bcf219@tverreg.ru>
+Errors-To: andreyorlov71@bk.ru
+Return-Path: orlov@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: 0c272949-d3fe-4b18-cea9-08d5b7e000d2
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4062468
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Уважаемый Игорь Михайлович, приветствую!<br>Достойные кандидатуры в команду.<br>Они уже дали согласие?<br><br><br><blockquote style="border-left:1px solid #0857A6; margin:10px; padding:0 0 0 10px;">
+	Пятница, 11 мая 2018, 10:54 &#43;03:00 от Руденя Игорь Михайлович &lt;rim@tverreg.ru&gt;:<br>
+	<br>
+	<div id="">
+
+
+
+
+
+
+<div class="js-helper js-readmsg-msg">
+	<style type="text/css"></style>
+ 	<div>
+		<base target="_self" href="https://e.mail.ru/">
+		
+            <div id="style_15260252700000000048_BODY"><div class="class_1526120324">
+
+
+
+
+
+
+<div class="WordSection1_mailru_css_attribute_postfix">
+<p class="MsoNormal_mailru_css_attribute_postfix">-- <br>
+Best Regards<br>
+Natalia Litovko<br>
+Russian Information Channel Russia-24<br>
+&#43;7 903 509 93 98<br>
+<a href="http://www.vesti.ru" target="_blank" rel=" noopener noreferrer">www.vesti.ru</a><br>
+<br>
+С уважением,<br>
+Наталья Литовко,<br>
+Российский информационный канал<br>
+Россия-24<br>
+&#43;7 903 509 93 98 <br>
+<a href="http://www.vesti.ru" target="_blank" rel=" noopener noreferrer">www.vesti.ru</a></p>
+</div>
+
+
+</div></div>
+            
+        
+		<base target="_self" href="https://e.mail.ru/">
+	</div>
+
+	
+</div>
+
+
+</div>
+</blockquote>
+<br>
+<br>С уважением, Андрей Орлов.<br><br><br></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

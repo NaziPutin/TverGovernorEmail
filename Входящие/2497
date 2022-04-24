@@ -1,0 +1,113 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 13 May 2019 21:16:38 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Mon, 13 May
+ 2019 21:16:31 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 13 May 2019 21:16:31 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id C160421CC4
+	for <rim@tverreg.ru>; Mon, 13 May 2019 21:16:32 +0300 (MSK)
+Received-SPF: pass (icloud.com: 17.58.23.193 is authorized to use 'pavlovigor777@icloud.com' in 'mfrom' identity (mechanism 'ip4:17.58.0.0/16' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="pavlovigor777@icloud.com"; helo=mr85p00im-zteg06022001.me.com; client-ip=17.58.23.193
+Received: from mr85p00im-zteg06022001.me.com (mr85p00im-zteg06022001.me.com [17.58.23.193])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id ECE6D203A2
+	for <rim@tverreg.ru>; Mon, 13 May 2019 21:16:15 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=04042017; t=1557771364;
+	bh=nf/+t5wZwLzWJq+l0RJGEm5hYxCNGHgNmgXPKgmX/10=;
+	h=From:Content-Type:Mime-Version:Date:Subject:Message-Id:To;
+	b=SjGYwChJOCXFDR6Ki6R00cKUblSx6C+oxMJ9gbKCsj9Y8k3jVDeeWIFDTtybzbXpb
+	 1g/D04lq9DMdo1hMpIl7F4voHm8Ya7ReXHLewedoPGukn08CGHIZgdfKpIx9f8yhIA
+	 16ROB8cAcZgPRjN5r6tky9h0b+NFlmVu3dcRGPRIRO49WHUkzIyUZnXB+KLiMnKBwW
+	 0K1aMen51+Hhwb7QR7yNVOFIo38dBf2NvySspa6c5ujWdmGdNTcnDCG4JNMOyaNBAy
+	 sTgRMTpCQFu0kjdQyLxdXerGjkwXYToY+0MsIetCDNZy8Ax2WH6y+1R54dc6RX+YVE
+	 Yh4BoWISIdzyw==
+Received: from [10.111.161.235] (unknown [213.87.150.25])
+	by mr85p00im-zteg06022001.me.com (Postfix) with ESMTPSA id 7601F9008B1
+	for <rim@tverreg.ru>; Mon, 13 May 2019 18:15:36 +0000 (UTC)
+From: =?utf-8?B?0J/QsNCy0LvQvtCyINCY0LPQvtGA0Yw=?= <pavlovigor777@icloud.com>
+Date: Mon, 13 May 2019 21:15:32 +0300
+Subject: Fwd: 
+Message-Id: <3F2E29E3-D782-4BAF-A7B3-02FF815BABAF@icloud.com>
+References: <OF2BF0FDC4.17D62AEE-ON432583F9.00633F54-432583F9.00633A19@tverreg.ru>
+To: rim@tverreg.ru
+X-Mailer: iPhone Mail (16E227)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:,, definitions=2019-05-13_10:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 clxscore=1015
+ suspectscore=0 malwarescore=0 phishscore=0 adultscore=0 bulkscore=0
+ classifier=parse_limit adjust=0 reason=mlx scancount=1
+ engine=8.0.1-1812120000 definitions=main-1905130124
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.125 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (mov82008[at]yandex.ru) (pavlovigor777[at]icloud.com) (olgapavlona1987[at]gmail.com) (olgapavlona1987[at]gmail.com) (pavlovigor777[at]icloud.com) (pavlovigor777[at]icloud.com)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (lennoch[at]mail.ru) (mov82008[at]yandex.ru) (kondynikita[at]yandex.ru) (pavlovigor777[at]icloud.com) (pawa_4yrovoj[at]mail.ru) (pawa_4yrovoj[at]mail.ru) (olgapavlona1987[at]gmail.com) (olgapavlona1987[at]gmail.com) (pavlovigor777[at]icloud.com) (pavlovigor777[at]icloud.com)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	MIME_QP_LONG_LINE       0.001 Quoted-printable line longer than 76 chars
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: pavlovigor777@icloud.com
+X-MS-Exchange-Organization-Network-Message-Id: f92455b0-2c8c-4dfe-cb84-08d6d7cf201b
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:07.3562637
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div dir="auto">Уважаемый Игорь Михайлович!
+<div>Направляю информацию по совещанию с ВЭБ<br>
+<br>
+<div id="x_AppleMailSignature" dir="ltr">Отправлено с iPhone</div>
+<div dir="ltr"><br>
+Начало переадресованного сообщения:<br>
+<br>
+</div>
+<blockquote type="cite">
+<div dir="ltr"><b>От:</b> Министерство транспорта/Администрация Тверской области &lt;<a href="mailto:mintrans@tverreg.ru">mintrans@tverreg.ru</a>&gt;<br>
+<b>Дата:</b> 13 мая 2019 г., 21:04:16 GMT&#43;3<br>
+<b>Кому:</b> <a href="mailto:pavlovigor777@icloud.com">pavlovigor777@icloud.com</a><br>
+<br>
+</div>
+</blockquote>
+<div dir="ltr"><span></span></div>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+</div>
+<div dir="auto">
+<div>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+</div>
+<div dir="auto">
+<div>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

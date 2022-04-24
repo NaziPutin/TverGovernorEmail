@@ -1,0 +1,1290 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 31 Mar 2022 13:18:39 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Thu, 31 Mar
+ 2022 13:18:37 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 31 Mar 2022 13:18:38 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id E666881140
+	for <rim@tverreg.ru>; Thu, 31 Mar 2022 13:18:37 +0300 (MSK)
+Received-SPF: pass (reg.ru: 194.58.116.234 is authorized to use 'news@reg.ru' in 'mfrom' identity (mechanism 'ip4:194.58.116.0/24' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="news@reg.ru"; helo=mailer.reg.ru; client-ip=194.58.116.234
+Received: from mailer.reg.ru (mailer.reg.ru [194.58.116.234])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id B70BE80DB7
+	for <rim@tverreg.ru>; Thu, 31 Mar 2022 13:18:35 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=reg.ru;
+	s=exim; h=Date:To:From:Subject:Message-ID:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=Mvff+00NKfEjqSSFqCN1IeDaJKmoqPVYhaQRl7fawOU=; b=MOoJlmRr6atWmPplzSCGvHHZb2
+	y7a8uG86xryU+lUrpIRfbgjkyl7tZNxGw6gWSLB6lCyoEi6Pf6OWdUNxu5EapdKFPuiQe8+RYrwjo
+	/jdqdGm4eWlKrLg8uEKYghAr3+/a3OCVf+fqq1P4dts3IIl+PfAH7lu0sfbUHTAsxjT4=;
+Received: from root by mailer.reg.ru with local (Exim 4.94.2)
+	(envelope-from <news@reg.ru>)
+	id 1nZrsr-0000O1-95
+	for rim@tverreg.ru; Thu, 31 Mar 2022 10:18:29 +0000
+X-Mailer: REG.MAILER [ https://reg.ru ] 1.0
+Message-ID: <MS4yNjYzMjVkMTM0LjFiZTViZTc1LmZiODM2N2Q5NmYz@mailer.reg.ru>
+X-Mailer-Dispatch: 468872049
+X-Mailru-Msgtype: bulkmail_40617
+Feedback-ID: bulkmail_40617:RegRU
+Subject: =?utf-8?b?0KHQsNC50YIg0LfQsCA1INC80LjQvdGD0YIsINGD0LTQstC+0LXQvdC40LUg0LHRjtC00LbQtdGC0LAg0L3QsCDRgNC10LrQu9Cw0LzRgywg0YHQutC40LTQutC4INC90LAg0LTQvtC80LXQvdGLINC4INC00YDRg9Cz0LjQtSDQsNC60YbQuNC4?=
+From: =?utf-8?b?0JrQvtC80LDQvdC00LAgUkVHLlJV?= <news@reg.ru>
+To: Rim@tverreg.ru
+Date: Thu, 31 Mar 2022 10:18:29 +0000
+X-DrWeb-SpamScore: 99
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeigedgvdegucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenhdfknhhvihhsihgslhgvucifohhrughsucdlhedtmdenucfjughrpeggtgfgoffkuffhvfffsehmqhdtreertdejnecuhfhrohhmpefmohhmrghhpigrucftgffirdftfgcuoehnvgifshesrhgvghdrrhhuqeenucggtffrrghtthgvrhhnpeejfedukedugedvudegueetgfdvvefhvdefheeiheeutdefveegtefggfeuteeugeenucffohhmrghinheprhgvghdrrhhupdgttghtlhgurdhruhdpvhgvughomhhoshhtihdrrhhupdhiiidrrhhupdefughnvgifshdrrhhupdhkohhmmhgvrhhsrghnthdrrhhupdhgrgiivghtrgdrrhhupdhruhhnvghtqdhiugdrtghomhdpohgsohhrohhtrdhruhdphihouhhtuhgsvgdrtghomhdpughomhgrihhnphgrrhhkihhnghdrrhhupdhvkhdrtghomhdpthdrmhgvpdhtfihithhtvghrrdgtohhmpdhokhdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.164#24 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  1
+	AWL                     2.250 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_INFOUSMEBIZ          0.75 Prevalent use of .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life domains in spam/malware
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	KAM_TRACKIMAGE            0.2 Message has a remote image explicitly meant for tracking
+	MIXED_ES                0.997 Too many es are not es
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 99
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeigedgvdegucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenhdfknhhvihhsihgslhgvucifohhrughsucdlhedtmdenucfjughrpeggtgfgoffkuffhvfffsehmqhdtreertdejnecuhfhrohhmpefmohhmrghhpigrucftgffirdftfgcuoehnvgifshesrhgvghdrrhhuqeenucggtffrrghtthgvrhhnpeejfedukedugedvudegueetgfdvvefhvdefheeiheeutdefveegtefggfeuteeugeenucffohhmrghinheprhgvghdrrhhupdgttghtlhgurdhruhdpvhgvughomhhoshhtihdrrhhupdhiiidrrhhupdefughnvgifshdrrhhupdhkohhmmhgvrhhsrghnthdrrhhupdhgrgiivghtrgdrrhhupdhruhhnvghtqdhiugdrtghomhdpohgsohhrohhtrdhruhdphihouhhtuhgsvgdrtghomhdpughomhgrihhnphgrrhhkihhnghdrrhhupdhvkhdrtghomhdpthdrmhgvpdhtfihithhtvghrrdgtohhmpdhokhdrrhhunecukfhppeduleegrdehkedrudduiedrvdefge
+X-DrWeb-SpamVersion: Vade Retro 01.422.164#24 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: news@reg.ru
+X-MS-Exchange-Organization-Network-Message-Id: 5d43671f-50e6-498a-a877-08da12ffd2bd
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2647354
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <!--[if !mso]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta name="format-detection" content="telephone=no">
+ <meta property="og:title" content="Конструктор REG.RU &lt;br /&gt;5 минут и сайт готов!">
+ <meta property="vk:image" content="https://img.reg.ru/news/site31032022.png">
+ <meta property="og:url" content="">
+ <meta property="og:type" content="article">
+ <meta property="og:description" content="Если вам нужно быстро запустить сайт и при этом сэкономить на старте, воспользуйтесь Конструктором сайтов REG.RU. &lt;br /&gt;Это простой инструмент, работа с которым не требует знания кода. Все настройки выполняются с помощью готовых блоков. &lt;br /&gt;С ним вы сможете бесплатно создать свой первый сайт.">
+ <meta property="og:image" content="https://img.reg.ru/news/site31032022.png">
+ <meta itemprop="name" content="Конструктор REG.RU &lt;br /&gt;5 минут и сайт готов!">
+ <meta itemprop="description" content="Если вам нужно быстро запустить сайт и при этом сэкономить на старте, воспользуйтесь Конструктором сайтов REG.RU. &lt;br /&gt;Это простой инструмент, работа с которым не требует знания кода. Все настройки выполняются с помощью готовых блоков. &lt;br /&gt;С ним вы сможете бесплатно создать свой первый сайт.">
+ <meta itemprop="image" content="https://img.reg.ru/news/site31032022.png">
+ <meta name="twitter:title" content="Конструктор REG.RU &lt;br /&gt;5 минут и сайт готов!">
+ <meta name="twitter:url" content="">
+ <meta name="twitter:description" content="Если вам нужно быстро запустить сайт и при этом сэкономить на старте, воспользуйтесь Конструктором сайтов REG.RU. &lt;br /&gt;Это простой инструмент, работа с которым не требует знания кода. Все настройки выполняются с помощью готовых блоков. &lt;br /&gt;С ним вы сможете бесплатно создать свой первый сайт.">
+ <meta name="twitter:image" content="https://img.reg.ru/news/site31032022.png">
+ <meta name="twitter:card" content="summary_large_image">
+ <title>Конструктор REG.RU &lt;br /&gt;5 минут и сайт готов!</title>
+ <!--[if (gte mso 9)|(IE)]>
+ <style type="text/css">
+ table {border-collapse: collapse;}
+ .l-align_left {text-align: left !important;}
+ .l-align_right {text-align: right !important;}
+ .b-mail-full-width-img {width: 480px !important;}
+ </style>
+ <![endif]-->
+ <style type="text/css">
+.b-mail-voting__link:hover {
+text-decoration: none;
+}
+.b-mail-voting__button-url:hover {
+text-decoration: underline !important; color: #1d9ef9;
+}
+.b-mail-button__inner_color_default:hover {
+border-color: #f2f4f9 !important; background-color: #f2f4f9 !important;
+}
+@media only screen and (min-width: 580px) {
+ .l-align_left {
+ text-align: left !important;
+ }
+ .l-align_right {
+ text-align: right !important;
+ }
+}
+@media only screen and (min-width: 300px) {
+ .l-hidden {
+ display: none !important;
+ }
+}
+@media only screen and (max-width: 579px) {
+ .b-mail-grid_mode_full-width .b-mail-grid__column {
+ max-width: 100% !important;
+ }
+}
+@media screen and (min-width: 1140px) {
+ * [lang=l-align_right] {
+ text-align: right !important;
+ }
+ * [lang=l-align_left] {
+ text-align: left !important;
+ }
+}
+@media screen and (max-width: 1140px) {
+ .b-mail-header__full-width {
+ padding: 0 24px !important;
+ }
+}
+</style>
+</head>
+ <body style="-webkit-font-smoothing: antialiased; width: 100% !important; min-width: 100%; background-color: #ffffff; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" bgcolor="#ffffff">
+<img src="https://trackmail.reg.ru/Mi4yNjYzMjVmYmNjLjFiZjI2YjcxLjE2MmIwZDU1ODZk.gif" width="1" height="1" alt="" nocache="">
+ <div style="font-size: 0px; background-color: #364364; margin: 0; padding: 0;">
+ <!-- %SHARE_BUTTONS_HERE% -->
+ </div>
+  
+ 
+ 
+ 
+ <center class="b-mail__wrapper b-mail__wrapper_type_dark" style="width: 100%; table-layout: fixed; color: #ffffff; background-color: #364364;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" align="center" bgcolor="#364364"><tr><td>
+ <![endif]-->
+ <table class="b-mail b-mail_type_dark" align="center" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 580px; background-color: #364364;" bgcolor="#364364">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="580" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#364364"><tr><td>
+ <![endif]-->
+ <!-- Невидимый прехедер для писем, работает в почтовиках: рамблер, гугл, яндекс. В мейл.ру не работает. Вставлять в начало письма, перед b-mail-header -->
+ <div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">В нашем дайджесте</div>
+<div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍</div>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail-grid b-mail-grid_align_center b-mail-grid_valign_bottom" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="190" valign="middle">
+ <![endif]-->
+ <div class="b-mail-header b-mail-header__full-width" style="margin: 0; padding: 0;">
+ <div class="b-mail-grid__column b-mail-header__logo-wrapper" style="text-align: center; float: left; width: auto !important; max-width: 168px; vertical-align: bottom; display: inline-block; margin: 40px 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <div class="b-mail-header__logo l-align_left" style="height: 48px; margin: 0; padding: 0;">
+ <a href="https://www.reg.ru/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617">
+ <img src="https://img.reg.ru/mail/dark/logo-invert.png" width="95" height="48" alt="REG.RU" style="border: 0;">
+ </a> </div>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td><td width="390" valign="middle"><![endif]-->
+ <div class="b-mail-grid__column b-mail-header__content-wrapper" style="text-align: center; float: right; width: auto !important; vertical-align: bottom; display: inline-block; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <div class="l-align_right" lang="l-align_right" style="text-align: right; margin: 0; padding: 0;" align="right">
+ <p class="b-mail-header__content" style="margin: 36px 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <div class="b-mail-button" style="color: #ffffff; text-align: center; text-decoration: none; font-size: 15px; line-height: 24px; font-weight: bold; letter-spacing: normal; margin: 0; padding: 0;" align="center">
+ <div class="b-mail-button__wrapper l-align_right b-mail-header__login-button" style="text-align: right; margin: 48px 0 36px; padding: 0;" align="right">
+ 
+ <a href="https://www.reg.ru/user/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="l-color_link-blue b-mail-button b-mail-button_font_big" target="_blank" style="color: #1D9EF9 !important; text-align: center; text-decoration: none; font-size: 18px; line-height: 27px; font-weight: bold; letter-spacing: normal;">
+ <div class="b-mail-button__inner b-mail-button__inner_color_default" style="display: inherit; border-radius: 3px; color: #667695; text-align: center; background-color: #f2f4f9; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border-color: #f2f4f9; border-style: solid; border-width: 8px 24px;" align="center">Войти
+ </div>
+ </a>
+ 
+ </div>
+ </div>
+ </p>
+ </div>
+ </div>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table width="100%" style="border-spacing: 0; border-collapse: collapse; color: #364364;"> <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__header" style="vertical-align: top; text-align: left; color: #364364; margin: 0; padding: 0;" align="left" valign="top">
+ <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__header-wrapper" style="vertical-align: top; text-align: left; margin: 0; padding: 0 36px 36px;" align="left" valign="top">
+ <p class="b-mail-digest-dark__header-date-title" style="color: #94a0b6; text-align: center; padding: 0 12px; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">Новости 14–31 Марта 2022 года</p>
+ <a href="https://www.reg.ru/r?to=&amp;sign=d9a402e1ae006fdb6d82376365936f24&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <p class="b-mail-digest-dark__header-main-title" style="padding-top: 0; padding-bottom: 6px; color: #ffffff; text-align: center; margin: 0; font: bold 48px/60px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">Конструктор REG.RU <br>5 минут и сайт готов!</p>
+ </a>
+ <a href="https://www.reg.ru/email/Mi4yNjYzMjVmYmNjLjFiZjI2YjcxLjE2MmIwZDU1ODZk?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-digest-dark__read-online %HIDE_ME%" target="_blank" style="display: block; text-decoration: inherit; text-align: center; color: #94a0b6; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Читать в&nbsp;браузере и&nbsp;поделиться с&nbsp;друзьями
+ </a>
+ </td>
+ </tr>
+ </table>
+  <!--[if (gte mso 9)|(IE)]>
+ <table width="556" align="center"><tr><td style="padding-top:0; padding-bottom:0; padding-right:0; padding-left:0; margin:0px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__img-table" align="center" cellspacing="0" cellpadding="0" border="0" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 556px; border: 0;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__img-cell" style="vertical-align: top; text-align: left; padding: 0 0 12px;" align="left" valign="top">
+ <img class="b-mail-digest-dark__img-news" src="https://img.reg.ru/news/site31032022.png" width="580" alt="первая новость" style="display: block; width: 100%; height: auto; border: 0;">
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__desc-wrapper" style="vertical-align: top; text-align: left; margin: 0; padding: 0 0 36px;" align="left" valign="top">
+ <p class="b-mail-digest-dark__desc" style="color: #ffffff; margin: 0; padding: 0 16px; font: 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Если вам нужно быстро запустить сайт и при этом сэкономить на старте, воспользуйтесь Конструктором сайтов REG.RU. <br>Это простой инструмент, работа с которым не требует знания кода. Все настройки выполняются с помощью готовых блоков. <br>С ним вы сможете бесплатно создать свой первый сайт.</p>
+ </td>
+ </tr>
+ </table> <div class="b-mail-digest-dark__button-wrapper" style="margin: 0 0 60px; padding: 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="484" align="center"><tr><td style="padding-top:0; padding-bottom:0; padding-right:0; padding-left:0; margin:0px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__button-table" cellspacing="0" cellpadding="0" align="center" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; border: 0;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__button" align="center" style="vertical-align: top; text-align: center; border-radius: 3px; color: #ffffff; background-color: #00c084; margin: 0; padding: 18px 36px;" bgcolor="#00c084" valign="top">
+ <a href="https://www.reg.ru/company/news/11915?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-digest-dark__button-text" target="_blank" style="width: 100%; color: #ffffff; text-align: center; text-decoration: none; font: bold 24px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <span>Узнать подробности</span>
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </div> </td>
+</tr> <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__news" style="vertical-align: top; text-align: left; border-bottom-width: 24px; border-bottom-color: #1d9ef9; border-bottom-style: solid; background-color: #ffffff; padding: 36px;" align="left" bgcolor="#ffffff" valign="top">
+ <p class="b-mail-digest-dark__news-title" style="margin-top: 0; margin-bottom: 24px; color: #364364; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Ещё:</p> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 1
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://help.reg.ru/hc/ru/articles/4585430376593?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Что нужно знать клиентам REG.RU
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 2
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11927?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Успейте удвоить рекламный бюджет <br>в Яндекс.Бизнесе до 30 апреля
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 3
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11903?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Для современного сайта — домен .XYZ <br>всего за 99 рублей
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 4
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11917?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Получите официальный документ о владении доменом сразу при регистрации
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 5
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11907?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Узнайте о домене всё ― в сервисе Whois
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 6
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/promotions/20202104?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Для ваших digital-проектов: 15 доменов от 599 рублей
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 7
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11901?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Покупка и продажа доменов с историей в Магазине доменов REG.RU
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 8
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11905?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Не нужен штат сисадминов, когда есть услуга «Сервер для бизнеса»
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 9
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11919?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Домен .BEST и вы the best! Зарегистрируйте <br>веб-адрес всего за 499 рублей
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 10
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11913?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Для масштабных проектов — мощные VIP-тарифы хостинга REG.RU
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <p class="b-mail-digest-dark__view-all-wrapper" style="padding-top: 12px; text-align: right; margin: 0;" align="right">
+ <a href="https://www.reg.ru/company/news/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-digest-dark__view-all-link" target="_blank" style="padding-right: 6px; color: #1d9ef9; text-decoration: none; font: bold 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Все новости</a>
+ <img class="b-mail-digest-dark__arrow-right" src="https://img.reg.ru/mail/dark/blue_arrow_right.png" style="display: inline-block; vertical-align: middle; border: 0;">
+ </p>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__img-news-industry-wrapper" style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <img class="b-mail-digest-dark__img-news-industry" src="https://img.reg.ru/mail/dark/logo_news_industry.png" width="580" style="display: block; width: 100%; height: auto; margin-top: 60px; border: 0;">
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__news-industry" style="vertical-align: top; text-align: left; color: #364364; background-color: #ffffff; padding: 36px 36px 24px;" align="left" bgcolor="#ffffff" valign="top">
+ <p class="b-mail-digest-dark__news-title" style="margin-top: 0; margin-bottom: 24px; color: #364364; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Новости индустрии</p> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 1
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/company/news/11921?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ REG.Expert за март: ключевые новости индустрии
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 2
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fcctld.ru%2Fmedia%2Fnews%2Fkc%2F31816%2F&amp;sign=974cc6ff9699bca32f72291835539ddb&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Поддержка многоязычного интернета через развитие IDN-доменов
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 3
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.vedomosti.ru%2Fopinion%2Farticles%2F2022%2F03%2F15%2F913636-zolotoi-vek-aitishnikov&amp;sign=3ebec2e6a65548495565e8856394e317&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ В ближайшие годы дефицит IT-специалистов сохранится
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 4
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fiz.ru%2F1307293%2Fmariia-nemtceva%2Fkhak-tak-chto-izmenilos-v-strategii-khakerov-i-telefonnykh-moshennikov&amp;sign=6ae33b6cfcf0ac2983b9a93436bf144b&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Хак так: что изменилось в стратегии хакеров <br>и телефонных мошенников
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 5
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fcctld.ru%2Fmedia%2Fnews%2Findustry%2F31866%2F&amp;sign=b1dbb497a24a98375bda379f63f426ff&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ В национальном домене Бельгии придумали игру <br>в доменный Wordle
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 6
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2F3dnews.ru%2F1062908%2Fintel-predstavila-otborniy-flagman-core-i912900ks-s-chastotoy-do-55-ggts-i-stoimostyu-739&amp;sign=bff7f917779dd3a423eeb71a11dd6b90&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Intel представила отборный флагман Core i9-12900KS с частотой до 5,5 ГГц и стоимостью $739
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 7
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.kommersant.ru%2Fdoc%2F5269024&amp;sign=0afbfdb1e7cb44265a1f9f7636e3fe5b&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Трансформеры: искусственный интеллект 
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 8
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.kommersant.ru%2Fdoc%2F5269843&amp;sign=998d850a7e7ce640c67bcd45686d8b93&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ В России появится единая система блокировки спама
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 9
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.gazeta.ru%2Ftech%2F2022%2F03%2F13%2F14602285.shtml&amp;sign=326a70f5bb10a10be190eb226c67025d&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Человек дешевле. Почему мечта о роботах <br>пока не сбылась
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-bottom: 24px;">
+ <![endif]-->
+ <table class="b-mail-digest-dark__news-item-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; margin-bottom: 24px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__count-marker" style="display: inline-block; width: 24px; height: 24px; border-radius: 50%; color: #364364; vertical-align: middle; text-align: center; margin: 0 20px 0 0; border: 3px solid #364364; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="width: 24px; height: 24px; border: 3px solid #364364; border-radius: 50%; padding-left: 5px;">
+ <![endif]-->
+ 10
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </p>
+ </td>
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.kommersant.ru%2Fdoc%2F5251153&amp;sign=beeb2e82edb650500780c1bd3041f0a6&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__link" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+ <!--[if (gte mso 9)|(IE)]>
+ <table><tr><td style="padding-top:-24px; padding-left: 20px;">
+ <![endif]-->
+ <p class="b-mail-digest-dark__news-item" style="display: inline-block; color: #364364; text-decoration: none; margin: 0; font: 18px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Метавселенная расширится до рабочих мест
+ </p>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--> </td>
+ </tr>
+
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; color: #364364;"> <!--[if (gte mso 9)|(IE)]>
+ <table width="580" align="center"><tr><td style="padding-top:60px; padding-bottom:0; padding-right:0; padding-left:0;">
+ <![endif]-->
+ <table class="b-mail-digest-category b-mail-digest-dark__events" align="center" cellspacing="0" cellpadding="0" border="0" style="width: 100%; max-width: 580px; background-color: #ffffff; border-spacing: 0; border-collapse: collapse; color: #364364; margin: 60px 0 72px; padding: 0; border: 12px solid #ffcc03;" bgcolor="#ffffff">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__events-list" style="vertical-align: top; text-align: left; padding: 36px;" align="left" valign="top">
+ <table align="center" cellspacing="0" cellpadding="0" border="0" style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-text b-mail-text_mode_content-title b-mail-digest-dark__event-title" style="letter-spacing: -0.02em; margin: 0; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Советуем посетить</p>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__event-cell b-mail-digest-dark__event-cell_type_link" style="vertical-align: top; text-align: left; width: 100%; color: #94a0b6; text-decoration: none; margin: 0; padding: 36px 0 0; font: 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left" valign="top">
+ <a class="b-mail-digest-dark__event-link b-mail-digest-dark__event-link_mode_display-block" target="_blank" href="https://www.reg.ru/r?to=https%3A%2F%2Frunet-id.com%2Fevent%2Frif22%2F&amp;sign=01b0e1e8a8b27d27c1474bd0555fe491&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" style="color: #364364; text-decoration: none; display: block; font: bold 20px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;"> РИФ-2022: work-life balance как главное средство антикризисных решений </a>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__event-cell" style="vertical-align: top; text-align: left; width: 100%; color: #94a0b6; text-decoration: none; margin: 0; padding: 0; font: 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+ <![endif]-->
+ <div class="b-mail-digest-dark__event-info b-mail-digest-dark__event-info_type_date" style="display: inline-block; vertical-align: middle; margin: 0; padding: 12px 12px 0 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ <td width="20" valign="top" align="left">
+ <![endif]-->
+ <img src="https://img.reg.ru/mail/dark/event_date.png" class="b-mail-digest-dark__event-icon" alt="" width="18" height="20" style="display: inline-block; max-width: 18px; padding-right: 10px; vertical-align: middle; border: 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="230" valign="middle" align="left">
+ <![endif]-->
+ <p class="b-mail-digest-dark__event-text" style="display: inline-block; padding-bottom: 0; margin: 0;">18–20 мая </p>
+ </div> <div class="b-mail-digest-dark__event-info" style="display: inline-block; vertical-align: middle; margin: 0; padding: 12px 0 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ <td width="20" valign="top" align="left">
+ <![endif]-->
+ <img src="https://img.reg.ru/mail/dark/event_location.png" class="b-mail-digest-dark__event-icon" alt="" width="16" height="20" style="display: inline-block; max-width: 18px; padding-right: 10px; vertical-align: middle; border: 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="160" valign="middle" align="left">
+ <![endif]-->
+ <p class="b-mail-digest-dark__event-text" style="display: inline-block; padding-bottom: 0; margin: 0;">Подмосковье</p>
+ </div>
+ 
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__event-cell b-mail-digest-dark__event-cell_type_link" style="vertical-align: top; text-align: left; width: 100%; color: #94a0b6; text-decoration: none; margin: 0; padding: 36px 0 0; font: 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left" valign="top">
+ <a class="b-mail-digest-dark__event-link b-mail-digest-dark__event-link_mode_display-block" target="_blank" href="https://www.reg.ru/r?to=https%3A%2F%2Fexpo.oborot.ru%2F%3Futm_source%3Dinfp_reg%26amp%3Butm_medium%3Dras%26amp%3Butm_campaign%3Dinfp_reg_ras&amp;sign=90380f7df57415995a9199fe627761c3&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" style="color: #364364; text-decoration: none; display: block; font: bold 20px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;"> ECOM Expo’22 — крупнейшая  выставка технологий для интернет-торговли </a>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__event-cell" style="vertical-align: top; text-align: left; width: 100%; color: #94a0b6; text-decoration: none; margin: 0; padding: 0; font: 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+ <![endif]-->
+ <div class="b-mail-digest-dark__event-info b-mail-digest-dark__event-info_type_date" style="display: inline-block; vertical-align: middle; margin: 0; padding: 12px 12px 0 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ <td width="20" valign="top" align="left">
+ <![endif]-->
+ <img src="https://img.reg.ru/mail/dark/event_date.png" class="b-mail-digest-dark__event-icon" alt="" width="18" height="20" style="display: inline-block; max-width: 18px; padding-right: 10px; vertical-align: middle; border: 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="230" valign="middle" align="left">
+ <![endif]-->
+ <p class="b-mail-digest-dark__event-text" style="display: inline-block; padding-bottom: 0; margin: 0;">8–9 июня</p>
+ </div> <div class="b-mail-digest-dark__event-info" style="display: inline-block; vertical-align: middle; margin: 0; padding: 12px 0 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ <td width="20" valign="top" align="left">
+ <![endif]-->
+ <img src="https://img.reg.ru/mail/dark/event_location.png" class="b-mail-digest-dark__event-icon" alt="" width="16" height="20" style="display: inline-block; max-width: 18px; padding-right: 10px; vertical-align: middle; border: 0;">
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="160" valign="middle" align="left">
+ <![endif]-->
+ <p class="b-mail-digest-dark__event-text" style="display: inline-block; padding-bottom: 0; margin: 0;">Москва</p>
+ </div>
+ 
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </td>
+ </tr> <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <p class="b-mail-digest-dark__view-all-wrapper" style="padding-top: 12px; text-align: right; margin: 0;" align="right">
+ <a href="https://www.reg.ru/company/events/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-digest-dark__view-all-link" target="_blank" style="padding-right: 6px; color: #1d9ef9; text-decoration: none; font: bold 18px/28px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Все события</a>
+ <img class="b-mail-digest-dark__arrow-right" src="https://img.reg.ru/mail/dark/blue_arrow_right.png" style="display: inline-block; vertical-align: middle; border: 0;">
+ </p>
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table><![endif]--><br>
+ <tr class="%HIDE_ME%" style="text-align: left;" align="left">
+
+ <td class="b-mail-voting b-mail-voting__wrapper b-mail-voting__wrapper_type_dark" style="background-color: #364364; vertical-align: top; text-align: left; padding: 0 70px 36px;" align="left" bgcolor="#364364" valign="top">
+
+ <table class="b-mail-voting__content-wrapper" style="width: 100%; max-width: 580px; border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ 
+ 
+ <p class="b-mail-voting__title b-mail-voting__title_type_dark" style="text-align: center; color: #ffffff; font-size: 24px; line-height: 36px; font-weight: bold; letter-spacing: -0.01em; margin: 0 0 12px;" align="center">
+ 
+ 
+ Оцените это письмо
+ </p>
+ 
+ <table class="b-mail-voting__content" style="width: 100%; border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="l-align_center" style="vertical-align: top; text-align: center; padding: 0;" align="center" valign="top">
+ <a href="https://vote.reg.ru/html/TWk0eU5qWXpNalZtWW1OakxqRmlaakkyWWpjeExqRTJNbUl3WkRVMU9EWmsvMS80MDYxNy83MjQ2Yzc1NjU2YTAzZTk5YmFhMjYyYzllMDEyNWY5ZWQxZmY5Mjk4ZTdjNDQzNTJjYmQxNDhmZg==?rate=10&amp;lang=ru&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-voting__link" target="_blank" style="text-decoration: none !important;">
+ <img class="b-mail-voting__icon-wrapper b-mail-voting__icon-left" src="https://i.reg.ru/i/mail/img/voting-emoji-like.png" height="60" width="60" style="margin: 0 12px; border: 0;">
+ </a>
+ <a href="https://vote.reg.ru/html/TWk0eU5qWXpNalZtWW1Oa0xqRmlaakkyWWpjeExqRmlOVFkwTTJZeE9UazAvMS80MDYxNy9lM2UwMDEzNWU1NDZlMWViNzkxNTU3MmViNDk0YWIzYTcxZTc2NjM5MmNhMTc1MmNhYmQ3NjczZQ==?rate=1&amp;lang=ru&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-voting__link" target="_blank" style="text-decoration: none !important;">
+ <img class="b-mail-voting__icon-wrapper b-mail-voting__icon-right" src="https://i.reg.ru/i/mail/img/voting-emoji-dislike.png" height="60" width="60" style="margin: 0 12px; border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__highlight-wrapper" style="vertical-align: top; text-align: left; background-color: #364364; padding: 0;" align="left" bgcolor="#364364" valign="top">
+ <table align="center" cellspacing="0" cellpadding="0" border="0" class="b-mail-digest-dark__highlight" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 580px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxQbQETrwzTg%26amp%3Blist%3DPL1NXAeRaMsADOP7xFZ4Ed6gJDNBjwvrCb%26amp%3Bindex%3D1&amp;sign=ab071638144dcbe9be8faca749471b01&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__info-title" style="color: #94a0b6; text-decoration: none;">Видео</a>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__highlight-inner" style="vertical-align: top; text-align: left; padding: 6px 0 40px;" align="left" valign="top">
+ <table class="b-mail-grid b-mail-grid_valign_middle" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row b-mail-digest-dark__highlight-row" style="vertical-align: top; text-align: left; font-size: 0; box-sizing: border-box; padding: 0;" align="left" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="50" valign="top" align="left" style="background-color: #fff; padding-top: 20px; padding-bottom: 20px;">
+ <![endif]-->
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJVkSeB-Gxco%26t%3D5s&amp;sign=52f79cab14d15410c2dff85f2a0fc799&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-digest-dark__highlight-link" target="_blank" style="display: inline-block; box-sizing: border-box; width: 100%; min-width: 170px; text-decoration: none; background-color: #ffffff; padding: 20px 28px;">
+ <div class="b-mail-digest-dark__highlight-icon" style="display: inline-block; width: 100%; max-width: 42px; height: 42px; vertical-align: middle; text-align: right; margin: 0 24px 0 0; padding: 0;" align="right">
+ <img src="https://i.reg.ru/i/mail/img/product-icons/youtube.png" alt="" width="42" height="42" style="border: 0;">
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="400" valign="middle" align="right" style="background-color: #fff; padding-top: 20px; padding-bottom: 20px;">
+ <![endif]-->
+ <div class="b-mail-digest-dark__highlight-title-wrapper" style="display: inline-block; width: 350px; max-width: 350px; vertical-align: middle; text-align: left; margin: 0; padding: 0;" align="left">
+ <p class="b-mail-digest-dark__highlight-title" style="color: #364364; margin: 12px 0 6px; padding: 0; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Что нужно сделать сегодня, чтобы защитить свои проекты
+ </p>
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr> <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__highlight-wrapper" style="vertical-align: top; text-align: left; background-color: #364364; padding: 0;" align="left" bgcolor="#364364" valign="top">
+ <table align="center" cellspacing="0" cellpadding="0" border="0" class="b-mail-digest-dark__highlight" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; max-width: 580px;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/blog/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" target="_blank" class="b-mail-digest-dark__info-title" style="color: #94a0b6; text-decoration: none;">Блог</a>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-digest-dark__highlight-inner" style="vertical-align: top; text-align: left; padding: 6px 0 40px;" align="left" valign="top">
+ <table class="b-mail-grid b-mail-grid_valign_middle" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row b-mail-digest-dark__highlight-row" style="vertical-align: top; text-align: left; font-size: 0; box-sizing: border-box; padding: 0;" align="left" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="50" valign="top" align="left" style="background-color: #fff; padding-top: 20px; padding-bottom: 20px;">
+ <![endif]-->
+ <a href="https://www.reg.ru/blog/antikrizisnye-rekomendatsii-vebmasteru-kak-sohranit-sajt-i-dohod/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-digest-dark__highlight-link" target="_blank" style="display: inline-block; box-sizing: border-box; width: 100%; min-width: 170px; text-decoration: none; background-color: #ffffff; padding: 20px 28px;">
+ <div class="b-mail-digest-dark__highlight-icon" style="display: inline-block; width: 100%; max-width: 42px; height: 42px; vertical-align: middle; text-align: right; margin: 0 24px 0 0; padding: 0;" align="right">
+ <img src="https://i.reg.ru/i/mail/img/product-icons/blog.png" alt="" width="42" height="42" style="border: 0;">
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="400" valign="middle" align="right" style="background-color: #fff; padding-top: 20px; padding-bottom: 20px;">
+ <![endif]-->
+ <div class="b-mail-digest-dark__highlight-title-wrapper" style="display: inline-block; width: 350px; max-width: 350px; vertical-align: middle; text-align: left; margin: 0; padding: 0;" align="left">
+ <p class="b-mail-digest-dark__highlight-title" style="color: #364364; margin: 12px 0 6px; padding: 0; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Антикризисные рекомендации вебмастеру — как сохранить сайт и доход
+ </p>
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr> <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td width="100%" style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail-tiles b-mail-tiles_type_dark b-mail-tiles_mode_compact" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; background-color: #364364;" bgcolor="#364364">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-tiles__wrapper b-mail-tiles__wrapper_type_dark b-mail-digest-dark__recommends-wrapper" style="vertical-align: top; text-align: left; background-color: #364364; padding: 6px 0 0;" align="left" bgcolor="#364364" valign="top">
+ <table class="b-mail-grid b-mail-tiles__list" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <p class="b-mail-text b-mail-text_mode_content-title b-mail-text_mode_align-center  b-mail-digest-dark__recommends-title l-margin_bottom-none" style="letter-spacing: -0.02em; text-align: center; color: #ffffff; margin: 36px 0 18px; padding: 0; font: bold 32px/42px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">Рекомендуем</p>
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td width="50%" valign="top">
+ <![endif]-->
+ <div class="b-mail-grid__column b-mail-digest-dark__recommends-column" style="display: inline-block; width: 100%; vertical-align: top; text-align: left; max-width: 290px !important; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table class="b-mail-grid__inner-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__inner b-mail-digest-dark__recommends-inner" style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/dedicated/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-block-link b-mail-digest-dark__tile-link" target="_blank" style="color: #ffffff; text-decoration: none; font: bold 20px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <table class="b-mail-grid__content-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__content b-mail-grid__content_bg_purple b-mail-grid__content_padding_equal" style="vertical-align: middle; text-align: center; background-color: #cf0389; padding: 38px 56px;" align="center" bgcolor="#cf0389" valign="middle">
+ <table class="b-mail-tiles__item" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-tiles__item-img" style="vertical-align: middle; text-align: center; height: 75px; padding: 0;" align="center" valign="middle">
+ <a href="https://www.reg.ru/dedicated/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-block-link b-mail-digest-dark__tile-link" target="_blank" style="color: #ffffff; text-decoration: none; font: bold 20px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <img src="https://img.reg.ru/mail/dark/server.png" alt="" width="75" height="75" style="vertical-align: top; border: 0;">
+ </a>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-tiles__item-content" style="vertical-align: top; text-align: center; height: 48px; padding: 12px 0 0;" align="center" valign="top">
+ <p class="b-mail-text" style="margin: 0; font: 15px/18px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <a href="https://www.reg.ru/dedicated/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-block-link b-mail-digest-dark__tile-link" target="_blank" style="color: #ffffff; text-decoration: none; font: bold 20px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <strong>Мощные серверы от 7500₽</strong>
+ </a>
+ </p>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td><td width="50%" valign="top">
+ <![endif]-->
+ <div class="b-mail-grid__column b-mail-digest-dark__recommends-column" style="display: inline-block; width: 100%; vertical-align: top; text-align: left; max-width: 290px !important; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table class="b-mail-grid__inner-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__inner b-mail-digest-dark__recommends-inner" style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fdomainparking.ru%2F&amp;sign=408bd5111ad52429ed627cb7d37e6f94&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-block-link b-mail-digest-dark__tile-link" target="_blank" style="color: #ffffff; text-decoration: none; font: bold 20px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <table class="b-mail-grid__content-wrapper" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__content b-mail-grid__content_bg_blue b-mail-grid__content_padding_equal" style="vertical-align: middle; text-align: center; background-color: #066bc6; padding: 38px 56px;" align="center" bgcolor="#066bc6" valign="middle">
+ <table class="b-mail-tiles__item" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-tiles__item-img" style="vertical-align: middle; text-align: center; height: 75px; padding: 0;" align="center" valign="middle">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fdomainparking.ru%2F&amp;sign=408bd5111ad52429ed627cb7d37e6f94&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-block-link b-mail-digest-dark__tile-link" target="_blank" style="color: #ffffff; text-decoration: none; font: bold 20px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <img src="https://img.reg.ru/mail/dark/domain.png" alt="" width="75" height="75" style="vertical-align: top; border: 0;">
+ </a>
+ </td>
+ </tr>
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-tiles__item-content" style="vertical-align: top; text-align: center; height: 48px; padding: 12px 0 0;" align="center" valign="top">
+ <p class="b-mail-text" style="margin: 0; font: 15px/18px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fdomainparking.ru%2F&amp;sign=408bd5111ad52429ed627cb7d37e6f94&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-block-link b-mail-digest-dark__tile-link" target="_blank" style="color: #ffffff; text-decoration: none; font: bold 20px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ <strong>
+ Доменный SALE на DomainParking
+ </strong>
+ </a>
+ </p>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]>
+ </td></tr></table>
+ <![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+</table>
+ 
+
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail b-mail-socialnets b-mail-socialnets_type_dark" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: 100%; background-color: #364364; max-width: 580px; margin: 24px auto;" bgcolor="#364364">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__wrapper b-mail-socialnets__wrapper_type_dark" style="vertical-align: top; text-align: center; background-color: #364364; padding: 0;" align="center" bgcolor="#364364" valign="top">
+ <div class="b-mail-socialnets__links-wrapper" style="margin: 0; padding: 0;">
+ <a href="https://www.reg.ru/company/promotions/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-socialnets__title b-mail-socialnets__title_type_dark" target="_blank" style="display: inline-block; color: #ffffff; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Акции</a>
+ <a href="https://www.reg.ru/company/news/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-socialnets__title b-mail-socialnets__title_type_dark" target="_blank" style="display: inline-block; color: #ffffff; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Новости</a>
+ <a href="https://www.reg.ru/blog/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-socialnets__title b-mail-socialnets__title_type_dark" target="_blank" style="display: inline-block; color: #ffffff; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Блог</a>
+ 
+ <a href="https://www.reg.ru/support/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" class="b-mail-socialnets__title b-mail-socialnets__title_type_dark" target="_blank" style="display: inline-block; color: #ffffff; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Помощь</a>
+ 
+ </div>
+ <table align="center" class="b-mail-grid b-mail-grid_align_center" style="border-spacing: 0; border-collapse: collapse; color: #364364; width: auto !important; margin: 0 auto;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="378px" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
+ <![endif]-->
+ <div class="b-mail-grid__column" style="width: auto; max-width: 216px; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fvk.com%2Fregru&amp;sign=5fa3b632282193d391dbbaa651421417&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" title="vk" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_vk.png" alt="vk" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Ft.me%2Fregru&amp;sign=458a469ca8aa377fd5314605fd339248&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" title="telegram" target="_blank">
+ <img src="https://img.reg.ru/mail/b-mail-socailnets/b-mail-socialnets__icon_mode_telegram.png" alt="telegram" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=http%3A%2F%2Ftwitter.com%2Fregru&amp;sign=a1f73401b228af61409e393b64ec29f1&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" title="twitter" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_twitter.png" alt="twitter" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td><td valign="top"><![endif]-->
+ <div class="b-mail-grid__column" style="width: auto; max-width: 216px; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fregruvideo&amp;sign=ee2aa0f43cefbac10ac2b043240c0917&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" title="youtube" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_youtube.png" alt="youtube" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="vertical-align: top; text-align: left; display: table-cell; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fok.ru%2Fregru&amp;sign=38f3de0759ef6b3daaf2695fc3618256&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" title="ok" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_ok.png" alt="ok" width="36" height="36" style="border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ 
+ <div class="b-mail-text b-mail-text_mode_align-center b-mail-text_mode_indent-top-small" style="text-align: center; margin: 18px 0 6px; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="center">
+ <a class="b-link l-color_link-blue" href="https://www.reg.ru/user/account/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617#/settings/notifications/" style="display: block; color: #fff;" target="_blank">Настройки рассылок</a><a class="b-link l-color_link-blue" href="https://www.reg.ru/newsletters/newsletter-unsubscribe/Nk-mfua4jzUwNzI3NDcwMy0uUmltQHR2ZXJyZWcucnU6MQ?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=NewsDigestDark_40617" style="display: inline-block; color: #fff; padding-bottom: 36px;" target="_blank">Отписаться от&nbsp;рассылки</a>
+ </div>
+ </td>
+</tr>
+ <table style="border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td style="vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <br>
+ <br>
+ </td>
+ </tr>
+</table>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </table>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </center>
+ </div>
+ </div>
+ </div>
+ </table>
+ </table>
+ </body>
+</html>
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

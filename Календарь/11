@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1a6f60
+DTSTAMP:20220424T204126Z
+CREATED:20220331T162602Z
+LAST-MOD:20220331T162452Z
+SUMMARY:РЎРѕРІРµС‰Р°РЅРёРµ\, С‚РµРјР°: В«Рћ С…РѕРґРµ СЂРµР°Р»РёР·Р°С†РёРё СЂРµРіРёРѕРЅР°Р»СЊРЅС‹С… РїСЂРѕРµРєС‚РѕРІ В«Р–РёР»СЊРµВ» Рё В«РћР±РµСЃРїРµС‡РµРЅРёРµ СѓСЃС‚РѕР№С‡РёРІРѕРіРѕ СЃРѕРєСЂР°С‰РµРЅРёСЏ РЅРµРїСЂРёРіРѕРґРЅРѕРіРѕ РґР»СЏ РїСЂРѕР¶РёРІР°РЅРёСЏ Р¶РёР»РёС‰РЅРѕРіРѕ С„РѕРЅРґР°В»\, РІС…РѕРґСЏС‰РёС… РІ СЃРѕСЃС‚Р°РІ РЅР°С†РёРѕРЅР°Р»СЊРЅРѕРіРѕ РїСЂРѕРµРєС‚Р° В«Р–РёР»СЊРµ Рё РіРѕСЂРѕРґСЃРєР°СЏ СЃСЂРµРґР°В»
+DTSTART;VALUE=DATE-TIME:20220407T113000Z
+DTEND;VALUE=DATE-TIME:20220407T121500Z
+LOCATION:РєР°Р±. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

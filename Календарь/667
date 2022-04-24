@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x48f584
+DTSTAMP:20220424T204126Z
+CREATED:20210915T062718Z
+LAST-MOD:20210914T165323Z
+SUMMARY:Торжественное вручение школьных автобусов и автомобилей скорой медицинской помощи муниципальным образованиям Тверской области (отв. Новикова В.И.\, Березин Д.Б.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210915T060000Z
+DTEND;VALUE=DATE-TIME:20210915T063000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

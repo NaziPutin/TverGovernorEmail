@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe34800
+DTSTAMP:20220424T204127Z
+CREATED:20190903T062956Z
+LAST-MOD:20190903T061806Z
+SUMMARY:Встреча с инвестором Лисиным В.С. Подписание соглашения о сотрудничестве в рамках реализации инвестиционного проекта по строительству  молочно-товарных ферм и молокоперерабатывающего завода (отв. Наумов А.В.\, Егоров И.И.\, Куликов Д.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190903T120000Z
+DTEND;VALUE=DATE-TIME:20190903T130000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

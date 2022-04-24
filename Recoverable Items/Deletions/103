@@ -1,0 +1,398 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 24 Mar 2022 12:25:49 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 24 Mar
+ 2022 12:25:49 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 24 Mar 2022 12:25:49 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 64BF583DC1
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 12:25:47 +0300 (MSK)
+Received-SPF: pass (reg.ru: 194.58.116.234 is authorized to use 'pro@reg.ru' in 'mfrom' identity (mechanism 'ip4:194.58.116.0/24' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="pro@reg.ru"; helo=mailer.reg.ru; client-ip=194.58.116.234
+Received: from mailer.reg.ru (mailer.reg.ru [194.58.116.234])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 7FA4783D26
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 12:25:45 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=reg.ru;
+	s=exim; h=Date:To:From:Subject:Message-ID:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=f8q7PAC3iTPYiriyWhtzuqRkCcbS0K2ByvpVoC8BTDc=; b=IuldmG3cswFtjczvVwnahP0NWh
+	a/jMW//WnfwtLFVk1axCu9kh3Q7/0iQNZbqAU73zC6zZu3im9M3S5XKI547h8KYSM5hus8wrP1o9Y
+	h3qCnS4+MzyayDGommkmfY7q+zEqEMeRl+6jfu3kQqO7VnOrFA4leu50PIAXURY6yYFY=;
+Received: from root by mailer.reg.ru with local (Exim 4.94.2)
+	(envelope-from <pro@reg.ru>)
+	id 1nXJir-0006Tt-VZ
+	for rim@tverreg.ru; Thu, 24 Mar 2022 09:25:38 +0000
+X-Mailer: REG.MAILER [ https://reg.ru ] 1.0
+Message-ID: <MS4yNjVmODYyZmVjLjFiOTEzZTZmLjBkZTIxYjY1OWUw@mailer.reg.ru>
+X-Mailer-Dispatch: 463318909
+X-Mailru-Msgtype: bulkmail_40545
+Feedback-ID: bulkmail_40545:RegRU
+Subject: =?utf-8?b?MTUg0LTQvtC80LXQvdC+0LIg0L7RgiA1OTkg0YDRg9Cx0LvQtdC5LCAxMDAwINGA0YPQsdC70LXQuSDQvdCwINGA0LXQutC70LDQvNGDINGB0LDQudGC0LAg0Lgg0LrQtdGI0LHRjdC6IDEwJSDQv9GA0Lgg0L/QvtC60YPQv9C60LUg0LvQuNGG0LXQvdC30LjQuCAx0KEt0JHQuNGC0YDQuNC60YE=?=
+From: =?utf-8?b?0JrQvtC80LDQvdC00LAgUkVHLlJV?= <pro@reg.ru>
+To: Rim@tverreg.ru
+Date: Thu, 24 Mar 2022 09:25:37 +0000
+X-DrWeb-SpamScore: 49
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegkedguddvjecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucgoufhushhpvggtthffohhmrghinhculdegledmnecujfgurhepgggtgffokffuhffvffesmhhqtderredtjeenucfhrhhomhepmfhomhgrhhiprgcutffgifdrtfgfuceophhrohesrhgvghdrrhhuqeenucggtffrrghtthgvrhhnpedvtdejjedtuedvjeeuveelhfelieevlefhffdtffegkeduhfdvhefgieekhedvhfenucffohhmrghinheprhgvghdrrhhupdhomhgvhhgrrdhruhdpohhhvgdrrhhupdhvkhdrtghomhdpthdrmhgvpdhtfihithhtvghrrdgtohhmpdihohhuthhusggvrdgtohhmpdhokhdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.148#127 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  1
+	AWL                     0.976 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_INFOUSMEBIZ          0.75 Prevalent use of .info|.us|.me|.me.uk|.biz|xyz|id|rocks|life domains in spam/malware
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	KAM_TRACKIMAGE            0.2 Message has a remote image explicitly meant for tracking
+	MIXED_ES                  1.7 Too many es are not es
+	MPART_ALT_DIFF_COUNT    1.112 HTML and text parts are different
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 49
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegkedguddvjecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucgoufhushhpvggtthffohhmrghinhculdegledmnecujfgurhepgggtgffokffuhffvffesmhhqtderredtjeenucfhrhhomhepmfhomhgrhhiprgcutffgifdrtfgfuceophhrohesrhgvghdrrhhuqeenucggtffrrghtthgvrhhnpedvtdejjedtuedvjeeuveelhfelieevlefhffdtffegkeduhfdvhefgieekhedvhfenucffohhmrghinheprhgvghdrrhhupdhomhgvhhgrrdhruhdpohhhvgdrrhhupdhvkhdrtghomhdpthdrmhgvpdhtfihithhtvghrrdgtohhmpdihohhuthhusggvrdgtohhmpdhokhdrrhhunecukfhppeduleegrdehkedrudduiedrvdefge
+X-DrWeb-SpamVersion: Vade Retro 01.422.148#127 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: pro@reg.ru
+X-MS-Exchange-Organization-Network-Message-Id: 81d5df6f-3ce3-4bdc-3d07-08da0d7848a9
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2540573
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title></title>
+ <!--[if gte mso 9]>
+ <style>
+ .b-mail__outlook-margin { height: 10px !important; border: 5px solid red; }
+ </style>
+ <![endif]-->
+ <style type="text/css">
+.b-mail-voting__link:hover {
+text-decoration: none;
+}
+.b-mail-voting__button-url:hover {
+text-decoration: underline !important; color: #1d9ef9;
+}
+.b-mail-button__inner_color_default:hover {
+border-color: #f2f4f9 !important; background-color: #f2f4f9 !important;
+}
+@media only screen and (min-width: 580px) {
+ .l-align_left {
+ text-align: left !important;
+ }
+ .l-align_right {
+ text-align: right !important;
+ }
+}
+@media only screen and (max-width: 579px) {
+ .b-mail-grid_mode_full-width .b-mail-grid__column {
+ max-width: 100% !important;
+ }
+}
+@media screen and (min-width: 1140px) {
+ * [lang=l-align_right] {
+ text-align: right !important;
+ }
+ * [lang=l-align_left] {
+ text-align: left !important;
+ }
+}
+</style>
+</head>
+<body style="width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #ffffff; overflow: auto; -webkit-font-smoothing: antialiased; min-width: 100%; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" bgcolor="#ffffff">
+<img src="https://trackmail.reg.ru/Mi4yNjVmODY0YWZiLjFiOWRhZjdkLjEyYTE4NmY1NWQx.gif" width="1" height="1" alt="" nocache="">
+ <!-- Невидимый прехедер для писем, работает в почтовиках: рамблер, гугл, яндекс. В мейл.ру не работает. Вставлять в начало письма, перед b-mail-header -->
+ <div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">И другие спецпредложения</div><div class="b-mail-preheader" style="display: none !important; visibility: hidden; overflow: hidden; max-width: 0; max-height: 0; font-size: 1px; line-height: 1px; opacity: 0; margin: 0; padding: 0;">‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍</div>
+ <!--[if (gte mso 9)|(IE)]>
+ <style type="text/css">
+ table {border-collapse: collapse;}
+ .l-align_left {text-align: left !important;}
+ .l-align_right {text-align: right !important;}
+ .b-mail-full-width-img {width: 480px !important;}
+ .b-mail-discount-label {
+ background: none !important;
+ color: #000 !important;
+ display: inline;
+ font: bold 20px/24px Arial, 'Helvetica Neue', Helvetica, sans-serif !important;
+ padding-left: 0; !important;
+ margin-left: 0 !important;
+ width: auto !important;
+ }
+ .b-mail-dedicated__raid {
+ background: transparent !important;
+ color: #44A7E0 !important;
+ font-weight: bold;
+ padding: 0 !important;
+ margin-left: 0 !important;
+ }
+ </style>
+ <![endif]--><article class="b-mail__wrapper" style="background-color: #fff; width: 100%; table-layout: fixed; padding: 0;">
+ <div class="b-mail b-promotions-digest" style="width: 100%; text-align: left; max-width: 580px; margin: 0px auto; padding: 0;" align="left">
+ <div class="b-mail-grid__row" style="font-size: 0; text-align: left; margin: 0; padding: 0;" align="left">
+ <div class="b-mail-grid__column" style="width: auto; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <a href="https://www.reg.ru/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545">
+ <img src="https://i.reg.ru/i/mail/img/b-mail__logo.png?v18" width="171" height="48" alt="REG.RU" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </a>
+ </div>
+ <div class="b-mail-grid__column b-mail-header__content-wrapper" style="float: right; width: auto !important; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.reg.ru/user/authorize?rtm_source=e-mail&rtm_medium=e-mail&rtm_campaign=PromoPromotionsDigest_40545" style="height:60px; v-text-anchor:middle; width: 480px;" arcsize="4%" stroke="f" fillcolor="#00C084;" class="l-background-color_profit-green">
+ <w:anchorlock/><center>
+ <![endif]--> <div class="b-mail-button__wrapper" style="margin: 12px 0 36px; padding: 0;">
+ <a href="https://www.reg.ru/user/authorize?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-button__conteiner b-mail-button__conteiner_size_min" target="_blank" style="color: #ffffff; text-align: center; text-decoration: none; display: inline-block; font-size: 15px; font-weight: bold; font-style: normal; letter-spacing: -0.01em; line-height: 21px;">
+ <div class="b-mail-button__inner" style="display: inherit; border-radius: 3px; color: #ffffff; text-align: center; background-color: #00c084; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border: solid #00c084;" align="center">Войти</div>
+ </a>
+ </div> <!--[if mso]></center></v:roundrect><![endif]-->
+ </div>
+ </div>
+ <div class="l-background-color_dark-gray l-color_white" style="color: white !important; background-color: #94A0B6 !important; margin: 20px 0 0; padding: 0;">
+ <a href="https://www.reg.ru/company/promotions/20202104?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" target="_blank" class="l-color_white" style="text-decoration: none; color: white !important;">
+ <p style="padding: 36px 36px 0;">
+ Лучшие предложения месяца
+ </p>
+ <p class="b-mail-text b-mail-text_mode_title" style="word-break: normal; margin: 12px 0 6px; padding: 0 36px; font: bold 36px/46px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Для ваших digital-проектов: 15 доменов от 599 рублей
+ </p>
+ 
+ <p class="b-mail-text" style="margin: 12px 0 6px; padding: 0 36px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Новая акция от REG.RU: станьте владельцем яркого веб-адреса <br>по сниженной цене! До 30 июня 2022 года вы можете зарегистрировать <br>со скидкой тематические домены для бизнес-сайтов, экспертных блогов, онлайн-портфолио, новостных проектов и СМИ, лендингов <br>и digital-проектов любой тематики.
+ </p>
+ 
+ </a>
+ <div class="l-align_left" lang="l-align_left" style="margin: 0; padding: 15px 36px 0 33px;">
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.reg.ru/company/promotions/20202104?rtm_source=e-mail&rtm_medium=e-mail&rtm_campaign=PromoPromotionsDigest_40545" style="height:60px; v-text-anchor:middle; width: 480px;" arcsize="4%" stroke="f" fillcolor="#00C084;" class="l-background-color_profit-green">
+ <w:anchorlock/><center>
+ <![endif]--> <div class="b-mail-button__wrapper" style="margin: 12px 0 36px; padding: 0;">
+ <a href="https://www.reg.ru/company/promotions/20202104?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-button__conteiner b-mail-button__conteiner_size_min" target="_blank" style="color: #ffffff; text-align: center; text-decoration: none; display: inline-block; font-size: 15px; font-weight: bold; font-style: normal; letter-spacing: -0.01em; line-height: 21px;">
+ <div class="b-mail-button__inner" style="display: inherit; border-radius: 3px; color: #ffffff; text-align: center; background-color: #00c084; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; margin: 0; padding: 10px 15px; border: solid #00c084;" align="center">Выбрать домен</div>
+ </a>
+ </div> <!--[if mso]></center></v:roundrect><![endif]-->
+ </div>
+ <div style="width: 100%; height: 216px; margin: 0; padding: 0;">
+ <img src="https://img.reg.ru/news/domain24032022.png" class="b-mail-content-footer__img" style="width: 216px; height: 216px; float: right; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; vertical-align: bottom; margin: auto 0 0 auto; border: 0;" align="right">
+ </div>
+ </div> <div class="b-mail__color_gray" style="text-decoration: none; -webkit-clip-path: polygon(10% 0, 100% 0, 100% 10%, 100% 100%, 100% 100%, 10% 100%, 0% 80%, 0 20%); clip-path: polygon(10% 0, 100% 0, 100% 10%, 100% 100%, 100% 100%, 10% 100%, 0% 80%, 0 20%); background-color: #97b2cb !important; margin: 24px 0 0; padding: 0 36px;">
+ <a href="https://www.reg.ru/company/promotions/20202033?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" target="_blank" class="l-color_white" style="text-decoration: none; color: white !important; padding: 36px;">
+ <p class="b-mail-text b-mail-text_mode_title" style="word-break: normal; margin: 12px 0 6px; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Закажите хостинг и получите .SITE в подарок!
+ </p>
+ 
+ <p class="b-mail-text" style="margin: 12px 0 6px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Выберите подходящий тариф виртуального хостинга и получите <br>в подарок промокод на бесплатную регистрацию домена .SITE. 
+ </p>
+ 
+ </a>
+ </div>
+  <div class="b-mail__color_blue" style="text-decoration: none; -webkit-clip-path: polygon(0 0, 90% 0, 100% 25%, 100% 81%, 90% 100%, 0 100%, 0% 80%, 0% 30%); clip-path: polygon(0 0, 90% 0, 100% 25%, 100% 81%, 90% 100%, 0 100%, 0% 80%, 0% 30%); background-color: #4197BD !important; margin: 24px 0 0; padding: 0 36px;">
+ <a href="https://www.reg.ru/company/promotions/20202068?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" target="_blank" class="l-color_white" style="text-decoration: none; color: white !important; padding: 36px;">
+ <p class="b-mail-text b-mail-text_mode_title" style="word-break: normal; margin: 12px 0 6px; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Промокод на 1000 рублей <br>для рекламы сайта
+ </p>
+ 
+ <p class="b-mail-text" style="margin: 12px 0 6px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Яндекс.Бизнес дарит клиентам REG.RU бонус для продвижения сайтов — промокод на 1000 рублей при заказе рекламной кампании.
+ </p>
+ 
+ </a>
+ </div>
+  <div class="b-mail__color_dark" style="text-decoration: none; -webkit-clip-path: polygon(10% 0, 100% 0, 100% 10%, 100% 100%, 100% 100%, 10% 100%, 0% 80%, 0 20%); clip-path: polygon(10% 0, 100% 0, 100% 10%, 100% 100%, 100% 100%, 10% 100%, 0% 80%, 0 20%); background-color: #667695 !important; margin: 24px 0 0; padding: 0 36px;">
+ <a href="https://www.reg.ru/company/promotions/5167?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" target="_blank" class="l-color_white" style="text-decoration: none; color: white !important; padding: 36px;">
+ <p class="b-mail-text b-mail-text_mode_title" style="word-break: normal; margin: 12px 0 6px; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Домен .ONLINE за 1 рубль <br>при регистрации домена .RU!
+ </p>
+ 
+ <p class="b-mail-text" style="margin: 12px 0 6px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Зарегистрируйте новый домен в зоне .RU и получите бонус — <br>такое же имя для сайта, но в зоне .ONLINE всего за 1 рубль!
+ </p>
+ 
+ </a>
+ </div>
+  <div class="b-mail__color_green" style="text-decoration: none; -webkit-clip-path: polygon(0 0, 90% 0, 100% 25%, 100% 81%, 90% 100%, 0 100%, 0% 80%, 0% 30%); clip-path: polygon(0 0, 90% 0, 100% 25%, 100% 81%, 90% 100%, 0 100%, 0% 80%, 0% 30%); background-color: #00A79C !important; margin: 24px 0 0; padding: 0 36px;">
+ 
+ <a href="https://www.reg.ru/company/promotions/20202032?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" target="_blank" class="l-color_white" style="text-decoration: none; color: white !important; padding: 36px;">
+ <p class="b-mail-text b-mail-text_mode_title" style="word-break: normal; margin: 12px 0 6px; font: bold 32px/36px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ 10% от суммы в подарок — <br>при покупке или продлении любой лицензии 1С-Битрикс!
+ </p>
+ 
+ <p class="b-mail-text" style="margin: 12px 0 6px; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Вам вернётся 10% от суммы в виде баллов (1 балл = 1 рубль). Потратить баллы можно на заказ доменов, хостинга или серверов.
+ </p>
+ 
+ </a>
+ </div>
+ 
+ <a href="https://www.reg.ru/company/promotions/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" target="_blank" class="l-color_link-blue b-mail-button__inner b-mail-button__inner_size_big" style="margin-top: 10px; margin-bottom: 20px; text-decoration: none; background-color: transparent; display: inherit; border-radius: 3px; color: #1D9EF9 !important; text-align: center; font-size: inherit; font-weight: inherit; font-style: inherit; letter-spacing: inherit; line-height: inherit; padding: 10px 15px; border: solid transparent;" align="center">
+ <span style="font-size: 18px; line-height: 24px;">Все акции и&nbsp;скидки</span>
+ <i class="b-mail-button b-mail-button_font_big" style="display: inline-block; vertical-align: middle; color: #ffffff; text-align: center; text-decoration: none; font-size: 18px; line-height: 27px; font-weight: bold; letter-spacing: normal;">
+ <img src="https://img.reg.ru/mail/promotions_digest/b-mail-promo_icon_blue.png" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </i>
+ </a>
+ <a href="https://www.reg.ru/company/events/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="l-color_black" target="_blank" style="text-decoration: none; color: #364364 !important;">
+ <div class="l-background-color_button-gray" style="background-color: #F2F4F9 !important; margin: 0; padding: 36px 72px 36px 36px;">
+ <div class="b-mail-grid__column l-align_right" style="display: inline-block; max-width: 72px; width: 100%; vertical-align: top; text-align: right; margin: 0; padding: 0 20px 0 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="right">
+ <img src="https://img.reg.ru/mail/promotions_digest/b-mail-promo_icon_badge.png" alt="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0;">
+ </div>
+ <p class="b-mail-text b-mail-text_mode_title" style="display: inline-block; max-width: 350px; word-break: normal; margin: 12px 0 6px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">
+ Интересные конференции, форумы и&nbsp;семинары
+ </p>
+ </div>
+ </a>
+ <br> <table class="b-mail" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; text-align: left; border-spacing: 0; color: #364364; max-width: 580px; margin: 0px auto;">
+ <tr class="%HIDE_ME%" style="text-align: left;" align="left">
+
+ 
+ <td class="b-mail-voting b-mail-voting__wrapper" style="background-color: #ffffff; vertical-align: top; text-align: left; padding: 12px 0 0;" align="left" bgcolor="#ffffff" valign="top">
+ 
+
+ <table class="b-mail-voting__content-wrapper" style="width: 100%; max-width: 580px; border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td style="border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ 
+ 
+ <p class="b-mail-voting__title" style="text-align: center; color: #364364; font-size: 24px; line-height: 36px; font-weight: bold; letter-spacing: -0.01em; margin: 0 0 12px;" align="center">
+ 
+ 
+ Оцените это письмо
+ </p>
+ 
+ <table class="b-mail-voting__content" style="width: 100%; border-spacing: 0; border-collapse: collapse; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="l-align_center" style="border-collapse: collapse; vertical-align: top; text-align: center; padding: 0;" align="center" valign="top">
+ <a href="https://vote.reg.ru/html/TWk0eU5qVm1PRFkwWVdaaUxqRmlPV1JoWmpka0xqRXlZVEU0Tm1ZMU5XUXgvNC80MDU0NS8yN2NlYzE1NjM5YzNkYjBlOWExZWQ3MWM4MGRjYTAyOWQ1MmMwZjJiNWRlMzRlODhkNWZjYWNjNw==?rate=10&amp;lang=ru&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-voting__link" target="_blank" style="text-decoration: none !important;">
+ <img class="b-mail-voting__icon-wrapper b-mail-voting__icon-left" src="https://i.reg.ru/i/mail/img/voting-emoji-like.png" height="60" width="60" style="margin: 0 12px; border: 0;">
+ </a>
+ <a href="https://vote.reg.ru/html/TWk0eU5qVm1PRFkwWVdaaUxqRmlPV1JoWmpka0xqRXlZVEU0Tm1ZMU5XUXgvNC80MDU0NS8yN2NlYzE1NjM5YzNkYjBlOWExZWQ3MWM4MGRjYTAyOWQ1MmMwZjJiNWRlMzRlODhkNWZjYWNjNw==?rate=1&amp;lang=ru&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-voting__link" target="_blank" style="text-decoration: none !important;">
+ <img class="b-mail-voting__icon-wrapper b-mail-voting__icon-right" src="https://i.reg.ru/i/mail/img/voting-emoji-dislike.png" height="60" width="60" style="margin: 0 12px; border: 0;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+
+ </table> <table class="b-mail" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; text-align: left; border-spacing: 0; color: #364364; max-width: 580px; margin: 0px auto;">
+ <tr style="text-align: left;" align="left">
+ <td style="border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <tr style="text-align: left;" align="left">
+ <td style="border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; color: #364364;">
+ </table>
+ </td>
+</tr>
+ 
+
+ <tr style="text-align: left;" align="left">
+ <td style="border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ <table class="b-mail b-mail-socialnets" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; text-align: center; border-spacing: 0; color: #364364; background-color: #ffffff; max-width: 580px; margin: 24px auto;" bgcolor="#ffffff">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__wrapper" style="border-collapse: collapse; vertical-align: top; text-align: center; padding: 0;" align="center" valign="top">
+ <div class="b-mail-socialnets__links-wrapper" style="margin: 0; padding: 0;">
+ <a href="https://www.reg.ru/company/promotions/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; margin-bottom: 10px; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Акции</a>
+ <a href="https://www.reg.ru/company/news/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; margin-bottom: 10px; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Новости</a>
+ <a href="https://www.reg.ru/blog/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; margin-bottom: 10px; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Блог</a>
+ 
+ <a href="https://www.reg.ru/support/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" class="b-mail-socialnets__title" target="_blank" style="display: inline-block; margin-bottom: 10px; color: #667695; text-decoration: none; padding: 0 16px 24px; font: bold 24px/30px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;">Помощь</a>
+ 
+ </div>
+ <table align="center" class="b-mail-grid b-mail-grid_align_center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; color: #364364; width: auto !important; margin: 0 auto;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-grid__row" style="border-collapse: collapse; vertical-align: top; text-align: center; font-size: 0; padding: 0;" align="center" valign="top">
+ <!--[if (gte mso 9)|(IE)]>
+ <table width="378px" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
+ <![endif]-->
+ <div class="b-mail-grid__column" style="width: auto; max-width: 216px; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__item" style="border-collapse: collapse; cursor: pointer; display: table-cell; line-height: 12px; vertical-align: top; text-align: left; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fvk.com%2Fregru&amp;sign=5fa3b632282193d391dbbaa651421417&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" title="vk" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_vk.png" alt="vk" width="36" height="36" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="border-collapse: collapse; cursor: pointer; display: table-cell; line-height: 12px; vertical-align: top; text-align: left; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Ft.me%2Fregru&amp;sign=458a469ca8aa377fd5314605fd339248&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" title="telegram" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_telegram.png" alt="telegram" width="36" height="36" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="border-collapse: collapse; cursor: pointer; display: table-cell; line-height: 12px; vertical-align: top; text-align: left; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=http%3A%2F%2Ftwitter.com%2Fregru&amp;sign=a1f73401b228af61409e393b64ec29f1&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" title="twitter" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_twitter.png" alt="twitter" width="36" height="36" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td><td valign="top"><![endif]-->
+ <div class="b-mail-grid__column" style="width: auto; max-width: 216px; display: inline-block; vertical-align: top; text-align: left; margin: 0; padding: 0; font: 15px/24px Arial, 'Helvetica Neue', Helvetica, FreeSans, sans-serif;" align="left">
+ <table style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; color: #364364;">
+ <tr style="text-align: left;" align="left">
+ <td class="b-mail-socialnets__item" style="border-collapse: collapse; cursor: pointer; display: table-cell; line-height: 12px; vertical-align: top; text-align: left; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fregruvideo&amp;sign=ee2aa0f43cefbac10ac2b043240c0917&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" title="youtube" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_youtube.png" alt="youtube" width="36" height="36" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </a>
+ </td>
+ <td class="b-mail-socialnets__item" style="border-collapse: collapse; cursor: pointer; display: table-cell; line-height: 12px; vertical-align: top; text-align: left; padding: 6px 6px 0;" align="left" valign="top">
+ <a href="https://www.reg.ru/r?to=https%3A%2F%2Fok.ru%2Fregru&amp;sign=38f3de0759ef6b3daaf2695fc3618256&amp;rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" title="ok" target="_blank">
+ <img src="https://img.reg.ru/news/b-mail-socialnets__icon_mode_ok.png" alt="ok" width="36" height="36" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; border: 0 none;">
+ </a>
+ </td>
+ </tr>
+ </table>
+ </div>
+ <!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr style="text-align: left;" align="left">
+ <td style="border-collapse: collapse; vertical-align: top; text-align: left; padding: 0;" align="left" valign="top">
+ 
+ <div class="m-unsubscribe m-unsubscribe_type_news" style="width: 100%; max-width: 580px; text-align: center; color: #667695; font-size: 15px; line-height: 24px; font-weight: normal; letter-spacing: normal; margin: 0 0 24px; padding: 0;" align="center">
+ <a class="b-link l-color_link-blue" href="https://www.reg.ru/user/account/?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545#/settings/notifications/" style="display: block; margin: 0 0 12px; color: #667695" target="_blank">Настройки рассылок</a><a class="b-link l-color_link-blue" href="https://www.reg.ru/newsletters/newsletter-unsubscribe/Ntugl4cMVTUwNTMxODkxMS0uUmltQHR2ZXJyZWcucnU6MQ?rtm_source=e-mail&amp;rtm_medium=e-mail&amp;rtm_campaign=PromoPromotionsDigest_40545" style="color: #667695" target="_blank">Отписаться от&nbsp;рассылки</a>
+ </div>
+ </td>
+</tr>
+ </table>
+ </div>
+</article>
+ </body>
+</html>
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

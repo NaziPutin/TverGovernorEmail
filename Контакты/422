@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:Гриценко\, Евгений Иванович
+N:Гриценко;Евгений;Иванович;;
+EMAIL:GritsenkoEI@sinara-group.com
+ADR;TYPE=work:;;;620026   Россия\,   г.  Екатеринбург\,;ул. Розы Люксембург\, 51;;Россия
+LABEL;TYPE=work:620026   Россия\,   г.  Екатеринбург\,  \n ул. Розы Люксембург\, 51
+TEL;TYPE=work,voice:+7 (343) 310-33-13
+TEL;TYPE=work,voice:+7 (495) 258-71-64 (доб.0514)
+TEL;TYPE=cell,voice:+7 (912) 631-13-27
+TITLE:Вице-президент
+ORG:Группа Синара
+VERSION:3.0
+END:VCARD
+

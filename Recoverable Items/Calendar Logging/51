@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x158565c
+DTSTAMP:20220424T204126Z
+CREATED:20220303T133923Z
+LAST-MOD:20220303T133923Z
+SUMMARY:Совещание по вопросам строительства и ремонта социально значимых объектов ТО (отрасли «Образование» и «Физическая культура и спорт») (отв. Ажгиревич А.И.\, Коваленко Ю.Н.\, Демин А.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220303T130000Z
+DTEND;VALUE=DATE-TIME:20220303T140000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

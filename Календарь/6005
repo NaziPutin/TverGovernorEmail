@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x152dbbc
+DTSTAMP:20220424T204127Z
+CREATED:20170606T085438Z
+LAST-MOD:20170609T114050Z
+SUMMARY:Торжественное мероприятие\, посвященное Дню России: вручение государственных наград Российской Федерации\, наград Тверской области жителям \nТверской области\, вручение паспортов гражданина РФ   (отв. Петрова М.В.\, Жукова О.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170612T090000Z
+DTEND;VALUE=DATE-TIME:20170612T095500Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

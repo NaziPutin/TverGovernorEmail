@@ -1,0 +1,113 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 10 Apr 2018 10:04:47 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 10 Apr
+ 2018 10:04:47 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 10 Apr 2018 10:04:46 +0300
+Received: from f388.i.mail.ru ([185.5.136.59])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <andreyorlov71@bk.ru>)
+	id 1f5nKc-0007mn-S0
+	for rim@tverreg.ru; Tue, 10 Apr 2018 03:04:42 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=References:In-Reply-To:Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=M7zHJh7HqdPAcbnXwja4joe2ZzVy7XmxPIdjvshU0a8=;
+	b=EvWGvHxmqAjpNBLK74fzggSJzPqQ1yGULr6SXLTfUa7akSkdewVW/O2BjUuxDcN/iQLNNBHuBC+IBRUsI5VS/UznG9ycqtC3BaqTeHv1GsZC5V9C7/vB7Ruw3+stLoVu8vTHrUsmJtEqgFWE+z2jnKlvMd4CHyoDj94rNmjWabY=;
+Received: by f388.i.mail.ru with local (envelope-from <andreyorlov71@bk.ru>)
+	id 1f5nKa-0005jZ-Js
+	for rim@tverreg.ru; Tue, 10 Apr 2018 10:04:40 +0300
+Received: by e.mail.ru with HTTP;
+	Tue, 10 Apr 2018 10:04:40 +0300
+From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?UmU6IEZ3ZDog0J7QsdGD0YfQtdC90LjQtQ==?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Tue, 10 Apr 2018 10:04:40 +0300
+Reply-To: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1523343880.500488901@f388.i.mail.ru>
+Authentication-Results: f388.i.mail.ru; auth=pass smtp.auth=andreyorlov71@bk.ru smtp.mailfrom=andreyorlov71@bk.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE73443401C3E2E380CC4224003CC836476D1DB134E79BD61627866D6147AF826D86484F1A0E7925D54408E2912D3E8F18C089D37D7C0E48F6C8AA50765F7900637930939A67FAB3FD7C160CF9B91D5B034089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E7024847893F9AA87235E5BFE6E7EFDEDCD789D4C264860C145E
+X-Mailru-MI: 800
+X-Mailru-Sender: BC6B166D6148273F8A9AAB5D17E7767D08687F4CAF88725299AFA0C4CC14FFA3075995D6E86ECABE7326B261E47C33357903AA853BEC14D6A0D02D7FA09E896A3FEAE0DFCBC8C377E01E2858552314FFD169F72EECA8DB821CE825A5F27EB0BA712628846D3A5BA93453F38A29522196
+X-Mras: OK
+X-Spam: undefined
+In-Reply-To: <F5134093-F10A-4DF1-95EC-66DBE11D586B@tverreg.ru>
+References: <694BEBD6-7085-4FDE-B708-93007343DDDA@tverreg.ru>
+ <F5134093-F10A-4DF1-95EC-66DBE11D586B@tverreg.ru>
+Return-Path: andreyorlov71@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: 9f814bf1-f342-4faf-0bab-08d59eb1584d
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6562976
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><p style="margin-top: 0px;" dir="ltr">Игорь Михайлович, доброе утро! Человек действительно состоит в Резерве управленческих кадров Тверской области.<br> В настоящее время приглашения (вызова) на обучение нет. Полагаю, что когда будет приглашение, тогда и примете соответствующее решение.<br> Согласен с тем, что обращаться к Вам на прямую по этому вопросу не корректно. </p> 
+<div id="mail-app-auto-default-signature">
+ <p dir="ltr">--<br> Отправлено из Mail.Ru для Android</p>
+</div>вторник, 10 апреля 2018г., 01:11 &#43;03:00 от Руденя Игорь Михайлович <a href="mailto:rim@tverreg.ru">rim@tverreg.ru</a>:<br><br><blockquote id="mail-app-auto-quote" style="border-left:1px solid #0857A6; margin:0px 0px 0px 10px; padding:0px 0px 0px 10px;" cite="15233118760000000131">
+
+<div class="js-helper js-readmsg-msg">
+	<style type="text/css"></style>
+ 	<div>
+		<base target="_self" href="https://e.mail.ru/">
+		
+            <div id="style_15233118760000000131_BODY"><div class="class_1523321174">
+
+
+
+
+<div></div>
+<div><br>
+<br>
+<br>
+Начало переадресованного сообщения:<br>
+<br>
+</div>
+<blockquote type="cite">
+<div><b>От:</b> Руденя Игорь Михайлович &lt;<a href="mailto:rim@tverreg.ru" target="_blank" rel=" noopener noreferrer">rim@tverreg.ru</a>&gt;<br>
+<b>Дата:</b> 6 апреля 2018 г., 16:07:57 GMT&#43;3<br>
+<b>Кому:</b> Руденя Игорь Михайлович &lt;<a href="mailto:rim@tverreg.ru" target="_blank" rel=" noopener noreferrer">rim@tverreg.ru</a>&gt;<br>
+<b>Тема:</b> <b>Обучение</b><br>
+<br>
+</div>
+</blockquote>
+<blockquote type="cite">
+<div><span>Уважаемый Игорь Михайлович, здравствуйте!</span><br>
+<span>Мне позвонили из Администрации Президента РФ по поводу обучения в 2018 году высшего уровня резерва управленческих кадров в рамках федеральной программы.
+</span><br>
+<span>Прошу Вас согласовать моё участие в этих мероприятиях.</span><br>
+<span>Спасибо.</span><br>
+<span>С уважением,</span><br>
+<span>А.В.Стамплевский</span><br>
+</div>
+</blockquote>
+
+
+</div></div>
+            
+        
+		<base target="_self" href="https://e.mail.ru/">
+	</div>
+
+	
+</div>
+
+
+</blockquote></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

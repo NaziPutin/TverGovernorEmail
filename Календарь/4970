@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13e1348
+DTSTAMP:20220424T204127Z
+CREATED:20171215T142841Z
+LAST-MOD:20171215T174304Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє РїСЂР°Р·РґРЅРѕРІР°РЅРёСЋ 76-Р№ РіРѕРґРѕРІС‰РёРЅС‹ СЃРѕ РґРЅСЏ РѕСЃРІРѕР±РѕР¶РґРµРЅРёСЏ Рі.РљР°Р»РёРЅРёРЅР° (16.12.17) (РѕС‚РІ. РџРµС‚СЂРѕРІР° Рњ.Р’. Р–СѓРєРѕРІР° Рћ.Р’.\, Р‘РµР»РѕСЂСѓСЃРѕРІ Р’.Рђ.). РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20171215T183000Z
+DTEND;VALUE=DATE-TIME:20171215T190000Z
+LOCATION:РєР°Р±. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

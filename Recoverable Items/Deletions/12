@@ -1,0 +1,128 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 30 Mar 2022 17:43:15 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Wed, 30 Mar
+ 2022 17:43:14 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Wed, 30 Mar 2022 17:43:15 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 96C37811B8
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 17:43:14 +0300 (MSK)
+Received-SPF: pass (sendpulse.info: 91.239.43.63 is authorized to use 'postmaster@sendpulse.info' in 'mfrom' identity (mechanism 'ip4:91.239.43.0/24' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="postmaster@sendpulse.info"; helo=mx93.sendpulse.info; client-ip=91.239.43.63
+Received: from mx93.sendpulse.info (mx93.sendpulse.info [91.239.43.63])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 0A49681151
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 17:43:12 +0300 (MSK)
+From: =?utf-8?b?0JHRg9GF0LPQsNC70YLQtdGA0LjRjy5ydQ==?= <info@buhnews.ru>
+Precedence: bulk
+Feedback-ID: 12375000:7412776:es:SP
+List-ID: 1366273-1366562-1005573-1049121-1097328-1133266-1017460-1397495-1035448-1328187@sendpulse.info
+Subject: =?utf-8?b?0JrQsNC6INC90LUg0L/RgNC+0YHRgNC+0YfQuNGC0Ywg0YHQtNCw0YfRgyDQvtGC0YfQtdGC0L3QvtGB0YLQuA==?=
+Date: Wed, 30 Mar 2022 14:41:20 +0000
+Sender: <info@buhnews.ru>
+X-Authenticated-User: 2af0d0975acbd75d2306f2495b27f5e8@buhnews.ru
+Errors-To: postmaster@sendpulse.info
+X-Complaints-To: abuse@sendpulse.info
+To: rim@tverreg.ru
+List-Unsubscribe: <http://s7412776.sendpul.se/unsubscribes/ru/MTIzNzUwMDA=/0bd51c4242845a309e33da5a1e7100b3/h/b4fc7b1c71a5e2684e9cfde7ff2924a6?force=1>
+Message-Id: <r9kbhd-1c4ier-fn@sendpulse.info>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=buhnews.ru; 
+ i=@buhnews.ru; q=dns/txt; s=sign; t=1648651297; 
+ x=1648687297; h=subject : from : to : message-id : cc; 
+ bh=dRq/8h/zlwksUYBXo1oxk0cgM1CAtVHJ2ZPI96dLBmM=; 
+ b=BJxZLLvvU9xH1uOHUnIJ9w4/HHlx7Lz8GnUnYShg2vztGvtfoUICKM8L
+ gHUCKSlu6hVem2ucHZ6nV7Td2NSmaT9lVW6hrxcNr8mjPVd33EVV4Wcp+G
+ zgsILAPRqFMICLgLdLZuQCBW/Kd+UUn68K0oM3KKnxhDPQJB/PC/31ET4=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=sendpulse.info; 
+ i=@sendpulse.info; q=dns/txt; s=sign; t=1648651297; 
+ x=1648687297; h=subject : from : to : message-id : cc; 
+ bh=dRq/8h/zlwksUYBXo1oxk0cgM1CAtVHJ2ZPI96dLBmM=; 
+ b=RS548Mnfcgc1ac2koDiMNgoM6qQTypDAPYxF6o8x812qg2W0xvWysaoQ
+ CSzR6pt09+d9KIgcA/OqKF2y92lk7HU87kMm47fKVGa3XRLITpYrGL2vxn
+ 0Jcv6OPrRoEi1Akw+zEhzKfrH5ZuZQSbaBaLAtybSG18hQtVqL3CAHafc=
+X-DrWeb-SpamScore: 69
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeivddgjeefucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenhdfknhhvihhsihgslhgvucifohhrughsucdlvddtmdenucfjughrpegtggfhphejufffshgvvffjkfesrgdtreertddtjeenucfhrhhomhepueihgihrrgipthgvphippidrrhhuuceoihhnfhhosegsuhhhnhgvfihsrdhruheqnecuggftrfgrthhtvghrnhepudffvdfhfedukeejudekfeeiueejteehfefhvdegkeejieelffelveevjeetkefhnecuffhomhgrihhnpehsvghnughpuhhlrdhsvgdpsghuhhhgohgurdhruhdpsghuhhhgrghlthgvrhhirgdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.162#73 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.285 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	HEADER_FROM_DIFFERENT_DOMAINS  0.248 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_MXINFO                  1 MX Record and dot info domains associated with FAKERBL Spammers
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_KAM_HTML_FONT_INVALID   0.01 Test for Invalidly Named or Formatted Colors in HTML
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	T_TVD_MIME_NO_HEADERS    0.01 -
+X-DrWeb-SpamScore: 69
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeivddgjeefucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenhdfknhhvihhsihgslhgvucifohhrughsucdlvddtmdenucfjughrpegtggfhphejufffshgvvffjkfesrgdtreertddtjeenucfhrhhomhepueihgihrrgipthgvphippidrrhhuuceoihhnfhhosegsuhhhnhgvfihsrdhruheqnecuggftrfgrthhtvghrnhepudffvdfhfedukeejudekfeeiueejteehfefhvdegkeejieelffelveevjeetkefhnecuffhomhgrihhnpehsvghnughpuhhlrdhsvgdpsghuhhhgohgurdhruhdpsghuhhhgrghlthgvrhhirgdrrhhunecukfhppeeluddrvdefledrgeefrdeife
+X-DrWeb-SpamVersion: Vade Retro 01.422.162#73 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: postmaster@sendpulse.info
+X-MS-Exchange-Organization-Network-Message-Id: aa6e34a4-40e2-4b89-8f3f-08da125b9f74
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2264016
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><!-- preheader.start --><!-- [if !mso]><!-->
+<div style="font-size: 0; opacity: 0; color: transparent; height: 0; width: 0; mso-hide:all;">
+    Ответ: с помощью портала Бухгод!‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;‌ &nbsp;
+</div>
+<!--<![endif]--><!-- preheader.end -->
+
+<div style="display:none;width:0;max-height:0;overflow:hidden;mso-hide:all;height:0;font-size:0;line-height:0;margin:0 auto;">
+    <!--[if !mso]-->
+    <table style="width: 100%" width="100%">
+        <tr style="line-height: 0">
+            <td>&nbsp;</td>
+            <td align="center" width="1" style="text-align: center; width: 1px;">
+                <img width="1" height="1" style="width: 1px; height: 1px;" src="http://s7412776.sendpul.se:8080/image/ui/NzQxMjc3Ng==/ci/MTIzNzUwMDA=/rec/c49830bd51c4242845a309e33da5a1e7100b3/ar/0/" alt="-">
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <!--[endif]-->
+</div>
+<table width="100%" bgcolor="#f3f4fa"><tbody><tr><td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 100%;"><tbody><tr><td align="center" valign="top"><table class="row" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 800px; max-width: 800px;"><tbody><tr><td align="center" valign="top" bgcolor="#017594"><table class="row" width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 600px; max-width: 600px;"><tbody><tr><td height="10" align="center" valign="top" style="font-size: 10px; line-height: 10px;">&nbsp;</td></tr><tr><td class="content_row" valign="top" align="left" style="width: 700px;"><table width="700" class="mobile_centered_table" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td height="5"></td></tr><tr><td class="black_text" style="font-family: 'Open Sans', Arial, sans-serif; line-height: 44px; font-size: 16px; color: #1d1d1d; ; font-weight: 300; text-align: left; width: 80px;"><a rel="noopener noreferrer" href="https://s7412776.sendpul.se/sl/MjQyMDE5NTI=/c49830bd51c4242845a309e33da5a1e7100b3s4" target="_blank"><img style="width: 200px;" src="https://www.buhgalteria.ru/images/logo_buhgalteria_white.png" alt="Бухгалтерия.ru"></a></td><td width="350" align="right"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr style="height: 7.5px;"><td style="font-family: 'Poppins',Arial,Helvetica,sans-serif; color: #ffffff; font-size: 16px; line-height: 22px;"><b>Осталось мало времени до&nbsp;сдачи отчетности</b></td></tr></tbody></table></td></tr><tr><td height="10"></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#f3f4fa" style="width: 100%; max-width: 100%;"><tbody><tr><td align="center" valign="top"><table class="row ui-resizable" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 800px; max-width: 800px;"><tbody><tr><td data-bgcolor="Inner Background Color" class="whiteBgcolor" align="center" valign="top" bgcolor="#FFFFFF"><table class="row" width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 600px; max-width: 600px;"><tbody><tr><td height="30" align="center" valign="top" style="font-size: 30px; line-height: 30px;">&nbsp;</td></tr><tr><td class="containerPadding" align="center" valign="top" style="font-size: 0; padding: 0;"><table class="row" border="0" width="630" align="center" cellpadding="0" cellspacing="0" style="width: 630px; max-width: 630px;"><tbody><tr><td align="center" valign="middle" style="font-family: 'Poppins',Arial,Helvetica,sans-serif; color: #010937; font-size: 30px; line-height: 37px; font-weight: bold; letter-spacing: 0px; padding: 0px; padding-bottom: 10px;">Как не&nbsp;просрочить сдачу отчетности</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="610" align="center" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center" style="background-color: #ffffff;" data-bgedit="color" data-bgtype="4"><table class="container" width="800" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 800px;"><tbody><tr><td height="25"></td></tr><tr><td><table class="m-w100" width="500" align="center" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 500px;"><!-- timer --><tbody><tr><td class="image" data-countdown="true" data-bgtype="4" style="border-collapse: collapse; font-size: 0px; text-align: center; background-color: #ffffff;"><div class="bg-options-wrap removethis"><div class="block-count-down-edit bg-control-item" title="Configure timer"><br></div></div><img width="400" alt="Совсем немного" style="border: none;" src="http://gen.sendtric.com/countdown/p87rimyjde"></td></tr><!-- end timer --></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#f3f4fa" style="width: 100%; max-width: 100%;"><tbody><tr><td align="center" valign="top"><table class="row" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 800px; max-width: 800px;"><tbody><tr><td align="center" valign="top" bgcolor="ffffff"><table class="row" width="700" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 700px; max-width: 700px;"><tbody><tr><td data-resizable-height="" style="font-size: 30px; height: 30px; line-height: 30px;">&nbsp;</td></tr><tr><td><table><tbody><tr><td width="30" style="font-size: 30px; height: 30px; line-height: 30px;">&nbsp;</td><td class="centerText" align="left" valign="middle"><p style="font-family: 'PT Sans',sans-serif; color: #666666; font-size: 15px; line-height: 23px; font-weight: 400; letter-spacing: 0px; padding: 0;">Последний срок сдачи отчета уже завтра. Но&nbsp;еще можно успеть подготовить его за&nbsp;оставшееся время - с&nbsp;помощью портала Бухгод, электронной версии книги «Годовой&nbsp;отчет&nbsp;2021 под&nbsp;редакцией В.И.&nbsp;Мещерякова». Портал поможет вам завершить и&nbsp;проверить отчет вовремя, а&nbsp;также сдать его без&nbsp;возврата из-за&nbsp;ошибки!</p><div style="background-color: #f8f8f8; padding: 20px;"><table class="centerFloat" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 264px;"><tbody><tr><td align="center" valign="middle" style="font-family: 'Poppins',Arial,Helvetica,sans-serif; color: #010937; font-size: 32px; font-weight: bold; letter-spacing: 0px; padding: 0px; padding-bottom: 25px;"><p style="font-family: 'Poppins',Arial,Helvetica,sans-serif; color: #010937; font-size: 25px; line-height: 30px; font-weight: bold; letter-spacing: 0px;">Портал Бухгод</p><p style="font-family: 'PT Sans',sans-serif; color: #1d1d1d; font-size: 12px; line-height: 22px; font-weight: bold; letter-spacing: 0px; padding: 0;">Доступ к сайту www.buhgod.ru до 31.08.2022</p></td></tr><tr><td align="center" valign="middle" style="font-family: 'Poppins',Arial,Helvetica,sans-serif; color: #010937; font-size: 20px; line-height: 27px; font-weight: bold; padding: 0px; padding-bottom: 35px;"><p><b style="font-size: 30px; line-height: 35px; font-weight: bold; color: #ff0000;">1&nbsp;600 ₽</b></p></td></tr><tr><td bgcolor="#ff0000" data-editable="" class="button" style="font-family: 'Open Sans', sans-serif; font-size: 14px; color: red; text-align: center; text-transform: uppercase; font-weight: bold; border: 2px solid #ff0000; border-radius: 5px;" height="40" width="200" align="center"><a rel="noopener noreferrer" href="https://s7412776.sendpul.se/sl/MjQyMDE5NTM=/c49830bd51c4242845a309e33da5a1e7100b3s4" target="_blank" style="text-decoration: none; color: #ffffff; width: 100%; display: block; line-height: 40px;"><span>ПОЛУЧИТЬ ДОСТУП</span></a></td></tr><tr><td height="15"></td></tr><tr style="font-family: 'PT Sans',sans-serif;"><td align="center"><a rel="noopener noreferrer" href="https://s7412776.sendpul.se/sl/MjQyMDE5NTQ=/c49830bd51c4242845a309e33da5a1e7100b3s4">Скачать счет</a>&nbsp;&nbsp;&nbsp;&nbsp;<a rel="noopener noreferrer" href="https://s7412776.sendpul.se/sl/MjQyMDE5NTU=/c49830bd51c4242845a309e33da5a1e7100b3s4">Оплатить картой</a></td></tr><tr><td height="30"></td></tr></tbody></table></div></td></tr></tbody></table></td></tr><tr><td style="font-size: 60px; height: 60px; line-height: 60px;">&nbsp;</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table data-bgcolor="Outer Background Color" data-module="Image With Sub 6 Feature" class="bodyBgColor" width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#f3f4fa" style="width: 100%; max-width: 100%;"><tbody><tr><td align="center" valign="top"><table class="row ui-resizable" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 800px; max-width: 800px;"><tbody><tr><td data-bgcolor="Inner Background Color" class="whiteBgcolor" align="center" valign="top" bgcolor="#FFFFFF"><table class="row" width="800" border="0" align="center" cellpadding="0" cellspacing="0" style="width: 700px; max-width: 700px;"><tbody><tr align="center"><td tyle="font-family: 'Open Sans', Arial, sans-serif; line-height: 44px; font-size: 16px; color: #1d1d1d; ; font-weight:300; text-align:left;width: 80px;"><a rel="noopener noreferrer" href="https://s7412776.sendpul.se/sl/MjQyMDE5NTY=/c49830bd51c4242845a309e33da5a1e7100b3s4" target="_blank"><img src="https://www.buhgalteria.ru/upload/imgs/notebookGO2021.png" alt="Бухгод" border="0" width="800" style="display: block; border: 0; width: 100%; max-width: 800px;"></a></td></tr><tr><td style="font-size: 40px; line-height: 40px;" align="left" height="40" valign="top">&nbsp;</td></tr></tbody></table></td></tr></tbody></table><table cellspacing="5" cellpadding="0" border="0" align="center" style="width: 100%; max-width: 800px; padding: 12px;" dir="ltr"><tbody><tr><td style="font-size: 12px; font-family: Arial; color: #333;" align="center">Вы получили это письмо, так как подписались на рассылку на сайте <a rel="noopener noreferrer" href="https://s7412776.sendpul.se/sl/MjQyMDE5NTc=/c49830bd51c4242845a309e33da5a1e7100b3s4">www.buhgalteria.ru</a></td></tr><tr><td style="font-size: 12px; font-family: Arial; color: #333;" align="center"><a rel="noopener noreferrer" href="https://s7412776.sendpul.se/unsubscribes/ru/MTIzNzUwMDA=/c49830bd51c4242845a309e33da5a1e7100b3/h/b4fc7b1c71a5e2684e9cfde7ff2924a6">Отказаться от рассылки</a></td></tr></tbody></table>&gt;</td></tr></tbody></table></td></tr></tbody></table><div style="display:none;width:0;max-height:0;overflow:hidden;mso-hide:all;height:0;font-size:0;line-height:0;margin:0 auto;">
+    <!--[if mso]-->
+    <table style="width: 100%" width="100%"><tr style="line-height: 0">
+            <td>&nbsp;</td>
+            <td align="center" width="1" style="text-align: center; width: 1px;">
+                <img width="1" height="1" style="width: 1px; height: 1px;" src="http://s7412776.sendpul.se:8080/image/ui/NzQxMjc3Ng==/ci/MTIzNzUwMDA=/rec/c49830bd51c4242845a309e33da5a1e7100b3/ar/0/" alt="-">
+            </td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+    <!--[endif]-->
+</div>
+</body>
+</html>
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

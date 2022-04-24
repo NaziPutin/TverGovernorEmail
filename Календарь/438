@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3509f4
+DTSTAMP:20220424T204126Z
+CREATED:20211119T150810Z
+LAST-MOD:20211119T102514Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе Тверской области «Цифровое развитие и информационные технологии в Тверской области» на 2022-2027 годы» (отв. Ажгиревич А.И.\, Подтихова М.И.\, Егоров И.И.\, Снегирев С.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211122T120000Z
+DTEND;VALUE=DATE-TIME:20211122T130000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

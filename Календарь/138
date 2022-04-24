@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x214618
+DTSTAMP:20220424T204126Z
+CREATED:20220302T100318Z
+LAST-MOD:20220302T072450Z
+SUMMARY:Совещание\, тема: "О поддержке высоких темпов социально-экономического развития Тверской области" (отв. Егоров И.И.\, Подтихова М.И.\, Кременецкая Т.А.\, Каравайный К.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220302T100000Z
+DTEND;VALUE=DATE-TIME:20220302T110000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, 3 этаж\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

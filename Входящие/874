@@ -1,0 +1,55 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 31 Jan 2022 20:55:54 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 31 Jan
+ 2022 20:55:53 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Mon, 31 Jan 2022 20:55:53 +0300
+From: =?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JTQvtC60LvQsNC0INC+INGF0L7QtNC1INCy0L7RgdGB0YLQsNC90L7QstC4?=
+ =?utf-8?B?0YLQtdC70YzQvdGL0YUg0YDQsNCx0L7RgiDQsiDQtC7QodGC0LDRgNGL0Lkg?=
+ =?utf-8?B?0J/QvtCz0L7RgdGCINC30LAgMzEuMDEuMjI=?=
+Thread-Topic: =?utf-8?B?0JTQvtC60LvQsNC0INC+INGF0L7QtNC1INCy0L7RgdGB0YLQsNC90L7QstC4?=
+ =?utf-8?B?0YLQtdC70YzQvdGL0YUg0YDQsNCx0L7RgiDQsiDQtC7QodGC0LDRgNGL0Lkg?=
+ =?utf-8?B?0J/QvtCz0L7RgdGCINC30LAgMzEuMDEuMjI=?=
+Thread-Index: AQHYFsvKDp0oUvBtw0y0vS1sWLNnoA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 31 Jan 2022 20:55:53 +0300
+Message-ID: <D1E26C80-ED00-45C3-824A-3869A647AB47@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <D1E26C80-ED00-45C3-824A-3869A647AB47@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 7725ac20-9df2-48ab-8475-08d9e4e2ecbc
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.3398740
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><br><div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="РўРµРєСЃС‚ СЃРѕРѕР±С‰РµРЅРёСЏ"><head></head><div><br></div><div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="РўРµРєСЃС‚ СЃРѕРѕР±С‰РµРЅРёСЏ"><head></head><div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="РўРµРєСЃС‚ СЃРѕРѕР±С‰РµРЅРёСЏ"><head></head><div></div></body></html>
+<html><head></head><body dir="auto"><div><br></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,75 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 2 Oct 2018 09:34:50 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 2 Oct
+ 2018 09:34:50 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 2 Oct 2018 09:34:49 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 958B6210D9
+	for <rim@tverreg.ru>; Tue,  2 Oct 2018 09:34:49 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward100o.mail.yandex.net; client-ip=37.140.190.180
+Received: from forward100o.mail.yandex.net (forward100o.mail.yandex.net [37.140.190.180])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 44D6A2076E
+	for <rim@tverreg.ru>; Tue,  2 Oct 2018 09:34:47 +0300 (MSK)
+Received: from mxback13j.mail.yandex.net (mxback13j.mail.yandex.net [IPv6:2a02:6b8:0:1619::88])
+	by forward100o.mail.yandex.net (Yandex) with ESMTP id AAAF92A2524D
+	for <rim@tverreg.ru>; Tue,  2 Oct 2018 09:34:40 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback13j.mail.yandex.net (nwsmtp/Yandex) with ESMTP id yt198LMUln-YdMuFqJe;
+	Tue, 02 Oct 2018 09:34:39 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1538462079;
+	bh=IYJ0DG/z0U7MfsvmJG48eaYEMMYS4d28W9iTGSOy97c=;
+	h=From:To:Subject:Date:Message-Id;
+	b=pJ1BkcGaTkRx5hFsZu33yo4Jz6W2BTZPrB+Xu6NcNEL+2Z5Nb3CXz5HhmL9diFsfI
+	 MoEMiR1DwPxt+fsEhLauOrOKEPi/JmJO+WANgBZJ4qONnA939CQRtxQkwt0sKWuwrm
+	 B8C2wqWukYlsH2bx2QKdz/gMNNAJmeLtkT4a6hZ0=
+Authentication-Results: mxback13j.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by iva8-8d7a47df0521.qloud-c.yandex.net with HTTP;
+	Tue, 02 Oct 2018 09:34:39 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QviDQvtGB0LLQtdGJ0LXQvdC40Y4g0LDQstGC0L7QtNC+0YDQvtCz?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Tue, 02 Oct 2018 09:34:39 +0300
+Message-Id: <6211961538462079@iva8-8d7a47df0521.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (cuks.tver[at]mail.ru) (cuks.tver[at]mail.ru) (cuks.tver[at]mail.ru) (cuks.tver[at]mail.ru) (tver.petrushenko[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: e9cef5d8-2dc8-4912-c2e9-08d6283127a4
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7812713
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+                                                                Доброе утро Игорь Михайлович!
+    В приложении отправляю небольшую пояснительную записку по Вашему поручению на совещании 28 сентября и список светильников. Самый дорогой - это наш производитель Galad - завод Светотехника. Постарались учесть все нормативы, которые необходимы.
+     Завтра эту информацию для сведения отправлю если не возражаете министру транспорта Павлову И.А.
+     
+
+-- 
+С Уважением Станислав Анатольевич
+                        Петрушенко
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x158132c
+DTSTAMP:20220424T204127Z
+CREATED:20160707T110823Z
+LAST-MOD:20160807T154624Z
+SUMMARY:Рабочая поездка в Тверскую область Степашина С.В. - Председателя НС ГК «Фонд содействия реформированию ЖКХ»\, Цицина К.Г. - ген. директора ГК "Фонд содействия реформированию ЖКХ" (отв. Пилавов М.И.)
+DTSTART;VALUE=DATE-TIME:20160708T073000Z
+DTEND;VALUE=DATE-TIME:20160708T130000Z
+LOCATION:Калининский р-н\, Бурашевское с/п\; г. Тверь (согласно программе рабочей поездки)
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

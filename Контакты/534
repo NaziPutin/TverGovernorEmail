@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:Полынцев\, Игорь Александрович
+N:Полынцев;Игорь;Александрович;;
+EMAIL:l.Polyntsev@russianhighways.ru
+ADR;TYPE=work:;;;;ул.Л.Базановой\, д.20\, оф.61;;Россия
+LABEL;TYPE=work:ул.Л.Базановой\, д.20\, оф.61
+TEL;TYPE=work,voice:+7 (495) 727-11-95 (доб.65-20)
+TEL;TYPE=work,voice:+7 (4822) 76-59-22
+TEL;TYPE=cell,voice:+7 (910) 532-59-22
+TITLE:начальник управления
+ORG:ГК Автодор
+VERSION:3.0
+END:VCARD
+

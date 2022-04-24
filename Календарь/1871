@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x96987c
+DTSTAMP:20220424T204126Z
+CREATED:20200914T100735Z
+LAST-MOD:20200911T133444Z
+SUMMARY:Подготовка к рабочей встрече с Маркеловым В.А. – заместителем Председателя Правления ПАО «Газпром»\, членом Совета директоров ПАО «Газпром» (отв. Ажгиревич А.И.\, Цветков А.И.\, Подтихова М.И.) Состав участников согласно списку\n
+DTSTART;VALUE=DATE-TIME:20200914T130000Z
+DTEND;VALUE=DATE-TIME:20200914T140000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

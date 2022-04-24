@@ -1,0 +1,47 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 5 Jun 2019 17:17:20 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 5 Jun
+ 2019 17:17:18 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Wed, 5 Jun 2019 17:17:18 +0300
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?xM/Qz8zOydTFzNjOwdEgyc7Gz9LNwcPJ0Q==?=
+Importance: High
+X-KeepSent: 8F28348B:512BE664-43258410:004E5A86;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5 December 05, 2008
+Message-ID: <OF8F28348B.512BE664-ON43258410.004E5A86-43258410.004E8B26@tverreg.ru>
+From: =?KOI8-R?B?7cnOydPUxdLT1NfPINTSwc7T0M/S1MEv4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <mintrans@tverreg.ru>
+Date: Wed, 5 Jun 2019 17:17:19 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 05.06.2019 17:17:19
+Return-Path: mintrans@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: b70d899e-e6b1-4afe-cfc0-08d6e9c08492
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.1012445
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"><font size="2" face="sans-serif">ч УППФЧЕФУФЧЙЙ У чБЫЙН
+РПТХЮЕОЙЕН ОБРТБЧМСЕН ДПРПМОЙФЕМШОХА
+ЙОЖПТНБГЙА Ч ЮБУФЙ ТЕБМЙЪБГЙЙ ОБГЙПОБМШОПЗП
+РТПЕЛФБ влбд Ч З. фЧЕТЙ</font>
+<br>
+<br>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

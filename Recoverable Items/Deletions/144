@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x159141c
+DTSTAMP:20220424T204126Z
+CREATED:20220330T143905Z
+LAST-MOD:20220330T181527Z
+SUMMARY:Совещание\, тема: «О ходе реализации региональных проектов «Жилье» и «Обеспечение устойчивого сокращения непригодного для проживания жилищного фонда»\, входящих в состав нацпроекта «Жилье и городская среда» (отв. Егоров И.И.\, Подтихова М.И.\, Ажгиревич А.И.)
+DTSTART;VALUE=DATE-TIME:20220330T163000Z
+DTEND;VALUE=DATE-TIME:20220330T171500Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

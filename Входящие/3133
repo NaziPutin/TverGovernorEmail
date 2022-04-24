@@ -1,0 +1,60 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 26 Apr 2018 16:05:00 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 26 Apr
+ 2018 16:05:00 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 26 Apr 2018 16:04:59 +0300
+Received: from f474.i.mail.ru ([217.69.138.141])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <disav@list.ru>)
+	id 1fBgZz-000E08-ON
+	for rim@tverreg.ru; Thu, 26 Apr 2018 09:04:55 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=list.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=cqLYNL7mxPk+/9NO3wqQkQA2DjOctos7ZMernrUXEIY=;
+	b=EGdcil4hirgHS61odxlau1GEsgcFIx0x0hBwjjEwMYOmqzRTl9h+OfO1oVCDAN0soOQjNGk0eGvP7RX+UGFGt6sk2fBtJW3poGTwcYxVxylc6UXMPWl9p2BVaVeBw4V5eX3S+gmPYsl4gDzbV+Pvvf4h+4or+JajqOBP2YPuZC0=;
+Received: by f474.i.mail.ru with local (envelope-from <disav@list.ru>)
+	id 1fBgZy-0002K1-5w
+	for rim@tverreg.ru; Thu, 26 Apr 2018 16:04:54 +0300
+Received: by e.mail.ru with HTTP;
+	Thu, 26 Apr 2018 16:04:54 +0300
+From: =?UTF-8?B?0JTQuNC90LAg0KHQsNCy0LXQu9GM0LXQstCw?= <disav@list.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0LjRgtC+0LPQvtCy0YvQuSDQstCw0YDQuNCw0L3RgiDQv9GA0LXRgdGBLdGA?=
+ =?UTF-8?B?0LXQu9C40Lcg0L/QviDQutC+0L3RgdC+0LvQuNC00LDRhtC40Lgg0LDQutGC?=
+ =?UTF-8?B?0LjQstC+0LIg0JbQmtClIA==?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Thu, 26 Apr 2018 16:04:54 +0300
+Reply-To: =?UTF-8?B?0JTQuNC90LAg0KHQsNCy0LXQu9GM0LXQstCw?= <disav@list.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1524747894.998396081@f474.i.mail.ru>
+Authentication-Results: f474.i.mail.ru; auth=pass smtp.auth=disav@list.ru smtp.mailfrom=disav@list.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7DF4263082F780B15C4224003CC836476D1DB134E79BD61627866D6147AF826D817AD2C32C1D79459D949D6229E4B57AD089D37D7C0E48F6C8AA50765F7900637D4B51F2C0A6EF56E65645AE1328D5FEC089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E7024847893F9AA87235E5BFE6E7EFDEDCD789D4C264860C145E
+X-Mailru-MI: 800
+X-Mailru-Sender: 641179478317D3F0B5601562A1FB1D2B9253E1407029D9258B7BA20965D93A9588432BCDF94DAD3399AD13EEC6950F3056A4A15965C97B492D6C0AEAFAD325A9B87B27889F2B092C577F194272E68142C475F3A3CB9BE0035EA11F3C5F3A97E8AE208404248635DF
+X-Mras: OK
+X-Spam: undefined
+Return-Path: disav@list.ru
+X-MS-Exchange-Organization-Network-Message-Id: 4dec1614-404c-4848-2828-08d5ab765144
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5469094
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Игорь Михайлович!<br>Направляю итоговый вариант пресс- релиза по консолидации активов ЖКХ с цифрами от Министерства финансов Тверской области.&nbsp;<br><br><br><br><br>---<br>С уважением,<br>Дина Савельева,<br><br>8-905-607-50-60</body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

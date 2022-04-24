@@ -1,0 +1,49 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 3 Oct 2018 10:08:17 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 3 Oct
+ 2018 10:08:17 +0300
+Received: from mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b]) by
+ mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b%12]) with mapi id
+ 15.01.0396.037; Wed, 3 Oct 2018 10:08:17 +0300
+From: =?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>,
+	=?utf-8?B?0J7RgNC70L7QsiDQkNC90LTRgNC10Lkg0JLQuNC60YLQvtGA0L7QstC40Yc=?=
+	<orlov@tverreg.ru>
+Subject: =?utf-8?B?0J/RgNC+0LPRgNCw0LzQvNCwINCeLtCuLtCT0L7Qu9C+0LTQtdGGICjQn9GA?=
+ =?utf-8?B?0L7QtdC60YIg0L3QsCAzLjEwKQ==?=
+Thread-Topic: =?utf-8?B?0J/RgNC+0LPRgNCw0LzQvNCwINCeLtCuLtCT0L7Qu9C+0LTQtdGGICjQn9GA?=
+ =?utf-8?B?0L7QtdC60YIg0L3QsCAzLjEwKQ==?=
+Thread-Index: AQHUWufbWSIHuj5aX0Kqqv89R8eDCQ==
+Date: Wed, 3 Oct 2018 10:08:17 +0300
+Message-ID: <f90851db2e6142cf951d9b6bbe64b1a7@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <f90851db2e6142cf951d9b6bbe64b1a7@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: faacd969-749d-465a-d9f9-08d628fefe3d
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2656975
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,51 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.0.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.0.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 15 Dec 2018 20:02:18 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.0.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.0.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sat, 15 Dec
+ 2018 20:02:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::783b:be33:57ae:c8db%9]) with mapi id 15.01.1591.008; Sat, 15 Dec 2018
+ 20:02:17 +0300
+From: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KDQttC10LLRgdC60LDRjyDQv9GA0LDQstC00LAuINCV0LLQs9C10L3QuNC4?=
+ =?utf-8?B?zIYg0KHQuNGP0YDQutC40L0uZG9jeA==?=
+Thread-Topic: =?utf-8?B?0KDQttC10LLRgdC60LDRjyDQv9GA0LDQstC00LAuINCV0LLQs9C10L3QuNC4?=
+ =?utf-8?B?zIYg0KHQuNGP0YDQutC40L0uZG9jeA==?=
+Thread-Index: AQHUlJfvVY8rYYhRjkGhFuiMn6AfJA==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 15 Dec 2018 20:02:17 +0300
+Message-ID: <4B69D63E-CA0B-413E-B3C0-2C6CFC31220E@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <4B69D63E-CA0B-413E-B3C0-2C6CFC31220E@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 81c8f41b-2b6c-4b43-fdbe-08d662af11d1
+Return-Path: rim@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7000715
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2D076544
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

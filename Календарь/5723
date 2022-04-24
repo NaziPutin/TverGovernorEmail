@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1500cdc
+DTSTAMP:20220424T204127Z
+CREATED:20170605T193455Z
+LAST-MOD:20170605T193455Z
+SUMMARY:Заседание Совета при полномочном представителе Президента РФ в ЦФО в режиме ВКС\, тема: «О реализации приоритетного направления «Экология» в субъектах РФ\, находящихся в пределах ЦФО» (отв. Мигулев П.И.\, Меньщиков А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170606T080000Z
+DTEND;VALUE=DATE-TIME:20170606T093000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

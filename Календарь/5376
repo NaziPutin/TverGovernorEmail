@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14bd0f0
+DTSTAMP:20220424T204127Z
+CREATED:20170828T063528Z
+LAST-MOD:20170829T145920Z
+SUMMARY:Встреча с общественностью Заволжского района г. Твери (отв. Огиенко Л.Н.\, Балаян О.Р.\, Белорусов В.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170830T135000Z
+DTEND;VALUE=DATE-TIME:20170830T153000Z
+LOCATION:Петербургское ш.\, д.39\, ДК "Металлист"\, 1 этаж\, актовый зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

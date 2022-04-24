@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sun, 2 Jun 2019 21:03:39 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sun, 2 Jun
+ 2019 21:03:34 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Sun, 2 Jun 2019
+ 21:03:38 +0300
+From: =?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>,
+	=?koi8-r?B?79LMz9cg4c7E0sXKIPfJy9TP0s/Xyd4=?= <orlov@tverreg.ru>,
+	=?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?= <SkoriyAV@tverreg.ru>
+Subject: =?koi8-r?B?7sHDINDSz8XL1NkgKNDMwNMg0sXOz9fBw8nRKSA=?=
+Thread-Topic: =?koi8-r?B?7sHDINDSz8XL1NkgKNDMwNMg0sXOz9fBw8nRKSA=?=
+Thread-Index: AQHVGW2AidEuYvjGRkqI8U+wt8EVEQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sun, 2 Jun 2019 21:03:38 +0300
+Message-ID: <BB1CC3AC-FEA0-4CFA-99E0-563E98AE01E3@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <BB1CC3AC-FEA0-4CFA-99E0-563E98AE01E3@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: e7515fa8-3c30-4e25-ee73-08d6e784a3a0
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.8157932
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"></head><body dir="auto"><br><br><div dir="ltr"></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

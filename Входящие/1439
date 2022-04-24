@@ -1,0 +1,140 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 9 Apr 2021 23:19:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 9 Apr 2021
+ 23:19:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 9 Apr 2021 23:19:56 +0300
+From: =?windows-1251?B?xODt6Ovu4uAgxeLj5e3o/yDA6+Xq8eDt5PDu4u3g?=
+	<Danilova_EA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIO/u8fLz7+vl7ejoIODv5evr//bo7u3t7ukg5uDr?=
+ =?windows-1251?B?7uH7IM/g+OXk6u4gwi7DLg==?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIO/u8fLz7+vl7ejoIODv5evr//bo7u3t7ukg5uDr?=
+ =?windows-1251?B?7uH7IM/g+OXk6u4gwi7DLg==?=
+Thread-Index: AdctfabZY8XHjiCKQ1ufBQW6IOiPvw==
+Date: Fri, 9 Apr 2021 23:19:56 +0300
+Message-ID: <b2a8fbe8f8614e9d8a3be2cb5e6a3227@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <b2a8fbe8f8614e9d8a3be2cb5e6a3227@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.224]
+X-MS-Exchange-Organization-Network-Message-Id: 896aba38-4d1a-4fb3-ebac-08d8fb94d7b0
+Return-Path: Danilova_EA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4560785
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER172BF3AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1343388539;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1603773802 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          Решением Тверского областного суда от 23.03.2021 Пашедко В.Г. отказано в удовлетворении административного иска о признании незаконным и отмене распоряжения Губернатора Тверской области от 26.02.2021 № 52-рг «Об отрешении от должности Главы Нелидовского городского округа Тверской области» (далее – Распоряжение об отрешении). <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          Суд пришел к выводу, что Пашедко В.Г., как высшим должностным лицом муниципального образования, осуществляющим руководство Администрацией округа на принципах единоначалия, вопрос местного значения по организации обеспечения надежного теплоснабжения населения Нелидовского городского округа решен не был; действия Пашедко В.Г. не привели к результату в виде надежного теплоснабжения, поэтому их нельзя расценивать как принятие по исполнению решения Нелидовского межрайонного суда Тверской области от 18.11.2020 по делу № 2-115/2020. Ситуация, связанная с отсутствием надежного теплоснабжения населения сохранялась на момент издания Распоряжения об отрешении. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          По второму эпизоду в качестве доказательства соблюдения прав гражданки Васиной С.А. и исполнения решения  Нелидовского межрайонного суда Тверской области от 11.08.2020 по делу № 2а-288/2020 (которое было также положено в основу издания Распоряжения об отрешении) временно исполняющим обязанности Главы Нелидовского городского округа, заместителем Главы Администрации Крючковым А.И. в суд была предоставлена копия постановления Администрации Нелидовского городского округа <b>от 30.12.2020 № 2608-па</b> «Об отмене постановления Администрации Нелидовского городского округа Тверской области от 31.03.2020 № 462-па». В этой связи следует отметить, что в реестре муниципальных правовых актов указанное постановление от 30.12.2020 за № 2608-па отсутствует.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>         Сегодня в Правительство Тверской области по почте поступила апелляционная жалоба Пашедко В.Г. на решение Тверского областного суда от 23.03.2021 г. по делу № 3а-62/2021.<o:p></o:p></span></p><p class=MsoNormal><b><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>     Предложения:<o:p></o:p></span></b></p><ol style='margin-top:0cm' start=1 type=1><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Подготовить отзыв на апелляционную жалобу Пашедко В.Г.;<o:p></o:p></span></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Провести дополнительные консультации с Тверским областным судом;<o:p></o:p></span></li></ol><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>     3. Направить в Прокуратуру Тверской области:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>         - обращение с просьбой о проведении проверки по факту издания постановления Администрации Нелидовского городского округа <b>от 30.12.2020 № 2608-па</b> «Об отмене постановления Администрации Нелидовского городского округа Тверской области от 31.03.2020 № 462-па»;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>         - акт проверки, проведенной Министерством Тверской области по обеспечению контрольных функций;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>   4. Продолжить работу по взысканию с Администрации Нелидовского городского округа задолженности по ранее заключенным договорам о предоставлении мазута.<o:p></o:p></span></p><p class=MsoNormal><i><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>        Справочно.<o:p></o:p></span></i></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>        <i>В соответствии с письмом Прокуратуры Тверской области от 18.03.2021 № 71-26а-2021 на постановление Администрации Нелидовского городского округа от 25.02.2021 № 259-па о введении режима чрезвычайной ситуации межрайонной прокуратурой 26.02.2021 был принесен протест.<o:p></o:p></i></span></p><p class=MsoNormal><i><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></i></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Докладываю на Ваше решение.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением, Евгения Данилова.<o:p></o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

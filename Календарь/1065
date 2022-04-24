@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x618654
+DTSTAMP:20220424T204126Z
+CREATED:20210524T112203Z
+LAST-MOD:20210521T084438Z
+SUMMARY:Заседание межведомственной комиссии по обеспечению реализации регионального проекта «Формирование комфортной городской среды» (отв. Ажгиревич А.И.\, Цветков А.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210524T123000Z
+DTEND;VALUE=DATE-TIME:20210524T133000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

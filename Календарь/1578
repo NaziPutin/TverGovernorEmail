@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x878254
+DTSTAMP:20220424T204126Z
+CREATED:20201217T073910Z
+LAST-MOD:20201217T050309Z
+SUMMARY:Совещание (в режиме ВКС) по вопросу реконструкции ж/д ветки от ст. Шаховская до ст. Ржев с электрификацией ж/д путей\, обустройством высоких платформ и строительством новой ст. «Ржевский мемориал» (отв. Ажгиревич А.И.\, Насибуллин Д.И.)
+DTSTART;VALUE=DATE-TIME:20201217T063000Z
+DTEND;VALUE=DATE-TIME:20201217T070000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

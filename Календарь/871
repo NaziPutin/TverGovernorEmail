@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x523af0
+DTSTAMP:20220424T204126Z
+CREATED:20210715T120111Z
+LAST-MOD:20210715T071055Z
+SUMMARY:Торжественная презентация книги «Фотография И.А. Тачалова. Тверь начала XX в. в объективе фотографа на открытках\, фотографиях и в архивных документах» (отв. Скорый А.В.\, Сальникова Т.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210715T140000Z
+DTEND;VALUE=DATE-TIME:20210715T143000Z
+LOCATION:Уточняется
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

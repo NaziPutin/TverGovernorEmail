@@ -1,0 +1,39 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 10 Jan 2022 18:15:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 10 Jan
+ 2022 18:15:13 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Mon, 10 Jan 2022 18:15:13 +0300
+In-Reply-To: <6d0385d157ee43fc9ec2de931d2deafb@tverreg.ru>
+References: <OFF4A791BB.04804406-ON432583D1.00613B60-432583D1.00614F6B@tverreg.ru>,<870AEC9F-AD6B-4EF6-8BFE-45B1F32425FB@tverreg.ru> <2059B0EA-D0EB-40D9-B0C6-BA311478A9DC@tverreg.ru> <OF1A0B6FED.9ECF0552-ON4325847A.003B3F38-4325847A.003CBE0B@tverreg.ru> <6d0385d157ee43fc9ec2de931d2deafb@tverreg.ru>
+To: =?KOI8-R?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?KOI8-R?B?yc7Gz9LNwcPJ0SDQzyDTxc3YxSwg0M/T1NLBxMHX28XKINc=?=
+ =?KOI8-R?B?INLF2tXM2NTB1MUg0M/WwdLBINcg7sXMycTP19PLz80g5+8=?=
+X-KeepSent: 555ED898:48FDDF39-432587C6:0053A4E4;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.1 September 28, 2009
+Message-ID: <OF555ED898.48FDDF39-ON432587C6.0053A4E4-432587C6.0053D20E@tverreg.ru>
+From: =?KOI8-R?B?4s/C0s/XwSD0wdTY0c7BIPfR3sXTzMHXz9fOwS/hxM3JzsnT1NLBw8nR?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <BobrovaTV@tverreg.ru>
+Date: Mon, 10 Jan 2022 18:15:13 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 10.01.2022 18:15:13
+Return-Path: BobrovaTV@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: 824132f8-c8ae-42c1-01e4-08d9d44c0056
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2210387
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

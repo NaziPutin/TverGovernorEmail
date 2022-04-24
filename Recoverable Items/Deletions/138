@@ -1,0 +1,956 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 22 Mar 2022 13:54:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 22 Mar
+ 2022 13:54:12 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 22 Mar 2022 13:54:13 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 3FE0183B62
+	for <rim@tverreg.ru>; Tue, 22 Mar 2022 13:54:12 +0300 (MSK)
+Received-SPF: pass (mta2.directcrm.ru: 130.193.65.120 is authorized to use 'bounce.0a8d0a000050c8030100d927@mta2.directcrm.ru' in 'mfrom' identity (mechanism 'a' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="bounce.0a8d0a000050c8030100d927@mta2.directcrm.ru"; helo=mta2.directcrm.ru; client-ip=130.193.65.120
+Received: from mta2.directcrm.ru (mta2.directcrm.ru [130.193.65.120])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id ECBCC83B60
+	for <rim@tverreg.ru>; Tue, 22 Mar 2022 13:54:10 +0300 (MSK)
+Date: Tue, 22 Mar 2022 13:54:11 +0300
+Message-ID: <0a8d0a000050c8030100d927@mta2.directcrm.ru>
+Subject: =?utf-8?B?0JzRiyDRgdC90L7QstCwINC+0YLQutGA0YvRgtGLIQ==?=
+From: =?utf-8?Q?Cstore_=E2=80=93_Apple_Premium_Reseller?= <subs@c-store.ru>
+To: <rim@tverreg.ru>
+Reply-To: =?utf-8?Q?Cstore_=E2=80=93_Apple_Premium_Reseller?=
+	<subs@c-store.ru>
+Precedence: bulk
+List-Unsubscribe: <mailto:list.0a8d0a000050c8030100d927@mta2.directcrm.ru>
+X-xsMessageId: 0a8d0a000050c8030100d927
+X-xsMailingId: 691466
+X-Mailru-Msgtype: 691466
+List-ID: <batch691466.list-id.c-store.ru>
+Feedback-ID: 691466:987:mindbox
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=c-store.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=I0O6uoJoo79XPz/q5IqeXPRA1YhEAm6qw91ZYTJS/VM=;
+ b=jIyDeqNk3r0otoITlEP/J1jquQvPimczEzjQdy4klcsErhREUvKNgliyBOvlhCOXAG2l2epxuW9yWxsAW4/0fjtB4z3oDefMhtV1osQfiuFaqOkiObfdsPFpSQEqRhh4K2C3odsCaKv7XErBKKkXkwuCKepZ0T58A7hAxtTi2Wo=
+DKIM-Signature: v=1;
+ a=rsa-sha256;
+ s=mindbox;
+ d=mta2.directcrm.ru;
+ c=relaxed/relaxed;
+ q=dns/txt;
+ h=From:To:Subject;
+ bh=I0O6uoJoo79XPz/q5IqeXPRA1YhEAm6qw91ZYTJS/VM=;
+ b=ltzi338JNDG56Jib4y/RvMCSiRXnz49i74iHBtll6Xr2RymSVrD/nGA/2Wi/z8KrXDWX26w/yDLfUyuWRG5qJ1gxj4/j2E380jYoePwr+8QUcuJZzPZ1g0s9v/EjqeotGvnuiCVAJEi5jCtgyf05pEMm0e9mQruV1t8blrzBbPk=
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeghedguddvucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgfgggffkffuhffvrhhpjfejsehhqhertddttdejnecuhfhrohhmpeevshhtohhrvggpqdgptehpphhlvggprfhrvghmihhumhgptfgvshgvlhhlvghruceoshhusghssegtqdhsthhorhgvrdhruheqnecuggftrfgrthhtvghrnhepgeevgfejkeekheelvdeutdefieduhfehudehiefhtedugfeufeetieehfefftdetnecuffhomhgrihhnpehmtghkvddrrhhupdgtqdhsthhorhgvrdhruhdpvhhkrdgtohhmpdhsvhihrgiinhhohidrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.145#12 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.747 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FUZZY_XPILL               0.1 Attempt to obfuscate words in spam
+	HEADER_FROM_DIFFERENT_DOMAINS   0.25 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_IMAGE_RATIO_02     0.001 HTML has a low ratio of text to image area
+	HTML_MESSAGE            0.001 HTML included in message
+	JMQ_SPF_NEUTRAL           0.5 SPF set to ?all
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URI_HEX                   0.1 URI hostname has long hexadecimal sequence
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeghedguddvucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgfgggffkffuhffvrhhpjfejsehhqhertddttdejnecuhfhrohhmpeevshhtohhrvggpqdgptehpphhlvggprfhrvghmihhumhgptfgvshgvlhhlvghruceoshhusghssegtqdhsthhorhgvrdhruheqnecuggftrfgrthhtvghrnhepgeevgfejkeekheelvdeutdefieduhfehudehiefhtedugfeufeetieehfefftdetnecuffhomhgrihhnpehmtghkvddrrhhupdgtqdhsthhorhgvrdhruhdpvhhkrdgtohhmpdhsvhihrgiinhhohidrrhhunecukfhppedufedtrdduleefrdeihedruddvtd
+X-DrWeb-SpamVersion: Vade Retro 01.422.145#12 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: bounce.0a8d0a000050c8030100d927@mta2.directcrm.ru
+X-MS-Exchange-Organization-Network-Message-Id: 2c0a5ca2-6015-44c5-2504-08da0bf24d90
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2300929
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Cstore</title>
+	<!--[if !mso]><!-->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!--<![endif]-->
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style type="text/css">
+		#outlook a {
+			padding: 0;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+			-webkit-text-size-adjust: 100%;
+			-ms-text-size-adjust: 100%;
+		}
+
+		table,
+		td {
+			border-collapse: collapse;
+			mso-table-lspace: 0pt;
+			mso-table-rspace: 0pt;
+		}
+
+		img {
+			border: 0;
+			height: auto;
+			line-height: 100%;
+			outline: none;
+			text-decoration: none;
+			-ms-interpolation-mode: bicubic;
+		}
+
+		p {
+			display: block;
+			margin:0px;
+		}
+	</style>
+
+<!--[if !mso]><!-->
+	<style type="text/css">
+		@media only screen and (max-width : 375px ){
+			@-ms-viewport {
+				width: 320px;
+			}
+
+			@viewport {
+				width: 320px;
+			}
+		}
+	</style>
+<!--<![endif]-->
+
+<!--[if mso]>
+    <xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+    </xml>
+<![endif]-->
+
+<!--[if lte mso 11]>
+    <style type="text/css">
+		.outlook-group-fix { width:100% !important;}
+		.display-inl-blc-320 {
+			display: inline-block;
+			width:320px;
+		}
+		.phone {
+			font-size: 20px!important;
+		}
+    </style>
+<![endif]-->
+
+<!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css">
+	<style type="text/css">
+		@import url("https://email-images.mindbox.ru/691466/4656234/13");
+			table {border-collapse: collapse;}
+			.column-per-50 {
+				width: 50% !important;
+			}
+			.display-inl-blc-320 {
+				display: inline-block;
+				width:320px;
+			}
+				
+	</style>
+<!--<![endif]-->
+	
+<!--[if (gte mso 9)|(IE)]>
+	<style type="text/css">
+		.arr_img {
+				padding-top: 20px;
+		}
+		.display-inl-blc-320 {
+			display: inline-block;
+			width:320px;
+		}
+		.phone {
+			font-size: 20px!important;
+		}
+	</style>
+<![endif]-->
+
+    <style type="text/css">
+		@media only screen and (min-width:480px) {
+			.display-inl-blc-320 {
+				display: inline-block;
+				width:320px;
+			}
+			.border-radius-5px {
+		    	border-radius: 5px 5px 5px 5px;
+				-moz-border-radius: 5px 5px 5px 5px;
+				-webkit-border-radius: 5px 5px 5px 5px;
+		    }
+		    .column-mob-px-360 {
+				width: 360px!important;
+			}
+		    .column-mob-px-320 {
+				width: 320px!important;
+		    }
+		    .column-mob-px-300 {
+				width: 300px!important;
+		    }
+		    .column-mob-px-200 {
+				width: 200px!important;
+		    }
+		    .column-mob-px-220 {
+				width: 220px!important;
+		    }
+			.phone {
+				font-size: 20px!important;
+			}
+		}
+		
+		
+		@media only screen and (max-width : 375px ){
+			.display-inl-blc {
+				display: inline-block;
+				width: 320px;
+			}
+			.column-per-50 {
+				width: 50% !important;
+			}
+			.column-mob-per-25 {
+				width: 25% !important;
+			}
+			.column-mob-per-75 {
+				width: 75% !important;
+			}
+			.hide-cls {
+				display: none!important;
+			}
+			.txt_center {
+				text-align: center!important;
+			}
+			.phone span {
+				display: none!important;
+			}
+			.txt-webkit-center {
+				text-align: -webkit-center!important;
+			}
+			.txt-mob-banner {
+				padding: 30px 25px 10px 25px!important;
+			}
+			.txt-mob-banner-btn {
+				padding: 10px 15px 10px 10px!important;
+			}
+			.column-mob-px-360 {
+				width: 360px!important;
+			}
+			.column-mob-px-320 {
+				width: 320px!important;
+		    }
+		    .column-mob-px-300 {
+				width: 300px!important;
+		    }
+		    .title-nopicture {
+		    	padding: 0px 0px 0px 10px!important;
+		    }
+		    .pad-top-mob-px-20 {
+		    	padding-top:20px!important;
+		    }
+		    .border-btm-mob {
+		    	border-bottom:1px solid #ececec;
+		    }
+		    .border-radius-5px {
+		    	border-radius: 5px 5px 5px 5px;
+				-moz-border-radius: 5px 5px 5px 5px;
+				-webkit-border-radius: 5px 5px 5px 5px;
+		    }
+		    .border-right-none-mob {
+		    	border-right: none!important;
+		    }
+		    .border-bottom-true-mob {
+		    	border-bottom: 1px solid #ececec!important;
+		    }
+
+		}
+    </style>
+
+
+</head>
+
+<body style="background-color:#f5f5f5;">
+
+<div style="background-color:#f5f5f5;">
+
+
+<!-- ------------------------------------------ cstore logo banner ------------------------------------- -->
+
+<!--[if mso | IE]>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#131414;background-color:#131414;margin:0px auto;max-width:640px;color:#000000;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#f131414;background-color:#131414;width:100%;">
+	        <tbody>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="background:#131414;background-color:#131414;width:100%;">
+			                <tr>
+					            <td style="vertical-align:top;width:640px;">
+					<![endif]-->
+		                <div class="mj-column-mob-px-640" style="font-size:13px;text-align:center;display:inline-block;vertical-align:top;width:100%;">
+
+			                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+								
+			                 
+								
+								 <tr height="1px"><td align="left" style="font-family:Arial, Helvetica, sans-serif; line-height:normal; line-height:1px; vertical-align:middle;font-size:1px; color: #333333; text-decoration: underline;">РњС‹ СЃРЅРѕРІР° РѕС‚РєСЂС‹С‚С‹!&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ</td></tr>
+								    
+							<tr>
+			                    	<td>
+			                    		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tbody>
+												<tr>
+												  <td><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/UX0FAg/-wPOsVCgYOba7Uh_/?u=https%3A%2F%2Fwww.c-store.ru%2F%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank"><img style="display:block;" src="https://email-images.mindbox.ru/691466/4656234/8.png" height="auto" width="100%" border="0" alt=""></a></td>
+												
+
+												</tr>
+											</tbody>
+										</table>										</td>
+			                    </tr>
+								
+								
+								 
+			                </table>
+
+		                </div>
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	             
+				
+	        </tbody>
+        </table>
+
+    </div>
+
+
+  <!-- ------------------------------------------ Banner and Text block ------------------------------------- -->
+
+<!--[if mso | IE]>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:640px;color:#000000;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+	        <tbody>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			                <tr>
+					            <td style="vertical-align:top;width:640px;background:#ffffff;background-color:#ffffff;">
+					<![endif]-->
+		                <div class="mj-column-mob-px-640" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+
+			                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                 <tr>
+			                    	<td>
+			                    		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tbody>
+												<tr>
+												  <td><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Un0FAg/RSvSZ2MvbEJcHtTt/?u=https%3A%2F%2Fwww.c-store.ru%2F%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank"><img style="display:block;" src="https://email-images.mindbox.ru/691466/4656234/11.jpg" height="auto" width="100%" border="0" alt=""></a></td>
+												
+
+												</tr>
+											</tbody>
+										</table>										</td>
+			                    </tr>
+								
+							
+			                </table>
+
+		                </div>
+
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	             
+				
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->
+	
+ <!-- ------------------------------------------ Banner and Text block ------------------------------------- -->
+
+<!--[if mso | IE]>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:640px;color:#000000;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+	        <tbody>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			                <tr>
+					            <td style="vertical-align:top;width:640px;background:#ffffff;background-color:#ffffff;">
+					<![endif]-->
+		                <div class="mj-column-mob-px-640" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+
+			                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                 <tr>
+			                    	<td>
+			                    		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tbody>
+												<tr>
+												  <td><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/U30FAg/Dzj8OgTWJEl54dTa/?u=https%3A%2F%2Fwww.c-store.ru%2F%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank"><img style="display:block;" src="https://email-images.mindbox.ru/691466/4656234/10.jpg" height="auto" width="100%" border="0" alt=""></a></td>
+												
+
+												</tr>
+											</tbody>
+										</table>										</td>
+			                    </tr>
+								
+							
+			                </table>
+
+		                </div>
+
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	             
+				
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->	
+	
+<!-- ------------------------------------------ Banner and Text block ------------------------------------- -->
+
+<!--[if mso | IE]>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:640px;color:#000000;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+	        <tbody>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			                <tr>
+					            <td style="vertical-align:top;width:640px;background:#ffffff;background-color:#ffffff;">
+					<![endif]-->
+		                <div class="mj-column-mob-px-640" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+
+			                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                 <tr>
+			                    	<td>
+			                    		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tbody>
+												<tr>
+												  <td><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/VH0FAg/KJltJ3laSactEmMc/?u=https%3A%2F%2Fvk.com%2Fcstore.official%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank"><img style="display:block;" src="https://email-images.mindbox.ru/691466/4656234/12.jpg" height="auto" width="100%" border="0" alt=""></a></td>
+												
+
+												</tr>
+											</tbody>
+										</table>										</td>
+			                    </tr>
+								
+							
+			                </table>
+
+		                </div>
+
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	             
+				
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->	
+	
+	
+<!-- ------------------------------------------ Banner and Text block ------------------------------------- -->
+
+<!--[if mso | IE]>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:640px;color:#000000;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+	        <tbody>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			                <tr>
+					            <td style="vertical-align:top;width:640px;background:#ffffff;background-color:#ffffff;">
+					<![endif]-->
+		                <div class="mj-column-mob-px-640" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+
+			                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                 <tr>
+			                    	<td>
+			                    		<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tbody>
+												<tr>
+												  <td><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/VX0FAg/ry49nWcYPDd0mn4o/?u=https%3A%2F%2Fwww.c-store.ru%2F%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank"><img style="display:block;" src="https://email-images.mindbox.ru/691466/4656234/9.jpg" height="auto" width="100%" border="0" alt=""></a></td>
+												
+
+												</tr>
+											</tbody>
+										</table>										</td>
+			                    </tr>
+								
+							
+			                </table>
+
+		                </div>
+
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	             
+				
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->	
+	
+<!-- ------------------------------------------ footer icons ------------------------------------- -->
+
+<!--[if mso | IE]>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:640px;border-top:1px solid #ececec;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+	        <tbody>
+	            <tr height="20px"><td>&nbsp;</td></tr>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+				        <tr>
+				            <td style="vertical-align:top;width:320px;">
+				    <![endif]-->
+		              <div class="column-mob-px-320" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:320px;">
+
+		                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+		                    <tr>
+		          				<td width="100px">
+		          					<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+		          						<tr>
+		          							<td align="center" width="60" height="62">
+		          								<div style="width:60px; height:62px; display: table-cell; vertical-align: middle;">
+													<a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Vn0FAg/OOwmTl6uUjiULdbM/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fiphone%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank">
+														<img style="display:block;" border="0" src="https://email-images.mindbox.ru/691466/4656234/6.png" alt="">
+													</a>
+												</div>
+		          							</td>
+		          						</tr>
+		          						<tr>
+		          							<td align="center"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/V30FAg/81CiaP0COq7y1i83/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fiphone%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-size:13px;color:#4d4d4d;text-decoration:none;font-family:Helvetica, Arial,sans-serif;">iPhone</a></td>
+		          						</tr>
+		          					</table>
+								</td>
+		          				<td>
+		          					<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+		          						<tr>
+		          							<td align="center" width="60" height="62">
+		          								<div style="width:60px; height:62px; display: table-cell; vertical-align: middle;">
+													<a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/WH0FAg/WazzsS91P3grPLnj/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fipad%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank">
+														<img style="display:block;" border="0" src="https://email-images.mindbox.ru/691466/4656234/7.png" alt="">
+													</a>
+												</div>
+		          							</td>
+		          						</tr>
+		          						<tr>
+		          							<td align="center"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/WX0FAg/VjPZ7A-P_8e_KkpX/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fipad%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-size:13px;color:#4d4d4d;text-decoration:none;font-family:Helvetica, Arial,sans-serif;">iPad</a></td>
+		          						</tr>
+		          					</table>
+		          				</td>
+		          				<td>
+									<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+		          						<tr>
+		          							<td align="center" width="60" height="62">
+		          								<div style="width:60px; height:62px; display: table-cell; vertical-align: middle;">
+													<a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Wn0FAg/ZRQaNQD0EBho3n1_/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fwatch%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank">
+														<img style="display:block;" border="0" src="https://email-images.mindbox.ru/691466/4656234/5.png" alt="">
+													</a>
+												</div>
+		          							</td>
+		          						</tr>
+		          						<tr>
+		          							<td align="center"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/W30FAg/D3bVXGFTlT3yB-JC/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fwatch%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-size:13px;color:#4d4d4d;text-decoration:none;font-family:Helvetica, Arial,sans-serif;">Watch</a></td>
+		          						</tr>
+		          					</table>
+		          				</td>
+		                    </tr>
+		                </table>
+
+		              </div>
+				        <!--[if mso | IE]>
+				            </td>
+				            <td style="vertical-align:top;width:320px;">
+				        <![endif]-->
+					    <div class="column-mob-px-320 pad-top-mob-px-20" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:320px;">
+							
+			                <table align="right" border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                	<tr>
+				                  	<td width="100px">
+			          					<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+			          						<tr>
+			          							<td align="center" width="60" height="62">
+			          								<div style="width:60px; height:62px; display: table-cell; vertical-align: middle;">
+														<a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/XH0FAg/7EinuFcbIzm5vuSC/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fmac%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank">
+															<img style="display:block;" border="0" src="https://email-images.mindbox.ru/691466/4656234/4.png" alt="">
+														</a>
+													</div>
+			          							</td>
+			          						</tr>
+			          						<tr>
+			          							<td align="center"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/XX0FAg/j10b3pE4WPFhD49a/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Fmac%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-size:13px;color:#4d4d4d;text-decoration:none;font-family:Helvetica, Arial,sans-serif;">Mac</a></td>
+			          						</tr>
+			          					</table>
+									</td>
+			          				<td>
+			          					<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+			          						<tr>
+			          							<td align="center" width="60" height="62">
+			          								<div style="width:60px; height:62px; display: table-cell; vertical-align: middle;">
+														<a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Xn0FAg/STVr_LXFJ_p9Ia-z/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2F1558%3Ffilter%255Bbrand%255D%255B%255D%3D1597177%26utm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank">
+															<img style="display:block;" border="0" src="https://email-images.mindbox.ru/691466/4656234/3.png" alt="">
+														</a>
+													</div>
+			          							</td>
+			          						</tr>
+			          						<tr>
+			          							<td align="center"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/X30FAg/gStg_je54rF3eBxp/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2F1558%3Ffilter%255Bbrand%255D%255B%255D%3D1597177%26utm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-size:13px;color:#4d4d4d;text-decoration:none;font-family:Helvetica, Arial,sans-serif;">Beats</a></td>
+			          						</tr>
+			          					</table>
+			          				</td>
+			          				<td>
+										<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+			          						<tr>
+			          							<td align="center" width="60" height="62">
+			          								<div style="width:60px; height:62px; display: table-cell; vertical-align: middle;">
+														<a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/YH0FAg/HCsj78fwLj5AEee-/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Faccessories%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank">
+															<img style="display:block;" border="0" src="https://email-images.mindbox.ru/691466/4656234/2.png" alt="">
+														</a>
+													</div>
+			          							</td>
+			          						</tr>
+			          						<tr>
+			          							<td align="center"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/YX0FAg/DPZBHcBAVDgSSqWa/?u=https%3A%2F%2Fwww.c-store.ru%2Fapple%2Faccessories%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-size:13px;color:#4d4d4d;text-decoration:none;font-family:Helvetica, Arial,sans-serif;">РђРєСЃРµСЃСЃСѓР°СЂС‹</a></td>
+			          						</tr>
+			          					</table>
+			          				</td>
+			                    </tr>
+			                </table>
+
+		                </div>
+		             <!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	            <tr height="20px"><td>&nbsp;</td></tr>
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->
+
+
+
+<!-- ------------------------------------------ footer links ------------------------------------- -->
+
+<!--[if mso | IE]>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#131414;background-color:#131414;margin:0px auto;max-width:640px;color:#ffffff;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#131414;background-color:#131414;width:100%;">
+	        <tbody>
+	            <tr height="20px"><td>&nbsp;</td></tr>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;vertical-align:top;">
+					<!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+					        <tr>
+					            <td style="vertical-align:top;width:320px;">
+					<![endif]-->
+		                <div class="column-mob-px-320" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:320px;">
+
+			                <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                    <tr>
+			          				<td width="160px" style="padding-left:20px;">
+			          					<table border="0" cellpadding="0" cellspacing="0" style="color:#ffffff;font-size:13px;">
+											<tr height="25px" style="line-height:25px;">
+												
+												<td style="padding-left:0px;"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Yn0FAg/7cjhPmVhktCW9fLu/?u=https%3A%2F%2Fwww.c-store.ru%2Fnews%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank" style="text-decoration:none;color:#ffffff;font-size:13px;font-family:Helvetica, Arial,sans-serif;">РђРєС†РёРё Рё РЅРѕРІРѕСЃС‚Рё</a></td>
+											</tr>
+										</table>
+									</td>
+			          				
+			                    </tr>
+								<tr>
+			          				<td width="200px" colspan="2" style="padding-left:20px;">
+			          					<table border="0" cellpadding="0" cellspacing="0" style="color:#ffffff;font-size:13px;">
+											<tr height="25px" style="line-height:25px;">
+												
+												<td style="padding-left:0px;"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Y30FAg/hruj-UFfSGxHz0bF/?u=https%3A%2F%2Fwww.c-store.ru%2Fprm%2Fcstore-plus%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank" style="text-decoration:none;color:#ffffff;font-size:13px;font-family:Helvetica, Arial,sans-serif;">РџСЂРѕРіСЂР°РјРјР° Р»РѕСЏР»СЊРЅРѕСЃС‚Рё <span style="color:#EC4A0D;">Cstore Plus</span></a></td>
+											</tr>
+										</table>
+									</td>
+			          				
+			                    </tr>
+								<tr>
+			          				<td width="200px" colspan="2" style="padding-left:20px;">
+			          					<table border="0" cellpadding="0" cellspacing="0" style="color:#ffffff;font-size:13px;">
+											<tr height="25px" style="line-height:25px;">
+												
+												<td style="padding-left:0px;padding-top:10px;"><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/ZH0FAg/hEaie12Erz8vYO-i/?u=https%3A%2F%2F167a4e.mck2.ru%2Fu%2FCo0KAABQyAMBANkn%2FL3tla0mGwIvZQ4QY%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="text-decoration:none;color:#ffffff;font-size:13px;font-family:Helvetica, Arial,sans-serif;">РћС‚РїРёСЃР°С‚СЊСЃСЏ</a></td>
+											</tr>
+										</table>
+									</td>
+			          				
+			                    </tr>
+								<tr height="10px"><td colspan="3">&nbsp;</td></tr>
+
+								<tr>
+			          				<td colspan="3" style="padding:0px 10px 20px 20px;">
+										<p style="margin:0px;font-size:13px;color:#b2b2b2;line-height:18px;text-align:left;">
+											Р”Р°РЅРЅРѕРµ СЃРѕРѕР±С‰РµРЅРёРµ РѕС‚РїСЂР°РІР»РµРЅРѕ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, РЅРµ
+РѕС‚РІРµС‡Р°Р№С‚Рµ РЅР° РЅРµРіРѕ. Р’РѕСЃРїРѕР»СЊР·СѓР№С‚РµСЃСЊ <a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/ZX0FAg/6OHbmzrN1HwWE1XZ/?u=https%3A%2F%2Fwww.svyaznoy.ru%2Fsupport%2Ffeedback%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank" style="color:#ffffff;">С„РѕСЂРјРѕР№ РѕР±СЂР°С‚РЅРѕР№ СЃРІСЏР·Рё.</a>
+										</p>
+			          				</td>
+			                    </tr>
+			                </table>
+							
+		                </div>
+							<!--[if mso | IE]>
+					            </td>
+					            <td style="vertical-align:top;width:320px;">
+							<![endif]-->
+					    <div class="column-mob-px-320 pad-top-mob-px-20" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:320px;">
+							
+			                <table align="right" border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                	<tr style="vertical-align:top;">
+				                  	<td width="20px">&nbsp;</td>
+				                  	<td width="140px">
+				                  		<table border="0" cellpadding="0" cellspacing="0" style="color:#ffffff;font-size:13px;width:100%;">
+											<tr height="25px" style="line-height:25px;">
+												<td width="140px" align="left">
+													<span style="font-family:Helvetica, Arial,sans-serif;">Cstore РІ СЃРѕС†РёР°Р»СЊРЅС‹С… СЃРµС‚СЏС…:</span>
+												</td>
+											</tr>
+											<tr height="10px"><td colspan="3">&nbsp;</td></tr>
+											<tr style="vertical-align:top;">
+				                  	<td>
+										<table border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												
+												<td><a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Zn0FAg/xY-EwyJvcsaJBdZP/?u=https%3A%2F%2Fvk.com%2Fcstore.official%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" target="_blank"><img src="https://email-images.mindbox.ru/691466/4656234/1.png" alt=""></a></td>
+						
+											</tr>
+										</table>
+				                    </td>
+			                    </tr>
+										</table>
+									</td>
+									
+			                    </tr>
+			                </table>
+
+		                </div>
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+					<![endif]-->
+		            </td>
+	            </tr>
+				<tr height="20px"><td>&nbsp;</td></tr>
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->
+<!-- ------------------------------------------ footer info ------------------------------------- -->
+
+<!--[if mso | IE]>
+	<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:640px;" width="640">
+		<tr>
+			<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+<![endif]-->
+
+    <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:640px;color:#000000;">
+
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+	        <tbody>
+	            <tr height="20px"><td>&nbsp;</td></tr>
+	            <tr>
+		            <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;vertical-align:top;">
+		            <!--[if mso | IE]>
+		                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+			                <tr>
+					            <td style="vertical-align:top;width:640px;">
+					<![endif]-->
+		                <div class="mj-column-mob-px-640" style="font-size:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+
+			                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;font-family:Helvetica, Arial,sans-serif;" width="100%">
+			                    <tr>
+			                    <!--[if mso | IE]>
+									<td width="20px">&nbsp;</td>
+			                    <![endif]-->
+			          				<td style="padding:0px 20px;">
+			          					<p style="font-size:9px;font-family:Helvetica, Arial,sans-serif; line-height:12px;margin:0px;">
+											РћСЂРіР°РЅРёР·Р°С‚РѕСЂ: РћРћРћ В«РЎРµС‚СЊ РЎРІСЏР·РЅРѕР№В» (РћР“Р Рќ 1057748288850, 123007, Рі. РњРѕСЃРєРІР°, 2-Р№ РҐРѕСЂРѕС€РµРІСЃРєРёР№ РїСЂРѕРµР·Рґ, Рґ.9, РєРѕСЂРї.2, СЌС‚.5, РєРѕРјРЅ.4).<br>
+											РџСЂРµРґСЃС‚Р°РІР»РµРЅРЅС‹Рµ РІ РЅР°СЃС‚РѕСЏС‰РµР№ СЂР°СЃСЃС‹Р»РєРµ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРёРµ РґР°РЅРЅС‹Рµ, СЃРїРµС†РёР°Р»СЊРЅС‹Рµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ, С‚РѕРІР°СЂС‹ Рё С†РµРЅС‹ РЅР° РЅРёС… РґРµР№СЃС‚РІРёС‚РµР»СЊРЅС‹ РЅР° РјРѕРјРµРЅС‚ РѕС‚РїСЂР°РІРєРё РїРёСЃСЊРјР°. РђРєС‚СѓР°Р»СЊРЅС‹Рµ С†РµРЅС‹, РЅР°Р»РёС‡РёРµ Рё РїРµСЂРµС‡РµРЅСЊ С‚РѕРІР°СЂРѕРІ, СѓС‡Р°СЃС‚РІСѓСЋС‰РёС… РІ Р°РєС†РёСЏС…, Р° С‚Р°РєР¶Рµ РёРЅС„РѕСЂРјР°С†РёСЋ РѕР± РёРјРµСЋС‰РёС…СЃСЏ РѕРіСЂР°РЅРёС‡РµРЅРёСЏС… РјРѕР¶РЅРѕ СѓС‚РѕС‡РЅРёС‚СЊ РЅР° СЃР°Р№С‚Рµ <a href="https://167a4e.mck2.ru/c/Co0KAABQyAMBANkn/Z30FAg/157T256wfFBd4j7i/?u=https%3A%2F%2Fwww.c-store.ru%2F%3Futm_source%3Dpromo%26utm_medium%3Demail%26utm_campaign%3Demail_march22_22_OtkritiyeMagazinov%2526svzcmuId%253D" style="font-family:Helvetica, Arial,sans-serif;text-decoration:none;color:#4a2585;">c-store.ru</a> РёР»Рё РїРѕ С‚РµР»РµС„РѕРЅСѓ 8&nbsp;(800)&nbsp;222-20-22.</p>
+			          				</td>
+			          			<!--[if mso | IE]>
+									<td width="20px">&nbsp;</td>
+			                    <![endif]-->
+			                    </tr>
+			                </table>
+
+		                </div>
+					<!--[if mso | IE]>
+		                   		</td>
+		        			</tr>
+		   				</table>
+		            <![endif]-->
+		            </td>
+	            </tr>
+	            <tr height="20px"><td>&nbsp;</td></tr>
+	        </tbody>
+        </table>
+
+    </div>
+
+<!--[if mso | IE]>
+            </td>
+        </tr>
+    </table>
+<![endif]-->
+
+
+	
+
+
+
+</div>
+
+<img src="https://167a4e.mck2.ru/o/Co0KAABQyAMBANkn/L3tla0mGwIvZQ4QY" width="1" height="1" alt="" border="0" style="display:block;"></body>
+
+</html>
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

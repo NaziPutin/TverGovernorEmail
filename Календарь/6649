@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157a10c
+DTSTAMP:20220424T204127Z
+CREATED:20161130T184221Z
+LAST-MOD:20161201T131116Z
+SUMMARY:Запись видеокомментария к Посланию Президента РФ Федеральному Собранию (отв. Ищенко А.Н.\, Исаков Ю.В.)
+DESCRIPTION:Запись проводит съемочная группа управления информационной политики аппарата Правительства Тверской области (Московкина А.\, Лаврентьев Д.\, Солодков К.)\n
+DTSTART;VALUE=DATE-TIME:20161201T103000Z
+DTEND;VALUE=DATE-TIME:20161201T110000Z
+LOCATION:г. Москва\, ул. Варварка\, д. 5
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

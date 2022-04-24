@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1adeec
+DTSTAMP:20220424T204126Z
+CREATED:20220321T185812Z
+LAST-MOD:20220321T185603Z
+SUMMARY:Заседание оргкомитета по подготовке и проведению празднования 450-летия перенесения мощей святого преподобного Ефрема Новоторжского (24.06.2022) (отв. Новикова В.И.\, Морозов Е.В.\, Ефремов Д.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220407T100000Z
+DTEND;VALUE=DATE-TIME:20220407T110000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

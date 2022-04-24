@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157d73c
+DTSTAMP:20220424T204127Z
+CREATED:20160922T170247Z
+LAST-MOD:20161011T160716Z
+SUMMARY:Заседание рабочей группы по подготовке к работе в осенне-зимний период 2016 - 2017 гг. объектов ЖКХ города Твери и ООО "Тверская генерация" (отв. Пилавов М.И.\, Морозова М.И.).  Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20160927T143000Z
+DTEND;VALUE=DATE-TIME:20160927T163000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

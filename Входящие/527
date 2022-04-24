@@ -1,0 +1,58 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sun, 27 Feb 2022 16:21:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sun, 27 Feb
+ 2022 16:21:02 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Sun, 27 Feb 2022 16:21:03 +0300
+From: =?koi8-r?B?4sXMz9LV08/XIPfMwcTJ08zB1yDhzsHUz8zYxdfJ3g==?=
+	<bva@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?7yDLwc7EycTB1MUg1yDS1cvP18/E09TXzyD2wdLLz9fTy8/HzyDSwcrPzsE=?=
+Thread-Topic: =?koi8-r?B?7yDLwc7EycTB1MUg1yDS1cvP18/E09TXzyD2wdLLz9fTy8/HzyDSwcrPzsE=?=
+Thread-Index: AQHYK9xre8D2z2R2IEyIozXm5cuNTQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sun, 27 Feb 2022 16:21:03 +0300
+Message-ID: <AM8PR04MB72364D95B80A84EE27A0B862AF009@AM8PR04MB7236.eurprd04.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <AM8PR04MB72364D95B80A84EE27A0B862AF009@AM8PR04MB7236.eurprd04.prod.outlook.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 77a8165b-346f-4eab-e397-08d9f9f40138
+Return-Path: bva@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5610465
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERD829A361
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+</head>
+<body>
+<div dir="auto" style="color: rgb(33, 33, 33); background-color: rgb(255, 255, 255);">
+дПВТЩК ДЕОШ. йЗПТШ нЙИБКМПЧЙЮ, РП чБЫЕНХ РПТХЮЕОЙА ОБРТБЧМСА ЙОЖПТНБГЙА ОБ ЛБОДЙДБФБ Ч ТХЛПЧПДУФЧП &nbsp;БДНЙОЙУФТБГЙЙ цБТЛПЧУЛПЗП ТБКПОБ.<br>
+</div>
+<div id="ms-outlook-mobile-signature" dir="auto">
+<div><br>
+</div>
+уЛБЮБКФЕ <a href="https://aka.ms/ghei36">Outlook ДМС Android</a></div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

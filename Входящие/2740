@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.0.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.0.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sun, 23 Dec 2018 22:23:15 +0300
+Received: from SRV-MAIL-03.tverreg.ru (172.30.0.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.0.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sun, 23 Dec
+ 2018 22:23:18 +0300
+Received: from SRV-MAIL-03.tverreg.ru ([::1]) by SRV-MAIL-03.tverreg.ru
+ ([fe80::4dcb:e26:3a7b:f576%9]) with mapi id 15.01.1591.008; Sun, 23 Dec 2018
+ 22:23:14 +0300
+From: =?utf-8?B?0KLQsNGA0LDRgdC+0LIg0KHQtdGA0LPQtdC5INCS0LDQu9C10YDRjNC10LI=?=
+ =?utf-8?B?0LjRhw==?= <TarasovSV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KHQv9GA0LDQstC60Lgg0L/QviDQntCU0JrQkQ==?=
+Thread-Topic: =?utf-8?B?0KHQv9GA0LDQstC60Lgg0L/QviDQntCU0JrQkQ==?=
+Thread-Index: AQHUmvTzNmt0PTCG/EirHFpD+iFYXg==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sun, 23 Dec 2018 22:23:14 +0300
+Message-ID: <1D14CB0E-1B53-4195-BC90-3FD1D8D7AC1B@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <1D14CB0E-1B53-4195-BC90-3FD1D8D7AC1B@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-03.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 71712908-a614-4a42-a382-08d6690c15e2
+Return-Path: TarasovSV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1990184
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER799CCA49
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div><br></div><div>Игорь Михайлович, добрый вечер. Для сведения отправил справку по основным замечаниям Главгосэкспертизы. В понедельник еду в Минстрой РФ к Ставицкому согласовывать СТУ (спецтехусловия) и в экспертизу чтобы снимать остальные замечания.&nbsp;</div><div><br></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

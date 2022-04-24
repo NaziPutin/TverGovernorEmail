@@ -1,0 +1,76 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 13 Nov 2018 14:12:46 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 13 Nov
+ 2018 14:12:32 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 13 Nov 2018 14:12:32 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 2725922005
+	for <rim@tverreg.ru>; Tue, 13 Nov 2018 14:12:33 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'apk7888@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="apk7888@yandex.ru"; helo=forward106p.mail.yandex.net; client-ip=77.88.28.109
+Received: from forward106p.mail.yandex.net (forward106p.mail.yandex.net [77.88.28.109])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 8080722000
+	for <rim@tverreg.ru>; Tue, 13 Nov 2018 14:12:18 +0300 (MSK)
+Received: from mxback3g.mail.yandex.net (mxback3g.mail.yandex.net [IPv6:2a02:6b8:0:1472:2741:0:8b7:164])
+	by forward106p.mail.yandex.net (Yandex) with ESMTP id 29FF42D85B57
+	for <rim@tverreg.ru>; Tue, 13 Nov 2018 14:12:18 +0300 (MSK)
+Received: from smtp2o.mail.yandex.net (smtp2o.mail.yandex.net [2a02:6b8:0:1a2d::26])
+	by mxback3g.mail.yandex.net (nwsmtp/Yandex) with ESMTP id KxRzjMjMC2-CGM4ajSm;
+	Tue, 13 Nov 2018 14:12:16 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1542107537;
+	bh=pY1mlQRnrp1YDN256YsTkvehWuuT5ZJb93JFxuhDmgE=;
+	h=From:Date:Message-Id:To;
+	b=ha/UXk4uDKMwRmwvIEfHt1xSYut7SYHnPyumP7q5RlxjKCHOj56gILg43Sok9E/Ne
+	 ITBEY6cj2vesuRSvuyE4SE2KPdtOi/lS4x2SwgQFgvosdzm59Pc5Ru4apLOUk8/6VO
+	 Aazb8/x6nxU5fw377T+WOlKOFmDdyJgOpwUHvThE=
+Received: by smtp2o.mail.yandex.net (nwsmtp/Yandex) with ESMTPSA id DtziU5gcBI-CA2ucWOm;
+	Tue, 13 Nov 2018 14:12:10 +0300
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(Client certificate not present)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1542107535;
+	bh=pY1mlQRnrp1YDN256YsTkvehWuuT5ZJb93JFxuhDmgE=;
+	h=From:Date:Message-Id:To;
+	b=ecvLDYeMu1I9JYyv/fMFyS1YTbksZYaXT8rj9TSR7rxsPmdpxV4mUulhOHjd0SCYc
+	 LleU9jTKcKteQF7/Pki6BJtT2xhvpDSUE/hJSBi12gTIjeFJqkQmL5bOoLFkxLIciu
+	 rTtN6zOD4KBdfzG2XoA30bS3rSCjFMaCi6HUVaSw=
+Authentication-Results: smtp2o.mail.yandex.net; dkim=pass header.i=@yandex.ru
+From: =?utf-8?B?0JDQn9Ca?= <apk7888@yandex.ru>
+Date: Tue, 13 Nov 2018 14:12:09 +0300
+Message-Id: <B3703398-AC0C-463C-9E00-641FE26ACF5E@yandex.ru>
+To: =?utf-8?B?0J/RgNC40LXQvNC90LDRjyDQnNC+0LE=?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (16B92)
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -1.048 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (apk7888[at]yandex.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (apk7888[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	MISSING_SUBJECT         1.799 Missing Subject: header
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: apk7888@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 2dab42eb-b97f-41d6-be54-08d64958e86c
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:16.9684972
+Status: RO
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

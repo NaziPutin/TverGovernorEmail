@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6de224
+DTSTAMP:20220424T204126Z
+CREATED:20210415T075238Z
+LAST-MOD:20210414T083514Z
+SUMMARY:Заседание Совета по инвестиционной политике и развитию предпринимательства в Тверской области (отв. Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210415T080000Z
+DTEND;VALUE=DATE-TIME:20210415T090000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

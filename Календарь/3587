@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x107f748
+DTSTAMP:20220424T204127Z
+CREATED:20190313T153648Z
+LAST-MOD:20190313T153237Z
+SUMMARY:Рабочая встреча по вопросам реализации мероприятий госпрограммы ТО «Сохранение\, популяризация и гос. охрана культурного наследия в Тверской области на 2018-2023 гг.» (отв. Смирнов М.Ю.\, Белоцерковский А.В.\, Репина И.А.\,  Степанов В.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190314T110000Z
+DTEND;VALUE=DATE-TIME:20190314T120000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

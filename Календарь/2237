@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xab6368
+DTSTAMP:20220424T204126Z
+CREATED:20200520T073408Z
+LAST-MOD:20200520T120531Z
+SUMMARY:Заседание межведомственной комиссии по обеспечению реализации регионального проекта «Формирование комфортной городской среды» (в режиме видеоконференцсвязи) (отв. Ажгиревич А.И.\, Цветков А.И.\, пресс-служба )
+DTSTART;VALUE=DATE-TIME:20200520T120000Z
+DTEND;VALUE=DATE-TIME:20200520T133000Z
+LOCATION:каб. 207\; обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

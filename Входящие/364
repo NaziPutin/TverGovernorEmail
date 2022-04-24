@@ -1,0 +1,112 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 9 Mar 2022 15:44:30 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 9 Mar 2022
+ 15:44:30 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 9 Mar 2022 15:44:30 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+CC: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>,
+	=?windows-1251?B?weXw5efo7SDE7Ojy8OjpIMHu8Ojx7uLo9w==?=
+	<Berezin_DB@tverreg.ru>, =?windows-1251?B?w/Do4+7w/+0gwPDx5e0g0OD06Oru4uj3?=
+	<grygoryan@tverreg.ru>, =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?=
+	<egorov@tverreg.ru>, =?windows-1251?B?xuDw6u7iIMjj7vD8INHl8OPl5eLo9w==?=
+	<ZharkovIC@tverreg.ru>,
+	=?windows-1251?B?zO7w7ufu4iDF4uPl7ejpIMLg8ejr/OXi6Pc=?=
+	<Morozov_EV@tverreg.ru>, =?windows-1251?B?zeDz7O7iIMDt5PDl6SDC6Ory7vDu4uj3?=
+	<naumov@tverreg.ru>, =?windows-1251?B?ze7i6Oru4uAgwuDr5e3y6O3gIMji4O3u4u3g?=
+	<Novikova_VI@tverreg.ru>,
+	=?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>,
+	=?windows-1251?B?0eru8PvpIMDr5erx5ekgwuvg5Ojs6PDu4uj3?=
+	<SkoriyAV@tverreg.ru>,
+	=?windows-1251?B?1uLl8uru4iDA6+Xq8eDt5PAgyOLg7e7i6Pc=?=
+	<CvetkovAI@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDuIPTl5OXw4Ov87fv1IOfg6u7t4PUsIO3g7/Dg4uvl?=
+ =?windows-1251?B?7e379SDt4CDn4Pno8vMg4/Dg5uTg7SDoIP3q7u3u7Ojq6CDiIPPx6+7i?=
+ =?windows-1251?B?6P/1IOfg8PPh5ebt+/Ug8eDt6vbo6Q==?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDuIPTl5OXw4Ov87fv1IOfg6u7t4PUsIO3g7/Dg4uvl?=
+ =?windows-1251?B?7e379SDt4CDn4Pno8vMg4/Dg5uTg7SDoIP3q7u3u7Ojq6CDiIPPx6+7i?=
+ =?windows-1251?B?6P/1IOfg8PPh5ebt+/Ug8eDt6vbo6Q==?=
+Thread-Index: AdgzsPsPA6n+MlaKT2a2b4e91QGRjA==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Wed, 9 Mar 2022 15:44:29 +0300
+Message-ID: <3559138b922742b0a59fd5e0c945f931@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <3559138b922742b0a59fd5e0c945f931@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: c2a1ec07-4316-4cb1-9cf8-08da01ca8ddb
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7230872
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>По Вашему поручению направляю информацию о принятых и обнародованных федеральных законах, направленных на защиту граждан и экономики в условиях зарубежных санкций, рассмотренных Государственной Думой ФС РФ и одобренных Советом Федерации ФС РФ 04.03.2022, подписанных Президентом РФ и обнародованных 09 марта 2022 года. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Отдельно следует отметить основные положения указанных законов, устанавливающих новые полномочия субъектов РФ:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1) до 31 декабря 2022 года включительно <b>решением высшего</b> исполнительного <b>органа</b> государственной власти <b>субъекта Российской Федерации</b> в дополнение к случаям, предусмотренным Федерального закона № 44-ФЗ  <b>могут быть установлены иные случаи осуществления закупок</b> товаров, работ, услуг для государственных и (или) муниципальных нужд <b>у единственного поставщика</b> (подрядчика, исполнителя) в целях обеспечения нужд соответствующего субъекта Российской Федерации, а также порядок осуществления закупок в таких случаях.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>При этом на основании решения высшего исполнительного органа государственной власти субъекта Российской Федерации при осуществлении закупки для нужд субъекта Российской Федерации допускается по соглашению сторон изменение существенных условий контракта, заключенного до 1 января 2023 года, если при исполнении такого контракта возникли независящие от сторон контракта обстоятельства, влекущие невозможность его исполнения (46-ФЗ);<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2) устанавливаются <b>полномочия высших </b>исполнительных <b>органов</b> государственной власти <b>субъектов</b> Российской Федерации в 2022 году <b>издавать</b> нормативные правовые <b>акты</b> в сфере налогов и сборов, предусматривающие в период с 1 января до 31 декабря 2022 г. <b>продление сроков уплаты налогов</b> по региональным и местным налогам (52-ФЗ);<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>3) предусматривается возможность в 2022 году оперативного перераспределения бюджетных ассигнований в ходе исполнения регионального бюджета с их последующим использованием на реализацию мероприятий, связанных с предотвращением влияния изменения геополитической обстановки и ухудшения экономической ситуации на развитие отраслей экономики и финансового сектора, а также на иные цели, определенные высшим исполнительным органом субъекта Российской Федерации (53-ФЗ);<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>4) предусматривается возможность направления субъектами Российской Федерации в 2022 году средств, высвобождаемых в результате реструктуризации бюджетных кредитов, ранее предоставленных регионам из федерального бюджета, на реализацию мероприятий, связанных с предотвращением влияния изменения геополитической обстановки и ухудшения экономической ситуации на развитие отраслей экономики и финансовый сектор (53-ФЗ);<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>5) предусматривается продление права субъектов РФ при отказе от осуществления заимствований оперативно (без внесения изменений в закон о бюджете субъекта Российской Федерации) принимать решения по уменьшению бюджетных ассигнований на обслуживание государственного долга и их направлению на приоритетные расходы (53-ФЗ).<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> <o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением,<o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:70.8pt;margin-bottom:.0001pt;text-indent:35.4pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>П. Смялковский <o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

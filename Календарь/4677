@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13865c4
+DTSTAMP:20220424T204127Z
+CREATED:20180305T062925Z
+LAST-MOD:20180302T183343Z
+SUMMARY:Рабочая поездка Исаева Олега Юрьевича – генерального директора ПАО «МРСК Центра» в Тверскую область (отв. Жарлицына Т.Л.\, Волгин А.В.\, СМИ+пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180305T123000Z
+DTEND;VALUE=DATE-TIME:20180305T140000Z
+LOCATION:каб.302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf94c5c
+DTSTAMP:20220424T204127Z
+CREATED:20190427T171231Z
+LAST-MOD:20190427T171231Z
+SUMMARY:Посещение Вознесенского Оршина женского монастыря (отв. Ищенко А.Н.\, Белорусов В.А.\, СМИ +пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190428T093000Z
+DTEND;VALUE=DATE-TIME:20190428T110000Z
+LOCATION:Калининский район\, Каблуковcкое с/п\, с. Орша\, Вознесенский Оршин женский монастырь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

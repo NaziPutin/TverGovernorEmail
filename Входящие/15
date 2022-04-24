@@ -1,0 +1,96 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 1 Apr 2022 18:42:37 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Fri, 1 Apr
+ 2022 18:42:35 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 1 Apr 2022 18:42:37 +0300
+From: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?7s/XycvP18Eg98HMxc7Uyc7BIOnXwc7P187B?=
+	<Novikova_VI@tverreg.ru>, =?koi8-r?B?7c/Sz9rP1yDl18fFzsnKIPfB08nM2MXXyd4=?=
+	<Morozov_EV@tverreg.ru>, =?koi8-r?B?8M/E1MnIz9fBIO3B0snOwSDp18HOz9fOwQ==?=
+	<podtihova@tverreg.ru>, =?koi8-r?B?88vP0tnKIOHMxcvTxcog98zBxMnNydLP18ne?=
+	<SkoriyAV@tverreg.ru>
+Subject: =?koi8-r?B?6c7Gz9LNwcPJ0SDPIMzJw8HILCDJzcXA3cnIINDSwdfPIM7BINDPzNXexc7J?=
+ =?koi8-r?B?xSDX2dDMwdQg1yDT19HaySDTIMfJwsXM2MAg18/Fzs7P08zV1sHdycgg?=
+Thread-Topic: =?koi8-r?B?6c7Gz9LNwcPJ0SDPIMzJw8HILCDJzcXA3cnIINDSwdfPIM7BINDPzNXexc7J?=
+ =?koi8-r?B?xSDX2dDMwdQg1yDT19HaySDTIMfJwsXM2MAg18/Fzs7P08zV1sHdycgg?=
+Thread-Index: AdhF3whCkokgARdsRVmbwMqM1+RK8g==
+Disposition-Notification-To: =?koi8-r?B?883RzMvP19PLycog8MHXxcwg5dfHxc7YxdfJ3g==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Fri, 1 Apr 2022 18:42:37 +0300
+Message-ID: <ece3eea44e6f4be29c0bcc895f074bf2@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ece3eea44e6f4be29c0bcc895f074bf2@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: cc0016e5-2cd2-4b27-e89e-08da13f63f56
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3980290
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center;text-indent:35.4pt'><b><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>ч УППФЧЕФУФЧЙЙ У чБЫЙН РПТХЮЕОЙЕН РП ЙФПЗБН ЪБУЕДБОЙС рТЕЪЙДЙХНБ рТБЧЙФЕМШУФЧБ фЧЕТУЛПК ПВМБУФЙ 01.04.2022 БРРБТБФПН рТБЧЙФЕМШУФЧБ фЧЕТУЛПК ПВМБУФЙ РПДЗПФПЧМЕОБ ЙОЖПТНБГЙС П МЙГБИ, ЙНЕАЭЙИ РТБЧП ОБ РПМХЮЕОЙЕ ЧЩРМБФ Ч УЧСЪЙ У ЗЙВЕМША ЧПЕООПУМХЦБЭЙИ Й МЙГ, РТПИПДСЭЙИ УМХЦВХ Ч ЧПКУЛБИ ОБГЙПОБМШОПК ЗЧБТДЙЙ тПУУЙКУЛПК жЕДЕТБГЙЙ Й ЙНЕАЭЙИ УРЕГЙБМШОПЕ ЪЧБОЙЕ РПМЙГЙЙ (РТЙМБЗБЕФУС).<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>ч ПФОПЫЕОЙЙ ЧЩРМБФ РТЙЕНОЩН ТПДЙФЕМСН нХТБЧШЕЧБ у.ч. УППВЭБА УМЕДХАЭЕЕ.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>ч УППФЧЕФУФЧЙЙ У ЪБЛПОПДБФЕМШУФЧПН тж РТЙЕНОЩЕ ТПДЙФЕМЙ Й УЕУФТЩ (ВТБФШС) РПЗЙВЫЕЗП ЧПЕООПУМХЦБЭЕЗП ОЕ РПЙНЕОПЧБОЩ Ч ЛБЮЕУФЧЕ РПМХЮБФЕМЕК ЖЕДЕТБМШОЩИ ЧЩРМБФ (ЛБЛ ЮМЕОЩ УЕНЕК ЧПЕООПУМХЦБЭЙИ). љоП <b>РТЙЕНОЩЕ ТПДЙФЕМЙ љНПЗХФ ВЩФШ РТЙЪОБОЩ</b> РПМХЮБФЕМСНЙ ЛБЛ МЙГБ<b>, ЖБЛФЙЮЕУЛЙ ЧПУРЙФЩЧБЧЫЙЕ Й УПДЕТЦБЧЫЙЕ</b> ЧПЕООПУМХЦБЭЕЗП Ч ФЕЮЕОЙЕ ОЕ НЕОЕЕ РСФЙ МЕФ ДП ДПУФЙЦЕОЙС ЙНЙ УПЧЕТЫЕООПМЕФЙС. рТЙЪОБОЙЕ МЙГБ ЖБЛФЙЮЕУЛЙН ЧПУРЙФБЧЫЙН РТПЙЪЧПДЙФУС УХДПН Ч РПТСДЛЕ ПУПВПЗП РТПЙЪЧПДУФЧБ. <o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>нХТБЧШЕЧ у.ч.љ У ЙАМС 2009 ЗПДБ ОБИПДЙМУС ОБ ЧПУРЙФБОЙЙ Х РТЙЕНОПК УЕНШЙ. оБ ДБФХ ЕЗП УПЧЕТЫЕООПМЕФЙС (03.10.2017) ПО ЧПУРЙФЩЧБМУС Ч РТЙЕНОПК УЕНШЕ ВПМЕЕ ЧПУШНЙ МЕФ. фБЛЙН ПВТБЪПН, <b>РТЙЕНОЩЕ ТПДЙФЕМЙ нХТБЧШЕЧБ у.ч</b>. ЧПУРЙФЩЧБМЙ Й УПДЕТЦБМЙ ЕЗП Ч ФЕЮЕОЙЕ ВПМЕЕ РСФЙ МЕФ, УМЕДПЧБФЕМШОП, ПОЙ <b>НПЗХФ ВЩФШ РТЙЪОБОЩ МЙГБНЙ,љ ЖБЛФЙЮЕУЛЙ ЧПУРЙФЩЧБЧЫЙНЙ Й УПДЕТЦБЧЫЙНЙ</b> ЧПЕООПУМХЦБЭЕЗП.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>рП ЙФПЗБН ФЕМЕЖПООПЗП ТБЪЗПЧПТБ У ЧПЕООЩН ЛПНЙУУБТПН фЧЕТУЛПК ПВМБУФЙ сОЙОЩН й.ч., РТПЧЕДЕООЩН 01.04.2022 УПЧНЕУФОП У ЪБНЕУФЙФЕМЕН РТЕДУЕДБФЕМС рТБЧЙФЕМШУФЧБ фЧЕТУЛПК ПВМБУФЙ нПТПЪПЧЩН е.ч., љРПМХЮЕОБ ЙОЖПТНБГЙС, ЮФП ЧПЕООЩК ЛПНЙУУБТЙБФ фЧЕТУЛПК ПВМБУФЙ ПТЗБОЙЪХЕФ РПДБЮХ ДПЛХНЕОФПЧ ОБ ЧЩРМБФХ РТЙЕНОЩН ТПДЙФЕМСН нХТБЧШЕЧБ у.ч. <o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>ч УМХЮБЕ РПМХЮЕОЙС ПФЛБЪБ Ч ЧЩРМБФЕ РТЙЕНОЩН ТПДЙФЕМСН нХТБЧШЕЧБ у.ч. ВХДЕФ ПЛБЪБОБ РПНПЭШ Ч РПДЗПФПЧЛЕ ДПЛХНЕОФПЧ ДМС ПВТБЭЕОЙС Ч УХД Ч ГЕМСИ РТЙОСФЙС УППФЧЕФУФЧХАЭЕЗП УХДЕВОПЗП БЛФБ П РТЙЪОБОЙЙ РТЙЕНОЩИ ТПДЙФЕМЕК нХТБЧШЕЧБ у.ч. МЙГБНЙ, ЖБЛФЙЮЕУЛЙ ЧПУРЙФЩЧБЧЫЙНЙ Й УПДЕТЦБЧЫЙНЙ ЧПЕООПУМХЦБЭЕЗП, Й УМЕДПЧБФЕМШОП, ЙНЕАЭЙНЙ РТБЧП ОБ РПМХЮЕОЙЕ ЖЕДЕТБМШОЩИ ЧЩРМБФ.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>у ХЧБЦЕОЙЕН,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>р. уНСМЛПЧУЛЙК<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

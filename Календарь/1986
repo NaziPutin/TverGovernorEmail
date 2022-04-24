@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9e52f8
+DTSTAMP:20220424T204126Z
+CREATED:20200730T121505Z
+LAST-MOD:20200730T121505Z
+SUMMARY:Совещание\, тема: «О дополнительных мерах по предупреждению детского травматизма и гибели несовершеннолетних» (отв. Ищенко А.Н.\, Коваленко Ю.Н.\, Насибуллин Д.И.\, Чистяков Ю.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200730T080000Z
+DTEND;VALUE=DATE-TIME:20200730T083000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

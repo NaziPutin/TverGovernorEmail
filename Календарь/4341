@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12465fc
+DTSTAMP:20220424T204127Z
+CREATED:20180712T131838Z
+LAST-MOD:20180711T102023Z
+SUMMARY:Посещение ГБУЗ ТО «Областная клиническая больница». Осмотр Дистанционного хирургического центра и хирургического отделения после капитального ремонта (отв. Синода В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180713T080000Z
+DTEND;VALUE=DATE-TIME:20180713T084500Z
+LOCATION:Петербургское ш.\, д.105
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

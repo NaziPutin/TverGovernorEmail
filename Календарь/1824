@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x941cc4
+DTSTAMP:20220424T204126Z
+CREATED:20200930T061706Z
+LAST-MOD:20200930T060811Z
+SUMMARY:Рабочая встреча с руководством ГК «Восток-Сервис» («ЗАО «Перспектива») по вопросу реализации инвестиционного проекта (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200930T070000Z
+DTEND;VALUE=DATE-TIME:20200930T080000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

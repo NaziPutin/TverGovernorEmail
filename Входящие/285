@@ -1,0 +1,83 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sat, 12 Mar 2022 22:51:42 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sat, 12 Mar
+ 2022 22:51:37 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Sat, 12 Mar 2022 22:51:42 +0300
+From: =?utf-8?B?0KHQvNGP0LvQutC+0LLRgdC60LjQuSDQn9Cw0LLQtdC7INCV0LLQs9C10L0=?=
+ =?utf-8?B?0YzQtdCy0LjRhw==?= <smyalkovsky@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+CC: =?utf-8?B?0JDQttCz0LjRgNC10LLQuNGHINCQ0YDRgtC10Lwg0JjQstCw0L3QvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <AzhgirevichAI@tverreg.ru>,
+	=?utf-8?B?0JHQtdGA0LXQt9C40L0g0JTQvNC40YLRgNC40Lkg0JHQvtGA0LjRgdC+0LI=?=
+ =?utf-8?B?0LjRhw==?= <Berezin_DB@tverreg.ru>,
+	=?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>,
+	=?utf-8?B?0JbQsNGA0LrQvtCyINCY0LPQvtGA0Ywg0KHQtdGA0LPQtdC10LLQuNGH?=
+	<ZharkovIC@tverreg.ru>,
+	=?utf-8?B?0JzQvtGA0L7Qt9C+0LIg0JXQstCz0LXQvdC40Lkg0JLQsNGB0LjQu9GM0LU=?=
+ =?utf-8?B?0LLQuNGH?= <Morozov_EV@tverreg.ru>,
+	=?utf-8?B?0J3QvtCy0LjQutC+0LLQsCDQktCw0LvQtdC90YLQuNC90LAg0JjQstCw0L0=?=
+ =?utf-8?B?0L7QstC90LA=?= <Novikova_VI@tverreg.ru>,
+	=?utf-8?B?0J/QvtC00YLQuNGF0L7QstCwINCc0LDRgNC40L3QsCDQmNCy0LDQvdC+0LI=?=
+ =?utf-8?B?0L3QsA==?= <podtihova@tverreg.ru>,
+	=?utf-8?B?0J3QsNGD0LzQvtCyINCQ0L3QtNGA0LXQuSDQktC40LrRgtC+0YDQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <naumov@tverreg.ru>,
+	=?utf-8?B?0JPRgNC40LPQvtGA0Y/QvSDQkNGA0YHQtdC9INCg0LDRhNC40LrQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <grygoryan@tverreg.ru>,
+	=?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>,
+	=?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>
+Subject: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0L/RgNCw0LLQvtCy0YvRhSDQsNC6?=
+ =?utf-8?B?0YLQsNGFINCf0YDQsNCy0LjRgtC10LvRjNGB0YLQstCwINCg0KQsINC90LA=?=
+ =?utf-8?B?0L/RgNCw0LLQu9C10L3QvdGL0YUg0L3QsCDQt9Cw0YnQuNGC0YMg0LPRgNCw?=
+ =?utf-8?B?0LbQtNCw0L0g0Lgg0Y3QutC+0L3QvtC80LjQutC4INCyINGD0YHQu9C+0LI=?=
+ =?utf-8?B?0LjRj9GFINC30LDRgNGD0LHQtdC20L3Ri9GFINGB0LDQvdC60YbQuNC5?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0L/RgNCw0LLQvtCy0YvRhSDQsNC6?=
+ =?utf-8?B?0YLQsNGFINCf0YDQsNCy0LjRgtC10LvRjNGB0YLQstCwINCg0KQsINC90LA=?=
+ =?utf-8?B?0L/RgNCw0LLQu9C10L3QvdGL0YUg0L3QsCDQt9Cw0YnQuNGC0YMg0LPRgNCw?=
+ =?utf-8?B?0LbQtNCw0L0g0Lgg0Y3QutC+0L3QvtC80LjQutC4INCyINGD0YHQu9C+0LI=?=
+ =?utf-8?B?0LjRj9GFINC30LDRgNGD0LHQtdC20L3Ri9GFINGB0LDQvdC60YbQuNC5?=
+Thread-Index: AQHYNkqY+4FjJ7rsy0WRhpjB8pAonw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 12 Mar 2022 22:51:41 +0300
+Message-ID: <22A64B13-9EA5-462E-AC88-EA80684CF570@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <22A64B13-9EA5-462E-AC88-EA80684CF570@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: a1c7fc08-6e6c-4b50-f1ab-08da0461bae2
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.8470493
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div dir="ltr">﻿<p class="MsoNormal" align="center" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt; line-height: 16.866666793823242px; font-size: 11pt; font-family: Calibri, sans-serif; text-align: center;"><span style="font-size: 16pt; line-height: 24.533334732055664px; font-family: &quot;Times New Roman&quot;, serif;">Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class="MsoNormal" align="center" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt; line-height: 16.866666793823242px; font-size: 11pt; font-family: Calibri, sans-serif; text-align: center;"><span style="font-size: 16pt; line-height: 24.533334732055664px; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: 35.45pt;"><span style="font-size: 16pt; line-height: 32px; font-family: &quot;Times New Roman&quot;, serif;">В рамках мониторинга правовых актов РФ, направленных на защиту граждан и экономики в условиях зарубежных санкций, информирую о принятии актов Правительства РФ, направленных на:<o:p></o:p></span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: 35.45pt;"><span style="font-family: &quot;Times New Roman&quot;, serif; font-size: 16pt; text-indent: 35.45pt;">- установление порядка списания с подрядчиков пеней и штрафов,</span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: 35.45pt;"><span style="font-size: 16pt; line-height: 32px; font-family: &quot;Times New Roman&quot;, serif;">- координации деятельности в сфере образования в отношении лиц, пребывающих с ДНР и ЛНР;<o:p></o:p></span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; line-height: 22px; font-size: 11pt; font-family: Calibri, sans-serif; text-align: justify; text-indent: 35.45pt;"><span style="font-size: 16pt; line-height: 32px; font-family: &quot;Times New Roman&quot;, serif;">- утверждение квоты распределения беженцев с ДНР, ЛНР (Тверская область — 300 человек)</span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">Информационные справки и правовые акты прилагаются</span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;"><br></span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;"><br></span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;"></span></p></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p></div></body></html>
+<html><head></head><body dir="auto"><div dir="ltr"><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;<br></span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">&nbsp;</span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">С уважением,<o:p></o:p></span></p><p class="MsoNormal" style="-webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt 70.8pt; line-height: normal; font-size: 11pt; font-family: Calibri, sans-serif; text-indent: 35.4pt;"><span style="font-size: 16pt; font-family: &quot;Times New Roman&quot;, serif;">П. Смялковский</span></p><br><div dir="ltr"><br></div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

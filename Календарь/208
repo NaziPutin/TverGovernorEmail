@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2639d4
+DTSTAMP:20220424T204126Z
+CREATED:20220203T131523Z
+LAST-MOD:20220203T131521Z
+SUMMARY:Рабочая встреча\, тема: «О формировании подарков для новорожденных\, родившихся в Тверской области» (отв. Новикова В.И.\, Рапохин М.Г.\, Кременецкая Т.А.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220203T150000Z
+DTEND;VALUE=DATE-TIME:20220203T153000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

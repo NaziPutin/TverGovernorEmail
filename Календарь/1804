@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9209c4
+DTSTAMP:20220424T204126Z
+CREATED:20201001T135648Z
+LAST-MOD:20200929T163039Z
+SUMMARY:Совещание\, тема: «Об утверждении Перечня домов\, планируемых к строительству в рамках Адресной программы Тверской области по переселению граждан из аварийного жилищного фонда на 2019-2025 гг.» (отв. Жарков И.С.\, Биленко Д.С.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20201001T123000Z
+DTEND;VALUE=DATE-TIME:20201001T133000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

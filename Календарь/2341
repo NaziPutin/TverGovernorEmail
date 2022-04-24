@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb13490
+DTSTAMP:20220424T204126Z
+CREATED:20200414T125122Z
+LAST-MOD:20200414T090139Z
+SUMMARY:Оперативное совещание по предупреждению завоза и распространения новой коронавирусной инфекции (COVID-2019) в Тверской области (отв. Ажгиревич А.И.\, Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200414T130000Z
+DTEND;VALUE=DATE-TIME:20200414T133000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

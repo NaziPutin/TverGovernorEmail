@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8f12ac
+DTSTAMP:20220424T204126Z
+CREATED:20201119T083126Z
+LAST-MOD:20201119T070226Z
+SUMMARY:Заседание Межведомственной комиссии при Правительстве Тверской области по земельным отношениям (в режиме ВКС) (отв. Жарков И.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20201120T110000Z
+DTEND;VALUE=DATE-TIME:20201120T120000Z
+LOCATION:обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

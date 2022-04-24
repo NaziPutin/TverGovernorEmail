@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x57aca8
+DTSTAMP:20220424T204126Z
+CREATED:20210624T071843Z
+LAST-MOD:20210624T060728Z
+SUMMARY:Встреча с депутатской фракцией «ЕДИНАЯ РОССИЯ» в Законодательном Собрании Тверской области (отв. Белорусов В.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210624T083000Z
+DTEND;VALUE=DATE-TIME:20210624T090000Z
+LOCATION:ул. Советская\, д. 33\, 8 этаж\, зал № 2
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

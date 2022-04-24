@@ -1,0 +1,125 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sat, 29 Jan 2022 21:06:18 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sat, 29 Jan
+ 2022 21:06:17 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Sat, 29 Jan 2022 21:06:17 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id C289080AC0
+	for <rim@tverreg.ru>; Sat, 29 Jan 2022 21:06:14 +0300 (MSK)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'csvetkov@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="csvetkov@gmail.com"; helo=mail-lf1-f48.google.com; client-ip=209.85.167.48
+Received: from mail-lf1-f48.google.com (mail-lf1-f48.google.com [209.85.167.48])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 6FAFF80AFF
+	for <rim@tverreg.ru>; Sat, 29 Jan 2022 21:06:03 +0300 (MSK)
+Received: by mail-lf1-f48.google.com with SMTP id z19so18112333lfq.13
+        for <rim@tverreg.ru>; Sat, 29 Jan 2022 10:06:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=content-transfer-encoding:from:mime-version:date:subject:message-id
+         :to;
+        bh=Bg1I+STAtwm1sbPTEWe4JapKfsj5pcCyIIJ4yq0ot3A=;
+        b=ULtLbN/oDGiZTHsd90PVvfhvhmw6/2yrHgt016K8WEc02NpFEHB2lhFMkrhRBA4tp1
+         fq6wF1HXyvyzlcU/XWoW8YZ1IgN3kygNG9aF0SD1Oga/1yejIx1u387pWa33P68VM9lG
+         gbn44fU4m0etEO7wqBDhAUTdmA1WReWoz45PdzkuOHEiATtLSAWEbJ2Ix8WM0UHVazJ+
+         p9EByRhtHA5lYEkJrVOKVniZOnFYXcguhWysR4R1KmobkM2SDAClEo+nliP0czB1nMdd
+         BDyJSazItWTDwFMiBSqbQS2XkMhI2+RtVrK6uaNy17cj500NkAIsPj8vw27DChLdwTZw
+         ijNw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:to;
+        bh=Bg1I+STAtwm1sbPTEWe4JapKfsj5pcCyIIJ4yq0ot3A=;
+        b=zra/hTqOyep4pFWzChOT6sANUlTFrEC1bCRb7BVxfYfhKKrBrV74NlCUBlOWk80yxd
+         RQMMBfYzgitccHVaiNBY4QfpcYNJ/lkCw6CK1UKTU/QqmLfZAJwNtvBfS878xzbHLhdq
+         t20v6lndyWcHmjml3UR/arU3vKrKt5ga7SKiFoqYq0TLP06Rlyw5a2iBVMvkVg9Orv01
+         /Y+TJR1CrdzlRjnkv09ZFS8FSR7livQfi7hKqt0ov2LELr3C/AAg+KckRoiJr9uWePYO
+         lYmiAziA+aLgFp65RHSzjBvxEyvbMJ1lgy/23qmhMLRqdC4xyVmLBje3C3e60/WgAgwg
+         PjMg==
+X-Gm-Message-State: AOAM532yzuH3jiHE6DfQKA9p9bBfIMQHSlqJX60Y0wK6j483cjKQubs2
+	mmZIb/24olZ13QjYXR+Z7Vm/Q9oigxU=
+X-Google-Smtp-Source: ABdhPJzHKks9gQbPxGFzq/dHqRMpqUKrlrtCI6diITNM3B7CBl3N/bdHX2eUoPO2Y7ZmPe52yxSCRg==
+X-Received: by 2002:a19:8c19:: with SMTP id o25mr9462251lfd.300.1643479556694;
+        Sat, 29 Jan 2022 10:05:56 -0800 (PST)
+Received: from smtpclient.apple ([195.144.241.6])
+        by smtp.gmail.com with ESMTPSA id u14sm100390lfo.58.2022.01.29.10.05.53
+        for <rim@tverreg.ru>
+        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);
+        Sat, 29 Jan 2022 10:05:55 -0800 (PST)
+From: csvetkov@gmail.com
+Date: Sat, 29 Jan 2022 21:05:53 +0300
+Subject: =?utf-8?B?0JTQvtC60LvQsNC0INC+INGF0L7QtNC1INCy0L7RgdGB0YLQsNC9?=
+ =?utf-8?B?0L7QstC40YLQtdC70YzQvdGL0YUg0YDQsNCx0L7RgiDQsiDQtNC1?=
+ =?utf-8?B?0YAu0KHRgtCw0YDRi9C5INC/0L7Qs9C+0YHRgiDQt9CwIDI5LjAx?=
+ =?utf-8?B?LjIy?=
+Message-Id: <FCC4EE4F-AAB6-421F-AE44-80639FD501ED@gmail.com>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L4=?=
+ =?utf-8?B?0LLQuNGH?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (19B81)
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrfeejgddutdelucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgfghfggfffukffvofesmhejmherhhdtvdenucfhrhhomheptghsvhgvthhkohhvsehgmhgrihhlrdgtohhmnecuggftrfgrthhtvghrnhephfevtdfhjeeiveekveegkedufffhgeekfeellefhtdfhjeetjeeliedvgeeuffefnecukfhppeduleehrddugeegrddvgedurdei
+X-DrWeb-SpamVersion: Vade Retro 01.422.37#109 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_ADSP_CUSTOM_MED    0.001 No valid author signature, adsp_override is CUSTOM_MED
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	KAM_NUMSUBJECT            0.5 Subject ends in numbers excluding current years
+	NML_ADSP_CUSTOM_MED       0.9 ADSP custom_med hit, and not from a mailing list
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrfeejgddutdelucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurheptgfghfggfffukffvofesmhejmherhhdtvdenucfhrhhomheptghsvhgvthhkohhvsehgmhgrihhlrdgtohhmnecuggftrfgrthhtvghrnhephfevtdfhjeeiveekveegkedufffhgeekfeellefhtdfhjeetjeeliedvgeeuffefnecukfhppeduleehrddugeegrddvgedurdei
+X-DrWeb-SpamVersion: Vade Retro 01.422.37#109 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: csvetkov@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: a571eed3-228f-48dd-d37c-08d9e3520bcb
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.8111213
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+</div></span></font>
+</div>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+</div></span></font>
+</div>
+<DIV>
+<IMG SRC="cid:dc370117-cc70-4d4d-9d36-83c648afb9e4@tverreg.ru">
+</DIV><DIV>
+<IMG SRC="cid:26fb2f1c-adeb-4c59-b4c4-1d92c0ad735d@tverreg.ru">
+</DIV><DIV>
+<IMG SRC="cid:e551e8c9-0dcf-44f6-96a8-87a0da9c8885@tverreg.ru">
+</DIV><DIV>
+<IMG SRC="cid:55f08ff1-e8c1-4dc8-8b3d-78598ccd41cb@tverreg.ru">
+</DIV><div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+<br>
+РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone</div></span></font>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

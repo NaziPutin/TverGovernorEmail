@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1aab58
+DTSTAMP:20220424T204126Z
+CREATED:20220328T202037Z
+LAST-MOD:20220401T160139Z
+SUMMARY:Р Р°Р±РѕС‡Р°СЏ РІСЃС‚СЂРµС‡Р°\, С‚РµРјР°: В«Рћ РјРµСЂРѕРїСЂРёСЏС‚РёСЏС…\, РїРѕСЃРІСЏС‰РµРЅРЅС‹С… РїСЂР°Р·РґРЅРѕРІР°РЅРёСЋ 77-Р№ РіРѕРґРѕРІС‰РёРЅС‹ РџРѕР±РµРґС‹ СЃРѕРІРµС‚СЃРєРѕРіРѕ РЅР°СЂРѕРґР° РІ Р’РµР»РёРєРѕР№ РћС‚РµС‡РµСЃС‚РІРµРЅРЅРѕР№ РІРѕР№РЅРµ 1941-1945 РіРі. (09.05.2022)В» (РѕС‚РІ. РњРѕСЂРѕР·РѕРІ Р•.Р’.\, РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р°) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20220413T130000Z
+DTEND;VALUE=DATE-TIME:20220413T140000Z
+LOCATION:РєР°Р±. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

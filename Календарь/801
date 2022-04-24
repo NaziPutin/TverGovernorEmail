@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4eb264
+DTSTAMP:20220424T204126Z
+CREATED:20210813T134543Z
+LAST-MOD:20210813T125314Z
+SUMMARY:Совещание\, тема: «О реализации мероприятий по внедрению новой модели пассажирских перевозок на территории  Тверской области» (отв. Вилькомир А.К.\, Насибуллин Д.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210813T143000Z
+DTEND;VALUE=DATE-TIME:20210813T150000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

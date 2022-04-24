@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb35ba4
+DTSTAMP:20220424T204126Z
+CREATED:20200410T125129Z
+LAST-MOD:20200410T111618Z
+SUMMARY:Рабочая встреча\, тема: «О реализации мероприятий по внедрению новой модели пассажирских перевозок на территории  Тверской области» (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200410T133000Z
+DTEND;VALUE=DATE-TIME:20200410T140000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

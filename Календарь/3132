@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe8aa2c
+DTSTAMP:20220424T204127Z
+CREATED:20190808T055909Z
+LAST-MOD:20190805T185612Z
+SUMMARY:Мероприятия в рамках Всероссийского дня льняного поля - 2019 (отв. Наумов А.В.\, Куликов Д.А.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190808T120000Z
+DTEND;VALUE=DATE-TIME:20190808T143000Z
+LOCATION:Тверская область\, Торжокский район\, поселок Мирный\, колхоз «МИР»\, 221 км трассы М11
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13b1cb4
+DTSTAMP:20220424T204127Z
+CREATED:20180125T123858Z
+LAST-MOD:20180125T112321Z
+SUMMARY:Расширенное заседание коллегии УМВД России по Тверской области «Итоги оперативно-служебной деятельности органов и подразделений внутренних дел Тверской области за 2017 год и задачи на 2018 год» (отв. Попенко В.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180126T070000Z
+DTEND;VALUE=DATE-TIME:20180126T072000Z
+LOCATION:пл. Мира\, д. 1/70\, 4 этаж\, актовый зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xcf147c
+DTSTAMP:20220424T204127Z
+CREATED:20191122T084553Z
+LAST-MOD:20191122T083623Z
+SUMMARY:Представление Кузьмина Александра Николаевича на должность начальника УФСИН по Тверской области. Представляет Рудый Анатолий Анатольевич - первый заместитель директора Федеральной службы исполнения наказаний (отв. Попенко В.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191125T093000Z
+DTEND;VALUE=DATE-TIME:20191125T100000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

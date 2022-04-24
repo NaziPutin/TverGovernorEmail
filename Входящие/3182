@@ -1,0 +1,85 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 29 Mar 2018 10:58:02 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 29 Mar
+ 2018 10:58:01 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 29 Mar 2018 10:58:01 +0300
+Received: from f425.i.mail.ru ([185.5.136.96])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <yurijborisovich.gureczkij@bk.ru>)
+	id 1f1SRb-00031X-NW
+	for rim@tverreg.ru; Thu, 29 Mar 2018 03:57:59 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=c88s4/1R/XcnNxnphsqiPNP1drzR0JLzD8cDePuBgzk=;
+	b=s4IzwVQIzMzv5zjlFsS8kySCH8UDZe3X08UUTWUHFNMWhWHDojqVtooGdXEAvt1RYkB3BDhAB2SuUmcbCTpZmIa7BzKv8DZV8sx+XbfehYvNJfwYTi1BZyryHeyb4P/PX+a3XA5TIGvGnkgAyH8Dysm1s8hjbfQYVne2J6hQDjM=;
+Received: by f425.i.mail.ru with local (envelope-from <yurijborisovich.gureczkij@bk.ru>)
+	id 1f1SRY-00013s-V6
+	for rim@tverreg.ru; Thu, 29 Mar 2018 10:57:57 +0300
+Received: by e.mail.ru with HTTP;
+	Thu, 29 Mar 2018 10:57:56 +0300
+From: =?UTF-8?B?0K7RgNC40Lkg0JHRgNC40YHQvtCy0LjRhyDQk9GD0YDQtdGG0LrQuNC5?= <yurijborisovich.gureczkij@bk.ru>
+To: rim@tverreg.ru
+Subject: =?UTF-8?B?0KDQtdC30Y7QvNC1INCT0YPRgNC10YbQutC+0LPQviDQri7QkS4=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Thu, 29 Mar 2018 10:57:56 +0300
+Reply-To: =?UTF-8?B?0K7RgNC40Lkg0JHRgNC40YHQvtCy0LjRhyDQk9GD0YDQtdGG0LrQuNC5?= <yurijborisovich.gureczkij@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1522310276.640237872@f425.i.mail.ru>
+Authentication-Results: f425.i.mail.ru; auth=pass smtp.auth=yurijborisovich.gureczkij@bk.ru smtp.mailfrom=yurijborisovich.gureczkij@bk.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7ED447A1BDF2A9E03B5C8C57E37DE458BC78E53AA3AE5DB169D7660743286B75030FF884951E2CD61F1B7A2EDA7605CE575ECD9A6C639B01B78DA827A17800CE703A318249B55A8D68CD9C22C44B2EF2E75ECD9A6C639B01B4E70A05D1297E1BBC6867C52282FAC85D9B7C4F32B44FF57DE7CCDD3542A186E00306258E7E6ABB4E4A6367B16DE6309
+X-Mailru-MI: 800
+X-Mailru-Sender: 4F105942AF9D4BDA58556BCFD531162CC9DCCE0FEC7197D2B68FD8B65D59DEA296046839BA0175995ADC36959B5ACF5B6C7F90A228D4B797CF24596E36EBE04FA32B758D6C0143A9923F8D69FA48443432DFB2A9D1784727095B463C4743EEF885B01CFF0441BB180D4ABDE8C577C2ED
+X-Mras: OK
+X-Spam: undefined
+Return-Path: yurijborisovich.gureczkij@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: 3d4b393a-908e-4796-8948-08d5954acb52
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.0156442
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Добрый день, уважаемый Игорь Михайлович!<br><br>В этот понедельник с Вами был разговор по поводу меня с Александром Николаевичем&nbsp;Шумейко.<br><br>Направил Вам вчера свое резюме.<br><br>Буду признателен за его рассмотрение.<br><br>Прошу Вас сообщить о Вашем решении по моей кандидатуре.<br><br>Готов подъехать для проведения личной встречи в любое удобное для Вас время.<br><br>--&nbsp;<br>С уважением!<br>Гурецкий Юрий Борисович<br><span class="js-phone-number_mailru_css_attribute_postfix"><span class="js-phone-number">8-903-136-20-12</span></span><br><br><br>-------- Пересылаемое сообщение --------<br><div class="js-helper js-readmsg-msg"><div><div id="style_15223095440000000386_BODY"><div class="class_1522322252"><br>
+От кого: Александр Рябинкин &lt;<a href="mailto:ryab@bk.ru">ryab@bk.ru</a>&gt;<br>
+Кому: <a href="mailto:rim@tverreg.ru">rim@tverreg.ru</a><br>
+
+Дата: Среда, 28 марта 2018, 13:42 &#43;03:00<br>
+Тема: Резюме Гурецкого Ю.Б.<br>
+<br>
+
+
+<div class="js-helper_mailru_css_attribute_postfix js-readmsg-msg_mailru_css_attribute_postfix">
+	<style></style>
+ 	<div>
+		
+		
+            <div id="style_15222337330000000867_BODY_mailru_css_attribute_postfix"><div class="class_1522317003_mailru_css_attribute_postfix">
+Добрый день,&nbsp;<br>Направляю Вам резюме Гурецкого Ю.Б.<br><br>--&nbsp;<br>С уважением!<br>Александр Рябинкин<br><span class="js-phone-number_mailru_css_attribute_postfix"><span class="js-phone-number">8-926-131-43-33</span></span><br>
+</div></div>
+            
+        
+		
+	</div>
+
+	
+</div>
+
+
+
+<br></div></div></div></div><br><style type="text/css"></style></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,62 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 5 Oct 2020 18:14:37 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 5 Oct
+ 2020 18:14:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Mon, 5 Oct 2020
+ 18:14:37 +0300
+From: =?koi8-r?B?5MXNyc4g4czF08HOxNIg88XSx8XXyd4=?= <Demin_AS@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?7yDQz8TExdLWy8Ug09DP0tTBINfZ09vJyCDEz9PUydbFzsnK?=
+Thread-Topic: =?koi8-r?B?7yDQz8TExdLWy8Ug09DP0tTBINfZ09vJyCDEz9PUydbFzsnK?=
+Thread-Index: AQHWmylZOuLeq4Hc0EG+DzNMvQ4iTA==
+Date: Mon, 5 Oct 2020 18:14:37 +0300
+Message-ID: <b9aadccd5b9246489336b314a2634a5c@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <b9aadccd5b9246489336b314a2634a5c@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: a9ed7a1c-8980-43a3-7543-08d869415ff3
+Return-Path: Demin_AS@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4751007
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER14EE0738
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p></p>
+<div id="divtagdefaultwrapper" style="font-size: 12pt; color: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir="ltr">
+<p><span id="ms-rterangepaste-start"></span><span>йЗПТШ нЙИБКМПЧЙЮ, ДПВТЩК ЧЕЮЕТ!</span></p>
+<p><span>чП ЙУРПМОЕОЙЕ РПТХЮЕОЙС РП ЙФПЗБН ЪБУЕДБОЙС рТБЧЙФЕМШУФЧБ ПФ 29.09.2020 ОБРТБЧМСА ЙОЖПТНБГЙА П РПДДЕТЦЛЕ учд Ч ТЕЗЙПОЕ.</span><br>
+</p>
+</div>
+<p></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

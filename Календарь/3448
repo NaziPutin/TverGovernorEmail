@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xfa8964
+DTSTAMP:20220424T204127Z
+CREATED:20190430T123705Z
+LAST-MOD:20190430T122233Z
+SUMMARY:Совещание с главами МО Тверской области\, тема: «Об обеспечении пожарной безопасности в муниципальных образованиях Тверской области в период майских праздников» (отв. Григорян А.Р.\, Ищенко А.Н.\, Зайцев А.А.\, пресс-служба) \n
+DTSTART;VALUE=DATE-TIME:20190430T150000Z
+DTEND;VALUE=DATE-TIME:20190430T153000Z
+LOCATION:ул. Советская\, д. 23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

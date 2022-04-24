@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xebc11c
+DTSTAMP:20220424T204127Z
+CREATED:20190723T113603Z
+LAST-MOD:20190723T123305Z
+SUMMARY:Совещание\, тема: "Об инфраструктурной поддержке инвестиционных проектов в агропромышленном комплексе Тверской области" (отв. Наумов А.В.\, Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190723T133000Z
+DTEND;VALUE=DATE-TIME:20190723T143000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

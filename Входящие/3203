@@ -1,0 +1,56 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sat, 24 Mar 2018 15:32:00 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sat, 24 Mar
+ 2018 15:32:00 +0300
+Received: from mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b]) by
+ mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b%12]) with mapi id
+ 15.01.0396.037; Sat, 24 Mar 2018 15:32:00 +0300
+From: =?utf-8?B?0JLQvtC70LPQuNC9INCQ0L3QtNGA0LXQuSDQktCw0LvQtdC90YLQuNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <volgin@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KHQvtCy0LXRidCw0L3QuNC1INCyINCc0LjQvdC/0YDQuNGA0L7QtNGLICAy?=
+ =?utf-8?Q?4.03.2018?=
+Thread-Topic: =?utf-8?B?0KHQvtCy0LXRidCw0L3QuNC1INCyINCc0LjQvdC/0YDQuNGA0L7QtNGLICAy?=
+ =?utf-8?Q?4.03.2018?=
+Thread-Index: AQHTw2wbpb/mLI0FJkudfuVW6UMryA==
+Date: Sat, 24 Mar 2018 15:32:00 +0300
+Message-ID: <ACE7BD199554D7B4.A94465DE-17AF-478B-B734-D320EA3819AB@mail.outlook.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ACE7BD199554D7B4.A94465DE-17AF-478B-B734-D320EA3819AB@mail.outlook.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: b671c4f2-5169-47b8-7618-08d591833d97
+Return-Path: volgin@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4844070
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USEREE8658B1
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!-- This file has been automatically generated. See web/README.md --><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div id="compose-container" style="direction: ltr" itemscope="" itemtype="https://schema.org/EmailMessage">
+	<span itemprop="creator" itemscope="" itemtype="https://schema.org/Organization">
+		<span itemprop="name" content="Outlook Mobile for iOS"></span>
+	</span>	
+	<div>
+		
+		<div style="direction: ltr;"><img id="8C17EDC5-E0E3-4292-B0C8-374BD0143C35" src="cid:8C17EDC5-E0E3-4292-B0C8-374BD0143C35" alt="Image" style="max-width: 100%; width: auto; height: auto;"><br></div>
+		<div><br></div>
+		<div class="acompli_signature">РЈСЃС‚Р°РЅРѕРІРёС‚СЊ <a href="https://aka.ms/o0ukef">Outlook РґР»СЏ iOS</a></div>
+	</div>
+</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

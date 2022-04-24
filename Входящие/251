@@ -1,0 +1,38 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 15 Mar 2022 08:36:06 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 15 Mar
+ 2022 08:36:06 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Tue, 15 Mar 2022 08:36:06 +0300
+From: =?KOI8-R?B?79TExcwgwc7BzMnawSDJIM3PzsnUz9LJzsfBIPPt6S/018XS08vB0Q==?=
+ =?KOI8-R?B?IM/CzMHT1Ng=?= <Otdelsmi@tverreg.ru>
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?8+3pIDE0LTE1LjAzLjIwMjI=?=
+X-KeepSent: 0C3CB29F:7831ECBD-43258806:001EBA2A;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.1 September 28, 2009
+Message-ID: <OF0C3CB29F.7831ECBD-ON43258806.001EBA2A-43258806.001EEE5A@tverreg.ru>
+Sender:
+	=?KOI8-R?B?8M/Qz9fBIPbBzs7BIPDF1NLP187BL+HEzcnOydPU0sHDydEg9NfF0tPLz8o=?=
+ =?KOI8-R?B?IM/CzMHT1Mk=?= <popova@tverreg.ru>
+Date: Tue, 15 Mar 2022 08:36:05 +0300
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 15.03.2022 08:36:05
+Return-Path: popova@tverreg.ru
+X-MS-Exchange-Organization-Network-Message-Id: d6a03686-0f5f-47d2-9f83-08da0645b3a1
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4450181
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

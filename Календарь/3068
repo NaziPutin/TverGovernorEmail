@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe4ee88
+DTSTAMP:20220424T204127Z
+CREATED:20190821T055415Z
+LAST-MOD:20190821T044535Z
+SUMMARY:Торжественное вручение автобусов ГБУ Тверской области «Комплексный центр социального обслуживания населения»\, а также техники пожарно-спасательным подразделениям ГУ МЧС России по Тверской области (отв. Хохлова Е.В.\, Григорян А.Р.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190821T083000Z
+DTEND;VALUE=DATE-TIME:20190821T085500Z
+LOCATION:Краснофлотская наб.\, д.3\, площадка у СК "Юбилейный"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14a0ba8
+DTSTAMP:20220424T204127Z
+CREATED:20170921T073819Z
+LAST-MOD:20170921T144636Z
+SUMMARY:Совещание\, тема: «О едином миграционном центре по работе с иностранными гражданами в Тверской области» (пред.сост.08.09.17) (отв. Меньщиков А.В.\, Исаев С.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170922T093000Z
+DTEND;VALUE=DATE-TIME:20170922T110000Z
+LOCATION:каб. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

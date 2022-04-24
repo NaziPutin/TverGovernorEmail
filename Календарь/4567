@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x134d918
+DTSTAMP:20220424T204127Z
+CREATED:20180506T123826Z
+LAST-MOD:20180506T123827Z
+SUMMARY:РўРѕСЂР¶РµСЃС‚РІРµРЅРЅР°СЏ С†РµСЂРµРјРѕРЅРёСЏ РІСЃС‚СѓРїР»РµРЅРёСЏ РІ РґРѕР»Р¶РЅРѕСЃС‚СЊ РІРЅРѕРІСЊ РёР·Р±СЂР°РЅРЅРѕРіРѕ РџСЂРµР·РёРґРµРЅС‚Р° Р Р¤ Р’.Р’. РџСѓС‚РёРЅР° (РѕС‚РІ. РџРµС‚СЂРѕРІР° Рњ.Р’.\, РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р°)
+DTSTART;VALUE=DATE-TIME:20180507T090000Z
+DTEND;VALUE=DATE-TIME:20180507T100000Z
+LOCATION:Рі. РњРѕСЃРєРІР°\, РљСЂРµРјР»СЊ\, Р‘РѕР»СЊС€РѕР№ РљСЂРµРјР»РµРІСЃРєРёР№ Р”РІРѕСЂРµС†
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

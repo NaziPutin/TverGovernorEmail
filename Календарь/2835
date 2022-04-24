@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd32bb4
+DTSTAMP:20220424T204127Z
+CREATED:20191105T190828Z
+LAST-MOD:20191105T181958Z
+SUMMARY:Рабочая встреча\, тема: "О ключевых мероприятиях по созданию промышленного кластера инновационного транспортного машиностроения в Тверской области" (отв. Ажгиревич А.И.\, Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191106T083000Z
+DTEND;VALUE=DATE-TIME:20191106T090000Z
+LOCATION:Петербургское ш.\, д. 45Б\, ОАО "ТВЗ"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

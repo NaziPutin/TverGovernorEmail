@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14e7b14
+DTSTAMP:20220424T204127Z
+CREATED:20170719T122446Z
+LAST-MOD:20170719T122446Z
+SUMMARY:Совещание глав\, глав администраций муниципальных районов и городских округов Тверской области (северо-восточный регион) (отв. Титов А.А.\, Зайцев А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170720T080000Z
+DTEND;VALUE=DATE-TIME:20170720T100000Z
+LOCATION:п. Рамешки\, ул. Советская\, д. 20\, администрация Рамешковского района
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

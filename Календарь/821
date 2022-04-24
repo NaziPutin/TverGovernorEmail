@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4ee638
+DTSTAMP:20220424T204126Z
+CREATED:20210811T060719Z
+LAST-MOD:20210810T190128Z
+SUMMARY:Встреча с Советом многодетных семей – старт проекта по выдаче школьной формы на 2021-2022 учебный год многодетным семьям  (отв. Новикова В.И.\, Ермакова С.М.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210811T133000Z
+DTEND;VALUE=DATE-TIME:20210811T143000Z
+LOCATION:ул. Советская\, д. 58\, 2 этаж\, каб. 201 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

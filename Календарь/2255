@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xadc484
+DTSTAMP:20220424T204126Z
+CREATED:20200512T172357Z
+LAST-MOD:20200512T172447Z
+SUMMARY:Совещание по плану мероприятий Правительства Тверской области (в режиме видеоконференцсвязи) (отв. Ажгиревич А.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200512T173000Z
+DTEND;VALUE=DATE-TIME:20200512T180000Z
+LOCATION:каб. 304\; обратная связь – из рабочих кабинетов 
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

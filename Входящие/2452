@@ -1,0 +1,97 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 6 Jun 2019 09:07:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 6 Jun
+ 2019 09:07:42 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Thu, 6 Jun 2019
+ 09:07:44 +0300
+From: =?utf-8?B?0JHQsNGA0YvRiNC60L7QsiDQktCw0LvQtdGA0LjQuSDQktC40LrRgtC+0YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <baryshkov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?Rlc6ICEhISDQn9GA0L7RgdC40Lwg0L7QsdGA0LDRgtC40YLRjCDQstC90Lg=?=
+ =?utf-8?B?0LzQsNC90LjQtS4g0JTQsNC90L3QsNGPINC40L3RhNC+0YDQvNCw0YbQuNGP?=
+ =?utf-8?B?INC90LDQv9GA0LDQstC70LXQvdCwINCz0YPQsdC10YDQvdCw0YLQvtGA0YMg?=
+ =?utf-8?B?0LIg0L/QtdGA0LXRh9C90LUg0L/RgNC+0LHQu9C10LzQvdGL0YUg0YLQtdC8?=
+ =?utf-8?B?INC30LAg0LTQtdC90Yw=?=
+Thread-Topic: =?utf-8?B?ISEhINCf0YDQvtGB0LjQvCDQvtCx0YDQsNGC0LjRgtGMINCy0L3QuNC80LA=?=
+ =?utf-8?B?0L3QuNC1LiDQlNCw0L3QvdCw0Y8g0LjQvdGE0L7RgNC80LDRhtC40Y8g0L0=?=
+ =?utf-8?B?0LDQv9GA0LDQstC70LXQvdCwINCz0YPQsdC10YDQvdCw0YLQvtGA0YMg0LIg?=
+ =?utf-8?B?0L/QtdGA0LXRh9C90LUg0L/RgNC+0LHQu9C10LzQvdGL0YUg0YLQtdC8INC3?=
+ =?utf-8?B?0LAg0LTQtdC90Yw=?=
+Thread-Index: AQHVG7i8L/XE7yyeRkqWf4YNKoHTK6aOI26g
+Date: Thu, 6 Jun 2019 09:07:43 +0300
+Message-ID: <120d143bc48e4ac1ae16b2a6c426b789@tverreg.ru>
+References: <OF3F906DDE.7C0A0A4C-ON43258410.005866DA-43258410.00589752@tverreg.ru>
+In-Reply-To: <OF3F906DDE.7C0A0A4C-ON43258410.005866DA-43258410.00589752@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <120d143bc48e4ac1ae16b2a6c426b789@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 1bc1f455-bc6d-4ceb-2965-08d6ea454a61
+Return-Path: baryshkov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6677399
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERACE419D4
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Уважаемый Игорь Михайлович! Это по инициативе Старицкого лесничества лесничество совместно с полицией 3 дня дежурили в лесу на месте рубки и в результате поймали с поличным самовольщиков. С уважением, Барышков В.В.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Сипейкина Светлана Викторовна/Администрация Тверской области [mailto:SvetlanaSipeykina@tverreg.ru] <b>On Behalf Of </b>Отдел анализа и мониторинга СМИ/Тверская область<br><b>Sent:</b> Wednesday, June 05, 2019 7:07 PM<br><b>To:</b> Барышков Валерий Викторович; Наумов Андрей Викторович<br><b>Cc:</b> Министерство лесного хозяйства/Тверская область; Министерство природных ресурсов и экологи/Администрация Тверской области<br><b>Subject:</b> !!! Просим обратить внимание. Данная информация направлена губернатору в перечне проблемных тем за день<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><table class=MsoNormalTable border=0 cellpadding=0><tr><td style='background:#F2F2F2;padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:13.5pt'>Источник</span> <o:p></o:p></p></td><td style='background:#F2F2F2;padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:13.5pt'>Тема</span> <o:p></o:p></p></td><td style='background:#F2F2F2;padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:13.5pt'>Территория</span> <o:p></o:p></p></td><td style='background:#F2F2F2;padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:13.5pt'>Содержание публикации</span> <o:p></o:p></p></td></tr><tr><td valign=top style='background:white;padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><a href="https://www.afanasy.biz/news/law_and_order/?ELEMENT_ID=137938"><span style='font-size:13.5pt'>АБ</span></a><span style='font-size:13.5pt'>, </span><a href="https://tvernews.ru/news/242769"><span style='font-size:13.5pt'>ТИА</span></a>, <br><a href="https://tver.mk.ru/incident/2019/06/05/v-lesnichestve-tverskoy-oblasti-nezakonno-spilili-eli.html"><span style='font-size:13.5pt'>МК в Твери</span></a><span style='font-size:13.5pt'>, </span><a href="https://vesti-tver.ru/dailynews/v-tverskoy-oblasti-nezakonno-vyrubili-les-na-2-8-mln-rubley/"><span style='font-size:13.5pt'>Вести Тверь</span></a><span style='font-size:13.5pt'>, ТВ</span> <br><br><a href="https://69.ýÔõ.­¶/news/item/17145577"><span style='font-size:13.5pt'>УМВД по Тверской области</span></a> <o:p></o:p></p></td><td valign=top style='padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:13.5pt'>Лесной комплекс</span> <o:p></o:p></p></td><td valign=top style='padding:.75pt .75pt .75pt .75pt'><p class=MsoNormal><span style='font-size:13.5pt'>Зубцовский район</span> <o:p></o:p></p></td><td valign=top style='padding:.75pt .75pt .75pt .75pt'><div><p class=MsoNormal><span style='font-size:13.5pt'>«Черные» лесорубы продолжают незаконную вырубку деревьев в регионе.</span> <br><span style='font-size:13.5pt'>Обнаружена незаконная вырубка елей около одной из деревень в Зубцовском районе. Ущерб, причиненный лесному фонду, оценили в 2,8 млн рублей. Сотрудниками полиции установлен и задержан житель района.</span><o:p></o:p></p></div></td></tr></table><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p><div><p class=MsoNormal style='margin-bottom:12.0pt'><span style='font-size:10.0pt;font-family:"Calibri","sans-serif"'><br><a href="https://www.afanasy.biz/news/law_and_order/?ELEMENT_ID=137938"><span style='font-size:13.5pt;font-family:"Times New Roman","serif"'>https://www.afanasy.biz/news/law_and_order/?ELEMENT_ID=137938</span></a> <o:p></o:p></span></p></div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

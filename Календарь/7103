@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157e640
+DTSTAMP:20220424T204127Z
+CREATED:20160904T080654Z
+LAST-MOD:20160913T080250Z
+SUMMARY:Подготовка к выездному совещанию Секретаря Совета безопасности РФ с участием членов Совета при полномочном представителе Президента РФ в ЦФО (05.09.2016) (отв. Стрелецкий Ю.Э.\, Попенко В.И.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20160904T180000Z
+DTEND;VALUE=DATE-TIME:20160904T190000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:Идрисов\, Александр Борисович
+N:Идрисов;Александр;Борисович;;
+EMAIL:idrisov@strategy.ru
+ADR;TYPE=work:;;;г.Москва\, Космодамианская наб.\, д.52\, стр.2;;115054;Россия
+LABEL;TYPE=work:115054\, г.Москва\, Космодамианская наб.\, д.52\, стр.2
+TEL;TYPE=work,voice:+7 (495) 730-77-47
+TEL;TYPE=cell,voice:+7 (985) 762-71-60
+TITLE:Президент Strategy Partners Group
+ORG:Strategy Partners Group
+VERSION:3.0
+END:VCARD
+

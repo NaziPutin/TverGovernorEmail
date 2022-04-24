@@ -1,0 +1,50 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 14 Dec 2019 08:27:17 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sat, 14 Dec
+ 2019 08:27:03 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Sat, 14 Dec 2019 08:27:05 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/RgNC+0LXQutGC0Ysg0L/QvtCy0LXRgdGC0L7QuiDQl9CfINC4INCe0KEg?=
+ =?utf-8?B?0L3QsCAxOC4xMi4yMDE5?=
+Thread-Topic: =?utf-8?B?0J/RgNC+0LXQutGC0Ysg0L/QvtCy0LXRgdGC0L7QuiDQl9CfINC4INCe0KEg?=
+ =?utf-8?B?0L3QsCAxOC4xMi4yMDE5?=
+Thread-Index: AdWxxUmiLYj58L6uQR+Y2rOE1UiI1w==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 14 Dec 2019 08:27:04 +0300
+Message-ID: <387ei45db6wo-q7wg8z-3rzwql-6anga0-7kqvr3-evpjjd1p48ope1jrxe-yy85fv-cgrsoluzrjnv-28ur51pyo5af-2590qra0yqea-sykzyw56s2489q3k2-y54b5w-m8pf4t-bwyyxasqjwzm-yhx4x.1576301225995@email.android.com>
+References: <beced6de1fc14413a9630b72cbb41b07@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <387ei45db6wo-q7wg8z-3rzwql-6anga0-7kqvr3-evpjjd1p48ope1jrxe-yy85fv-cgrsoluzrjnv-28ur51pyo5af-2590qra0yqea-sykzyw56s2489q3k2-y54b5w-m8pf4t-bwyyxasqjwzm-yhx4x.1576301225995@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 5fc83eec-be0a-4cd4-1fa7-08d780564196
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:12.3754278
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">Уважаемый Игорь Михайлович!<br><br>Направляю проекты повестки заседания Правительства области и &nbsp;повестки оперативного совещания Правительства на &nbsp;18 декабря 2019 года. <br><br>Прошу согласовать.<br><br>Список экспертов по основному вопросу будет направлен дополнительно.<br><br>Планируемое время проведения заседания &nbsp;Правительства – 2 час. 30 мин., оперативного совещания Правительства – &nbsp;25 мин.&nbsp;<br><br>С уважением, <br>А.В. Скорый
+----boundary-LibPST-iamunique-2146875884_-_---
+

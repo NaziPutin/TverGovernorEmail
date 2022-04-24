@@ -1,0 +1,104 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Fri, 16 Nov 2018 10:36:49 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 16 Nov
+ 2018 10:36:49 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 16 Nov 2018 10:36:49 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 894A821F77
+	for <rim@tverreg.ru>; Fri, 16 Nov 2018 10:36:54 +0300 (MSK)
+Received-SPF: pass (gov.ru: 95.173.128.57 is authorized to use 'prm_shchegolev@gov.ru' in 'mfrom' identity (mechanism 'ip4:95.173.128.57' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="prm_shchegolev@gov.ru"; helo=smtp.gov.ru; client-ip=95.173.128.57
+Received: from smtp.gov.ru (smtp.gov.ru [95.173.128.57])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 80FE321F52
+	for <rim@tverreg.ru>; Fri, 16 Nov 2018 10:36:52 +0300 (MSK)
+Received: from ipaccess.gov.ru ([172.16.1.66])
+	by smtp.gov.ru with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.90_1 (FreeBSD))
+	(envelope-from <prm_shchegolev@gov.ru>)
+	id 1gNYgO-000P4l-3T
+	for rim@tverreg.ru; Fri, 16 Nov 2018 10:36:52 +0300
+Received: from [95.173.128.202] (helo=BEGLOVPRIE)
+	by ipaccess.gov.ru with esmtp (Exim 4.80.1 (FreeBSD))
+	(envelope-from <prm_shchegolev@gov.ru>)
+	id 1gNYgA-000EUT-RN
+	for rim@tverreg.ru; Fri, 16 Nov 2018 10:36:44 +0300
+Return-Receipt-To: =?koi8-r?B?0NLJxc3OwdEg/aPHz8zF18Eg6cfP0tEg78zFx8/Xyd7B?=
+	<prm_shchegolev@gov.ru>
+From: =?koi8-r?B?0NLJxc3OwdEg/aPHz8zF18Eg6cfP0tEg78zFx8/Xyd7B?=
+	<prm_shchegolev@gov.ru>
+To: <rim@tverreg.ru>
+Subject: =?koi8-r?B?z9Qg6S7vLv3Fx8/MxdfB?=
+Date: Fri, 16 Nov 2018 10:36:50 +0300
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAEKgrBCGKeBMsfQLno39ZibCgAAAEAAAAEGyaqk6BEZNsDkvnAGNq3cBAAAAAA==@gov.ru>
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdR9fyDBcLfflboNSG66fJkF6OeiFQ==
+Content-Language: ru
+Disposition-Notification-To: =?koi8-r?B?0NLJxc3OwdEg/aPHz8zF18Eg6cfP0tEg78zFx8/Xyd7B?=
+	<prm_shchegolev@gov.ru>
+X-Virus-Scanned: Antivirus engine
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	MIME_HTML_MOSTLY        0.428 Multipart message mostly text/html MIME
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: prm_shchegolev@gov.ru
+X-MS-Exchange-Organization-Network-Message-Id: f06313ad-88a2-4949-b0ff-08d64b9644c5
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2969069
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"><meta name="Generator" content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="blue" vlink="purple"><div class="WordSection1"><p class="MsoNormal"><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

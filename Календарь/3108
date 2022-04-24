@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe78ab8
+DTSTAMP:20220424T204127Z
+CREATED:20190821T055249Z
+LAST-MOD:20190820T203648Z
+SUMMARY:Форум представителей муниципальных образований Тверской области «Верхневолжье 2019 - территория развития» (отв. Ищенко А.Н.\, Белорусов В.А.\, Задумова С.Ю.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190821T090000Z
+DTEND;VALUE=DATE-TIME:20190821T104000Z
+LOCATION:Краснофлотская наб.\, д.3\,  СК "Юбилейный"\, ледовая арена
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

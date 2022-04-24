@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc64b44
+DTSTAMP:20220424T204126Z
+CREATED:20200122T074628Z
+LAST-MOD:20200122T073017Z
+SUMMARY:Совещание\, тема: "О внесении изменений в региональную программу «Адресная программа ТО по переселению граждан из аварийного жилищного фонда на 2019-2025 гг." (отв. Ажгиревич А.И.\, Биленко Д.С.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200122T120000Z
+DTEND;VALUE=DATE-TIME:20200122T130000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x875ad4
+DTSTAMP:20220424T204126Z
+CREATED:20201223T072158Z
+LAST-MOD:20201223T063102Z
+SUMMARY:Совместное заседание Госсовета РФ и Совета при Президенте РФ по стратегическому развитию и национальным проектам (в режиме ЗВКС) (отв. Егоров И.И.\, Ажгиревич А.И.\, Емельянов А.А\, Наумов А.В.\, Подтихова М.И.\, Жарков И.С.\, Скорый А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201223T100000Z
+DTEND;VALUE=DATE-TIME:20201223T120000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2d35d0
+DTSTAMP:20220424T204126Z
+CREATED:20211215T190732Z
+LAST-MOD:20211215T122856Z
+SUMMARY:Заседание Совета при полномочном представителе Президента РФ в ЦФО по вопросам развития туризма в ЦФО (в формате стратегической сессии) (отв. Егоров И.И.\, Перов В.В.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20211216T124500Z
+DTEND;VALUE=DATE-TIME:20211216T180000Z
+LOCATION:г. Москва\, Кремлевская наб.\,  д. 1 с. 4\, Патриаршие палаты Московского Кремля 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1bc0a0
+DTSTAMP:20220424T204126Z
+CREATED:20220322T175345Z
+LAST-MOD:20220322T172610Z
+SUMMARY:Рабочая встреча\, тема: «О подготовке и проведении празднования в 2024 г. 950-летия первого летописного упоминания города Торопца Тверской области» (отв. Морозов Е.В.\, Егоров И.И.\, Белорусов В.А.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220322T160000Z
+DTEND;VALUE=DATE-TIME:20220322T163000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

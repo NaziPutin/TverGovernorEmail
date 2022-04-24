@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10bb714
+DTSTAMP:20220424T204127Z
+CREATED:20190123T145713Z
+LAST-MOD:20190122T121040Z
+SUMMARY:Рабочая встреча. Умрихин Максим Владимирович – зам. начальника Управления по надзору за исполнением законодательства в сфере экономики Главного управления в сфере надзора за исполнением фед. законодательства Генеральной прокуратуры РФ (отв. Попенко В.И.) 
+DTSTART;VALUE=DATE-TIME:20190124T153000Z
+DTEND;VALUE=DATE-TIME:20190124T160000Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

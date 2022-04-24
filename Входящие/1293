@@ -1,0 +1,202 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 9 Jul 2021 23:45:41 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 9 Jul 2021
+ 23:45:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Fri, 9 Jul 2021 23:45:40 +0300
+From: =?utf-8?B?0JTQsNC90LjQu9C+0LLQsCDQldCy0LPQtdC90LjRjyDQkNC70LXQutGB0LA=?=
+ =?utf-8?B?0L3QtNGA0L7QstC90LA=?= <Danilova_EA@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J4g0L/RgNC40LfQvdCw0L3QuNC4INC90LXQt9Cw0LrQvtC90L3Ri9C8INC/?=
+ =?utf-8?B?0L7RgdGC0LDQvdC+0LLQu9C10L3QuNGPINCT0LvQsNCy0L3QvtCz0L4g0LM=?=
+ =?utf-8?B?0L7RgdGD0LTQsNGA0YHRgtCy0LXQvdC90L7Qs9C+INGB0LDQvdC40YLQsNGA?=
+ =?utf-8?B?0L3QvtCz0L4g0LLRgNCw0YfQsCDQv9C+INCi0LLQtdGA0YHQutC+0Lkg0L4=?=
+ =?utf-8?B?0LHQu9Cw0YHRgtC4INC+0YIgMTguMDYuMjAyMSDihJYgMSA=?=
+Thread-Topic: =?utf-8?B?0J4g0L/RgNC40LfQvdCw0L3QuNC4INC90LXQt9Cw0LrQvtC90L3Ri9C8INC/?=
+ =?utf-8?B?0L7RgdGC0LDQvdC+0LLQu9C10L3QuNGPINCT0LvQsNCy0L3QvtCz0L4g0LM=?=
+ =?utf-8?B?0L7RgdGD0LTQsNGA0YHRgtCy0LXQvdC90L7Qs9C+INGB0LDQvdC40YLQsNGA?=
+ =?utf-8?B?0L3QvtCz0L4g0LLRgNCw0YfQsCDQv9C+INCi0LLQtdGA0YHQutC+0Lkg0L4=?=
+ =?utf-8?B?0LHQu9Cw0YHRgtC4INC+0YIgMTguMDYuMjAyMSDihJYgMSA=?=
+Thread-Index: Add0/Ba23cTFI7awSVW1tHhc1hO1Vw==
+Date: Fri, 9 Jul 2021 23:45:40 +0300
+Message-ID: <ce3d862677c641418de4514ddb3ee99c@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ce3d862677c641418de4514ddb3ee99c@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.132]
+X-MS-Exchange-Organization-Network-Message-Id: 7d54b40d-e1bf-407f-00cf-08d9431a83cf
+Return-Path: Danilova_EA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.1450984
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER172BF3AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:inherit;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:2056847534;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-604876688 -238003520 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:60.55pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:96.55pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:132.55pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:168.55pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:204.55pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:240.55pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:276.55pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:312.55pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:348.55pt;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:2081752818;
+	mso-list-type:hybrid;
+	mso-list-template-ids:727582720 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>           Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;text-indent:42.55pt;line-height:normal'><b><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>           06.07.2021 в Центральный районный суд г. Твери и в Арбитражный суд Тверской области поступили административные иски ООО «Управляющая компания «Конаковский Жилфонд» о признании незаконным постановления Главного государственного санитарного врача по Тверской области от 18.06.2021 № 1 «О проведении профилактических прививок отдельным группам граждан по эпидемическим показаниям» (дело № М-1274/2021).<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Административный истец полагает, что оспариваемое постановление противоречит п. 6 ч. 1 ст. 51 Федерального закона от 30.03.1999 № 52-ФЗ в связи с отсутствием мотивированного обоснования распространения действия его положений об обязательной вакцинации для работников организаций сферы ЖКХ, постановлению Правительства Российской Федерации от 15.07.1999 № 825 и является неисполнимым.  <o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><b><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>В настоящее время иски возвращены истцу с связи нарушением правил подсудности.<o:p></o:p></span></b></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>По информации начальника Главного управления «Государственная жилищная инспекция» (далее – ГЖИ) Ефимова Д.О. ООО «Управляющая компания «Конаковский Жилфонд»</span><span style='font-size:11.5pt;font-family:"Arial",sans-serif;color:black;background:#F6F4F1'> </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:#F6F4F1'>осуществляет деятельность по управлению 105 многоквартирными домами на основании выданной 10.04.2015 лицензии.<o:p></o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=528 style='width:396.0pt;background:white;border-collapse:collapse'><tr><td style='padding:0cm 0cm 11.25pt 0cm'><p class=MsoNormal style='margin-bottom:0cm;line-height:16.5pt'><b><span style='font-size:13.5pt;font-family:"Helvetica",sans-serif;color:black;mso-fareast-language:RU'>Учредители (участники)<o:p></o:p></span></b></p></td></tr></table><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='display:none;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='background:white;border-collapse:collapse'><thead><tr><td valign=top style='background:#F6F4F1;padding:6.0pt 5.25pt 6.75pt 15.0pt'><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:#0070CB;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:RU'>Наименование</span><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><o:p></o:p></span></p></td><td nowrap valign=top style='background:#F6F4F1;padding:6.0pt 5.25pt 6.75pt 5.25pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:#0070CB;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:RU'>Доля в УК, ₽</span><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><o:p></o:p></span></p></td><td nowrap valign=top style='background:#F6F4F1;padding:6.0pt 5.25pt 6.75pt 5.25pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:#0070CB;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:RU'>Доля в УК, %↓</span><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><o:p></o:p></span></p></td><td width=95 valign=top style='width:71.25pt;background:#F6F4F1;padding:6.0pt 15.0pt 6.75pt 5.25pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:#0070CB;border:none windowtext 1.0pt;padding:0cm;mso-fareast-language:RU'>Внесение в ЕГРЮЛ</span><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><o:p></o:p></span></p></td></tr></thead><tr style='height:.75pt'><td valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 15.0pt;height:.75pt'><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><a href="https://www.spark-interfax.ru/system/home/card#/physicalperson/inn-691100837415/1" target="_blank"><span style='color:#0070CB'>Шаталов Вячеслав Васильевич</span></a><o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>138&nbsp;000<o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>30<o:p></o:p></span></p></td><td width=95 valign=top style='width:71.25pt;border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 15.0pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>21.04.2014<o:p></o:p></span></p></td></tr><tr style='height:.75pt'><td valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 15.0pt;height:.75pt'><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><a href="https://www.spark-interfax.ru/system/home/card#/physicalperson/inn-691102342859/1" target="_blank"><span style='color:#0070CB'>Макеева Кристина Павловна</span></a><o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>117&nbsp;300<o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>25.50<o:p></o:p></span></p></td><td width=95 valign=top style='width:71.25pt;border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 15.0pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>21.04.2014<o:p></o:p></span></p></td></tr><tr style='height:.75pt'><td valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 15.0pt;height:.75pt'><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><a href="https://www.spark-interfax.ru/system/home/card#/physicalperson/inn-691104275372/1" target="_blank"><span style='color:#0070CB'>Максимова Евгения Васильевна</span></a><o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>117&nbsp;300<o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>25.50<o:p></o:p></span></p></td><td width=95 valign=top style='width:71.25pt;border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 15.0pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>21.04.2014<o:p></o:p></span></p></td></tr><tr style='height:.75pt'><td valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 15.0pt;height:.75pt'><p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'><a href="https://www.spark-interfax.ru/system/home/card#/physicalperson/inn-691103439500/1" target="_blank"><span style='color:#0070CB'>Гуров Виталий Ильич</span></a><o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>87&nbsp;400<o:p></o:p></span></p></td><td nowrap valign=top style='border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 5.25pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>19<o:p></o:p></span></p></td><td width=95 valign=top style='width:71.25pt;border:none;border-bottom:solid #F6F4F1 1.0pt;padding:6.75pt 15.0pt 6.75pt 5.25pt;height:.75pt'><p class=MsoNormal align=right style='margin-bottom:0cm;text-align:right;line-height:normal'><span style='font-size:11.5pt;font-family:"inherit",serif;color:black;mso-fareast-language:RU'>21.04.2014<o:p></o:p></span></p></td></tr></table><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:#F6F4F1'>В течение 2021 года ГЖИ проведены две проверки деятельности </span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>ООО «Управляющая компания «Конаковский Жилфонд»<span style='color:black;background:#F6F4F1'> (05.02.2021 и 15.04.2021), нарушений не выявлено.<o:p></o:p></span></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:#F6F4F1'>В настоящее время по информации Ефимова Д.О. выявлены следующие нарушения:<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- не размещена информации об одном из 105 обслуживаемых домов в государственной информационной системе жилищно-коммунального хозяйства, что является основанием для привлечения к ответственности по ч.2 ст.13.19.2 КоАП (штраф от 5000 до 10000 тысяч рублей);<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>- поступило обращение гражданина (посредством ПОС) о выявленном нарушении при вводе прибора учета.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>          Также прорабатывается вопрос о проведении проверки в отношении данной организации Роспотребнадзором после 18.06.2021.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Докладываю в порядке информации.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением, Данилова Евгения.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:#F6F4F1'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:42.55pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black;background:#F6F4F1'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

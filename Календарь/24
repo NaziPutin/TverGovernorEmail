@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1aab80
+DTSTAMP:20220424T204126Z
+CREATED:20220328T201428Z
+LAST-MOD:20220401T160022Z
+SUMMARY:Торжественное награждение Непряевой Н.М. – победителя Олимпийских игр 2022 г. в Пекине по лыжным гонкам\, президента федерации лыжных гонок Тверской области наградой Тверской области (отв. Новикова В.И.\, Пономарев А.А.\, Демин А.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220411T123000Z
+DTEND;VALUE=DATE-TIME:20220411T130000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

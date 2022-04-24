@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5ee128
+DTSTAMP:20220424T204126Z
+CREATED:20210607T193452Z
+LAST-MOD:20210607T185732Z
+SUMMARY:Торжественные мероприятия\, приуроченные к празднованию 500-летия со дня обретения мощей преподобного Макария Калязинского (отв. Новикова В.И.\, Сальникова Т.А.\, Смялковский П.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210608T060000Z
+DTEND;VALUE=DATE-TIME:20210608T094500Z
+LOCATION:г. Калязин\, ул. Ф. Энгельса\, д.27\, храм в честь Вознесения Господня
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

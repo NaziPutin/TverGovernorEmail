@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe42ecc
+DTSTAMP:20220424T204127Z
+CREATED:20190904T142156Z
+LAST-MOD:20190904T073253Z
+SUMMARY:Совещание\, тема: "О методике по определению норматива формирования расходов на содержание органов местного самоуправления" (отв. Подтихова М.И.\, Задумова С.Ю.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190904T150000Z
+DTEND;VALUE=DATE-TIME:20190904T160000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

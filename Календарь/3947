@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x115ca70
+DTSTAMP:20220424T204127Z
+CREATED:20181112T131013Z
+LAST-MOD:20181112T065931Z
+SUMMARY:Совещание\, тема: "О переходе на цифровой формат телевизионного вещания в РФ". Проводит Чуйченко К.А. – заместитель Председателя Правительства РФ – Руководитель Аппарата Правительства РФ (отв. Ищенко А.Н.\, Егоров И.И.)\n
+DTSTART;VALUE=DATE-TIME:20181112T143000Z
+DTEND;VALUE=DATE-TIME:20181112T153000Z
+LOCATION:г.Москва\, Краснопресненская наб.\, д.2\, Дом Правительства РФ\, 4 этаж\, каб.4-21
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

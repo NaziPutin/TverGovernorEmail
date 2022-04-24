@@ -1,0 +1,277 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 22 Mar 2019 11:04:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 22 Mar
+ 2019 11:04:23 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 22 Mar 2019
+ 11:04:29 +0300
+From: =?utf-8?B?0JbQsNGA0LvQuNGG0YvQvdCwINCi0LDRgtGM0Y/QvdCwINCb0LXQvtC90Lg=?=
+ =?utf-8?B?0LTQvtCy0L3QsA==?= <zhtl@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?Rlc6ID4+OiDQotCXINC90LAg0L/RgNC+0LXQutGC0LjRgNC+0LLQsNC90Lg=?=
+ =?utf-8?B?0LUg0L/QviDRgtGA0LXQvCDQvtCx0YrQtdC60YLQsNC8INCS0L7Qu9Cz0LAg?=
+ =?utf-8?B?0Lgg0KfQuNGB0YLQsNGPINCy0L7QtNCwINCi0LLQtdGA0Yw=?=
+Thread-Topic: =?utf-8?B?Pj46INCi0Jcg0L3QsCDQv9GA0L7QtdC60YLQuNGA0L7QstCw0L3QuNC1INC/?=
+ =?utf-8?B?0L4g0YLRgNC10Lwg0L7QsdGK0LXQutGC0LDQvCDQktC+0LvQs9CwINC4INCn?=
+ =?utf-8?B?0LjRgdGC0LDRjyDQstC+0LTQsCDQotCy0LXRgNGM?=
+Thread-Index: AdTftw2o1tzot+C9QIezIRwy4FqV3QAM2MjwAAIhCJAAIYkRcAAC5low
+Date: Fri, 22 Mar 2019 11:04:28 +0300
+Message-ID: <27aa84efb7344d9ea8b2d96288f23a54@tverreg.ru>
+References: <1c9d83176e224012927c111f34fe80cd@tverreg.ru>
+ <f6ed77372713415a99fe8e8438da5865@00SR-EX-MB03.expertiza.ru>
+ <2060f5972e5e48698998df1063054194@tverreg.ru>
+ <3e882f2a740d455897a1cc5618140f5f@00SR-EX-MB03.expertiza.ru>
+In-Reply-To: <3e882f2a740d455897a1cc5618140f5f@00SR-EX-MB03.expertiza.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <27aa84efb7344d9ea8b2d96288f23a54@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 1425f5f2-41c2-4c5b-6fd4-08d6ae9d0255
+Return-Path: zhtl@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.9881465
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER8F464701
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle23
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:138310757;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2006245150 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:1077246982;
+	mso-list-type:hybrid;
+	mso-list-template-ids:2006245150 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2
+	{mso-list-id:1271738124;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1818171670 181801670 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-weight:bold;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Уважаемый Игорь Михайлович! По результатам работы с руководителем аппарата Главгосэкспертизы Соловьевым Александром Викторовичем, в ООО «Тверь водоканал» направлен перечень рекомендуемых проектных организаций, имеющих большой опыт работы по проектированию объектов ВиВ. В настоящий момент ООО «Тверь водоканал» работает с представителями проектировщиков по определению условий договора.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Игорь Михайлович Прошу сделать звонок Игорю Евгеньевичу по вопросу оказания содействия в привлечении к разработке проекта по Твери </span><b><i><u>АО &quot;МосводоканалНИИпроект&quot;, </u></i></b>со слов<b><i><u> </u></i></b>Соловьева А.В. тогда проблем совсем не будет, фирма лучшая на рынке.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>С уважением,<o:p></o:p></p><p class=MsoNormal>Жарлицына Т.Л.<o:p></o:p></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span></b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Соловьев Александр Викторович &lt;a.solovev@gge.ru&gt; <br><b>Sent:</b> Friday, March 22, 2019 9:41 AM<br><b>To:</b> Жарлицына Татьяна Леонидовна &lt;zhtl@tverreg.ru&gt;<br><b>Subject:</b> RE: &gt;&gt;: ТЗ на проектирование по трем объектам Волга и Чистая вода Тверь<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Татьяна Леонидовна, добрый день.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Направляю информацию по проектировщикам, выполнивших проектные работы по аналогичным &nbsp;обьектам. Пока это как инфо, если понадобится дополнительная информация, сообщите.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span></b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Жарлицына Татьяна Леонидовна &lt;<a href="mailto:zhtl@tverreg.ru">zhtl@tverreg.ru</a>&gt; <br><b>Sent:</b> Thursday, March 21, 2019 5:34 PM<br><b>To:</b> Соловьев Александр Викторович &lt;<a href="mailto:a.solovev@gge.ru">a.solovev@gge.ru</a>&gt;<br><b>Subject:</b> RE: &gt;&gt;: ТЗ на проектирование по трем объектам Волга и Чистая вода Тверь<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Александр Викторович, спасибо.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span></b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Соловьев Александр Викторович &lt;<a href="mailto:a.solovev@gge.ru">a.solovev@gge.ru</a>&gt; <br><b>Sent:</b> Thursday, March 21, 2019 4:39 PM<br><b>To:</b> Жарлицына Татьяна Леонидовна &lt;<a href="mailto:zhtl@tverreg.ru">zhtl@tverreg.ru</a>&gt;<br><b>Subject:</b> RE: &gt;&gt;: ТЗ на проектирование по трем объектам Волга и Чистая вода Тверь<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Татьяна Леонидовна, направляю первые варианты по проектным организациям, выполняющих проектные &nbsp;работы по вашим направлениям, компании московские.<o:p></o:p></p><p class=MsoNormal>Завтра направлю предложения по региональным проектировщикам.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><b><i><u>ООО «ИК НИИ КВОВ»</u></i></b> - проектная организация, основным направлением деятельности которой являются научно-технические разработки в области водоснабжения, канализации и охраны окружающей среды от загрязнения.<o:p></o:p></p><p class=MsoNormal><b>Направление деятельности:</b><o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Обследование действующих очистных сооружений с проведением экспертизы с разработкой и реализацией комплексных решений по реконструкции и модернизации.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Проектирование объектов водно-коммунального хозяйства любой степени сложности.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Производство блочно-модульных очистных сооружений, канализационных и водопроводных насосных станций, емкостного и нестандартного оборудования.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Эксплуатация и сервисное обслуживание очистных сооружений и объектов водно-коммунального хозяйства.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>Весь комплекс работ по строительству объектов водно-коммунального хозяйства.<o:p></o:p></p><p class=MsoNormal><b><i><u><a href="http://niikvov.ru">http://niikvov.ru</a></u></i></b><o:p></o:p></p><p class=MsoNormal><b><i>&nbsp;</i></b><o:p></o:p></p><p class=MsoNormal><b><i><u>ООО «Институт «Каналсетьпроект»</u></i></b> - проектная организация, основным направлением деятельности которой являются проектные и проектно-изыскательские работы по инженерным системам, коммуникациям и дорогам.<o:p></o:p></p><p class=MsoNormal><b>Направление деятельности:</b><o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><b><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><![endif]>Проектные, производственные, научно-исследовательские и консалтинговые работы в области строительной экологии, гидрогеологии и инженерной геологии.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><b><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><![endif]>Проектирование жилых, общественных и промышленных зданий на всех стадиях от архитектурной концепции до ввода в эксплуатацию.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><b><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><![endif]>Проектирование и реконструкция водопроводных сетей.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><b><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><![endif]>Проектирование и реконструкция канализационных сетей, водостоков и ливневой канализации.<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l2 level1 lfo4'><![if !supportLists]><b><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></b><![endif]>Строительство подземных сетей и коммуникаций.<o:p></o:p></p><p class=MsoNormal><b><i><u><a href="http://www.in-ksp.ru">http://www.in-ksp.ru</a></u></i></b><o:p></o:p></p><p class=MsoNormal style='margin-left:18.0pt'><span style='color:#1F497D'>&nbsp;</span><o:p></o:p></p><p class=MsoNormal><b><i><u>АО &quot;МосводоканалНИИпроект&quot;</u></i></b><o:p></o:p></p><p class=MsoNormal><b>Направление деятельности:</b><o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>РАЗРАБОТКА ПРОЕКТОВ сооружений очистки природных вод для систем питьевого и промышленного водоснабжения;<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>РАЗРАБОТКА ПРОЕКТОВ очистных сооружений;<o:p></o:p></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l1 level1 lfo6'><![if !supportLists]><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]>РАЗРАБОТКА ПРОЕКТОВ генеральных схем развития систем водоснабжения, водоотведения и санитарной очистки городов и регионов;<o:p></o:p></p><p class=MsoNormal>НАУЧНЫЕ ИССЛЕДОВАНИЯ в области разработки и совершенствования технологий очистки природных и сточных<span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span></b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Жарлицына Татьяна Леонидовна &lt;<a href="mailto:zhtl@tverreg.ru">zhtl@tverreg.ru</a>&gt; <br><b>Sent:</b> Thursday, March 21, 2019 10:25 AM<br><b>To:</b> Соловьев Александр Викторович &lt;<a href="mailto:a.solovev@gge.ru">a.solovev@gge.ru</a>&gt;<br><b>Subject:</b> FW: &gt;&gt;: ТЗ на проектирование по трем объектам Волга и Чистая вода Тверь<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Александр Викторович, направляю информацию по договоренности. Заранее спасибо.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>С уважением,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'>Жарлицына Татьяна Леонидовна<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'>From:</span></b><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'> Приемная Жарлицыной Т.Л./Администрация Тверской области &lt;<a href="mailto:Pr_Zharlitsinoy@tverreg.ru">Pr_Zharlitsinoy@tverreg.ru</a>&gt; <br><b>Sent:</b> Thursday, March 21, 2019 10:22 AM<br><b>To:</b> Жарлицына Татьяна Леонидовна &lt;<a href="mailto:zhtl@tverreg.ru">zhtl@tverreg.ru</a>&gt;<br><b>Subject:</b> &gt;&gt;: Тз на проектирование по трем объектам Волга и Чистая вода<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><br><br><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>С уважением, </span><br><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>секретариат заместителя Председателя</span> <br><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Правительства Тверской области Жарлицыной Т.Л.</span> <br><br><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>тел.: 8 (4822) 59 23 40 </span><br><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>E-mail: <a href="mailto:Pr_Zharlitsinoy@web.region.tver.ru">Pr_Zharlitsinoy@web.region.tver.ru</a></span> <br><span style='font-size:7.5pt;font-family:"Arial",sans-serif;color:purple'>----- Переслано: Priemnaya_Zharlitsinoy/TverRegAdm/RU дата: 21.03.2019 10:21 -----</span> <br><br><span style='font-size:7.5pt;font-family:"Arial",sans-serif;color:#5F5F5F'>От: &nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size:7.5pt;font-family:"Arial",sans-serif'>Радченко Андрей Николаевич &lt;<a href="mailto:a.radchenko@tvervodokanal.ru">a.radchenko@tvervodokanal.ru</a>&gt;</span> <br><span style='font-size:7.5pt;font-family:"Arial",sans-serif;color:#5F5F5F'>Кому: &nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size:7.5pt;font-family:"Arial",sans-serif'>Приемная Жарлицыной Т.Л./Тверская область &lt;<a href="mailto:Pr_Zharlitsinoy@tverreg.ru">Pr_Zharlitsinoy@tverreg.ru</a>&gt;, </span><br><span style='font-size:7.5pt;font-family:"Arial",sans-serif;color:#5F5F5F'>Копия: &nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size:7.5pt;font-family:"Arial",sans-serif'>Петрова Марина Васильевна &lt;<a href="mailto:m.petrova@tvervodokanal.ru">m.petrova@tvervodokanal.ru</a>&gt;</span> <br><span style='font-size:7.5pt;font-family:"Arial",sans-serif;color:#5F5F5F'>Дата: &nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size:7.5pt;font-family:"Arial",sans-serif'>21.03.2019 10:18</span> <br><span style='font-size:7.5pt;font-family:"Arial",sans-serif;color:#5F5F5F'>Тема: &nbsp; &nbsp; &nbsp; &nbsp;</span><span style='font-size:7.5pt;font-family:"Arial",sans-serif'>Тз на проектирование по трем объектам Волга и Чистая вода</span> <o:p></o:p></p><div class=MsoNormal align=center style='text-align:center'><hr size=2 width="100%" noshade style='color:#A0A0A0' align=center></div><p class=MsoNormal><br><br><br><span style='font-family:"Calibri",sans-serif'>Ольга Владимировна, по Вашей просьбе направляю ТЗ</span> <br><span style='font-family:"Calibri",sans-serif'>Максимальная сумма на проектирование (начальная сумма торгов) указана в каждом ТЗ в шапке</span> <br><span style='font-family:"Calibri",sans-serif'>&nbsp;</span> <br><b><span style='font-family:"Calibri",sans-serif;color:#002041'>С уважением,</span></b> <br><b><span style='font-family:"Calibri",sans-serif;color:#002041'>Радченко Андрей Николаевич</span></b> <br><span style='font-family:"Calibri",sans-serif'>&nbsp;</span> <br><span style='font-family:"Arial",sans-serif'>170008, Тверь, </span><br><span style='font-family:"Arial",sans-serif'>ул. 15 лет Октября, д.7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span> <br><span style='font-family:"Arial",sans-serif'>Телефон: +7 &nbsp;(4822) 62-07-77 доб.231</span> <br><span style='font-family:"Arial",sans-serif'>Мобильный: +7 (916) 237-65-95</span> <br><span style='font-family:"Arial",sans-serif'>e-mail: </span><a href="mailto:a.radchenko@tvervodokanal.ru"><span style='font-family:"Arial",sans-serif'>a.radchenko@tvervodokanal.ru</span></a> <br><a href="http://www.tvervodokanal.ru/"><span style='font-family:"Arial",sans-serif'>www.tvervodokanal.ru</span></a> <br><span style='font-family:"Arial",sans-serif;color:#004080'>&nbsp;</span> <br><img border=0 width=210 height=48 style='width:2.1875in;height:.5in' id="_x0000_i1026" src="cid:image001.png@01D4E092.F89C8000" alt="logo_gradient"><br><span style='font-family:"Calibri",sans-serif'>&nbsp;</span> <br><span style='font-family:"Calibri",sans-serif'>«Желание сдаться будет особенно сильным незадолго до победы»</span> <br><span style='font-family:"Calibri",sans-serif'>&nbsp;</span> <o:p></o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x519308
+DTSTAMP:20220424T204126Z
+CREATED:20210719T114508Z
+LAST-MOD:20210719T092147Z
+SUMMARY:Совещание\, тема: «О  реализации подпроекта ТО по г. Торжку «Создание на основе фрагмента городской структуры «Путевой дворец» центра культурно-туристического развития исторического поселения» (отв. Егоров И.И.\, Перов В.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210719T140000Z
+DTEND;VALUE=DATE-TIME:20210719T150000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

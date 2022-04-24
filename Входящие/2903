@@ -1,0 +1,134 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 30 Oct 2018 14:54:05 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 30 Oct
+ 2018 14:54:04 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 30 Oct 2018 14:54:04 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 80F8B216B5
+	for <rim@tverreg.ru>; Tue, 30 Oct 2018 14:54:05 +0300 (MSK)
+Received-SPF: pass (center.rzd.ru: 217.175.140.91 is authorized to use 'kovaliu@center.rzd.ru' in 'mfrom' identity (mechanism 'a:ironmail1.rzd.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="kovaliu@center.rzd.ru"; helo=ironmail1.rzd.ru; client-ip=217.175.140.91
+Received: from ironmail1.rzd.ru (ironmail1.rzd.ru [217.175.140.91])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id C11AD216B3
+	for <rim@tverreg.ru>; Tue, 30 Oct 2018 14:54:02 +0300 (MSK)
+DomainKey-Signature: s=mail; d=center.rzd.ru; c=simple; q=dns;
+  h=From:Received:X-KLMS-Rule-ID:X-KLMS-Message-Action:
+   X-KLMS-AntiSpam-Status:X-KLMS-AntiPhishing:
+   X-KLMS-AntiVirus:X-KLMS-AntiVirus-Status:Received:Subject:
+   Date:Message-Id:MIME-Version:Thread-Topic:Priority:
+   Importance:X-MSMail-Priority:X-Priority:Sensitivity:
+   Thread-Index:To:X-Mailer:Content-Type;
+  b=WvNs4Rv4L2m0d0RzjTDsS+cm1oYnyp5SmnFveK0i8PLDdTeDRNQc2AFb
+   njCSFTP9fTRGx50deIyJxkAyImB9sX20WJkbmxdu6X+GzIuBpqh+CvGF1
+   niwYN1ml95u+/OY9LW1NQsK5HeyFIhhI2FmfsstH9hBbRqdkNILuZf8ML
+   LUOA6hK3PgBNGsTbyYpNWX7PzjOVJtSsxlxQONOePb62BDN2U/LzqdHOL
+   J5Z5moWnPqk5WhYJp06iGi8cnzc/JqLseh3FS57UgAnaQ+uO7afQ24hjp
+   0fmeKq551R6igNmSM1YGf1InBsY62FseY2BXAsdlYD1biPQ/Aw5CiRX+X
+   g==;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=center.rzd.ru; l=569783; q=dns/txt; s=mail;
+  t=1540900442; x=1572436442;
+  h=subject:date:message-id:mime-version:to:from;
+  bh=7JW30eZJ7MZLCjxxEcJ0LZOKWzhD/sMdVufgjq2dRPQ=;
+  b=QnsDcG5rNgER10EaWr2YA0MSBgTKYruv/RYDSg7gMlep/6OSHyo1Gq4G
+   vYiRYtfRChF3kjdDfN5K1fnjzWE2HMY4GJ3Hm6C7dFwA4W038Tf+dlvGs
+   DnNmO6CTDy5Q5aHlCsf5APqhUY8BkfriniLY9H8mHvtYhn/p0x0VxBY8y
+   mLryavNyqLkmFR9CnyXVs4LWQSSL+lntHufk/1eVGIrKnYRMXu7RLwh2Q
+   c7wDQ7J46cybJ6Ecy3ewvm9m72DWQb2dOi/OzuGa117jOwd9royz4J6qx
+   TJRR8QShRlC4fZCeJX1iuaLjdApNtz5vN4CWrKcBclS4p9VE3rfFC3pKh
+   Q==;
+From: =?koi8-r?B?68/XwczYIOnHz9LYIODS2MXXyd4=?= <kovaliu@center.rzd.ru>
+Received: from main-cgfe-01.gvc.oao.rzd (HELO gvc.oao.rzd) ([10.244.2.36])
+  by ironmail1.rzd with ESMTP; 30 Oct 2018 14:53:55 +0300
+X-KLMS-Rule-ID: 1
+X-KLMS-Message-Action: clean
+X-KLMS-AntiSpam-Status: not scanned, disabled by settings
+X-KLMS-AntiPhishing: not scanned, disabled by settings
+X-KLMS-AntiVirus: Kaspersky Security for Linux Mail Server, version 8.0.3.30, bases: 2018/10/30 04:14:00 #12262209
+X-KLMS-AntiVirus-Status: Clean, skipped
+Received: from [10.200.28.88] (account kovaliu@center.rzd)
+  by center.rzd (CommuniGate Pro IMAP 6.2.8)
+  with XMIT id 172564 for rim@tverreg.ru; Tue, 30 Oct 2018 14:53:55 +0300
+Subject: =?koi8-r?B?8sXawM3FIOku4C4g68/XwczR?=
+Date: Tue, 30 Oct 2018 14:53:54 +0300
+Message-Id: <a3e0b757707b1049a8233342fe556b3c@center.rzd>
+Thread-Topic: =?koi8-r?B?8sXawM3FIOku4C4g68/XwczR?=
+Priority: Normal
+Importance: normal
+X-MSMail-Priority: normal
+X-Priority: 3
+Sensitivity: Normal
+Thread-Index: AdRwRztoZFD+rSB0Rp6Gd/iceaYN6w==
+To: "rim@tverreg.ru" <rim@tverreg.ru>
+X-Mailer: CommuniGate Pro MAPI Connector 1.52.54.18/1.54.12.28
+X-SPAM-LEVEL: Spam detection results:  1
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	MISSING_MIMEOLE         1.899 Message has X-MSMail-Priority, but no X-MimeOLE
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at http://www.dnswl.org/, no trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: kovaliu@center.rzd.ru
+X-MS-Exchange-Organization-Network-Message-Id: 1eb12f86-12c8-47a5-707c-08d63e5e6440
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5469155
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<meta name="Generator" content="Microsoft Word 12 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="blue" vlink="purple"><div class="WordSection1"><p class="MsoNormal">хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ,<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal">ч УППФЧЕФУФЧЙЙ У ДПЗПЧПТЕООПУФША У о.р. лТБУПЮЕОЛПЧПК ОБРТБЧМСА ТЕЪАНЕ. ч УМХЮБЕ ОЕПВИПДЙНПУФЙ ЗПФПЧ&nbsp; РЕТЕЗПЧПТЙФШ Ч ХДПВОПН ДМС чБУ ЖПТНБФЕ. <o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal">у ХЧБЦЕОЙЕН,<o:p></o:p></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal">йЗПТШ лПЧБМШ<o:p></o:p></p><p class="MsoNormal">&#43;79859700841<o:p></o:p></p></div></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

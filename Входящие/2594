@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 2 Apr 2019 17:21:36 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 2 Apr
+ 2019 17:21:36 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Tue, 2 Apr 2019 17:21:32 +0300
+Subject: =?KOI8-R?B?6c7Gz9LNwcPJ0SDQzyDQLjIg0sHaxMXMwSBWINDF0sXeztEg0M/S1d7FzsnK?=
+ =?KOI8-R?B?ICDQzyDJ1M/Hwc0gIPrB08XEwc7J0SDw0sHXydTFzNjT1NfBIPTXxdLTy8/K?=
+ =?KOI8-R?B?IM/CzMHT1Mkgz9QgMDEuMDguMjAxNyA/IDI1IA==?=
+X-KeepSent: 142EFF25:D30D5DCA-432583D0:004ED8C4;
+ type=4; name=$KeepSent
+To: =?KOI8-R?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4v4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <RudenyaIM@tverreg.ru>
+X-Mailer: Lotus Notes Release 8.5.2FP3 July 11, 2011
+Message-ID: <OF142EFF25.D30D5DCA-ON432583D0.004ED8C4-432583D0.004EE533@tverreg.ru>
+From: =?KOI8-R?B?7cnOydPUxdLT1NfPIM/C0sHaz9fBzsnRL+HEzcnOydPU0sHDydE=?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <dep_obrazov@tverreg.ru>
+Date: Tue, 2 Apr 2019 17:21:33 +0300
+X-MailFwdBy: CN=Igor Mikhaylovich Rudenya/O=TverRegAdm/C=RU
+Auto-Submitted: auto-forwarded
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 02.04.2019 17:21:33
+Content-Disposition: inline
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: bacf4eda-e8b6-42b0-3d98-08d6b7768168
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.4873745
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+(See attached file: Scan_02-04-2019_1715_0001.pdf)
+----boundary-LibPST-iamunique-2146875884_-_---
+

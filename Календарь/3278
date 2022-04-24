@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf38914
+DTSTAMP:20220424T204127Z
+CREATED:20190529T070235Z
+LAST-MOD:20190529T091746Z
+SUMMARY:Рабочая встреча\, тема: «Финансирование реализации адресной программы переселения граждан из аварийного жилья на период 2019-2025 гг.» (отв. Тарасов С.В.\, Подтихова М.И.\, Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190529T093000Z
+DTEND;VALUE=DATE-TIME:20190529T100000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

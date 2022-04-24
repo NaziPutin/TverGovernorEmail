@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x7e74e0
+DTSTAMP:20220424T204126Z
+CREATED:20210211T103739Z
+LAST-MOD:20210211T085311Z
+SUMMARY:Рабочая встреча\, тема: «Строительство (реновация) стационарных учреждений социального обслуживания населения «нового типа» в Тверской области с учетом реорганизации сети учреждений» (отв. Новикова В.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210211T113000Z
+DTEND;VALUE=DATE-TIME:20210211T123000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

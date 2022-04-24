@@ -1,0 +1,50 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 3 Apr 2019 11:16:18 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 3 Apr
+ 2019 11:16:14 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Wed, 3 Apr 2019 11:16:14 +0300
+Subject: =?KOI8-R?B?6c7Gz9LNwcPJ0SDQzyDQ1c7L1NUgMiDQxdLF3s7RINDP0tXexc7Jyg==?=
+ =?KOI8-R?B?IOfVwsXSzsHUz9LBIPTXxdLTy8/KIM/CzMHT1Mkg0M8gydTPx8HN?=
+ =?KOI8-R?B?INDP08Xdxc7J0SDPwt3F09TXwSDTIM/H0sHOyd7Fzs7Pyg==?=
+ =?KOI8-R?B?IM/U18XU09TXxc7Oz9PU2MAgIvTXxdLTy8HRINvXxcrOwdEgxsHC0snLwSIg?=
+ =?KOI8-R?B?NiDNwdLUwSAyMDE5IMfPxMEgNzEv0Mwgz9QgMDYuMDMuMjAxOQ==?=
+X-KeepSent: E7DED465:DF01DC5B-432583D1:002D666A;
+ type=4; name=$KeepSent
+To: =?KOI8-R?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4v4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <RudenyaIM@tverreg.ru>
+X-Mailer: Lotus Notes Release 8.5.2FP3 July 11, 2011
+Message-ID: <OFE7DED465.DF01DC5B-ON432583D1.002D666A-432583D1.002D80CE@tverreg.ru>
+From: =?KOI8-R?B?7cnOydPUxdLT1NfPIM/C0sHaz9fBzsnRL+HEzcnOydPU0sHDydE=?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <dep_obrazov@tverreg.ru>
+Date: Wed, 3 Apr 2019 11:16:14 +0300
+X-MailFwdBy: CN=Igor Mikhaylovich Rudenya/O=TverRegAdm/C=RU
+Auto-Submitted: auto-forwarded
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 03.04.2019 11:16:15
+Content-Disposition: inline
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: f9865474-9f2f-468e-ce12-08d6b80ca39d
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.4828595
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+(See attached file: Scan_03-04-2019_1102.pdf)
+----boundary-LibPST-iamunique-2146875884_-_---
+

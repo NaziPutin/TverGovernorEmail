@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd922ec
+DTSTAMP:20220424T204127Z
+CREATED:20191018T135047Z
+LAST-MOD:20191018T130706Z
+SUMMARY:Церемония торжественного вручения государственных наград РФ\, наград Тверской области и паспортов гражданина РФ\, приуроченная ко Дню герба и флага Тверской области (отв. Орлов А.В.\, Прохорова А.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191021T100000Z
+DTEND;VALUE=DATE-TIME:20191021T110000Z
+LOCATION:пл. Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

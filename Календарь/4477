@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13126bc
+DTSTAMP:20220424T204127Z
+CREATED:20180530T065001Z
+LAST-MOD:20180528T101854Z
+SUMMARY:Совещание\, тема: «О госпрограммах Тверской области (Министерство сельского хозяйства Тверской области\, ГУ «Государственная инспекция по ветеринарии» Тверской области)» (отв. Меньщиков А.В.\, Мигулев П.И.\, Павлова О.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180531T080000Z
+DTEND;VALUE=DATE-TIME:20180531T093000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

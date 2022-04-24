@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1532840
+DTSTAMP:20220424T204127Z
+CREATED:20170413T065511Z
+LAST-MOD:20170413T063935Z
+SUMMARY:Совещание\, тема: «О подготовке к проведению общественных мероприятий\, посвященных празднованию Светлого Христова Воскресения» (отв. Титов А.А.\, Огоньков А.В.\, Попенко В.И.\, Жукова О.В.)
+DTSTART;VALUE=DATE-TIME:20170413T150000Z
+DTEND;VALUE=DATE-TIME:20170413T160000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

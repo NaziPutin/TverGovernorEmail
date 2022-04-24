@@ -1,0 +1,581 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 31 Mar 2022 15:30:28 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 31 Mar
+ 2022 15:30:28 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 31 Mar 2022 15:30:28 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 027F080DB6
+	for <rim@tverreg.ru>; Thu, 31 Mar 2022 15:30:28 +0300 (MSK)
+Received-SPF: pass (mail.sendsay.ru: Sender is authorized to use 'gluck-#-#-#-x_1647254640537491@mail.sendsay.ru' in 'mfrom' identity (mechanism 'include:spf.sendsay.ru' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="gluck-#-#-#-x_1647254640537491@mail.sendsay.ru"; helo=gato156.sndsy.ru; client-ip=185.138.182.156
+Received: from gato156.sndsy.ru (gato156.sndsy.ru [185.138.182.156])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id 2EE9A80C85
+	for <rim@tverreg.ru>; Thu, 31 Mar 2022 15:30:26 +0300 (MSK)
+Received: id 4A243F03021-1648729820
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.sendsay.ru; s=sendsay202111;
+	t=1648729820; bh=44lnKj9x0TxUgAKx05r/WUYJ7ZBYSLierDxAKCB0yDk=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=JhQ+rbL8JankHb5Dncv4scUMVdIVMrUmoj+cgwaj/GH+BS62IeAgJyvbfgVJOmvsk
+	 QQqsjPEZtkU5zBJHLvCbp3paqu1woGpXV5q5O/Tq7qEagDx/Y0d7lGvck9upLPi+R3
+	 KULRZiltJoTEzuQtGV6hvPiCMsIugbTK+aYKs+l8=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=buhgalteria.ru;
+	s=x-1647254640537491.55; t=1648729820;
+	bh=44lnKj9x0TxUgAKx05r/WUYJ7ZBYSLierDxAKCB0yDk=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=cI2oORbMY9HP40jWmgciGd6jOTUkdTk8XJgGKsbI4GB8DV/Z4f0e+fD3OnpFzLs0a
+	 +L6qYRuRIlQr2noqex8HV+FXPXUaiNUE3DfkRbi8NBUWQ2faCZ9CmDPYq5KPKOP8hm
+	 tjvpT1zbf+0xUvbRv9o4YycxZWvPYDTNqz6SCGTQ=
+Precedence: bulk
+List-Id: <pf20977.x_1647254640537491.sendsay>
+List-Issue: <20220331152824.pf20977.x_1647254640537491>
+List-Unsubscribe: <mailto:fbl@sendsay.ru?subject=fbl,x_1647254640537491,11,110212,48515,/20220331152824,pf20977>
+List-Subscribe: NO
+List-Archive: NO
+List-Post: NO
+X-Felis-L: 11.110212.48515.pf20977.x_1647254640537491
+X-rpcampaign: x_1647254640537491pf2097720220331152824
+Date: Thu, 31 Mar 2022 15:30:19 +0300
+Message-Id: <20220331152824.0.20220331152824_eui_@11.110212.48515.pf20977.x_1647254640537491>
+From: =?utf-8?Q?=D0=91=D1=83=D1=85=D0=B3=D0=B0=D0=BB=D1=82=D0=B5=D1=80=D0=B8=D1=8F=2Eru?= <mail@buhgalteria.ru>
+To: <rim@tverreg.ru>
+Subject: =?utf-8?Q?=D0=9F=D0=BE=D0=BD=D1=8F=D1=82=D0=B8=D0=B5=20?=
+ =?utf-8?Q?=D0=BD=D0=B5=D0=B4=D0=B2=D0=B8=D0=B6=D0=B8=D0=BC=D0=BE=D1=81=D1=82=D0=B8=20?=
+ =?utf-8?Q?=D1=85=D0=BE=D1=82=D1=8F=D1=82=20?=
+ =?utf-8?Q?=D0=B8=D0=B7=D0=BC=D0=B5=D0=BD=D0=B8=D1=82=D1=8C?=
+X-Mailru-Msgtype: sendsay.x_1647254640537491
+Feedback-Id: x_164725464053749111:x_1647254640537491:pf20977:sendsay
+X-DrWeb-SpamScore: 90
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeigedggeejucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenogfthfevqddquegrugetughntfgtvhguvdculdehuddmnefjrghmjfgvrgguvghrhfhivghlugcujfgvrgguvghrucfutghorhhinhhgucdlqddutddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuhiigrhgrpihtvghppiiprdhruhcuoehmrghilhessghuhhhgrghlthgvrhhirgdrrhhuqeenucggtffrrghtthgvrhhnpeffjedvleetffefgeefjefhveekheelieefveduueefieejteejueetuddtudfgtdenucffohhmrghinhepshgvnhgushgrhidrrhhupdgsuhhhghgrlhhtvghrihgrrdhruhdpsggvrhgrthhorhdrrhhupdgsuhhhghhougdrrhhupdhvkhdrtghomhdpohhkrdhruhdphigrnhguvgigrdhruhdpmhgrihhlrdhruhdpthgvphdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.164#47 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIMWL_WL_MED          -0.001 DKIMwl.org - Medium trust sender
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HEADER_FROM_DIFFERENT_DOMAINS  0.248 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	POISEN_SPAM_PILL          0.1 Meta: its spam
+	POISEN_SPAM_PILL_1        0.1 random spam to be learned in bayes
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URI_HEX                   0.1 URI hostname has long hexadecimal sequence
+X-DrWeb-SpamScore: 90
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeigedggeejucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenogfthfevqddquegrugetughntfgtvhguvdculdehuddmnefjrghmjfgvrgguvghrhfhivghlugcujfgvrgguvghrucfutghorhhinhhgucdlqddutddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuhiigrhgrpihtvghppiiprdhruhcuoehmrghilhessghuhhhgrghlthgvrhhirgdrrhhuqeenucggtffrrghtthgvrhhnpeffjedvleetffefgeefjefhveekheelieefveduueefieejteejueetuddtudfgtdenucffohhmrghinhepshgvnhgushgrhidrrhhupdgsuhhhghgrlhhtvghrihgrrdhruhdpsggvrhgrthhorhdrrhhupdgsuhhhghhougdrrhhupdhvkhdrtghomhdpohhkrdhruhdphigrnhguvgigrdhruhdpmhgrihhlrdhruhdpthgvphdrrhhunecukfhppedukeehrddufeekrddukedvrdduheei
+X-DrWeb-SpamVersion: Vade Retro 01.422.164#47 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: gluck-11-110212-48515-x_1647254640537491@mail.sendsay.ru
+X-MS-Exchange-Organization-Network-Message-Id: 59d9e963-dad4-494c-ce3b-08da13123d80
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.1650143
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial scale=1.0">
+  <title>Бухгалтерия.ру</title>
+</head>
+
+<body yahoo="fix" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#eeeeee">
+    <tbody>
+      <tr>
+        <td>
+
+          <table border="0" cellspacing="0" cellpadding="0" width="800px" style="width:800px; " align="center">
+            <tbody>
+              <tr>
+                <td>
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#114871" style="width: 800px; background: #114871; font-family: Arial, Helvetica, sans-serif; font-size: 14px;">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <table border="0" cellpadding="0" cellspacing="0" height="40px" width="100%">
+                            <tbody>
+                              <tr height="20px">
+                                <td style="padding:.75pt .75pt .75pt 10.75pt" valign="top">
+                                  <p style="margin:0cm; margin-top:10px; margin-bottom:10px; margin-left:35px"><b><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/45,=0uQNnacLhuxkoXi0xOhfBCg/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT1idWhnYWx0ZXJpYSZ1dG1fY2FtcGFpZ249MjAyMl8wM18zMSZ1dG1fY29udGVudD10b3BfbGluaw==" data-felis_orig_uri="https://www.buhgalteria.ru/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=2022_03_31&amp;utm_content=top_link" data-felis_link_id="45" target="_blank" style="text-decoration: none;"><span style="font-size:22pt; font-family:Arial,sans-serif; color:#ffffff;">Бухгалтерия<span style="color:#ff002a;">.ru</span></span></a></b>
+                                  </p>
+                                </td>
+                                <td width="140">
+                                  <table border="0" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                      <tr style="height:7.5px">
+                                        <td></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="background-color: #ffffff;">
+                          <table class="container" width="700" align="center" cellpadding="0" cellspacing="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td height="26">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tbody>
+                                      <tr>
+                                        <td align="left" style="vertical-align: top;">
+                                          <table width="100%" align="left" cellpadding="0" cellspacing="0" border="0">
+                                            <!-- title -->
+                                            <tbody>
+                                              <tr>
+                                                <td style="font-family: Helvetica, sans-serif; line-height: 17px; font-size: 17px;  color: #383938; text-align: left;"><span style="font-family: Helvetica, sans-serif; line-height: 30px; font-size: 23px;  color: #ff0000; text-align: left;"><br>
+
+
+Сегодня четверг, 31&nbsp;марта, и&nbsp;вот главные<br>бухгалтерские новости на&nbsp;этот час:</span></td>
+                                              </tr>
+                                              <tr>
+                                                <td height="8">&nbsp;</td>
+                                              </tr>
+                                              <tr>
+                                                <td style="color: #494848; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 22px; text-align: left; ">
+                                          <p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/46,=0T2hmwSnQM9Onywcme5FeJQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9wb255YXRpZS1uZWR2aXpoaW1vc3RpLWtob3R5YXQtaXptZW5pdC1lZS1vdHZ5YXpodXQtb3QtcHJpem5ha2EtcHJvY2hub3ktc3Z5YXppLXMtemVtbGV5Lmh0bWw=" data-felis_orig_uri="https://www.buhgalteria.ru/news/ponyatie-nedvizhimosti-khotyat-izmenit-ee-otvyazhut-ot-priznaka-prochnoy-svyazi-s-zemley.html" data-felis_link_id="46" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Понятие недвижимости хотят изменить - ее «отвяжут» от&nbsp;признака прочной связи с&nbsp;землей</a></p>
+
+                                          <p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; text-align: left;">
+
+
+
+
+	 А&nbsp;подсобные постройки и&nbsp;объекты вроде дорожек и&nbsp;заборов будут рассматривать как часть имущественного комплекса, относящегося к&nbsp;«основному» объекту недвижимости.
+
+
+
+</p>
+
+                                             <p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/47,=0nZnhicZMhKP35t1QESABQA/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9zb3ZmZWQtemFicmFrb3ZhbC1wcmlueWF0eXktZ29zZHVtb3ktemFrb24tb2ItdWdvbG92a2UtZGx5YS1wcmVkcHJpbmltYXRlbGV5LWJlei16YXlhdmxlbml5YS1wb3RlcnBlLmh0bWw=" data-felis_orig_uri="https://www.buhgalteria.ru/news/sovfed-zabrakoval-prinyatyy-gosdumoy-zakon-ob-ugolovke-dlya-predprinimateley-bez-zayavleniya-poterpe.html" data-felis_link_id="47" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Совфед забраковал принятый Госдумой закон об&nbsp;«уголовке» для&nbsp;предпринимателей без&nbsp;заявления потерпевших</a></p>
+
+                                          <p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; text-align: left;">
+
+
+
+
+	 Совет Федерации нечасто отклоняет законопроекты Госдумы, но&nbsp;такие примеры существуют, и&nbsp;они не&nbsp;единичны…
+
+
+
+</p>
+
+                                                  <div style="background-color: #fcf9ea; padding: .1px 50px; margin: 0 -50px;">
+                                                    <p>
+                                                      <span style="letter-spacing: 1px; line-height: 10px; font-size: 10px;">НОВОСТЬ ОТ БЕРАТОРА</span>
+                                                      <br>
+
+                                                      <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/48,=0k0LWGEJnSJqZe3EySdRjGg/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L25ld3MvMTg4NDIyMC8=" data-felis_orig_uri="http://www.berator.ru/news/1884220/" data-felis_link_id="48" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">
+                                                Какие доходы отнесены к&nbsp;необлагаемым в&nbsp;2022&nbsp;году</a></p>
+                                                      <p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; text-align: left;">
+
+                                           Федеральный закон от&nbsp;26&nbsp;марта 2022&nbsp;г. №&nbsp;67-ФЗ определил, какие прекращенные долги в&nbsp;2022 году не&nbsp;облагаются налогом на&nbsp;прибыль.
+
+                                                    </p>
+                                                  </div>
+
+                                              <p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/49,=0ptAUvrfw9fGFEQ0LtE1w1Q/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9yYWJvY2h1eXUtbmVkZWx5dS1raG90eWF0LXNva3JhdGl0Lmh0bWw=" data-felis_orig_uri="https://www.buhgalteria.ru/news/rabochuyu-nedelyu-khotyat-sokratit.html" data-felis_link_id="49" target="_blank" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Рабочую неделю хотят сократить</a></p>
+
+<p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; text-align: left;">
+
+
+
+
+	 Введение сокращенной рабочей недели должно способствовать сохранению рабочих мест на&nbsp;рынке труда. В&nbsp;этом уверен заместитель руководителя Федерации независимых профсоюзов России (ФНПР) Александр Шершуков.
+
+
+
+</p>
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td>&nbsp;</td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                      <!--  <tr><td><a href="https://www.buhgalteria.ru/dosrochka2018/?utm_source=akzia_dosrochka2018&utm_medium=rassilkabuhru&utm_campaign=everydaynews&utm_content=banner" target="_blank"><img src="https://www.buhgalteria.ru/beratoradv/dosrochka2018/dosrochka2018rassilka.png" /></a></td></tr>-->
+                    </tbody>
+                  </table>
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff;">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="background-color: #ffffff;">
+                          <tbody>
+                            <tr>
+                              <td>
+             <div class="banner" style="background-image: url(https://www.buhgalteria.ru/upload/banners/dosrochka_2_2022.png); background-size: 800px; display: block; float: left; width: 800px; padding: 0; padding: 0;">
+        <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/50,=0vLRwlZpcA2TWmgQ67QfMRg/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvcG9kcGlza2EvP3V0bV9zb3VyY2U9YWt6aWFfZG9zcm9jaGthMjAyMl8yJnV0bV9tZWRpdW09c3Vic2NyaWJlJnV0bV9jYW1wYWlnbj1kb3Nyb2Noa2EyMDIyJnV0bV9jb250ZW50PWJhbm5lcg==" data-felis_orig_uri="https://www.buhgalteria.ru/podpiska/?utm_source=akzia_dosrochka2022_2&amp;utm_medium=subscribe&amp;utm_campaign=dosrochka2022&amp;utm_content=banner" data-felis_link_id="50" target="_blank" style="border-bottom: none;">
+          <img src="https://www.buhgalteria.ru/upload/banners/dosrochka_2_2022.png" style="width: 100%; float: left;">
+        </a>
+                              </td>
+      </div>
+                                            </td>
+                            </tr>
+
+                          </tbody>
+                  </table>
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="background-color: #fcf9ea;">
+<table class="container" width="700" align="center" cellpadding="0" cellspacing="0" border="0">
+                            <tbody>
+                              <tr>
+                                <td height="26">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tbody>
+                                      <tr>
+                                        <td align="left" style="vertical-align: top;">
+                                          <table width="100%" align="left" cellpadding="0" cellspacing="0" border="0">
+                                            <!-- title -->
+                                            <tbody>
+                                              <tr>
+                                                <td style="font-family: Helvetica, sans-serif; line-height: 10px; font-size: 10px;  color: #383938; text-align: left;">
+                                                  <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/21,=0qRe0qI3rM8r3oA0DfHBCpw/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1Lw==" data-felis_orig_uri="http://www.berator.ru/" data-felis_link_id="21"><img src="https://www.buhgalteria.ru/peb/images/logo_black_big.png" width="60" align="right"></a>
+                                                  <span style="font-family: Helvetica, sans-serif; line-height: 30px; font-size: 23px;  color: #1d1d1d; text-align: left; font-weight: 600">
+<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/51,=0qvtqfzBRbdeear6cgkF_Jw/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2luZm8vMTg4NDIzMy8=" data-felis_orig_uri="http://www.berator.ru/info/1884233/" data-felis_link_id="51" style="color: #007fff;">Правильные коды дохода к&nbsp;расчету 6-НДФЛ</a>
+</span>
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td style="color: #494848; font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 22px; text-align: left; ">
+
+                                                  <p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; text-align: left;">
+                                             Новые коды видов доходов и&nbsp;вычетов по НДФЛ обновляются ежегодно. Последние изменения были внесены в&nbsp;ноябре 2021&nbsp;года.
+                                                    <!-- &#10148; --><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/52,=0qvtqfzBRbdeear6cgkF_Jw/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2luZm8vMTg4NDIzMy8=" data-felis_orig_uri="http://www.berator.ru/info/1884233/" data-felis_link_id="52" style="color: #007fff;">Читать материал полностью</a></p>
+
+                                               <ul style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; text-align: left; border-top: 1px solid rgb(0, 0, 0, .25); list-style-type: none;">
+
+                                                    <p><span style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #1d1d1d;">Вы намного упростите себе работу, если будете заполнять 6-НДФЛ с&nbsp;помощью экспертов бератора:</span></p>
+<ul>
+<li><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/34,=0cpLjjmkhHrBZm4WeikUkpg/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODY1OA==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28658" data-felis_link_id="34">Что учесть при&nbsp;заполнении 6-НДФЛ</a></li>
+<li><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/35,=05hwAfpvUlZXeLJjmKzI_Ug/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yOTA5Ng==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_29096" data-felis_link_id="35">Разъяснения ФНС по&nbsp;заполнению 6-НДФЛ в&nbsp;сложных случаях</a></li>
+<li><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/36,=0EakYotZ1nJRG0Q7aEgsR4Q/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODc0Nw==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28747" data-felis_link_id="36">Как заполнить расчет 6-НДФЛ за&nbsp;2021&nbsp;год</a></li>
+<li><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/37,=0h0reoD9pJEE0LhrItMb40Q/11,110212,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvOTAvMjAvMzUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMxJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yODc1NA==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/90/20/35/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_31&amp;utm_content=peb_link#heading_id_28754" data-felis_link_id="37">Контрольные соотношения к&nbsp;форме 6-НДФЛ</a></li>
+</ul>
+</ul>
+
+                                                </td>
+                                              </tr>
+                                              <tr>
+                                                <td>&nbsp;</td>
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+
+                    </tbody>
+                  </table>
+                  <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td align="center" style="background-color: #f7f7f7;">
+                          <table width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+                            <tbody>
+                              <tr>
+							  <td>
+<table width="700" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0 auto; width: 700px;"><tbody><tr><td height="38" colspan="3">&nbsp;</td></tr><tr><td height="16" style="font-family: Helvetica, sans-serif; line-height: 30px; font-size: 23px;  color: #ff0000; text-align: left;">Выбор читателей</td></tr><tr><td height="8">&nbsp;</td></tr><tr><td><table><tbody><tr style="vertical-align: top;"><td style="vertical-align: top;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/53,=0D0aW4skFzjJlNhReE-fXHQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9hLW5hbS1wYXJhbGxlbG5vLQ==" data-felis_orig_uri="https://www.buhgalteria.ru/article/a-nam-parallelno-" data-felis_link_id="53" target="_blank"><img src="https://www.buhgalteria.ru/upload/iblock/3b2/u3aivxzn2d3lqzxcfrnkfda2savr5e8z.jpg" alt="Импорт «запараллелят»" width="162" border="0" style="border:none;font-family:Arial,Sans Serif;font-weight:200;color:#007fff;font-size:16px; text-align: center;"></a></td><td rowspan="3" width="20"></td><td rowspan="3" style="font-family: Helvetica, sans-serif; line-height: 22px;   color: #383938; text-align: left;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/54,=0D0aW4skFzjJlNhReE-fXHQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9hLW5hbS1wYXJhbGxlbG5vLQ==" data-felis_orig_uri="https://www.buhgalteria.ru/article/a-nam-parallelno-" data-felis_link_id="54" target="_blank" style="text-decoration: none;font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Импорт «запараллелят»</a><p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; font-size:16px;text-align: left;">
+
+
+Председатель правительства Михаил Мишустин подписал документ о&nbsp;разрешении параллельного импорта в&nbsp;России. Перечень товаров, которые можно будет импортировать без&nbsp;разрешения производителя, определит Минпромторг. Эксперты опасаются, что такая мера приведет к&nbsp;наполнению рынка некачественными контрафактными товарами, но&nbsp;чиновники заверяют: ничего такого не&nbsp;будет.
+</p></td></tr></tbody></table></td></tr><tr><td height="8">&nbsp;</td></tr><tr><td><table><tbody><tr style="vertical-align: top;"><td style="vertical-align: top;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/55,=0HUBbskSaG8xZzrAW3fZMsQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9ub3RhcmlhbG5heWEtZG92ZXJlbm5vc3Qta2FrLXByb3Zlcml0LXBvZGxpbm5vc3Q=" data-felis_orig_uri="https://www.buhgalteria.ru/article/notarialnaya-doverennost-kak-proverit-podlinnost" data-felis_link_id="55" target="_blank"><img src="https://www.buhgalteria.ru/upload/iblock/c53/fb14v4f21l31n0kpwo33shirml0tmojl.jpg" alt="Нотариальная доверенность. Как&nbsp;проверить подлинность?" width="162" border="0" style="border:none;font-family:Arial,Sans Serif;font-weight:200;color:#007fff;font-size:16px; text-align: center;"></a></td><td rowspan="3" width="20"></td><td rowspan="3" style="font-family: Helvetica, sans-serif; line-height: 22px;   color: #383938; text-align: left;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/56,=0HUBbskSaG8xZzrAW3fZMsQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9ub3RhcmlhbG5heWEtZG92ZXJlbm5vc3Qta2FrLXByb3Zlcml0LXBvZGxpbm5vc3Q=" data-felis_orig_uri="https://www.buhgalteria.ru/article/notarialnaya-doverennost-kak-proverit-podlinnost" data-felis_link_id="56" target="_blank" style="text-decoration: none;font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Нотариальная доверенность. Как проверить подлинность?</a><p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; font-size:16px;text-align: left;">
+
+
+Нотариальная доверенность является очень важным документом, ведь с&nbsp;ее помощью можно осуществлять самые разные операции от&nbsp;имени компании, в&nbsp;том числе проводить сделки с&nbsp;имуществом. Поэтому, работая с&nbsp;такими документами, компании нужно быть предельно внимательной. Расскажем, как убедиться, что предоставленная вам доверенность является подлинной. О&nbsp;том, как пользовать цифровым сервисом Федеральной нотариальной палаты, журналу «Расчет» рассказала Ирина Михеева, ведущий юрисконсульт компании «КСК Аудит».
+</p></td></tr></tbody></table></td></tr><tr><td height="8">&nbsp;</td></tr><tr><td><table><tbody><tr style="vertical-align: top;"><td style="vertical-align: top;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/57,=0HDwSL3q-Bpe22hx5xYaQKQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9nb2Rvdm95LW90Y2hldC0yMDIxLWthay1vdHJheml0LWluZm9ybWF0c2l5dS1vLXphcGFzYWto" data-felis_orig_uri="https://www.buhgalteria.ru/article/godovoy-otchet-2021-kak-otrazit-informatsiyu-o-zapasakh" data-felis_link_id="57" target="_blank"><img src="https://www.buhgalteria.ru/upload/iblock/15d/wxac02ejcndg0p7314as1jcsum928ux1.jpg" alt="Годовой отчет-2021: как отразить информацию о запасах" width="162" border="0" style="border:none;font-family:Arial,Sans Serif;font-weight:200;color:#007fff;font-size:16px; text-align: center;"></a></td><td rowspan="3" width="20"></td><td rowspan="3" style="font-family: Helvetica, sans-serif; line-height: 22px;   color: #383938; text-align: left;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/58,=0HDwSL3q-Bpe22hx5xYaQKQ/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9nb2Rvdm95LW90Y2hldC0yMDIxLWthay1vdHJheml0LWluZm9ybWF0c2l5dS1vLXphcGFzYWto" data-felis_orig_uri="https://www.buhgalteria.ru/article/godovoy-otchet-2021-kak-otrazit-informatsiyu-o-zapasakh" data-felis_link_id="58" target="_blank" style="text-decoration: none;font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Годовой отчет-2021: как отразить информацию о&nbsp;запасах</a><p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; font-size:16px;text-align: left;">
+
+
+Если вы ведете бухучет в&nbsp;полном объеме, то вам нужно подать и&nbsp;бухгалтерскую отчетность в&nbsp;полном составе: баланс, отчет о&nbsp;финансовых результатах и&nbsp;приложения к&nbsp;ним. ФСБУ&nbsp;5/2019 «Запасы» стало обязательным к&nbsp;применению в&nbsp;2021&nbsp;году, и&nbsp;порядок раскрытия информации о&nbsp;запасах изменился, даже если вы, как большинство обычных средних компаний, переходили на&nbsp;него перспективно.
+</p></td></tr></tbody></table></td></tr><tr><td height="8">&nbsp;</td></tr><tr><td><table><tbody><tr style="vertical-align: top;"><td style="vertical-align: top;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/59,=0SUpO96e0jw2cKgblNP9x1A/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9rb2dkYS1tb3pobm8tcHJpbnlhdC1rLXVjaGV0dS1pbXVzaGNoZXN0dm8taS1rb2dkYS1wcmltZW5pbXktemFiYWxhbnNvdnllLXNjaGV0YQ==" data-felis_orig_uri="https://www.buhgalteria.ru/article/kogda-mozhno-prinyat-k-uchetu-imushchestvo-i-kogda-primenimy-zabalansovye-scheta" data-felis_link_id="59" target="_blank"><img src="https://www.buhgalteria.ru/upload/iblock/0ad/of22daulr0v3use81buypjrbjyucrcn7.jpg" alt="Когда можно принять к учету имущество и когда применимы забалансовые счета" width="162" border="0" style="border:none;font-family:Arial,Sans Serif;font-weight:200;color:#007fff;font-size:16px; text-align: center;"></a></td><td rowspan="3" width="20"></td><td rowspan="3" style="font-family: Helvetica, sans-serif; line-height: 22px;   color: #383938; text-align: left;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/60,=0SUpO96e0jw2cKgblNP9x1A/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9rb2dkYS1tb3pobm8tcHJpbnlhdC1rLXVjaGV0dS1pbXVzaGNoZXN0dm8taS1rb2dkYS1wcmltZW5pbXktemFiYWxhbnNvdnllLXNjaGV0YQ==" data-felis_orig_uri="https://www.buhgalteria.ru/article/kogda-mozhno-prinyat-k-uchetu-imushchestvo-i-kogda-primenimy-zabalansovye-scheta" data-felis_link_id="60" target="_blank" style="text-decoration: none;font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Когда можно принять к&nbsp;учету имущество и&nbsp;когда применимы забалансовые счета</a><p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; font-size:16px;text-align: left;">
+
+
+Организация может принять к&nbsp;учету только то&nbsp;имущество, которое принадлежит ей на&nbsp;праве собственности. На&nbsp;забалансовых счетах учитывают имущество, которое временно находится в&nbsp;пользовании или&nbsp;распоряжении организации.
+</p></td></tr></tbody></table></td></tr><tr><td height="8">&nbsp;</td></tr></tbody></table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color:#f7f7f7; width:800px">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; width:700px">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <table>
+                                    <tr style="vertical-align: top;">
+                                      <td style="vertical-align: top;">
+                                        <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/61,=0vjS4QnCJB-HBrPN66l3cyw/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ29kLnJ1Lz91dG1fc291cmNlPWFremlhX2J1aGdvZDIwMjJfemFrYXomdXRtX21lZGl1bT1zdWJzY3JpYmUmdXRtX2NhbXBhaWduPWJ1aGdhbHRlcmlhX2luZm8mdXRtX2NvbnRlbnQ9YmFubmVy" data-felis_orig_uri="https://www.buhgod.ru/?utm_source=akzia_buhgod2022_zakaz&amp;utm_medium=subscribe&amp;utm_campaign=buhgalteria_info&amp;utm_content=banner" data-felis_link_id="61" target="_blank"><br><img src="https://www.buhgalteria.ru/upload/imgs/notebookGO2021.png" alt="Бухгод" width="162" border="0" style="border:none;font-family:Arial,Sans Serif;font-weight:200;color:#007fff;font-size:16px; text-align: center;"></a>
+                                      </td>
+                                      <td rowspan="3" width="20"></td>
+                                      <td rowspan="3" style="font-family: Helvetica, sans-serif; line-height: 22px;   color: #383938; text-align: left;"><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/62,=0vjS4QnCJB-HBrPN66l3cyw/11,110212,48515,?aHR0cHM6Ly93d3cuYnVoZ29kLnJ1Lz91dG1fc291cmNlPWFremlhX2J1aGdvZDIwMjJfemFrYXomdXRtX21lZGl1bT1zdWJzY3JpYmUmdXRtX2NhbXBhaWduPWJ1aGdhbHRlcmlhX2luZm8mdXRtX2NvbnRlbnQ9YmFubmVy" data-felis_orig_uri="https://www.buhgod.ru/?utm_source=akzia_buhgod2022_zakaz&amp;utm_medium=subscribe&amp;utm_campaign=buhgalteria_info&amp;utm_content=banner" data-felis_link_id="62" target="_blank" style="text-decoration: none;font-family: Helvetica, Arial, sans-serif; font-size: 18px; line-height: 25px; text-align: left;color: #007fff;">Сдайте годовую отчетность без&nbsp;проблем</a>
+                                        <p style="font-family: Helvetica, Arial, sans-serif; font-size: 16px; line-height: 23px; font-size:16px;text-align: left;">
+
+                                          Портал www.buhgod.ru ежегодно помогает тысячам бухгалтеров без&nbsp;ошибок и&nbsp;штрафов подготовить и&nbsp;сдать годовую отчетность. Попробуйте и&nbsp;вы!
+                                        </p>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="3">&nbsp;</td>
+                                    </tr>
+                            </tbody>
+                            </table>
+                            </td>
+                            </tr>
+                    </tbody>
+                    </table>
+
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:800px">
+                      <tbody>
+                        <tr>
+                          <td>
+                            <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:800px">
+                              <tbody>
+                                <tr>
+                                  <td>
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width:800px">
+                                      <tbody>
+                                        <tr>
+                                          <!--<td bgcolor="#061d49" height="2"><img alt="" height="2" src="https://cecollect.com/tl/space.gif" style="DISPLAY: block" width="1"></td>-->
+                                        </tr>
+                                      </tbody>
+                                    </table>
+
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    </td>
+                    </tr>
+                    </tbody>
+                  </table>
+                  <!-- CLEANTALK template addon -->
+
+                  <!-- /CLEANTALK template addon -->
+                  <!--55e1458576100b4acd74f823d3dea029-->
+                  </td>
+                  </tr>
+            </tbody>
+          </table>
+          <table border="0" cellspacing="0" cellpadding="0" width="800px" style="width:800px; " align="center">
+            <tbody>
+              <tr>
+                <td>
+                  <!-- <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff;"><tbody><tr><td align="center" style="background-color: #ffffff;">
+                                                                        <tbody>
+                                                                           <tr>
+                                                                                <td style="padding:0cm 0cm 0cm 0cm" align="center">
+                                                                                    <a href="https://www.buhgalteria.ru/raschet/?utm_source=akzia_raschet2021_zakaz&utm_medium=subscribe&utm_campaign=buhgalteria&utm_content=banner" target="_blank"><img src="https://www.buhgalteria.ru/upload/banners/banner_subscribe_raschet_01.png" width="800" border="0" style="display: block;border:none;font-family:Arial,Sans Serif;font-weight:100;color:#0d3d65;font-size:36px; text-align: center;" alt="_"></a>
+                                                                                </td>
+                                                                            </tr>
+
+                                                                        </tbody>
+                                                                    </table> -->
+                  <table bgcolor="#fff" width="100%">
+                    <tbody>
+                      <tr>
+                        <td>
+                          <style type="text/css">
+                            .sm p {
+                              float: left;
+                              width: 100%;
+                              text-align: center;
+                              font-family: 'Ubuntu', sans-serif;
+                              font-size: 20px;
+                              font-weight: normal;
+                            }
+
+                            .sm p:first-child {
+                              margin: 0;
+                            }
+
+                            .icons a {
+                              text-decoration: none;
+                            }
+
+                            .icons img {
+                              float: none;
+                              margin: 25px 10px 0 10px;
+                              height: 40px;
+                              width: auto;
+                            }
+                          </style>
+                          <div class="sm">
+                            <!-- <p class="icons">
+                                                                                            <a href="https://zen.yandex.ru/buhgalteria" target="_blank">
+                                                                                                <img src="http://www.buhgalteria.ru/upload/raasyl/zen.png" alt="ZEN">
+                                                                                            </a>
+                                                                                        </p> -->
+                            <p class="icons" align="center">
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/63,=0bjkPNfwJHTOHp1JA0EwS5g/11,110212,48515,?aHR0cDovL25ldy52ay5jb20vYnVoZ2FsdGVyaWFydQ==" data-felis_orig_uri="http://new.vk.com/buhgalteriaru" data-felis_link_id="63" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/upload/raasyl/vk.png" alt="VK">
+                              </a>
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/64,=08_cvwup1OXZSCTw26yzCbA/11,110212,48515,?aHR0cDovL29rLnJ1L2J1aGdhbHRlcmlhLnJ1" data-felis_orig_uri="http://ok.ru/buhgalteria.ru" data-felis_link_id="64" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/upload/raasyl/ok.png" alt="OK">
+                              </a>
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/65,=0zowahJHIpoNLY8rJrD8Vig/11,110212,48515,?aHR0cHM6Ly96ZW4ueWFuZGV4LnJ1L2J1aGdhbHRlcmlh" data-felis_orig_uri="https://zen.yandex.ru/buhgalteria" data-felis_link_id="65" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/upload/raasyl/zen.png" alt="ZEN">
+                              </a>
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/66,=0lICu8FWeUYrokXyNj4_RQA/11,110212,48515,?aHR0cHM6Ly9wdWxzZS5tYWlsLnJ1L3NvdXJjZS8/c291cmNlX2lkPTYyNDE5MTEwMTA2ODA4MTE2Mjg=" data-felis_orig_uri="https://pulse.mail.ru/source/?source_id=6241911010680811628" data-felis_link_id="66" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/template2016/images/m-puls.png" alt="@ пульс">
+                              </a>
+
+                            </p>
+                            <p align="center">
+                              Присоединяйтесь!
+                            </p>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                  <table border="0" cellpadding="0" cellspacing="0" width="800" align="center">
+                    <tbody>
+                      <tr bgcolor="#eeeeee">
+                        <td align="center">
+                          <table border="0" cellpadding="0" cellspacing="0" width="800" align="center">
+                            <tbody>
+                              <tr bgcolor="#eeeeee">
+                                <td align="center">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="800" align="center">
+                                    <tbody>
+                                      <tr>
+                                        <!--<td bgcolor="#061d49" height="2"><img alt="" height="2" src="http://cecollect.com/tl/space.gif" style="DISPLAY: block" width="1"></td>-->
+                                      </tr>
+                                    </tbody>
+                                  </table>
+
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+
+                          <!-- <tbody>
+
+                                                                            <tr>
+                                                                                <td colspan="2"  >
+                                                                                    <p style="text-align:center;font-size: 12px; line-height: 16px;color: #333333;margin-bottom: 0;">
+                                                                                        #[CAMPAIGN:SENDER_NAME]#
+                                                                                        <br> #[LIST:ADDRESS]#
+                                                                                        <br><a href="#[LIST:URL]#">Почему вы получили это письмо?</a>
+                                                                                        <br> Будьте внимательны: если вы хотите отписаться от этой рассылки, вы автоматически перестанете получать
+                                                                                        <br>все письма от сайта и лишите себя важной и полезной информации.
+                                                                                        <br>Вы все равно хотите отписаться? <a href="#[UNSUB]#" style="color: #333333">Нажмите здесь</a>.
+                                                                                        <br>
+                                                                                        <br> Это письмо было отправлено на адрес #[EMAIL]#
+                                                                                    </p>
+                                                                                </td>
+                                                                            </tr>
+                                                                            <tr>
+                                                                                <td height="20">&nbsp;</td>
+                                                                            </tr>
+                                                                        </tbody> -->
+
+
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table></td>
+          </tr>
+    </tbody>
+  </table>
+</body>
+
+</html>
+
+<table cellspacing="5" cellpadding="0" border="0" align="center" style="width:100%; max-width:700px;padding:12px;" dir="ltr">
+<tr>
+<td style="font-size:12px;font-family:Arial;color:#333;line-height: 19px;" align="center">
+<font size="-1">Вы получили это письмо, потому что выразили свое согласие получать сообщения от «ООО «АБИ».
+<br>Если Вы хотите отказаться от получения писем, нажмите <a href="https://sendsay.ru/backend/member/unsub/1R0Gfj4Uge_pweNw7OOxPcOQ7sBJZ54EDVg3U6fgz63PRLURBqc3zUn-G937NwFXsWeINnZIF">здесь</a>.</font>
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+<img x-noattach="1" src="https://read.sendsay.ru/1.gif/x_1647254640537491,11,110212,48515,,/20220331152824,pf20977" alt="" height="1" width="1" border="0">
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

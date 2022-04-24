@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa0ebe4
+DTSTAMP:20220424T204126Z
+CREATED:20200724T061346Z
+LAST-MOD:20200723T225234Z
+SUMMARY:Рабочая поездка Догузовой Зарины Валерьевны – руководителя Федерального агентства по туризму РФ в Тверскую область (отв. Ищенко А.Н.\, Перов В.В.\, Насибуллин Д.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200724T080000Z
+DTEND;VALUE=DATE-TIME:20200724T150000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

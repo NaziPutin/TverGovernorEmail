@@ -1,0 +1,66 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Thu, 31 May 2018 10:20:00 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Thu, 31 May
+ 2018 10:19:59 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 31 May 2018 10:19:59 +0300
+Received: from forward105j.mail.yandex.net ([5.45.198.248])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <tver.petrushenko@yandex.ru>)
+	id 1fOHsN-0000s1-2E
+	for rim@tverreg.ru; Thu, 31 May 2018 03:19:59 -0400
+Received: from mxback13g.mail.yandex.net (mxback13g.mail.yandex.net [IPv6:2a02:6b8:0:1472:2741:0:8b7:92])
+	by forward105j.mail.yandex.net (Yandex) with ESMTP id D7C29184A35
+	for <rim@tverreg.ru>; Thu, 31 May 2018 10:19:54 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback13g.mail.yandex.net (nwsmtp/Yandex) with ESMTP id RaTSpVepjk-JsMi0BTv;
+	Thu, 31 May 2018 10:19:54 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1527751194;
+	bh=l/17rd3y3Vbih8dpIpZbpw3xJS7LKHsU8CsFJ+6XDKw=;
+	h=From:To:Subject:Message-Id:Date;
+	b=wuaFzyxf9+sY40B3jb8qojDa9oy99g2glbsiZ5RN3C+k9KDUG1uOIuDciOZnQIBFJ
+	 zYGwA4dc+33DyjGrAb66C3mxOvGO6oKUvs/cEDLHwxdcfQnMhvQ/CbPftWBgIGW1Eg
+	 3OUvY4RFPahdU4KKuYD0HZBmVo4DGw3cdxMplti4=
+Authentication-Results: mxback13g.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by web54j.yandex.ru with HTTP;
+	Thu, 31 May 2018 10:19:53 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0J/RgNC10LfQtdC90YLQsNGG0LjRjw==?=
+Message-Id: <351761527751193@web54j.yandex.ru>
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Thu, 31 May 2018 10:19:53 +0300
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 34f05792-b84b-464e-eaaf-08d5c6c6eb16
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.7813075
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+                                                            Добрый день Игорь Михайлович!
+     Отправляю Вам презентацию по развитию электроэнергетике в нашей области. Посмотрите пожалуйста, если принять это за основу мы можем сделать первый проект в Российской Федерации с хорошим результатом.
+      Кратко:
+     Это даст возможность уйти от единого монополиста, считаю что нам не надо опираться только на МРСК, опыт по Газпрому показывает что монополия постоянно мешает и вмешивается во все процессы, а не конструктивно сотрудничает.
+     Также можно рассмотреть вариант 100 процентной компании принадлежащей региону.
+     Расчет и результаты даны только на пять лет. Это просто краткая презентация
+     Остальное постарались изложить в презентации.
+--   Очень рассчитываю на встречу.
+
+
+
+С Уважением Станислав Анатольевич
+                        Петрушенко
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

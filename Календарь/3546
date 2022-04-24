@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1048bd4
+DTSTAMP:20220424T204127Z
+CREATED:20190321T154324Z
+LAST-MOD:20190321T153906Z
+SUMMARY:Совещание по теме: «О ходе реализации нац. проектов (программ) и достижении нац. целей развития РФ». Проводит в режиме ВКС Силуанов А.Г.–Первый заместитель Председателя Правительства РФ–Министр финансов РФ (отв. Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190322T080000Z
+DTEND;VALUE=DATE-TIME:20190322T093000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

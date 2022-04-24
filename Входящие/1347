@@ -1,0 +1,53 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 7 Jun 2021 14:09:37 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Mon, 7 Jun 2021
+ 14:09:35 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Mon, 7 Jun 2021 14:09:33 +0300
+From: =?utf-8?B?0JLQuNC70YzQutC+0LzQuNGAINCQ0LvQtdC60YHQsNC90LTRgCDQmtC+0L0=?=
+ =?utf-8?B?0YHRgtCw0L3RgtC40L3QvtCy0LjRhw==?= <Vilkomir_AK@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0L/QsNCy0LjQu9GM0L7QvSDRgyDQoNC20LXQstGB0LrQvtCz0L4g0LzQtdC8?=
+ =?utf-8?B?0L7RgNC40LDQu9CwIDIwMjEuMDUuMjEucGRm?=
+Thread-Topic: =?utf-8?B?0L/QsNCy0LjQu9GM0L7QvSDRgyDQoNC20LXQstGB0LrQvtCz0L4g0LzQtdC8?=
+ =?utf-8?B?0L7RgNC40LDQu9CwIDIwMjEuMDUuMjEucGRm?=
+Thread-Index: AQHXW42YDv4oLrrhX0W6mBaoBJoX8Q==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Mon, 7 Jun 2021 14:09:33 +0300
+Message-ID: <87DD4BDA-68C9-4C7B-85C8-1302C6D1D777@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <87DD4BDA-68C9-4C7B-85C8-1302C6D1D777@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 159d7eb2-735b-4035-c1cd-08d929a4bab1
+Return-Path: Vilkomir_AK@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:04.8508192
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERFE59E6A0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div dir="ltr"><div dir="ltr">Игорь Михайлович, &nbsp;вот самая последняя версия, здесь уже доработана планировка убрали колонну из обеденного зала, отделка фасада панелями из кортеновской стали. Общий срок строительства ориентировочно 4-5 месяцев. Стоимость пока проработана очень ориентировочно 115 млн рублей без конкретных точек подключения, &nbsp;и объемов благоустройства. Поставил задачу строителям уточнить стоимость, но с нашей стороны надо определятся с посадкой этого объекта.<br><br></div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><div dir="ltr"></div><div dir="ltr"><br><br></div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><div dir="ltr"></div><div dir="ltr"><br><br></div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"><div dir="ltr"></div><div dir="ltr"><br><br></div></div></body></html>
+<html><head></head><body dir="auto"><div dir="ltr"><div dir="ltr"></div><br><br><div dir="ltr">Отправлено с iPhone</div></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

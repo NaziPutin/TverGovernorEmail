@@ -1,0 +1,161 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 9 Aug 2019 10:28:07 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Fri, 9 Aug
+ 2019 10:28:03 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 9 Aug 2019 10:27:59 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 5DAB4218F0
+	for <rim@tverreg.ru>; Fri,  9 Aug 2019 10:28:01 +0300 (MSK)
+Received-SPF: pass (rostec.ru: 188.128.56.28 is authorized to use 'chemezov.office@rostec.ru' in 'mfrom' identity (mechanism 'mx' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="chemezov.office@rostec.ru"; helo=rti3-dmzedge-01.rostechn.ru; client-ip=188.128.56.28
+Received: from RTI3-DMZEDGE-01.rostechn.ru (rti3-dmzedge-01.rostechn.ru [188.128.56.28])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id A0AF8218DD
+	for <rim@tverreg.ru>; Fri,  9 Aug 2019 10:27:59 +0300 (MSK)
+Received: from rti3-ex-06.RTI.LAN (10.0.3.23) by RTI3-DMZEDGE-01.rostechn.ru
+ (10.0.1.231) with Microsoft SMTP Server (TLS) id 15.0.1395.4; Fri, 9 Aug 2019
+ 10:27:52 +0300
+Received: from rti3-ex-06.RTI.LAN (10.0.3.23) by rti3-ex-06.RTI.LAN
+ (10.0.3.23) with Microsoft SMTP Server (TLS) id 15.0.1395.4; Fri, 9 Aug 2019
+ 10:27:52 +0300
+Received: from rti3-ex-06.RTI.LAN ([fe80::7d11:b79f:28c7:d9b4]) by
+ rti3-ex-06.RTI.LAN ([fe80::7d11:b79f:28c7:d9b4%13]) with mapi id
+ 15.00.1395.000; Fri, 9 Aug 2019 10:27:52 +0300
+From: =?utf-8?B?0J/RgNC40LXQvNC90LDRjyDQoS7Qki7Qp9C10LzQtdC30L7QstCw?=
+	<Chemezov.office@rostec.ru>
+To: "rim@tverreg.ru" <rim@tverreg.ru>
+Subject: =?utf-8?B?0YDQtdC30Y7QvNC1INCi0J7QoNCj0JHQkNCg0J7QkiDQoS7QpC4uZG9j?=
+Thread-Topic: =?utf-8?B?0YDQtdC30Y7QvNC1INCi0J7QoNCj0JHQkNCg0J7QkiDQoS7QpC4uZG9j?=
+Thread-Index: AQHVS2tQbD7jPc/adE+uHgxOE1tlyabuUEiAgAQgQnA=
+Date: Fri, 9 Aug 2019 07:27:51 +0000
+Message-ID: <e7007012b74942cc900357b32bd86ca8@rti3-ex-06.RTI.LAN>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-exchange-transport-fromentityheader: Hosted
+X-KSE-ServerInfo: RTI3-DMZEDGE-01.rostechn.ru, 9
+X-KSE-Antivirus-Interceptor-Info: scan successful
+X-KSE-Antivirus-Info: Clean, bases: 09.08.2019 3:59:00
+X-KSE-Attachment-Filter-Triggered-Rules: Clean
+X-KSE-Attachment-Filter-Triggered-Filters: Clean
+X-KSE-BulkMessagesFiltering-Scan-Result: protection disabled
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	FROM_EXCESS_BASE64      0.001 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: Chemezov.office@rostec.ru
+X-MS-Exchange-Organization-Network-Message-Id: d6895013-5bd3-4398-3c2b-08d71c9b1d4b
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:07.7306147
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Generator" content="Microsoft Word 12 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Proxima Nova ExCn Regular";}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"РўРµРєСЃС‚ РІС‹РЅРѕСЃРєРё Р—РЅР°Рє";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#44546A;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.a
+	{mso-style-name:"РўРµРєСЃС‚ РІС‹РЅРѕСЃРєРё Р—РЅР°Рє";
+	mso-style-priority:99;
+	mso-style-link:"РўРµРєСЃС‚ РІС‹РЅРѕСЃРєРё";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="2050" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="RU" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">Р”РѕР±СЂС‹Р№ РґРµРЅСЊ.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D">РќР°РїСЂР°РІР»СЏРµС‚СЃСЏ РїРѕ РїРѕСЂСѓС‡РµРЅРёСЋ РЎРµСЂРіРµСЏ Р’РёРєС‚РѕСЂРѕРІРёС‡Р°.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<div>
+<p class="MsoNormal"><b><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">РЎ СѓРІР°Р¶РµРЅРёРµРј,
+<o:p></o:p></span></i></b></p>
+<p class="MsoNormal"><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></i></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D"><img width="223" height="106" id="Р РёСЃСѓРЅРѕРє_x0020_2" src="cid:image001.png@01D54E9D.18C95F60" alt="Macintosh HD:Users:vshuvalova:Desktop:РџРѕРґРїРёСЃРё:Untitled-1.pdf"></span><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><b><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">РџСЂРёРµРјРЅР°СЏ РіРµРЅРµСЂР°Р»СЊРЅРѕРіРѕ РґРёСЂРµРєС‚РѕСЂР°</span></i></b><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black"><o:p></o:p></span></i></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-line-height-alt:9.75pt;background:white">
+<i><span style="font-size:11.5pt;font-family:&quot;Proxima Nova ExCn Regular&quot;;color:#666666">Рў: &#43;7 (495) 987-6555 | Р¤: &#43;7 (495) 987-6575 | РњРѕСЃРєРІР°, СѓР». РЈСЃР°С‡РµРІР°, Рґ. 24&nbsp;|&nbsp;</span></i><i><u><span style="font-size:11.5pt;font-family:&quot;Proxima Nova ExCn Regular&quot;;color:blue"><a href="http://www.rostec.ru/">www.rostec.ru</a></span></u></i><span style="font-size:11.0pt;color:black"><o:p></o:p></span></p>
+</div>
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#44546A"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

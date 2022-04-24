@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1083c9c
+DTSTAMP:20220424T204127Z
+CREATED:20190322T145939Z
+LAST-MOD:20190322T145355Z
+SUMMARY:Рабочая встреча\, тема: «О возможности участия в программе ГК – Фонда содействия реформированию ЖКХ на модернизацию системы коммунальной инфраструктуры»\n (отв. Подтихова М.И.\, Тарасов С.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190322T163000Z
+DTEND;VALUE=DATE-TIME:20190322T170000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

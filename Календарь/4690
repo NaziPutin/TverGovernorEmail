@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1391138
+DTSTAMP:20220424T204127Z
+CREATED:20180307T135940Z
+LAST-MOD:20181206T210017Z
+SUMMARY:Форум представителей муниципальных образований Тверской области «Верхневолжье\, устремленное в будущее» (отв. Белорусов В.А.\, Охлобыстин Ю.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180312T100000Z
+DTEND;VALUE=DATE-TIME:20180312T113000Z
+LOCATION:Краснофлотская наб.\, д.3\, СК «Юбилейный» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

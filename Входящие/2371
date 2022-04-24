@@ -1,0 +1,66 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 10 Sep 2019 11:11:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Tue, 10 Sep
+ 2019 11:11:03 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Tue, 10 Sep 2019
+ 11:11:03 +0300
+From: =?koi8-r?B?88/Lz8zP1yDrz87T1MHO1MnOIOnM2Mne?= <sokolov@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?1MXL09QgxMzRIO/Sx8vPzcnUxdTBINDPINDPxMfP1M/Xy8UgyyA4MDAtzMXU?=
+ =?koi8-r?B?ycAg4S7uxdfTy8/Hzw==?=
+Thread-Topic: =?koi8-r?B?1MXL09QgxMzRIO/Sx8vPzcnUxdTBINDPINDPxMfP1M/Xy8UgyyA4MDAtzMXU?=
+ =?koi8-r?B?ycAg4S7uxdfTy8/Hzw==?=
+Thread-Index: AQHVZ68mozTrAfOjrEie6aEaM1/7pw==
+Date: Tue, 10 Sep 2019 11:11:02 +0300
+Message-ID: <8e5b4d804a3e45d7aa3bd6baaac84f77@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <8e5b4d804a3e45d7aa3bd6baaac84f77@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 720ae94a-8b52-4c45-c415-08d735c66c38
+Return-Path: sokolov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.5284217
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB004FC
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ,</p>
+<p><br>
+</p>
+<p>ОБРТБЧМСА чБН ФЕЛУФ ДМС ЧЩУФХРМЕОЙС ОБ ПТЗЛПНЙФЕФЕ РП РПДЗПФПЧЛЕ Л 800-МЕФЙА УП ДОС ТПЦДЕОЙС б.оЕЧУЛПЗП.</p>
+<p><br>
+</p>
+<p>у ХЧБЦЕОЙЕН,</p>
+<p><br>
+</p>
+<p>л. уПЛПМПЧ</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

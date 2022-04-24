@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x711000
+DTSTAMP:20220424T204126Z
+CREATED:20210324T060307Z
+LAST-MOD:20210323T200423Z
+SUMMARY:Рабочая встреча\, тема: «О финансово-экономическом состоянии ООО «Коралл» и мерах поддержки в целях восстановления деятельности предприятия»  (отв. Егоров И.И.\, Каравайный К.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210324T070000Z
+DTEND;VALUE=DATE-TIME:20210324T080000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13e78dc
+DTSTAMP:20220424T204127Z
+CREATED:20171225T063719Z
+LAST-MOD:20171222T115248Z
+SUMMARY:Заседание Государственного Совета РФ\, тема: "Инвестиционная привлекательность регионов - основа экономического развития Российской Федерации" (отв. Меньщиков А.В.\, Павлова О.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171227T092000Z
+DTEND;VALUE=DATE-TIME:20171227T130000Z
+LOCATION:г. Москва\, Большой Кремлевский дворец\, Георгиевский зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

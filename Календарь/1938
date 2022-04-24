@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9c64f8
+DTSTAMP:20220424T204126Z
+CREATED:20200821T104920Z
+LAST-MOD:20200821T104007Z
+SUMMARY:Благотворительная акция\, приуроченная к началу нового учебного года (отв. Емельянов А.А.\, Ермакова С.М.\, Боброва Т.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200821T110000Z
+DTEND;VALUE=DATE-TIME:20200821T113000Z
+LOCATION:Студенческий пер.\, д. 28\, Детский технопарк "Кванториум"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

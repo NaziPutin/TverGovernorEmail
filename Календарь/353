@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2cadc8
+DTSTAMP:20220424T204126Z
+CREATED:20211224T113652Z
+LAST-MOD:20211223T163255Z
+SUMMARY:Традиционная предновогодняя встреча с представителями гражданского общества Тверской области (отв. Скорый А.В\, Новикова В.И.\, Сальникова Т.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211224T130000Z
+DTEND;VALUE=DATE-TIME:20211224T160000Z
+LOCATION:наб. р. Лазури\, д. 9А\, мультимедийный исторический парк «Россия-моя история»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

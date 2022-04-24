@@ -1,0 +1,81 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 2 Sep 2020 23:43:10 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 2 Sep
+ 2020 23:43:08 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 2 Sep 2020 23:43:08 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id EE80D22D44
+	for <rim@tverreg.ru>; Wed,  2 Sep 2020 23:43:08 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'apk7888@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="apk7888@yandex.ru"; helo=forward106o.mail.yandex.net; client-ip=37.140.190.187
+Received: from forward106o.mail.yandex.net (forward106o.mail.yandex.net [37.140.190.187])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id CCFAB22D3F
+	for <rim@tverreg.ru>; Wed,  2 Sep 2020 23:43:06 +0300 (MSK)
+Received: from mxback7g.mail.yandex.net (mxback7g.mail.yandex.net [IPv6:2a02:6b8:0:1472:2741:0:8b7:168])
+	by forward106o.mail.yandex.net (Yandex) with ESMTP id 6CFF3506111F
+	for <rim@tverreg.ru>; Wed,  2 Sep 2020 23:42:50 +0300 (MSK)
+Received: from myt4-ee976ce519ac.qloud-c.yandex.net (myt4-ee976ce519ac.qloud-c.yandex.net [2a02:6b8:c00:1da4:0:640:ee97:6ce5])
+	by mxback7g.mail.yandex.net (mxback/Yandex) with ESMTP id kWNjyX84of-gota5g01;
+	Wed, 02 Sep 2020 23:42:50 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1599079370;
+	bh=Xu3IiGUW+VFQqKvXWK+XqfrGcj/qcWMijXa3+45gU3c=;
+	h=To:From:Date:Message-Id;
+	b=iDJ0kwW9nJXujHPlyUdAjkX80V2aRwBuzaozLnSDmZUW+lz/7hh3SglXMun55ovnL
+	 mTS6i9BkrmjuwoqsbXseFgiCn/Odjc2/vnxj0i5EmcTVBzE+CGsT+miobOnHPkVxCs
+	 szv2cpPcvzzL+BYfZ6woIHKQfsSH53K4LEKR3Gx4=
+Authentication-Results: mxback7g.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt4-ee976ce519ac.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id 3Rw5cNazpE-gnm0Z4YL;
+	Wed, 02 Sep 2020 23:42:49 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+From: =?utf-8?B?0JDQn9Ca?= <apk7888@yandex.ru>
+Date: Wed, 2 Sep 2020 23:42:48 +0300
+Message-Id: <8BCAD815-5B46-4B8C-8329-F1C1383D1F7C@yandex.ru>
+To: =?utf-8?Q?"=D0=93=D0=A2=D0=9E_=D0=BC=D0=BE=D0=B1."?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (17D50)
+X-SPAM-LEVEL: Spam detection results:  1
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	EMPTY_MESSAGE            2.32 Message appears to have no textual parts and no Subject: text
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (apk7888[at]yandex.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (apk7888[at]yandex.ru)
+	MISSING_SUBJECT         1.799 Missing Subject: header
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	RCVD_IN_MSPIKE_H3       0.001 Good reputation (+3)
+	RCVD_IN_MSPIKE_WL       0.001 Mailspike good senders
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: apk7888@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 9ed509cc-943e-4e63-2d3b-08d84f80ccf5
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.0555661
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"></head><body>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+</div></span></font>
+</div>
+<div>
+<img src="cid:7310cbc3-bf2e-4759-82a3-65b34e6263f1@tverreg.ru">
+</div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13dad8c
+DTSTAMP:20220424T204127Z
+CREATED:20171225T151842Z
+LAST-MOD:20171225T061954Z
+SUMMARY:Итоговое совещание о положении дел в ЦФО в 2017 г. и планах на 2018 г. (отв. Меньщиков А.В.\, Петрова М.В.) . Проводит Гордеев А.В. - полномочный представитель Президента РФ в ЦФО
+DTSTART;VALUE=DATE-TIME:20171227T073000Z
+DTEND;VALUE=DATE-TIME:20171227T085000Z
+LOCATION:г. Москва\, Никольский пер.\, д.6\, под. 10а\, Межокружной ситуационный центр полномочных представителей Президента РФ в федеральных округах
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

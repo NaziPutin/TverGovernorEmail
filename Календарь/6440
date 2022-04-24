@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1578204
+DTSTAMP:20220424T204127Z
+CREATED:20170116T115306Z
+LAST-MOD:20170116T133414Z
+SUMMARY:Селекторное совещание\, тема: "О мерах по обеспечению безопасности людей в период проведения крещенских купаний (в ночь с 18 на 19 января 2017 г.)" (отв. Попенко В.И.\, Зайцев А.А.)
+DTSTART;VALUE=DATE-TIME:20170116T140000Z
+DTEND;VALUE=DATE-TIME:20170116T144000Z
+LOCATION:пр-д Дарвина\, 12\, Ситуационный центр ГУ МЧС России по Тверской облатси
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

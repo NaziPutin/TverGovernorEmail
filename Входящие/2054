@@ -1,0 +1,81 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 4 Mar 2020 21:47:28 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 4 Mar
+ 2020 21:47:22 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 4 Mar 2020 21:47:03 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 5B6F0223D1
+	for <rim@tverreg.ru>; Wed,  4 Mar 2020 21:47:04 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 185.5.136.102 is authorized to use 'alexandra1982_06@mail.ru' in 'mfrom' identity (mechanism 'ip4:185.5.136.0/22' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="alexandra1982_06@mail.ru"; helo=f431.i.mail.ru; client-ip=185.5.136.102
+Received: from f431.i.mail.ru (f431.i.mail.ru [185.5.136.102])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 285EC21FE5
+	for <rim@tverreg.ru>; Wed,  4 Mar 2020 21:47:02 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=dc2PPaBBe1+fzHyP6X6P+lZz4GpCI2O8z4MJirUVla0=;
+	b=n1JCSLFcQ0/XSzGFXZuDBKGc5Hzia+9e/2SPxn0B1X6jJkGYgrEfu6tXVQw/rTXcZ5wEUE7GIDJekDivdHo2g0c4UZER1Fej2tm4WRpuYGUE1FYmBAC6ehT2vkh07yo/9Q4YB7bJXVN/Sb2GdpqChB/Wz/uqKg6BB4/fjLCAKAQ=;
+Received: by f431.i.mail.ru with local (envelope-from <alexandra1982_06@mail.ru>)
+	id 1j9Z2r-0006qH-Mx
+	for rim@tverreg.ru; Wed, 04 Mar 2020 21:47:01 +0300
+Received: by e.mail.ru with HTTP;
+	Wed, 04 Mar 2020 21:47:01 +0300
+From: =?UTF-8?B?0JDQu9C10LrRgdCw0L3QtNGA0LAg0J/RgNC+0YXQvtGA0L7QstCw?= <alexandra1982_06@mail.ru>
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0JrQvtC80LjRgtC10YIg0L/QviDQtNC10LvQsNC8INC80L7Qu9C+0LTQtdC2?=
+ =?UTF-8?B?0Lg6INCeINGA0LXQt9GD0LvRjNGC0LDRgtCw0YUg0LLRgdGC0YDQtdGH0Lgg?=
+ =?UTF-8?B?0YEg0JjQstCw0L3QvtCy0YvQvCDQldCy0LPQtdC90LjQtdC8?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Wed, 04 Mar 2020 21:47:01 +0300
+Reply-To: =?UTF-8?B?0JDQu9C10LrRgdCw0L3QtNGA0LAg0J/RgNC+0YXQvtGA0L7QstCw?= <alexandra1982_06@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1583347621.325437519@f431.i.mail.ru>
+Authentication-Results: f431.i.mail.ru; auth=pass smtp.auth=alexandra1982_06@mail.ru smtp.mailfrom=alexandra1982_06@mail.ru
+X-7564579A: B8F34718100C35BD
+X-77F55803: 0A44E481635329DB4E7FAE048FD183FFF9818020956E06513F21FD128558EBADF4C49336AE0BB266915E381825A4136A11521DEDF033A61FE0F95D0367309EA4BA9FE2F21EFF0351D67462ABC799DCD8
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7A1EE46B920F18678D82A6BABE6F325AC9EB98D58427B1C2ABCF491FFA38154B613377AFFFEAFD2691661749BA6B9773576FF0B15B6DDC389C2099A533E45F2D0395957E7521B51C2CFCAF695D4D8E9FCEA1F7E6F0F101C6778DA827A17800CE7C82EE713CF8FB7E7EA1F7E6F0F101C674E70A05D1297E1BBC6CDE5D1141D2B1C65C7F8147D33E4966D9578F0811883BAE87C65FFFA4649C39FA2833FD35BB23D9E625A9149C048EE33AC447995A7AD18C26CFBAC0749D213D2E47CDBA5A96583BD4B6F7A4D31EC0BB23A54CFFDBC96A8389733CBF5DBD5E9D5E8D9A59859A8B6D082881546D93491CC7F00164DA146DA6F5DAA56C3B73B23E7DDDDC251EA7DABAAAE862A0553A39223F8577A6DFFEA7C289736CE4F78F08343847C11F186F3C5E7DDDDC251EA7DABCC89B49CDF41148FDCD13837A2BCF0203C9F3DD0FB1AF5EB4E70A05D1297E1BBCB5012B2E24CD356
+X-D57D3AED: Y8kq8+OzVoxvgW9Op3aR8E98oNK9gy3Irm5KFwLuDg60je4lC+GbTj0M8KbzpOmgsB7wYP6nnel8wfEHQiZAehdkEk+dXNIMPToJH3cFiJiFv9s2qPzOYQ==
+X-Mailru-Internal-Actual: A:0.90740026001248
+X-Mailru-MI: 900
+X-Mailru-Sender: 641179478317D3F0B5601562A1FB1D2BC29398583C973E958796B8DC946E6D83826D21D98697017CCEDB0EFC3F1297EBD77643983A3E910C074387772E1095571560CF2F724BEF2E2AA3CDD27765A566965F795713B4F5A23A5DB60FBEB33A8A0DA7A0AF5A3A8387
+X-Mras: Ok
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.213 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (ostrovskayadi77[at]gmail.com) (alexandra1982_06[at]mail.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (ostrovskayadi77[at]gmail.com) (isaevsky[at]inbox.ru) (alexandra1982_06[at]mail.ru)
+	FREEMAIL_REPLYTO_END_DIGIT   0.25 Reply-To freemail username ends in digit (alecpet12[at]yandex.ru) (alexandra1982_06[at]mail.ru)
+	HTML_MESSAGE            0.001 HTML included in message
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: alexandra1982_06@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 8dce8ddb-4bae-47f0-5d42-08d7c06c77b7
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:25.5052713
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><div>&nbsp;</div><div><p align="center" style="margin-bottom:13px; text-align:center"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-size:16.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Уважаемый Игорь Михайлович!</span></span></span></span></span></span></p><p style="margin-bottom:13px; text-align:justify; text-indent:35.4pt"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-size:16.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">По Вашему поручению встретилась сегодня (03.03.2020) с Ивановым Евгением, по вопросу замещения должности заместителя председателя Комитета по делам молодежи Тверской области.</span></span></span></span></span></span></p><p style="margin-bottom:13px; text-align:justify; text-indent:35.4pt"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-size:16.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Впечатление сложилось благоприятное, готов включиться в работу, не нормированный рабочий день и объем работы не пугают, в системе госструктур работал давно, но это не проблема, все подскажем. Чувство долга и ответственности за данное слово на высоком уровне.</span></span></span></span></span></span></p><p style="margin-bottom:13px; text-align:justify; text-indent:35.4pt"><span style="font-size:11pt"><span style="line-height:115%"><span style="font-family:Calibri,sans-serif"><span style="font-size:16.0pt"><span style="line-height:115%"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Опыт&nbsp;в сфере допризывной работы с молодежью был в 2001-2002 гг<br>в Хабаровском крае. Последние восемь лет работал в сфере бизнеса.</span></span></span></span></span></span></p></div><div data-signature-widget="container"><div data-signature-widget="content"><div>С уважением,<br>Александра Прохорова<br>alexandra1982_06@mail.ru</div></div></div></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

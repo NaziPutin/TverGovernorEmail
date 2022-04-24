@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1043120
+DTSTAMP:20220424T204127Z
+CREATED:20190415T185536Z
+LAST-MOD:20190415T183605Z
+SUMMARY:Итоговое заседание Коллегии Министерства сельского хозяйства РФ по вопросу: "Итоги деятельности Министерства сельского хозяйства РФ в 2018 г. и стратегические задачи на 2019 г." (отв. Наумов А.В.\, Куликов Д.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190416T080000Z
+DTEND;VALUE=DATE-TIME:20190416T100000Z
+LOCATION:г. Москва\,  Краснопресненская наб.\, д.12\, Конгресс-центр ЦМТ\, 2-й этаж\, конгресс-зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

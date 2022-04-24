@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x94fe38
+DTSTAMP:20220424T204126Z
+CREATED:20200917T061204Z
+LAST-MOD:20200917T023315Z
+SUMMARY:Торжественное закрытие Международной военно-исторической поисковой экспедиции «Ржев. Калининский фронт» (отв. Ищенко А.Н.\, Прохорова А.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200917T080000Z
+DTEND;VALUE=DATE-TIME:20200917T094000Z
+LOCATION:Ржевский р-н\, д. Толстиково\, Ржевский мемориал Советскому солдату
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

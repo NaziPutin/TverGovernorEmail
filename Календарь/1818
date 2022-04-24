@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x929de4
+DTSTAMP:20220424T204126Z
+CREATED:20200929T163823Z
+LAST-MOD:20200929T171626Z
+SUMMARY:Рабочая встреча. Бачин С.В. - Председатель совета директоров ООО «Роза Хутор»\, ООО «ЗАВИДОВО Девелопмент»\, генеральный директор ООО «Васта Дискавери» (отв. Егоров И.И.\, Перов В.В.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200929T170000Z
+DTEND;VALUE=DATE-TIME:20200929T173000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

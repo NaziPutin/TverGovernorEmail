@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1519e9c
+DTSTAMP:20220424T204127Z
+CREATED:20170507T145622Z
+LAST-MOD:20170507T163015Z
+SUMMARY:Инспекционная поездка\, тема\,: "Подготовка к проведению торжественных мероприятий\, посвященных празднованию Дня Победы" (отв. Жукова О.В.\, Огоньков А.В.\,\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170508T170000Z
+DTEND;VALUE=DATE-TIME:20170508T173000Z
+LOCATION:г.Тверь\, площадь Победы
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

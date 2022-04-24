@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x844728
+DTSTAMP:20220424T204126Z
+CREATED:20210127T133115Z
+LAST-MOD:20210127T113600Z
+SUMMARY:Рабочая встреча\, тема: «О комплексе мер по оказанию государственной социальной помощи гражданам ТО\, оказавшимся в экстремальной ситуации\, с учетом оценки фактически причиненного ущерба и состава семьи» (отв. Емельянов А.А.\, Новикова В.И.\, Ермакова С.М.)
+DTSTART;VALUE=DATE-TIME:20210127T130000Z
+DTEND;VALUE=DATE-TIME:20210127T140000Z
+LOCATION:каб.206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

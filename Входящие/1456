@@ -1,0 +1,203 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 1 Apr 2021 21:19:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 1 Apr 2021
+ 21:19:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 1 Apr 2021 21:19:13 +0300
+From: =?windows-1251?B?xODt6Ovu4uAgxeLj5e3o/yDA6+Xq8eDt5PDu4u3g?=
+	<Danilova_EA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDi7ufs7ubt7vHy6CDi++Tl6+Xt6P8g6Ocg9OXk5fDg6/zt7uPuIOH+?=
+ =?windows-1251?B?5Obl8uAg8fPh8ejk6Ogg4f7k5uXy8yDS4uXw8eru6SDu4evg8fLoIOIg?=
+ =?windows-1251?B?8eL/5+gg8e4g8evu5uji+OXp8f8g8ejy8+D26OXpIO3gIO7h+uXq8uD1?=
+ =?windows-1251?B?IM7OziCryu7w4Ovruw==?=
+Thread-Topic: =?windows-1251?B?ziDi7ufs7ubt7vHy6CDi++Tl6+Xt6P8g6Ocg9OXk5fDg6/zt7uPuIOH+?=
+ =?windows-1251?B?5Obl8uAg8fPh8ejk6Ogg4f7k5uXy8yDS4uXw8eru6SDu4evg8fLoIOIg?=
+ =?windows-1251?B?8eL/5+gg8e4g8evu5uji+OXp8f8g8ejy8+D26OXpIO3gIO7h+uXq8uD1?=
+ =?windows-1251?B?IM7OziCryu7w4Ovruw==?=
+Thread-Index: AdcnI0ZkmLWqJ84RTaOF/kBN2fnFNQ==
+Date: Thu, 1 Apr 2021 21:19:13 +0300
+Message-ID: <feb4d4b5820e4e9c89bb5750d3b59c05@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <feb4d4b5820e4e9c89bb5750d3b59c05@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.224]
+X-MS-Exchange-Organization-Network-Message-Id: 12b2645c-f7b7-4cbb-1ff8-08d8f53aa742
+Return-Path: Danilova_EA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3589906
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER172BF3AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+p.ConsPlusNormal, li.ConsPlusNormal, div.ConsPlusNormal
+	{mso-style-name:ConsPlusNormal;
+	margin:0cm;
+	text-autospace:none;
+	font-size:16.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1437090926;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-2121505960 484846098 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:53.45pt;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:89.45pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:125.45pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:161.45pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:197.45pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:233.45pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:269.45pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:305.45pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:341.45pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=ConsPlusNormal style='text-align:justify;text-indent:35.45pt'><span style='font-family:"Times New Roman",serif'>В соответствии с Вашим поручением во исполнение пункта 4 вопроса II протокола заседания рабочей встречи от 24.03.2021 по теме «О финансово-экономическом состоянии ООО «Коралл» и мерах поддержки в целях восстановления деятельности предприятия» представляю заключение правового управления аппарата Правительства Тверской области о возможности выделения из федерального бюджета субсидии бюджету Тверской области в связи со сложившейся ситуацией на объектах ООО «Коралл». <o:p></o:p></span></p><p class=ConsPlusNormal style='text-align:justify;text-indent:35.45pt'><span style='font-family:"Times New Roman",serif'>Проведена консультация с сотрудниками департамента ветеринарии Минсельхоза России по рассматриваемому вопросу.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>По информации сотрудников Минсельхоза России позиция основных противников выделения средств из федерального бюджета на указанные цели (Минфин России и Россельхознадзор) основана на том, что размер ущерба должен быть обоснованным с точки зрения наличия или отсутствия грубой неосторожности потерпевшего лица. В этой связи существует мнение, что ООО «Коралл» не вправе претендовать на возмещение ущерба, поскольку нарушал хозяйственные и ветеринарные мероприятия, обеспечивающие предупреждение болезней животных и безопасность в ветеринарно-санитарном отношении продуктов животноводства. Эпизоотические очаги африканской чумы свиней, расположенные в Бежецком муниципальном районе Тверской области, не были наделены статусом очагов особо опасных болезней животных федерального или межрегионального значения, а Главным государственным ветеринарным инспектором Российской Федерации не принималось решение о проведении мероприятий по ликвидации указанных очагов, в том числе изъятии животных и продуктов животноводства у ООО «Коралл».<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Резюмируя изложенное, следует обратить внимание на следующие моменты:<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>1. На федеральном уровне в настоящее время <b>не</b> утверждены правила предоставления бюджетам субъектов Российской Федерации из федерального бюджета субсидии на проведение мероприятий по ликвидации очагов федерального или межрегионального значения, в том числе изъятия животных и (или) продуктов животноводства, в размере 50 процентов стоимости изъятых животных и (или) продуктов животноводства.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>2. В общедоступных правовых системах <b>отсутствует</b> утвержденный порядок принятия</span> <span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Главным государственным ветеринарным инспектором Российской Федерации решения о проведении мероприятий по ликвидации очагов федерального или межрегионального значения, в том числе изъятия животных и (или) продуктов животноводства, а также критерии наделения очагов особо опасных болезней животных статусом федерального или межрегионального значения.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>В целях обеспечения возможности получения указанной субсидии потребуется:<o:p></o:p></span></p><p class=MsoListParagraphCxSpFirst style='margin:0cm;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo1;text-autospace:none'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>1)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>исключение из статьи 19 Закона Российской Федерации от 14.05.1993 № 4979-1 «О ветеринарии» нормы об обязательности наличия решения Главного государственного ветеринарного инспектора Российской Федерации о проведении мероприятий по ликвидации очагов федерального или межрегионального значения, в том числе изъятию животных и (или) продуктов животноводства;<o:p></o:p></span></p><p class=MsoListParagraphCxSpMiddle style='margin:0cm;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo1;text-autospace:none'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>2)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>исключение аналогичной нормы из Правил либо принятие Правительством Российской Федерации отдельной нормы (переходного положения), предусматривающей возможность получения субсидии за изъятых животных и продукты животноводства по карантинным мероприятиям, введенным в 2020 году до вступления в силу постановления Правительства Российской Федерации от 31.12.2020 № 2472;<o:p></o:p></span></p><p class=MsoListParagraphCxSpLast style='margin:0cm;mso-add-space:auto;text-align:justify;text-indent:35.45pt;line-height:normal;mso-list:l0 level1 lfo1;text-autospace:none'><![if !supportLists]><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>3)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>утверждение Правительством Российской Федерации правил предоставления бюджетам субъектов Российской Федерации из федерального бюджета указанной субсидии.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением, Евгения Данилова.<o:p></o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;line-height:normal;text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-bottom:0cm;text-align:justify;text-indent:35.45pt;line-height:normal'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

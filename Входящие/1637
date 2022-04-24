@@ -1,0 +1,155 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 18 Sep 2020 22:22:49 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 18 Sep
+ 2020 22:22:46 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Fri, 18 Sep 2020
+ 22:22:48 +0300
+From: =?windows-1251?B?xODt6Ovu4uAgxeLj5e3o/yDA6+Xq8eDt5PDu4u3g?=
+	<Danilova_EA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?z+4g4u7v8O7x8yDv5fDl5OD36CDo5yDs8+3o9ujv4Ov87e7pIPHu4fHy?=
+ =?windows-1251?B?4uXt7e7x8ugg4iDj7vHz5ODw8fLi5e3t8/4g8e7h8fLi5e3t7vHy/CDS?=
+ =?windows-1251?B?4uXw8eru6SDu4evg8fLoIO7h+uXq8u7iIOLu5O7x7eDh5uXt6P8g6CDy?=
+ =?windows-1251?B?5e/r7vHt4OHm5e3o/w==?=
+Thread-Topic: =?windows-1251?B?z+4g4u7v8O7x8yDv5fDl5OD36CDo5yDs8+3o9ujv4Ov87e7pIPHu4fHy?=
+ =?windows-1251?B?4uXt7e7x8ugg4iDj7vHz5ODw8fLi5e3t8/4g8e7h8fLi5e3t7vHy/CDS?=
+ =?windows-1251?B?4uXw8eru6SDu4evg8fLoIO7h+uXq8u7iIOLu5O7x7eDh5uXt6P8g6CDy?=
+ =?windows-1251?B?5e/r7vHt4OHm5e3o/w==?=
+Thread-Index: AdaN6Dh8RuFeTFscRqOng7ckhQQMkg==
+Importance: high
+X-Priority: 1
+Date: Fri, 18 Sep 2020 22:22:48 +0300
+Message-ID: <74bae02ad3de4932be670e21ef5140d6@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <74bae02ad3de4932be670e21ef5140d6@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 543bdba8-5f8e-4519-6042-08d85c083ad1
+Return-Path: Danilova_EA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3190153
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER172BF3AA
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle21
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:865094002;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-350864098 1090824514 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:53.45pt;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:89.45pt;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:125.45pt;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:161.45pt;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:197.45pt;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:233.45pt;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:269.45pt;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:305.45pt;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	margin-left:341.45pt;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>В соответствии с Вашим поручением о подготовке предложений по вопросу </span><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>передачи из муниципальной собственности в государственную собственность Тверской области объектов водоснабжения и теплоснабжения, данным на совещании по </span><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>теме «Об участии Тверской области в федеральном проекте «Оздоровление Волги» направляю информационную справку по указанному вопросу (см. в файле вложения).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>Проанализировав полученную информацию, на текущий момент представляется возможным сделать следующие выводы: <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>1. Правовой анализ положений Федеральных законов от 06.10.1999 № 184-ФЗ «Об общих принципах организации законодательных (представительных) и исполнительных органов государственной власти субъектов Российской Федерации», от 06.10.2003 № 131-ФЗ «Об общих принципах организации местного самоуправления в Российской Федерации», от 27.07.2010 № 190-ФЗ «О теплоснабжении» и от 07.12.2011 № 416-ФЗ «О водоснабжении и водоотведении» показывает,  <u>что правовым основанием для передачи муниципального имущества в государственную собственность Тверской области должен являться закон Тверской области о перераспределении соответствующих полномочий между органами государственной власти Тверской области и органами местного самоуправления муниципальных образований Тверской области.</u> С учетом изложенного, предлагаю рассмотреть вопрос о даче Министерству энергетики и жилищно-коммунального хозяйства Тверской области поручения о разработке соответствующего законопроекта.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%;text-autospace:none'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>2. Порядок передачи муниципального имущества в собственность Тверской регламентирован статьей 154 Федерального закона от 22.08.2004 № 122-ФЗ «О внесении изменений в законодательные акты Российской Федерации и признании утратившими силу некоторых законодательных актов Российской Федерации в связи с принятием федеральных законов «О внесении изменений и дополнений в Федеральный закон «Об общих принципах организации законодательных (представительных) и исполнительных органов государственной власти субъектов Российской Федерации» и «Об общих принципах организации местного самоуправления в Российской Федерации» и предусматривает необходимость передачи муниципального имущества в безвозмездное пользование органу государственной власти Тверской области, государственному унитарному предприятию или государственному учреждению Тверской области до передачи в государственную собственность Тверской области.<o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:0cm;text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>3. Альтернативным вариантом приобретения прав на муниципальное имущество в виде объектов (систем) водоснабжения, водоотведения, теплоснабжения является внесение изменений (в части стороны договора) в ранее заключенный и действующий договор аренды аналогичного имущества, являющегося частью технологически связанной сети, заключенный между:<o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:0cm;text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>- областной организацией и органом местного самоуправления (муниципальной организацией);<o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:0cm;text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>- сторонней организацией и органом местного самоуправления (муниципальной организацией) в целях последующей замены данной организации на областную организацию путем заключения соответствующего дополнительного соглашения.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%;text-autospace:none'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>4. Передача из муниципальной собственности в государственную собственность Тверской области объектов водоснабжения и теплоснабжения возможна также путем передачи муниципальных предприятий как имущественных комплексов, владеющих указанными объектами.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%;text-autospace:none'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>5. Малоперспективным представляется заключение концессионного соглашения, поскольку оно не влечет возникновения права собственности Тверской области в отношении муниципального имущества, которое было создано и (или) реконструировано по концессионному соглашению. Таким образом, заключение концессионного соглашения не позволяет достичь цели по закреплению объектов водоснабжения и теплоснабжения в собственности Тверской области.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%;text-autospace:none'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>6. Введение соответствующим муниципальным нормативным правовым актом режима чрезвычайной ситуации не позволит решить задачу </span><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>передачи в государственную собственность Тверской области объектов ресурсоснабжающих организаций, поскольку подобные объекты могут быть переданы только в пользование на период режима чрезвычайной ситуации.</span><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'><o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:35.45pt;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'>Прошу считать данный доклад промежуточным и разрешить продолжить работу с целью выработки иных подходов (более креативных).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:115%'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman",serif'>С уважением, <o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>Советник Губернатора Тверской области,<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>исполняющий обязанности начальника правового управления <o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>аппарата Правительства Тверской области<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>Данилова Е.А.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt;font-family:"Times New Roman",serif;color:black'>тел.: +7(985)410-97-79(моб.)</span><span style='font-size:16.0pt;font-family:"Times New Roman",serif'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10f1294
+DTSTAMP:20220424T204127Z
+CREATED:20190111T173414Z
+LAST-MOD:20190111T154444Z
+SUMMARY:Селекторное совещание с главами МО Тверской области\, тема: «Об организации мероприятий праздника Крещение Господне (18-19.01.2019) на территории Тверской области» (отв. Ищенко А.Н.\, Григорян А.Р.\, Белорусов В.А.\, Зайцев А.А.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20190114T110000Z
+DTEND;VALUE=DATE-TIME:20190114T120000Z
+LOCATION:ул. Советская\, д. 23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

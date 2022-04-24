@@ -1,0 +1,139 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 8 Dec 2021 15:57:43 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 8 Dec 2021
+ 15:57:42 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 8 Dec 2021 15:57:42 +0300
+From: =?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JzQsNGC0LXRgNC40LDQu9GLINC/0L4g0L/QvtGA0YPRh9C10L3QuNGOICg=?=
+ =?utf-8?B?0JzQuNC90J/RgNC+0LzQotC+0YDQsyDQoNCkINC4INCc0LDQstC10Lsp?=
+Thread-Topic: =?utf-8?B?0JzQsNGC0LXRgNC40LDQu9GLINC/0L4g0L/QvtGA0YPRh9C10L3QuNGOICg=?=
+ =?utf-8?B?0JzQuNC90J/RgNC+0LzQotC+0YDQsyDQoNCkINC4INCc0LDQstC10Lsp?=
+Thread-Index: AdfsMx/D2MIuXtIgRIqSV4jN8Q848A==
+Date: Wed, 8 Dec 2021 15:57:42 +0300
+Message-ID: <dbe16756833545a6b27195b93a5a301a@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <dbe16756833545a6b27195b93a5a301a@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.137]
+X-MS-Exchange-Organization-Network-Message-Id: 9e30d292-afa8-41cf-10aa-08d9ba4a52b1
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.2159967
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:738329426;
+	mso-list-type:hybrid;
+	mso-list-template-ids:86046294 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal><span style='mso-fareast-language:EN-US'>Добрый вечер.<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:EN-US'>По Вашему поручению направляю материалы:<o:p></o:p></span></p><ol style='margin-top:0cm' start=1 type=1><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:EN-US'>Информация и статус реализации инвест проекта Мавел (с приложение мастер плана проекта и плана организации транспортной инфраструктуры)<o:p></o:p></span></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:EN-US'>Возможные темы и проблемные вопросы для обсуждения с Министерством промышленности и торговли РФ.<o:p></o:p></span></li></ol><p class=MsoNormal><span style='mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:EN-US'>Материалы также переданы в печатном виде в аппарат. <o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D'>C</span><span lang=EN-US style='font-size:10.0pt;color:#1F497D'> </span><span style='font-size:10.0pt;color:#1F497D'>уважением,</span><span style='font-size:10.0pt;color:#1F497D'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D'>Егоров И.И. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D'>Заместитель Председателя Правительства Тверской области,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D'>Министр экономического развития Тверской области<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D'>+7&nbsp;905&nbsp;602 0678<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D'><a href="mailto:egorov@tverreg.ru"><span style='color:#0563C1'>egorov@tverreg.ru</span></a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

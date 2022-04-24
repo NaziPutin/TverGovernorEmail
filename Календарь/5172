@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1431d0c
+DTSTAMP:20220424T204127Z
+CREATED:20171016T215342Z
+LAST-MOD:20171013T121350Z
+SUMMARY:Торжественная церемония открытия II очереди производственного комплекса ЗАО «Хамильтон Стандард-Наука»  (отв.Меньщиков А.В.\, Павлова О.В.\,   СМИ+пресс-служба). Участие принимает Евтухов В.Л. 
+DTSTART;VALUE=DATE-TIME:20171017T124500Z
+DTEND;VALUE=DATE-TIME:20171017T140000Z
+LOCATION:г.Кимры\, ул. Кленовая\, д. 39
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

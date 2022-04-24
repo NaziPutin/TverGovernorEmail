@@ -1,0 +1,195 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 9 Nov 2019 16:02:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sat, 9 Nov
+ 2019 16:02:39 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Sat, 9 Nov 2019
+ 16:02:42 +0300
+From: =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?= <egorov@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+CC: =?windows-1251?B?z+7k8uj17uLgIMzg8Ojt4CDI4uDt7uLt4A==?=
+	<podtihova@tverreg.ru>
+Subject: =?windows-1251?B?ys7QwMvLIA==?=
+Thread-Topic: =?windows-1251?B?ys7QwMvLIA==?=
+Thread-Index: AdWW+h3YDnVCLm3vSZeEdi/43giDYw==
+Date: Sat, 9 Nov 2019 16:02:42 +0300
+Message-ID: <991730e905a84ffab287fd55ecea8da8@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <991730e905a84ffab287fd55ecea8da8@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: c769c734-a5aa-4a9f-aac5-08d765151b87
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.9303726
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:230847706;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1012724704 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:465898288;
+	mso-list-type:hybrid;
+	mso-list-template-ids:554444790 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Добрый день.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>По соглашению с компанией КОРАЛЛ <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Внесли изменения в параметры проекта в части сроков – период увеличен до 2030 года. <o:p></o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Доходы бюджета от налогов за период 2019-2030 составят <b>2&nbsp;206 млн руб. </b>(2019-2021 года – 380 млн, до 2019-2027 – 1563 млн руб)<o:p></o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>В части обязательств региона включены<o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l0 level2 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Газоснабжение + Электроснабжение <b>96,7 млн руб</b>. – согласовано ранее, на 2020 год. В проекте бюджета отражено<o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l0 level2 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Средства дорожного фонда <b>702 млн рублей</b>, подъездные пути к свинокомплексам СВК №8, СВК №7, и подъездные пути к кормовой базе в Сонковском районе. <b>Все средства включены на 2022 год.</b> Эти сроки синхронизированы с Кораллом, пуск СВК 7 и 8 запланирован на 2022 год. <o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l0 level2 lfo2'><![if !supportLists]><i><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span></i><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Средства программы АПК за счет федерального бюджета <b>147.6 млн руб – софинансирование областного бюджета</b> на 2021/22 годы, средства с учетом ФБ 738 млн руб. Подъездные пути к СВК 5,6 – наиболее принципиальная позиция, пуск в 2020/21 году, а так же СВК 3 и СВК 9. Плюс связи между ними, с тем чтобы не пускать трафик грузового транспорта через Бежецк. <i>Важный момент – подъездные пути к СВК 5 и 6 нужны к концу 2020, а средства на 2021 – механизм реализации- заключение контракта в 2020, подрядная организация выполняет работы в 2020, а оплата в 2021. <o:p></o:p></i></span></p><p class=MsoListParagraph style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l0 level2 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>d.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Бассейн, <b>15 млн на 2020 – ПИР, 300 млн на 2021/22 – СМР</b>. <o:p></o:p></span></p><p class=MsoListParagraph style='margin-left:72.0pt;text-indent:-18.0pt;mso-list:l0 level2 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>e.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Газопроводы по программе синхронизации – 2 шт, 2020/21 годы.<o:p></o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Таким образом – ключевые объекты инфраструктуры, необходимые для пуска производства в соглашение включены, не включили асфальтирование дорог к СВК 1 и 2 – они есть, выполнены в ПГС, не влияют на объем производства и инвестиций, хотя Коралл их заявлял.<o:p></o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Так же в параметры соглашения не включены дороги общего пользования от Бежецка до Максатихи и от Бежецка до Сонково, плюс направление на Дорохово (микрорайон рядом с Бежецком) – которые непосредственно не ведут к СВК. <o:p></o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>ИТОГО расходы бюджета области составят <b>1&nbsp;261 млн руб.</b> <o:p></o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]><b><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Доходы от налогов – Расходы составят =  +9&nbsp;44,2 млн рублей</span></b><span style='font-size:14.0pt;font-family:"Arial",sans-serif'> (к 2030 году), накопительным итогом выходим на положительный баланс к 2026 году. Основные расходы областного бюджета ложатся на 2022 год 922 млн руб, к этому времени 90% инвестиций коралл будут сделаны, имеем возможность оценить выполнение соглашения со стороны инвестора. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>В прикрепленных файлах:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>- краткая таблица с итогами по фин потокам<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>- подробное описание объектов и затрат по годам <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>По итогам Вашего согласования – в понедельник запустим новую редакцию соглашения на визировку, во вторник будем готовы к подписанию.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>Так же в прикрепленном файле<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'>- план визита и повестка встречи с Корал и Кооперль на 12 ноября.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-fareast-language:RU'>C</span><span lang=EN-US style='font-size:10.0pt;mso-fareast-language:RU'> </span><span style='font-size:10.0pt;mso-fareast-language:RU'>уважением,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-language:RU'>Егоров И.И. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-language:RU'>Министр экономического развития Тверской области<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-language:RU'>+7&nbsp;905&nbsp;602 0678<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;mso-fareast-language:RU'>egorov@tverreg.ru<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

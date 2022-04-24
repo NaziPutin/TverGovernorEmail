@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf725d8
+DTSTAMP:20220424T204127Z
+CREATED:20190531T143404Z
+LAST-MOD:20190527T112956Z
+SUMMARY:Начало XXI Волжского крестного хода\, посвященного 200-летию обретения мощей благоверной княгини (мученицы) Иулиании Вяземской и Новоторжской) (отв. Белоцерковский А.В.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190601T063000Z
+DTEND;VALUE=DATE-TIME:20190601T103000Z
+LOCATION:д. Волговерховье\, исток р. Волга
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+FN:Лапушкин\, Иван Иванович
+N:Лапушкин;Иван;Иванович;;
+EMAIL:i.lapushkin@abr.ru
+TEL;TYPE=cell,voice:+7 (985) 210-24-94
+TITLE:Вице-президент
+ORG:Банк "Россия"
+VERSION:3.0
+END:VCARD
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xfaf300
+DTSTAMP:20220424T204127Z
+CREATED:20190425T091223Z
+LAST-MOD:20190424T084404Z
+SUMMARY:Заседание рабочей группы по борьбе с незаконной заготовкой и оборотом древесины. Проводит Гордеев А.В. – Заместитель Председателя Правительства РФ (отв. Наумов А.В.\, Барышков В.В.\, Попенко В.И.\, Комиссарова О.С.)\n
+DTSTART;VALUE=DATE-TIME:20190426T080000Z
+DTEND;VALUE=DATE-TIME:20190426T090000Z
+LOCATION:г. Москва\, Краснопресненская наб.\, д. 2\, Дом Правительства РФ\, 3-й этаж\, зал 3-80
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

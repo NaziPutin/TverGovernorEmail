@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x15217d8
+DTSTAMP:20220424T204127Z
+CREATED:20170503T115121Z
+LAST-MOD:20170504T174951Z
+SUMMARY:Рабочая поездка Беглова Александра Дмитриевича – Полномочного представителя Президента Российской Федерации в Центральном федеральном округе в Тверскую область (отв. Белоцерковский А.В.\, Моисеева Н.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170505T060000Z
+DTEND;VALUE=DATE-TIME:20170505T140000Z
+LOCATION:Ржевский район\, Селижаровский район\, г.Тверь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

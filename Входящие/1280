@@ -1,0 +1,95 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 19 Jul 2021 18:04:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 19 Jul
+ 2021 18:04:12 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Mon, 19 Jul 2021 18:04:12 +0300
+From: =?utf-8?B?0JLRi9GB0LrRg9Cx0L7QstCwINCd0LDQtNC10LbQtNCwINCQ0LvQtdC60YE=?=
+ =?utf-8?B?0LDQvdC00YDQvtCy0L3QsA==?= <vna@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+CC: =?utf-8?B?0J/QtdGA0L7QsiDQktC70LDQtNC40LzQuNGAINCS0LDQu9C10YDRjNC10LI=?=
+ =?utf-8?B?0LjRhw==?= <PerovVV@tverreg.ru>
+Subject: =?utf-8?B?0L7RgtGH0ZHRgiDQv9C+INC/0L7QtdC30LTQutC1INCyINCv0YDQvtGB0Ls=?=
+ =?utf-8?B?0LDQstGB0LrRg9GOINC+0LHQu9Cw0YHRgtGMINGBINC/0YDQtdC00YHRgtCw?=
+ =?utf-8?B?0LLQuNGC0LXQu9GP0LzQuCDQvNGD0L3QuNGG0LjQv9Cw0LvRjNC90YvRhSA=?=
+ =?utf-8?B?0L7QsdGA0LDQt9C+0LLQsNC90LjQuQ==?=
+Thread-Topic: =?utf-8?B?0L7RgtGH0ZHRgiDQv9C+INC/0L7QtdC30LTQutC1INCyINCv0YDQvtGB0Ls=?=
+ =?utf-8?B?0LDQstGB0LrRg9GOINC+0LHQu9Cw0YHRgtGMINGBINC/0YDQtdC00YHRgtCw?=
+ =?utf-8?B?0LLQuNGC0LXQu9GP0LzQuCDQvNGD0L3QuNGG0LjQv9Cw0LvRjNC90YvRhSA=?=
+ =?utf-8?B?0L7QsdGA0LDQt9C+0LLQsNC90LjQuQ==?=
+Thread-Index: Add8rKj+kRpW9vOZQ+OCyutBkNX2hg==
+Date: Mon, 19 Jul 2021 18:04:12 +0300
+Message-ID: <f424d0cd9bbd4dee9d1aef82474a9bde@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <f424d0cd9bbd4dee9d1aef82474a9bde@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.116.19]
+X-MS-Exchange-Organization-Network-Message-Id: b50dcf4a-16a0-494d-56c4-08d94ac677ff
+Return-Path: vna@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.2940430
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER1833838F
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>Игорь Михайлович, добрый день!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Направляю Вам отчёт по информационному туру для представителей муниципальных образований Тверской области в малые города Ярославской области.<o:p></o:p></p><p class=MsoNormal>По полученной обратной связи от коллег из муниципалитетов многие положительные практики применимы на территории нашего региона.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>На мой взгляд, получилось очень полезное и важное мероприятие, как для Глав и их заместителей, так и для специалистов администраций, ответственных за развитие нашей отрасли на местах.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Вместе с тем, прошу Вашего внимания к состоянию автомобильной дороги Тверь-Кашин-Калязин (Р-132 «Золотое кольцо »).<o:p></o:p></p><p class=MsoNormal>Министерством туризма Тверской области подготовлен проект письма за Вашей подписью  в адрес Министра транспорта Российской Федерации  Савельева В.Г.<o:p></o:p></p><p class=MsoNormal>Проект письма прошёл визировку и согласование в установленном порядке. Прошу по возможности Вашего рассмотрения.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Благодарю за внимание к развитию отрасли туризма и гостеприимства!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>С уважением,<o:p></o:p></p><p class=MsoNormal>Выскубова Надежда<o:p></o:p></p><p class=MsoNormal>Заместитель Министра туризма<o:p></o:p></p><p class=MsoNormal>Тверской области<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

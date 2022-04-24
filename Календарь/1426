@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x80b058
+DTSTAMP:20220424T204126Z
+CREATED:20210202T144438Z
+LAST-MOD:20210202T133952Z
+SUMMARY:Совещание\, тема: «О Программе дорожных работ на автомобильных дорогах общего пользования регионального значения на 2021-2023 гг.» (отв. Жарков И.С.\, Насибуллин Д.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210202T140000Z
+DTEND;VALUE=DATE-TIME:20210202T150000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

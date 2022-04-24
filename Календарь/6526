@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1578ed0
+DTSTAMP:20220424T204127Z
+CREATED:20161224T135216Z
+LAST-MOD:20161226T062910Z
+SUMMARY:Подготовка к открытию движения на транспортной развязке км 179 автомобильной дороги общего пользования федерального значения  М-10 (26.12.2016) (отв. Пилавов М.И.\, Павлов И.А.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20161224T150000Z
+DTEND;VALUE=DATE-TIME:20161224T153000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

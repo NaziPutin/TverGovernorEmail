@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3ebc98
+DTSTAMP:20220424T204126Z
+CREATED:20211014T142906Z
+LAST-MOD:20211014T132234Z
+SUMMARY:Рабочая встреча\, тема: «О стратегии цифрового развития и развития информационных технологий в Тверской области на период до 2027 г.» (отв. Ажгиревич А.И.\, Егоров И.И.\, Подтихова М.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211014T140000Z
+DTEND;VALUE=DATE-TIME:20211014T150000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

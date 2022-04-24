@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa8431c
+DTSTAMP:20220424T204126Z
+CREATED:20200602T123705Z
+LAST-MOD:20200602T080202Z
+SUMMARY:Совещание (в режиме ВКС)\, тема: «Трудоустройство подростков в каникулярный период» (отв. Егоров И.И.\, Исаев С.А.\, Подтихова М.И.\, Белорусов В.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200602T123000Z
+DTEND;VALUE=DATE-TIME:20200602T130000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

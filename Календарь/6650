@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157a118
+DTSTAMP:20220424T204127Z
+CREATED:20161130T183431Z
+LAST-MOD:20161201T131117Z
+SUMMARY:Запись видеокомментария к Посланию Президента РФ Федеральному Собранию для телеканала "Россия 24" (отв. Ищенко А.Н.\, Исаков Ю.В.)
+DESCRIPTION:Выход в эфир - 14.00
+DTSTART;VALUE=DATE-TIME:20161201T100000Z
+DTEND;VALUE=DATE-TIME:20161201T103000Z
+LOCATION:г. Москва\, Кремлевский дворец\, стендап-позиция телеканала "Россия 24"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

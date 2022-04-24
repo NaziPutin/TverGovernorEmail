@@ -1,0 +1,75 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 25 Nov 2019 08:48:41 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Mon, 25 Nov
+ 2019 08:48:40 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 25 Nov 2019 08:48:41 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id BDA3521566
+	for <rim@tverreg.ru>; Mon, 25 Nov 2019 08:48:40 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward104j.mail.yandex.net; client-ip=5.45.198.247
+Received: from forward104j.mail.yandex.net (forward104j.mail.yandex.net [5.45.198.247])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 3DA7A2154F
+	for <rim@tverreg.ru>; Mon, 25 Nov 2019 08:48:39 +0300 (MSK)
+Received: from forward103q.mail.yandex.net (forward103q.mail.yandex.net [IPv6:2a02:6b8:c0e:50:0:640:b21c:d009])
+	by forward104j.mail.yandex.net (Yandex) with ESMTP id 0CE934A12B2
+	for <rim@tverreg.ru>; Mon, 25 Nov 2019 08:48:33 +0300 (MSK)
+Received: from mxback2q.mail.yandex.net (mxback2q.mail.yandex.net [IPv6:2a02:6b8:c0e:40:0:640:9c8c:4946])
+	by forward103q.mail.yandex.net (Yandex) with ESMTP id 0A7E661E0010
+	for <rim@tverreg.ru>; Mon, 25 Nov 2019 08:48:33 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback2q.mail.yandex.net (mxback/Yandex) with ESMTP id V8jpblLzgH-mWV8221Z;
+	Mon, 25 Nov 2019 08:48:32 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1574660912;
+	bh=nXvKT65wVnQRlLOupPhXWRqj28sVLXvBMXNYkpWVJxw=;
+	h=Message-Id:Date:Subject:To:From;
+	b=hqbYrprXUJ8eXolRbR/94Xrnb57fVvYV1Bs/1H5c0UjNH42gf7AHv/7+An5ptnqXH
+	 ikO0nBMFoyFxvYGQrzEDqDxkgTCsEmO8nvnlPUPScng3PzvamCEfLgz7f+jTV12HDO
+	 XVg1zTHx2dgs/JOehDuzGKZATB372ocp0rjdFWp4=
+Authentication-Results: mxback2q.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by vla1-c477e3898c96.qloud-c.yandex.net with HTTP;
+	Mon, 25 Nov 2019 08:48:32 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0JrQvtC90YHQvtC70LjQtNCw0YbQuNGPIA==?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 25 Nov 2019 08:48:32 +0300
+Message-Id: <33382151574660912@vla1-c477e3898c96.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.750 Adjusted score from AWL reputation of From: address
+	BAYES_20               -0.001 Bayes spam probability is 5 to 20%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (cspnkashin[at]yandex.ru) (tver.petrushenko[at]yandex.ru)
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 22e3198b-2a35-4632-318f-08d7716b2029
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6229577
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div><p align="center" style="margin:0cm 0cm 0pt 0cm;text-align:center;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">Уважаемый Игорь Михайлович!</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">&nbsp;</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">ООО «РСО» проработало вопрос об обслуживании муниципальных и безхозных электросетевых активов на территории региона, получилось следующее: </span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">Количество муниципальных электросетевых активов – 7&nbsp;424 у.е. (порядка 70 % от находящихся сейчас в ООО «РСО»).</span><span style="font-size:14pt;line-height:115%"><font face="Calibri"> </font></span><span style="font:14pt/115% 'times new roman' , serif">Это без учета находящихся в аренде у МРСК и тех объектов, что выходят на тариф самостоятельно (Удомля, Бежецк);</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">Совокупный отпуск в сеть таких объектов - 395 млн. кВтч в год </span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">Потери – 27 % от отпуска в сеть;</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">Ежегодная сумма, которую взыскивает и будет взыскивать Атомэнергосбыт у Администраций за потери э/э, в отсутствие источника оплаты (тарифа) у последних, - порядка 150 млн. руб.</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">С учетом невозможности принятия данных активов «ИИК» (физически не позволяют процедуры и нет сотрудников) на 2020 год их может принять в свой состав ООО «РСО». Минимальный необходимый тариф РСО в таком случае составит 1, 102 руб./кВтч, минимальный норматив потерь в тарифе – 17,7 % (вместе с показателями самого «РСО», которые составляют 12,97%). Отмечаю, что индивидуальный тариф МРСК в составе котлового только на 2019 год составляет 1, 83 руб./кВтч.</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">Общая НВВ для такой Региональной ТСО составит 0,965 млрд. руб., порядка 55% которой приходится на оплату потерь гарантирующему поставщику, 2 % - инвестиционная программа.</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">За 2020 год будет применён наш опыт снижения потерь в сетях РСО, чтобы с 27 % в муниципалитетах в совокупности выйти хотя бы на 20-22 %. В течение первого полугодия 2020 года сможем оценить, какие перспективы у муниципальных сетей, что позволит Вам в июле 2020 года решить, как эффективнее регулировать их в дальнейшем без убытков для муниципалитетов, с учётом стратегии региона - создавать отдельную ТСО, с участием в том числе и частных активов, по аналогии с Московской областью, либо оставить данные активы в составе существующей ТСО региона как минимум до снижения уровня потерь до нормативных.</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">В составе «РСО» содержание муниципальных объектов будет «стоить» региону 23 тыс. руб. на 1 у.е. электросетевого оборудования, в то время как в составе МРСК, например, - 32, 16 тыс. руб.</span></p><p style="margin:0cm 0cm 0pt 0cm;text-align:justify;text-indent:35.45pt"><span style="font:14pt/115% 'times new roman' , serif">С уважением С.А. Птрушенко</span></p><p style="margin:0cm 0cm 10pt 0cm;text-align:justify"><span style="font:14pt/115% 'times new roman' , serif">&nbsp;</span></p></div><div>&nbsp;</div><div>--&nbsp;</div><div>С Уважением Станислав Анатольевич</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Петрушенко</div><div>&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

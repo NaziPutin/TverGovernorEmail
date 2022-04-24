@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf712c4
+DTSTAMP:20220424T204127Z
+CREATED:20190507T160912Z
+LAST-MOD:20190507T060835Z
+SUMMARY:Посещение отделения ветеранов войн и лиц\, к ним приравненных по льготам\, ГКУЗ ТО «Областная клиническая больница». Поздравление ветеранов ВОВ с Днем Победы (отв. Синода В.А.\, Максимов М.А.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190508T070000Z
+DTEND;VALUE=DATE-TIME:20190508T074000Z
+LOCATION:Санкт-Петербургское ш.\, д. 105
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13512fc
+DTSTAMP:20220424T204127Z
+CREATED:20180410T144841Z
+LAST-MOD:20180329T065810Z
+SUMMARY:Торжественный запуск FM-вещания «Радио России» в Тверской области (отв. Петрова М.В.\, Белорусов В.А.\, Исаков Ю.В.\, СМИ+пресс-служба) Согласно программе
+DTSTART;VALUE=DATE-TIME:20180411T110000Z
+DTEND;VALUE=DATE-TIME:20180411T113000Z
+LOCATION:ул.Вагжанова\, д.7\, филиал РТРС «Тверской ОРТПЦ» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

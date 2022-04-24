@@ -1,0 +1,90 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 1 Mar 2022 11:04:33 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 1 Mar 2022
+ 11:04:30 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 1 Mar 2022 11:04:32 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 6D21180DAE
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 11:04:31 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'apk7888@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="apk7888@yandex.ru"; helo=forward102o.mail.yandex.net; client-ip=37.140.190.182
+Received: from forward102o.mail.yandex.net (forward102o.mail.yandex.net [37.140.190.182])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id C3B5480CC9
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 11:04:30 +0300 (MSK)
+Received: from sas1-892da86383b1.qloud-c.yandex.net (sas1-892da86383b1.qloud-c.yandex.net [IPv6:2a02:6b8:c08:78a8:0:640:892d:a863])
+	by forward102o.mail.yandex.net (Yandex) with ESMTP id 6D9C06FF7E12
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 11:04:30 +0300 (MSK)
+Received: from sas8-b61c542d7279.qloud-c.yandex.net (sas8-b61c542d7279.qloud-c.yandex.net [2a02:6b8:c1b:2912:0:640:b61c:542d])
+	by sas1-892da86383b1.qloud-c.yandex.net (mxback/Yandex) with ESMTP id MrMA1mE2sz-4Uem7L1Y;
+	Tue, 01 Mar 2022 11:04:30 +0300
+X-Yandex-Fwd: 2
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1646121870;
+	bh=QcHhFPm/OIbGPfDQQtjm9eim3gXHG9LxnVwmioLaXSY=;
+	h=Subject:Date:Message-Id:To:From;
+	b=rVQigsJSKpL8+9zVObcQlwv6/wC1t61lBcoY0N5qHPz6CBUqgHZyFWkgfKJfwdUZl
+	 S5mhW6X+ZfKXHGW3osfKYwjSH9RWUIxUOUgrx4nVO2a6XdSGQEafMsNRfIpKZZ/AUm
+	 yD9dfmCk7MeIOqh5/0+qZkGw7OySRP90OKJf31u0=
+Authentication-Results: sas1-892da86383b1.qloud-c.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by sas8-b61c542d7279.qloud-c.yandex.net (smtp/Yandex) with ESMTPSA id tqNvJZGUhT-4SJSlicx;
+	Tue, 01 Mar 2022 11:04:28 +0300
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits))
+	(Client certificate not present)
+From: =?utf-8?B?0JDQn9Ca?= <apk7888@yandex.ru>
+Date: Tue, 1 Mar 2022 11:04:27 +0300
+Subject: =?utf-8?B?0JPQsNC3?=
+Message-Id: <396CCAF5-E10D-4011-87EB-F349AE3B59C8@yandex.ru>
+To: =?utf-8?Q?"=D0=93=D0=A2=D0=9E_=D0=BC=D0=BE=D0=B1."?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (18H107)
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddruddtuddguddtkecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegtgffhggffuffkvffosehmjehmrehhtddvnecuhfhrohhmpeetpifmuceorghpkhejkeekkeeshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhephfdtffeifefhgefhtdevtddufeetvdekieegfeegtdefgeelffegudfhheeihedtnecukfhppedvrgdtvdemiegskeemtgdusgemvdeluddvmedtmeeigedtmegsiedutgemheegvdgu
+X-DrWeb-SpamVersion: Vade Retro 01.422.101#108 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	RCVD_IN_MSPIKE_H5       0.001 Excellent reputation (+5)
+	RCVD_IN_MSPIKE_WL       0.001 Mailspike good senders
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	URIBL_BLOCKED           0.001 ADMINISTRATOR NOTICE: The query to URIBL was blocked.  See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block for more information. [yandex.ru]
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddruddtuddguddtkecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegtgffhggffuffkvffosehmjehmrehhtddvnecuhfhrohhmpeetpifmuceorghpkhejkeekkeeshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhephfdtffeifefhgefhtdevtddufeetvdekieegfeegtdefgeelffegudfhheeihedtnecukfhppedvrgdtvdemiegskeemtgdusgemvdeluddvmedtmeeigedtmegsiedutgemheegvdgu
+X-DrWeb-SpamVersion: Vade Retro 01.422.101#108 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: apk7888@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 3adcf48c-951c-46f0-b02f-08d9fb5a1e86
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4802550
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"></head><body>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+</div></span></font>
+</div>
+<div>
+<img src="cid:9db16e1a-3595-4aec-b710-084f862f0961@tverreg.ru">
+</div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

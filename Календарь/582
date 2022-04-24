@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3f4068
+DTSTAMP:20220424T204126Z
+CREATED:20211011T145851Z
+LAST-MOD:20211008T053956Z
+SUMMARY:Совещание (в режиме ЗВКС) по вопросу "Об основных подходах к организации работы в рамках кураторства социально-экономического развития субъектов РФ\, входящих в состав ЦФО" (отв. Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211011T150000Z
+DTEND;VALUE=DATE-TIME:20211011T160000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

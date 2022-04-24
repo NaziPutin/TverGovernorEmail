@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x56b578
+DTSTAMP:20220424T204126Z
+CREATED:20210628T120704Z
+LAST-MOD:20210628T120544Z
+SUMMARY:Рабочая встреча\, тема: "О ходе реализации национального проекта "Безопасные качественные дороги" в Тверской области" (отв. Вилькомир А.К.\, Насибуллин Д.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210628T123000Z
+DTEND;VALUE=DATE-TIME:20210628T133000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc67af8
+DTSTAMP:20220424T204126Z
+CREATED:20200121T135928Z
+LAST-MOD:20200121T135259Z
+SUMMARY:Встреча с Ивановым Юрием Михайловичем – председателем колхоза «Красный Октябрь» Сонковского района\, Героем Социалистического труда\, Почетным гражданином Тверской области (отв. Наумов А.В.\, Каравайный К.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200122T110000Z
+DTEND;VALUE=DATE-TIME:20200122T113000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

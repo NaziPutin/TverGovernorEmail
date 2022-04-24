@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x130a7dc
+DTSTAMP:20220424T204127Z
+CREATED:20180604T073404Z
+LAST-MOD:20180601T110526Z
+SUMMARY:Творческий вечер\, посвященный 90-летию народного художника СССР\, академика Академии художеств СССР и Российской академии художеств\, живописца Валентина Михайловича Сидорова (отв. Белоцерковский А.В.\, Репина И.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180607T140000Z
+DTEND;VALUE=DATE-TIME:20180607T150000Z
+LOCATION:ул.Советская\, д.54\, Тверской городской музейно-выставочный центр
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

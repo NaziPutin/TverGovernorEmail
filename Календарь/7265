@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157fd44
+DTSTAMP:20220424T204127Z
+CREATED:20160803T114658Z
+LAST-MOD:20160811T200913Z
+SUMMARY:Рабочая поездка в Тверскую область Нарышкина С.Е. - Председателя Государственной Думы СФ РФ. В рамках поездки: 16.00 - Форум первичных отделений ТРО ВПП «ЕДИНАЯ РОССИЯ».
+DTSTART;VALUE=DATE-TIME:20160804T114400Z
+DTEND;VALUE=DATE-TIME:20160804T163000Z
+LOCATION:согласно программе рабочей поездки
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x38f25c
+DTSTAMP:20220424T204126Z
+CREATED:20211112T152323Z
+LAST-MOD:20211112T150256Z
+SUMMARY:Рабочая встреча\, тема: «О Государственной программе Тверской области «Молодежь Верхневолжья» на 2021-2026 гг.» (отв. Новикова В.И.\, Подтихова М.И.\, Егоров И.И.\, Прохорова А.С) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211115T160000Z
+DTEND;VALUE=DATE-TIME:20211115T170000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xbf53ec
+DTSTAMP:20220424T204126Z
+CREATED:20200226T132357Z
+LAST-MOD:20200227T114052Z
+SUMMARY:Рабочая встреча\, тема: «О выполнении работ по графическому описанию местоположения границ особо охраняемых природных территорий регионального значения» (отв. Ажгиревич А.И.\, Наумов А.В.\, Жарков И.С.\, Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200227T123000Z
+DTEND;VALUE=DATE-TIME:20200227T130000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1577ddc
+DTSTAMP:20220424T204127Z
+CREATED:20170209T071445Z
+LAST-MOD:20170209T115001Z
+SUMMARY:Подготовка к рабочей поездке в г.Торжок. Подготовка к церемонии открытия завода по производству OSB плит «Талион Арбор»\, встрече с представителями лесопромышленных предприятий (10.02.2017) Согласование текста выступлени.(отв. Меньщиков А.В.\, Мигулев П.И.)
+DTSTART;VALUE=DATE-TIME:20170209T153000Z
+DTEND;VALUE=DATE-TIME:20170209T160000Z
+LOCATION:каб.301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

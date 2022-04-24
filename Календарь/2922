@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd88d64
+DTSTAMP:20220424T204127Z
+CREATED:20191003T182239Z
+LAST-MOD:20191003T104532Z
+SUMMARY:Совместное с полномочным представителем Президента РФ в ЦФО выездное совещание Секретаря Совета Безопасности РФ (отв. Ажгиревич А.И.\, Попенко В.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191004T100000Z
+DTEND;VALUE=DATE-TIME:20191004T150000Z
+LOCATION:г. Тула\, ул. Менделеевская\, 12в\, Атриум Тульского Кремля
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

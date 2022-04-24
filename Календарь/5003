@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13ed808
+DTSTAMP:20220424T204127Z
+CREATED:20171222T065611Z
+LAST-MOD:20171225T142934Z
+SUMMARY:Заседание постоянно действующего Координационного совещания по обеспечению правопорядка в Тверской области (в формате селекторного совещания с главами МО) (отв. Попенко В.И.\, Зайцев А.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171226T120000Z
+DTEND;VALUE=DATE-TIME:20171226T133000Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

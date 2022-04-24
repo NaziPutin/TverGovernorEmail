@@ -1,0 +1,135 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 22 Mar 2022 20:41:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 22 Mar
+ 2022 20:41:20 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Tue, 22 Mar 2022 20:41:21 +0300
+From: =?utf-8?B?0KHQvNGP0LvQutC+0LLRgdC60LjQuSDQn9Cw0LLQtdC7INCV0LLQs9C10L0=?=
+ =?utf-8?B?0YzQtdCy0LjRhw==?= <smyalkovsky@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+CC: =?utf-8?B?0JDQttCz0LjRgNC10LLQuNGHINCQ0YDRgtC10Lwg0JjQstCw0L3QvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <AzhgirevichAI@tverreg.ru>,
+	=?utf-8?B?0JHQtdGA0LXQt9C40L0g0JTQvNC40YLRgNC40Lkg0JHQvtGA0LjRgdC+0LI=?=
+ =?utf-8?B?0LjRhw==?= <Berezin_DB@tverreg.ru>,
+	=?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>,
+	=?utf-8?B?0JbQsNGA0LrQvtCyINCY0LPQvtGA0Ywg0KHQtdGA0LPQtdC10LLQuNGH?=
+	<ZharkovIC@tverreg.ru>,
+	=?utf-8?B?0JzQvtGA0L7Qt9C+0LIg0JXQstCz0LXQvdC40Lkg0JLQsNGB0LjQu9GM0LU=?=
+ =?utf-8?B?0LLQuNGH?= <Morozov_EV@tverreg.ru>,
+	=?utf-8?B?0J3QvtCy0LjQutC+0LLQsCDQktCw0LvQtdC90YLQuNC90LAg0JjQstCw0L0=?=
+ =?utf-8?B?0L7QstC90LA=?= <Novikova_VI@tverreg.ru>,
+	=?utf-8?B?0J/QvtC00YLQuNGF0L7QstCwINCc0LDRgNC40L3QsCDQmNCy0LDQvdC+0LI=?=
+ =?utf-8?B?0L3QsA==?= <podtihova@tverreg.ru>,
+	=?utf-8?B?0J3QsNGD0LzQvtCyINCQ0L3QtNGA0LXQuSDQktC40LrRgtC+0YDQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <naumov@tverreg.ru>,
+	=?utf-8?B?0JPRgNC40LPQvtGA0Y/QvSDQkNGA0YHQtdC9INCg0LDRhNC40LrQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <grygoryan@tverreg.ru>,
+	=?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>,
+	=?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>,
+	=?utf-8?B?0JHQtdC70L7RgNGD0YHQvtCyINCS0LvQsNC00LjRgdC70LDQsiDQkNC90LA=?=
+ =?utf-8?B?0YLQvtC70YzQtdCy0LjRhw==?= <bva@tverreg.ru>,
+	=?utf-8?B?0KHQvtC60L7Qu9C+0LIg0JrQvtC90YHRgtCw0L3RgtC40L0g0JjQu9GM0Lg=?=
+ =?utf-8?B?0Yc=?= <sokolov@tverreg.ru>, "Ministerstvo_To@tverreg.ru"
+	<Ministerstvo_To@tverreg.ru>
+Subject: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0L/RgNC+0LXQutGC0LDRhSDRhNC1?=
+ =?utf-8?B?0LTQtdGA0LDQu9GM0L3Ri9GFINC30LDQutC+0L3QvtCyLCDQvdCw0L/RgNCw?=
+ =?utf-8?B?0LLQu9C10L3QvdGL0YUg0L3QsCDQt9Cw0YnQuNGC0YMg0LPRgNCw0LbQtNCw?=
+ =?utf-8?B?0L0g0Lgg0Y3QutC+0L3QvtC80LjQutC4INCyINGD0YHQu9C+0LLQuNGP0YUg?=
+ =?utf-8?B?0LfQsNGA0YPQsdC10LbQvdGL0YUg0YHQsNC90LrRhtC40LksINCy0L3QtdGB?=
+ =?utf-8?B?0LXQvdC90YvRhSDQsiDQk9CUIDIyINC80LDRgNGC0LAgMjAyMiDQs9C+0LQ=?=
+ =?utf-8?B?0LA=?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0L/RgNC+0LXQutGC0LDRhSDRhNC1?=
+ =?utf-8?B?0LTQtdGA0LDQu9GM0L3Ri9GFINC30LDQutC+0L3QvtCyLCDQvdCw0L/RgNCw?=
+ =?utf-8?B?0LLQu9C10L3QvdGL0YUg0L3QsCDQt9Cw0YnQuNGC0YMg0LPRgNCw0LbQtNCw?=
+ =?utf-8?B?0L0g0Lgg0Y3QutC+0L3QvtC80LjQutC4INCyINGD0YHQu9C+0LLQuNGP0YUg?=
+ =?utf-8?B?0LfQsNGA0YPQsdC10LbQvdGL0YUg0YHQsNC90LrRhtC40LksINCy0L3QtdGB?=
+ =?utf-8?B?0LXQvdC90YvRhSDQsiDQk9CUIDIyINC80LDRgNGC0LAgMjAyMiDQs9C+0LQ=?=
+ =?utf-8?B?0LA=?=
+Thread-Index: Adg+EvYWA3DsxW1/RPmG1NuzVgQ7mQ==
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Tue, 22 Mar 2022 20:41:21 +0300
+Message-ID: <95cd2e07fc654804ab6bb6cd1d7fd014@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <95cd2e07fc654804ab6bb6cd1d7fd014@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.183]
+X-MS-Exchange-Organization-Network-Message-Id: ebc38820-b558-4f96-d7f7-08da0c2b2db6
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.9400084
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal align=center style='text-align:center'><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>По Вашему поручению направляю информацию о проектах федеральных законов, направленных на защиту граждан и экономики в условиях зарубежных санкций, внесенных 22 марта 2022 года в Государственную Думу Федерального Собрания Российской Федерации:<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1) Проект Федерального закона № 92282-8 «О внесении изменений в отдельные законодательные акты Российской Федерации» (внесен депутатом Государственной Думы Федерального Собрания Российской Федерации П.В. Крашенинниковым)<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Законопроект предусматривает изменения в гражданское законодательство в целях стабилизации правоотношений с участием потребителей и оказания поддержки российскому бизнесу в период действия санкций, введенных против Российской Федерации. Положениями проекта закона предлагается закрепить правовые последствия в случае недружественных действий, из</span><span lang=EN-US style='font-size:16.0pt;line-height:150%;font-family:"MS Mincho"'>‑</span><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>за которых ранее заключенные обязательства исполнить невозможно. Так, в случае если исполнение обязательства становится «окончательно невозможным», то такое обязательство прекращается полностью либо в той части, в которой не может быть исполнено. Если же обязательство оказывается «временно невозможным» и это возможно доказать (например, что необходимые детали для производства придут, но с опозданием), то такое обязательство «замораживается», а лицо не несет ответственности за его неисполнение или ненадлежащее исполнение.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2) Проект Федерального закона № 92634-8 «О внесении изменения в Федеральный закон «О ветеранах» (внесен Сенаторами Российской Федерации А.А.Турчаком, В.Н.Бондаревым, А.А.Карелиным, В.К.Кравченко; Депутатами Государственной Думы А.В.Картаполовым, В.А.Шамановым, Д.В.Саблиным, А.Л.Красовым)<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Законопроектом предлагается установить статус ветерана боевых действий и инвалида боевых действий военнослужащим, а также сотрудникам иных правоохранительных и силовых структур, выполняющим задачи в ходе специальной военной операции на территории Украины, Донецкой Народной Республики и Луганской Народной Республики.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:70.9pt;text-align:justify;text-indent:35.45pt;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

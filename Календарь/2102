@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa5b2c8
+DTSTAMP:20220424T204126Z
+CREATED:20200623T064828Z
+LAST-MOD:20200623T074941Z
+SUMMARY:Совещание\, тема: «О проведении общероссийского голосования по вопросу одобрения изменений в Конституцию РФ (25.06-01.07.2020)» (в режиме видео-конференц-связи) (отв. Ищенко А.Н.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200623T090000Z
+DTEND;VALUE=DATE-TIME:20200623T100000Z
+LOCATION:каб. 207\; обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

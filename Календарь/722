@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4c5960
+DTSTAMP:20220424T204126Z
+CREATED:20210827T085246Z
+LAST-MOD:20210826T152045Z
+SUMMARY:Инспекционная поездка в МБОУ СОШ № 1 г. Зубцова в целях проверки степени готовности школы к началу нового  учебного года (отв. Новикова В.И.\, Коваленко Ю.Н.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210827T111000Z
+DTEND;VALUE=DATE-TIME:20210827T113000Z
+LOCATION:г. Зубцов\, ул. Ржевская\, д. 44
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

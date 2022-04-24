@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x152af20
+DTSTAMP:20220424T204127Z
+CREATED:20170424T071507Z
+LAST-MOD:20170512T122615Z
+SUMMARY:Овсянникова Юлия Олеговна - заместитель генерального директора государственного автономного учреждения Тверской области «Региональное информационное агентство «Верхневолжье». Участие принимает Ищенко А.Н.
+DTSTART;VALUE=DATE-TIME:20170425T180000Z
+DTEND;VALUE=DATE-TIME:20170425T183000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

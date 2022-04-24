@@ -1,0 +1,100 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 12 Feb 2019 21:06:08 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 12 Feb
+ 2019 21:06:02 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 12 Feb 2019 21:05:58 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 702F021A6C
+	for <Rim@tverreg.ru>; Tue, 12 Feb 2019 21:05:59 +0300 (MSK)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 't.artamonov52@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="t.artamonov52@gmail.com"; helo=mail-lj1-f175.google.com; client-ip=209.85.208.175
+Received: from mail-lj1-f175.google.com (mail-lj1-f175.google.com [209.85.208.175])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 2432721A51
+	for <Rim@tverreg.ru>; Tue, 12 Feb 2019 21:05:58 +0300 (MSK)
+Received: by mail-lj1-f175.google.com with SMTP id r10-v6so3048500ljj.4
+        for <Rim@tverreg.ru>; Tue, 12 Feb 2019 10:05:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=content-transfer-encoding:from:mime-version:date:message-id:to;
+        bh=kCPGAwbc3IkC1bF4Lt/8ibU3u+ZSfmwtSzjoLYoTnCs=;
+        b=HlQEtaxDYNASFRA7CyCd4jTRMfsWM0ac0aCjj/Q4/B4v+5OB1qGvzl7oFyDf7mlaqh
+         ew8FF860obZxoOB8CNGU9zhObg3Tkf+1AGJ08B1ffE9lx58WX5wYvl2qUq4O6m9jT0Eq
+         sirRSFRJEU4idPyCVy+ypTb6qrWOLvp3NmfOUPqKh8vPkyHXn8abneSKuNLgu83Cfyz0
+         IGEpvNjGnk3EPdfBl0tSe1vsMtFBMRgE23+YmQxD7KI3/QLWCDJSXrIVmbG6IEejozZV
+         HJ+bEPAhL5YlXhVWpZsp4cx7povaa+CJjwt3AYRmYAzNXvtMyrEVWnYg+JlWxp+Tz7M4
+         pDPQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:content-transfer-encoding:from:mime-version:date
+         :message-id:to;
+        bh=kCPGAwbc3IkC1bF4Lt/8ibU3u+ZSfmwtSzjoLYoTnCs=;
+        b=jzdCkkjFkfYZ8/IN6DuMCmIkUVVfS13O/Yh7hYc9Mx95GF20V9VttgW+x5E8sYdFvu
+         7KJWZlrEp+6v2gTKxLTGUU8dcIOTtlebFd/mxxKR0BuqGEnJ0R5dsUpshMXhzNQiUpaI
+         Ox+rdJP7JaGpklnnBq6lUlD5kbLMAbo6PuvCo6HhC1rDFY0lKX94k528BD+0VqhCGR65
+         huTlXaO7aaXUZexZRpt+OKB3DisLkjJ9tZDk2zIOrsM/lV3Jl/yJ+Km7HI0twUi4r+a9
+         6duMpgUZuHBZUT0qmd3+52cGWS0qLd9V6FfcOH4PjLjeZ2Ra1b5ecdc0xA1XddrRFJkZ
+         yGPg==
+X-Gm-Message-State: AHQUAubCP/w+jb589eX7/bCMiqQs5vPfi1WmIXaVp5x0zXPmSuSt5kp+
+	vZ0jh66/0fxLgD9QkStmmL34blO8
+X-Google-Smtp-Source: AHgI3IaO2VkqSfrlIEd08dzl4Y6MFzgseSSekn28hE5uYkqSS8141vVqkOabpeF58Dq4rvAuHrhA+Q==
+X-Received: by 2002:a2e:89d7:: with SMTP id c23-v6mr3250815ljk.0.1549994750980;
+        Tue, 12 Feb 2019 10:05:50 -0800 (PST)
+Received: from [192.168.1.57] ([109.225.41.193])
+        by smtp.gmail.com with ESMTPSA id a3-v6sm2819749ljd.20.2019.02.12.10.05.48
+        for <Rim@tverreg.ru>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 12 Feb 2019 10:05:49 -0800 (PST)
+From: =?utf-8?B?0JDQvdCw0YLQvtC70LjQuSDQkNGA0YLQsNC80L7QvdC+0LI=?= <t.artamonov52@gmail.com>
+Date: Tue, 12 Feb 2019 21:05:47 +0300
+Message-Id: <8F6C1687-98C4-406A-ACA9-96B3FEB93360@gmail.com>
+To: =?utf-8?B?ItCg0YPQtNC10L3RjyDQmNCz0L7RgNGMINCc0LjRhS4i?= <Rim@tverreg.ru>
+X-Mailer: iPhone Mail (16C101)
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (t.artamonov52[at]gmail.com)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (kolodovaea[at]yandex.ru) (t.artamonov52[at]gmail.com)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	MISSING_SUBJECT         1.799 Missing Subject: header
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at http://www.dnswl.org/, no trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: t.artamonov52@gmail.com
+X-MS-Exchange-Organization-Network-Message-Id: 498b93be-c201-4c87-13de-08d69114c024
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:09.3215737
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+</div></span></font>
+</div>
+<DIV>
+<IMG SRC="cid:f6e71e2e-d523-4367-839a-1e44b4e353cf@tverreg.ru">
+</DIV><div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone</div></span></font>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

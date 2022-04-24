@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13f4000
+DTSTAMP:20220424T204127Z
+CREATED:20171205T114638Z
+LAST-MOD:20171205T113901Z
+SUMMARY:Церемония подписания соглашения между ПТО и ООО «Орион Интернейшнл Евро» о реализации инвест.проекта по строительству завода по производству продуктов питания  (отв. Меньщиков А.В.\, Павлова О.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171206T100000Z
+DTEND;VALUE=DATE-TIME:20171206T103000Z
+LOCATION:каб. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

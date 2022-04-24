@@ -1,0 +1,58 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 28 Mar 2018 13:42:18 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 28 Mar
+ 2018 13:42:18 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 28 Mar 2018 13:42:17 +0300
+Received: from f373.i.mail.ru ([217.69.141.15])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <ryab@bk.ru>)
+	id 1f18X2-0002fC-3c
+	for rim@tverreg.ru; Wed, 28 Mar 2018 06:42:16 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=YnBgTac62lktHr4w2LvBpEzD3B1qZlprwhp6BlZu+sI=;
+	b=i3MyBxYT8Hgqh5ZGqdnbscRDrsM9m6vY7i/lfWuVcL9iuyLI8M14fITDSc/ct8d3831fw1zhCZ0uqY4A5RLxgiRMsf5V57bgR/YbfcThjsjOPzyYnXXd51d6C7nl139kUdmmnuuQSshVJIr5vErUos5Y199N6kQcWXGm6hKEcDs=;
+Received: by f373.i.mail.ru with local (envelope-from <ryab@bk.ru>)
+	id 1f18Wz-0007q0-FP
+	for rim@tverreg.ru; Wed, 28 Mar 2018 13:42:13 +0300
+Received: by e.mail.ru with HTTP;
+	Wed, 28 Mar 2018 13:42:13 +0300
+From: =?UTF-8?B?0JDQu9C10LrRgdCw0L3QtNGAINCg0Y/QsdC40L3QutC40L0=?= <ryab@bk.ru>
+To: rim@tverreg.ru
+Subject: =?UTF-8?B?0KDQtdC30Y7QvNC1INCT0YPRgNC10YbQutC+0LPQviDQri7QkS4=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Wed, 28 Mar 2018 13:42:13 +0300
+Reply-To: =?UTF-8?B?0JDQu9C10LrRgdCw0L3QtNGAINCg0Y/QsdC40L3QutC40L0=?= <ryab@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1522233733.710217968@f373.i.mail.ru>
+Authentication-Results: f373.i.mail.ru; auth=pass smtp.auth=ryab@bk.ru smtp.mailfrom=ryab@bk.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE71F58547099343477C4224003CC836476D1DB134E79BD61627866D6147AF826D8DC5A0F46F5DCBAB5F2ABE36F5BDCEA1A089D37D7C0E48F6C8AA50765F79006376F20E8504F276CEBC22B149D9D72CA19089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E702E4EE3A04994FF497E5BFE6E7EFDEDCD789D4C264860C145E
+X-Mailru-MI: 800
+X-Mailru-Sender: 4F105942AF9D4BDA58556BCFD531162C4B9696D317EAECC2BA1E6811929D54C31C863C12EFF78FC47326B261E47C33357903AA853BEC14D6E6782D402F919AA12CA1F4C27F84AF4381CACA38EEC31E2BAA95F328FD9593E35FEEDEB644C299C0ED14614B50AE0675
+X-Mras: OK
+X-Spam: undefined
+Return-Path: ryab@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: e3efce86-0560-43f1-92a3-08d5949893ec
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.3750898
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Р”РѕР±СЂС‹Р№ РґРµРЅСЊ,&nbsp;<br>РќР°РїСЂР°РІР»СЏСЋ Р’Р°Рј СЂРµР·СЋРјРµ Р“СѓСЂРµС†РєРѕРіРѕ Р®.Р‘.<br><br>--&nbsp;<br>РЎ СѓРІР°Р¶РµРЅРёРµРј!<br>РђР»РµРєСЃР°РЅРґСЂ Р СЏР±РёРЅРєРёРЅ<br>8-926-131-43-33<br></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

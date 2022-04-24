@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x31d178
+DTSTAMP:20220424T204126Z
+CREATED:20211202T081839Z
+LAST-MOD:20211202T080721Z
+SUMMARY:Встреча с Беловым Владимиром Викторовичем - директором государственного автономного учреждения культуры Тверской области «Тверская академическая областная филармония» (отв. Новикова В.И.\, Сальникова Т.А.)\n
+DTSTART;VALUE=DATE-TIME:20211202T100000Z
+DTEND;VALUE=DATE-TIME:20211202T103000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

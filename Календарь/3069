@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe4f964
+DTSTAMP:20220424T204127Z
+CREATED:20190819T105230Z
+LAST-MOD:20190819T104924Z
+SUMMARY:Совещание\, тема: «О повышении эффективности работы отрасли спорта» (отв. Белоцерковский А.В.\, Решетов А.А.\, Пикалев С.И.\, Подтихова М.И.\, пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190819T113000Z
+DTEND;VALUE=DATE-TIME:20190819T123000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

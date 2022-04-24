@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x710170
+DTSTAMP:20220424T204126Z
+CREATED:20210325T114232Z
+LAST-MOD:20210325T065709Z
+SUMMARY:Торжественная церемония вручения сертификатов на приобретение (строительство) жилья для молодых семей Тверской области (отв. Новикова В.И.\, Прохорова А.С.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210325T130000Z
+DTEND;VALUE=DATE-TIME:20210325T134000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

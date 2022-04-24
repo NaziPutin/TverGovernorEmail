@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3a23d8
+DTSTAMP:20220424T204126Z
+CREATED:20211102T193252Z
+LAST-MOD:20211102T192150Z
+SUMMARY:Рабочая встреча\, тема: «О создании культурно-исторического кластера в городе Твери» (отв. Новикова В.И.\, Сальникова Т.А.\, Смирнов М.Ю.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211103T070000Z
+DTEND;VALUE=DATE-TIME:20211103T073000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

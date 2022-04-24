@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8481f4
+DTSTAMP:20220424T204126Z
+CREATED:20210125T160326Z
+LAST-MOD:20210125T075619Z
+SUMMARY:Совещание\, тема: «О дополнительных предложениях в АИП Тверской области на 2021 г. и на плановый период 2022 и 2023 гг.» (отв. Егоров И.И.\, Ажгиревич А.И.\, Емельянов А.А.\, Подтихова М.И.\, пресс-служба) Состав участников по списку
+DTSTART;VALUE=DATE-TIME:20210125T140000Z
+DTEND;VALUE=DATE-TIME:20210125T150000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

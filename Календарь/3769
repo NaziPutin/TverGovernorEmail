@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10f8f38
+DTSTAMP:20220424T204127Z
+CREATED:20190109T152221Z
+LAST-MOD:20190109T125702Z
+SUMMARY:Встреча с коллективом вокального ансамбля «Метелица» (отв. Хохлова Е.В.\, Ищенко А.Н.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190110T143000Z
+DTEND;VALUE=DATE-TIME:20190110T152000Z
+LOCATION:ул.Склизкова\, д.48\, ГБУ «Тверской комплексный центр социального обслуживания населения» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

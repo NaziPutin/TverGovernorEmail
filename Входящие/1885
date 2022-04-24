@@ -1,0 +1,92 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 27 May 2020 19:19:26 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 27 May
+ 2020 19:19:21 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Wed, 27 May 2020 19:19:16 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JzQsNGC0LXRgNC40LDQu9GLINC+0YIg0JUu0JAu0J3QuNC60L7Qu9Cw0LU=?=
+ =?utf-8?B?0LLQvtC5ICjQl9GD0LHRhtC+0LLRgdC60LjQuSDRgNCw0LnQvtC9KQ==?=
+Thread-Topic: =?utf-8?B?0JzQsNGC0LXRgNC40LDQu9GLINC+0YIg0JUu0JAu0J3QuNC60L7Qu9Cw0LU=?=
+ =?utf-8?B?0LLQvtC5ICjQl9GD0LHRhtC+0LLRgdC60LjQuSDRgNCw0LnQvtC9KQ==?=
+Thread-Index: AdY0QoGbNYWscD4TSS2Dg3OzuzKoKA==
+Date: Wed, 27 May 2020 19:19:15 +0300
+Message-ID: <64ffb60dc5974078a2c69c7d76570f9f@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <64ffb60dc5974078a2c69c7d76570f9f@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: c879d260-c98f-473e-e45b-08d80259b3e8
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:12.4964223
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helv;
+	panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;font-family:"Helv",sans-serif;color:black'>РЎ СѓРІР°Р¶РµРЅРёРµРј, <o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;font-family:"Helv",sans-serif;color:black'>Рђ.РЎРєРѕСЂС‹Р№<o:p></o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;font-family:"Helv",sans-serif;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-autospace:none'><span style='font-size:10.0pt;font-family:"Helv",sans-serif;color:black'>РџРµСЂРІС‹Р№ Р·Р°РјРµСЃС‚РёС‚РµР»СЊ СЂСѓРєРѕРІРѕРґРёС‚РµР»СЏ Р°РїРїР°СЂР°С‚Р° РџСЂР°РІРёС‚РµР»СЊСЃС‚РІР° РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё, РЅР°С‡Р°Р»СЊРЅРёРє СѓРїСЂР°РІР»РµРЅРёСЏ СЃРµРєСЂРµС‚Р°СЂРёР°С‚РѕРј Р“СѓР±РµСЂРЅР°С‚РѕСЂР° РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё РђРїРїР°СЂР°С‚Р° РџСЂР°РІРёС‚РµР»СЊСЃС‚РІР° РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё</span><span style='font-size:14.0pt;color:#1F497D'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:#1F497D'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

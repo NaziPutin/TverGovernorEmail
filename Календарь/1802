@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x920374
+DTSTAMP:20220424T204126Z
+CREATED:20200930T132457Z
+LAST-MOD:20200930T132618Z
+SUMMARY:Рабочая встреча\, тема: «О реализации проектов муниципальных образований Тверской области – победителей Всероссийского конкурса лучших проектов создания комфортной городской среды» (отв. Егоров И.И.\, Подтихова М.И.\, Цветков А.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200930T140000Z
+DTEND;VALUE=DATE-TIME:20200930T143000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

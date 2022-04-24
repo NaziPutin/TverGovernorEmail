@@ -1,0 +1,47 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 28 Nov 2018 18:07:39 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 28 Nov
+ 2018 18:07:39 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.0396.037; Wed, 28 Nov 2018 18:07:39 +0300
+From: =?utf-8?B?0KHRgtC10L/QsNC90L7QsiDQktCw0LTQuNC8INCS0LDQu9C10YDRjNC10LI=?=
+ =?utf-8?B?0LjRhw==?= <stepanov@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JjRgdC/0L7Qu9C90LXQvdC40LUg0L/QvtGA0YPRh9C10L3QuNGPINC/0L4g?=
+ =?utf-8?B?0YLRgNGD0LTQvtGD0YHRgtGA0L7QudGB0YLQstGDINC80L3QvtCz0L7QtNC1?=
+ =?utf-8?B?0YLQvdC+0LPQviDQvtGC0YbQsA==?=
+Thread-Topic: =?utf-8?B?0JjRgdC/0L7Qu9C90LXQvdC40LUg0L/QvtGA0YPRh9C10L3QuNGPINC/0L4g?=
+ =?utf-8?B?0YLRgNGD0LTQvtGD0YHRgtGA0L7QudGB0YLQstGDINC80L3QvtCz0L7QtNC1?=
+ =?utf-8?B?0YLQvdC+0LPQviDQvtGC0YbQsA==?=
+Thread-Index: AQHUhywaRvu0U0CpRE6pRXPFzHzgMA==
+Date: Wed, 28 Nov 2018 18:07:39 +0300
+Message-ID: <85f18c45-d2e5-4e72-8ccb-e07a5cef54cb@email.android.com>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <85f18c45-d2e5-4e72-8ccb-e07a5cef54cb@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 77cf5deb-1885-4f1c-3638-08d655433d03
+Return-Path: stepanov@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3750074
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER5E7AFA18
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="auto"><div data-smartmail="gmail_signature" dir="auto">Игорь Михайлович, направляю на рассмотрение служебную записку по исполнению поручения.</div><div data-smartmail="gmail_signature" dir="auto"><br></div><div data-smartmail="gmail_signature" dir="auto">С уважением,</div><div data-smartmail="gmail_signature" dir="auto">Вадим Степанов</div></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x87094c
+DTSTAMP:20220424T204126Z
+CREATED:20201223T201928Z
+LAST-MOD:20201224T135220Z
+SUMMARY:Итоговое мероприятие\, посвященное окончанию образовательных программ для начинающих и действующих предпринимателей ТО Центра поддержки предпринимательства ТО (отв. Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201224T133000Z
+DTEND;VALUE=DATE-TIME:20201224T140000Z
+LOCATION:пр-т Победы\, д.14\, Центр оказания услуг «Мой бизнес» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x132a540
+DTSTAMP:20220424T204127Z
+CREATED:20180515T130939Z
+LAST-MOD:20180515T063127Z
+SUMMARY:Совещание\, тема: «О повышении в 2018 году МРОТ в подведомственных государственных и муниципальных организациях Тверской области» (отв. Меньщиков А.В.\, Северина И.А.\, Белоцерковский А.В.\, Синода В.А.). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180516T110000Z
+DTEND;VALUE=DATE-TIME:20180516T123000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

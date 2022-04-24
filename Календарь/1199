@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6c8030
+DTSTAMP:20220424T204126Z
+CREATED:20210415T124712Z
+LAST-MOD:20210415T055839Z
+SUMMARY:Совещание\, тема: «О дополнительной потребности финансовых средств на реализацию Программы газификации Тверской области на 2021-2025 гг.» (отв. Ажгиревич А.И.\, Подтихова М.И.\, Цветков А.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210415T143000Z
+DTEND;VALUE=DATE-TIME:20210415T153000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

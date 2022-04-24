@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14f8dbc
+DTSTAMP:20220424T204127Z
+CREATED:20170620T163144Z
+LAST-MOD:20181206T204843Z
+SUMMARY:Встреча с представителями Федерального государственного унитарного предприятия "Паспортно-визовый сервис" Министерства внутренних дел РФ (отв. Меньщиков А.В.\, Попенко В.И.\, Исаев С.А.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170621T140000Z
+DTEND;VALUE=DATE-TIME:20170621T150000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

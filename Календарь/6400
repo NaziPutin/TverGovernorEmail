@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1577a9c
+DTSTAMP:20220424T204127Z
+CREATED:20170201T171106Z
+LAST-MOD:20170202T083404Z
+SUMMARY:Совещание по проекту плана мероприятий («дорожной карте») по организации предоставления государственных и муниципальных услуг в электронном виде в ТО на 2017г. (отв. Меньщиков А.В.\, Вожакин Е.Е.\, СМИ)
+DTSTART;VALUE=DATE-TIME:20170202T130000Z
+DTEND;VALUE=DATE-TIME:20170202T143000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

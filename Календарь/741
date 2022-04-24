@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4cc270
+DTSTAMP:20220424T204126Z
+CREATED:20210818T101444Z
+LAST-MOD:20210818T100150Z
+SUMMARY:Встреча с Ломакой Г.А. – главой Бологовского района\, Никифоровой А.С. – главой Кувшиновского района\, Самодуровой Е.В. – главой Фировского района\, Яковлевой Н.А. – главой ЗАТО Озерный (отв. Егоров И.И.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210818T093000Z
+DTEND;VALUE=DATE-TIME:20210818T094500Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,45 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Wed, 27 Jun 2018 19:49:01 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Wed, 27 Jun
+ 2018 19:49:00 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Wed, 27 Jun 2018 19:49:00 +0300
+To: <rim@tverreg.ru>
+Subject: =?KOI8-R?B?zc/OydTP0snOxyDQ1cLMycvBw8nKINLF09XS08/XINDPzMnUyd7F08vJyA==?=
+ =?KOI8-R?B?INDB0tTJyiDJINPPw8nBzNjOz8og08XUySBGYWNlYm9vazsg?=
+ =?KOI8-R?B?0NXCzMnLwcPJySDQzyDUxc3B1MnLxSDQz9bB0sEgzsEgzdXTz9LOz80=?=
+ =?KOI8-R?B?INDPzMnHz87FINcgxy4g68nN0tk=?=
+X-KeepSent: 9BB6EFBA:935F9EEB-432582B9:005BEEBF;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.1 September 28, 2009
+Message-ID: <OF9BB6EFBA.935F9EEB-ON432582B9.005BEEBF-432582B9.005C812D@web.region.tver.ru>
+From: =?KOI8-R?B?9dDSwdfMxc7JxSDBzsHMydrBIMkgzc/OydTP0snOx8Egz8LdxdPU18Uv?=
+ =?KOI8-R?B?4cTNyc7J09TSwcPJ0SD018XS08vPyiDPwszB09TJ?=
+	<Upr_aim@web.region.tver.ru>
+Date: Wed, 27 Jun 2018 19:48:57 +0300
+X-MIMETrack: S/MIME Sign by Notes Client on Upravlenie analiza i monitoringa/TverRegAdm/RU(Release
+ 8.5.1|September 28, 2009) at 27.06.2018 19:50:23,
+	Serialize by Notes Client on Upravlenie analiza i monitoringa/TverRegAdm/RU(Release
+ 8.5.1|September 28, 2009) at 27.06.2018 19:50:23,
+	Serialize complete at 27.06.2018 19:50:23,
+	=?KOI8-R?B?Uy9NSU1FIFNpZ24gZmFpbGVkIGF0IDI3LjA2LjIwMTggMTk6NTA6MjM6IO7F?=
+ =?KOI8-R?B?IM7BysTFziDbycbSz9fBzNjO2cogy8zA3g==?=,
+	Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 27.06.2018 19:49:01
+Return-Path: Upr_aim@web.region.tver.ru
+X-MS-Exchange-Organization-Network-Message-Id: 43364869-f947-4276-8b43-08d5dc4de23b
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.9219519
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

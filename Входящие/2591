@@ -1,0 +1,98 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 5 Apr 2019 13:47:40 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 5 Apr
+ 2019 13:47:40 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 5 Apr 2019
+ 13:47:40 +0300
+From: =?utf-8?B?0JzQsNC60YHQuNC80L7QsiDQnNCw0LrRgdC40Lwg0JDQvdC00YDQtdC10LI=?=
+ =?utf-8?B?0LjRhw==?= <MaksimovMA@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?UkU6INCeINCy0LjQtNC10L7RgdC10LvQtdC60YLQvtGA0L3QvtC8INGB0L4=?=
+ =?utf-8?B?0LLQtdGJ0LDQvdC40Lgg0YMg0KHQutCy0L7RgNGG0L7QstC+0Lkg0JIu0Jgu?=
+ =?utf-8?B?ICgwOC4wNC4yMDE5LCAxMCDRh9Cw0YEuIDAwINC80LjQvS4p?=
+Thread-Topic: =?utf-8?B?0J4g0LLQuNC00LXQvtGB0LXQu9C10LrRgtC+0YDQvdC+0Lwg0YHQvtCy0LU=?=
+ =?utf-8?B?0YnQsNC90LjQuCDRgyDQodC60LLQvtGA0YbQvtCy0L7QuSDQki7QmC4gKDA4?=
+ =?utf-8?B?LjA0LjIwMTksIDEwINGH0LDRgS4gMDAg0LzQuNC9Lik=?=
+Thread-Index: AdTrmu50rCGdigmCS86TZ76kPjk02wAALiEzAAAoKlA=
+Date: Fri, 5 Apr 2019 13:47:40 +0300
+Message-ID: <f12c1794138f44de923a29901f94a70b@tverreg.ru>
+References: <df1ac562ffdc44449c8d1dd5f91fba8b@tverreg.ru>
+ <4600FE99-5971-44FC-8049-9F946D23C59F@tverreg.ru>
+In-Reply-To: <4600FE99-5971-44FC-8049-9F946D23C59F@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <f12c1794138f44de923a29901f94a70b@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: f85db36b-28e4-4814-9aa0-08d6b9b4204d
+Return-Path: MaksimovMA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2550518
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER658DBBE0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Times New Roman","serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>К участию в селекторе будут привлечены:<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- Главный врач ОКБ Козлов С.Е., <o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- Ректор ТГМУ Чичановская Л.В. (главный внештатный специалист по неврологии),<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- Главные внештатные специалисты по кардиологии, медицинской профилактике;<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- и.о. главного врача онкологического диспансера Комарова О.А.;<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- Главный врач Центра им. Аваева Конюхова К.А.;<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- Руководитель Росздравнадзора по ТО Морозова Н.Е.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- начальники профильных отделов МЗ ТО;<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>- Директор ТФОМС Гуляева Н.М.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:black'>С Уважением, Максимов М.А.<o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-language:RU'>From:</span></b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif";mso-fareast-language:RU'> Руденя Игорь Михайлович <br><b>Sent:</b> Friday, April 05, 2019 2:38 PM<br><b>To:</b> Максимов Максим Андреевич<br><b>Cc:</b> Синода Виталий Александрович; Петрова Анна Валерьевна; Орлов Андрей Викторович<br><b>Subject:</b> Re: О видеоселекторном совещании у Скворцовой В.И. (08.04.2019, 10 час. 00 мин.)<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><div><p class=MsoNormal>Внесите предложения по участию в селекторе главврачей и других руководителей отрасли. Срок сегодня до 16-00.<o:p></o:p></p></div><div><p class=MsoNormal style='margin-bottom:12.0pt'><br>5 апр. 2019 г., в 13:16, Петрова Анна Валерьевна &lt;<a href="mailto:petrova@tverreg.ru">petrova@tverreg.ru</a>&gt; написал(а):<o:p></o:p></p></div><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal>Уважаемый Игорь Михайлович!<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>Информирую Вас о том, что в Ваш адрес поступила телеграмма от заместителя Министра здравоохранения РФ Камкина Е.Г. с просьбой обеспечить участие Вашего заместителя, руководителя органа управления здравоохранения и других представителей субъекта в видеоселекторном совещании под председательством Министра здравоохранения РФ Скворцовой В.И. &nbsp;по вопросам снижения смертности и реализации национальных проектов (8 апреля 2019 г., 10 час. 00 мин.).<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>Проинформированы: Синода В.А., Максимов М.А., Орлов А.В.<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>Просьба согласовать участие Синоды В.А., Максимова М.А. в видеоселекторном совещании.<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>При этом обращаю Ваше внимание на то, что 8 апреля 2019 г. в 10 час. 00 мин. в Вашем рабочем графике запланировано организационное совещание Правительства Тверской области.<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>На Ваше решение.<o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><p class=MsoNormal>С уважением,<o:p></o:p></p><p class=MsoNormal>Петрова А.В.<o:p></o:p></p></div></blockquote><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal><span style='font-size:12.0pt;mso-fareast-language:RU'>&lt;Скворцова В.И. 08.04.2019.pdf&gt;<o:p></o:p></span></p></div></blockquote></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

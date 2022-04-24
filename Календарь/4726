@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x139ce34
+DTSTAMP:20220424T204127Z
+CREATED:20180209T174803Z
+LAST-MOD:20180209T151121Z
+SUMMARY:Совещание\, тема: «О плане ремонта автомобильных дорог местного значения (меры поддержки муниципальных образований Тверской области)» (отв. Меньщиков А.В.\, Павлов И.А.\, пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180212T120000Z
+DTEND;VALUE=DATE-TIME:20180212T133000Z
+LOCATION:каб. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

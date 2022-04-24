@@ -1,0 +1,93 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 26 Sep 2019 12:26:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 26 Sep
+ 2019 12:26:11 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Thu, 26 Sep 2019
+ 12:26:13 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?yO307vDs4Pbo/yDu4SDu8e/g8Oji4O3o6CDt7vDs4PLo4u379SDv8ODi?=
+ =?windows-1251?B?7uL79SDg6vLu4iDS4uXw8eru6SDu4evg8fLoIOIg0uLl8PHq7uwg7uHr?=
+ =?windows-1251?B?4PHy7e7sIPHz5OU=?=
+Thread-Topic: =?windows-1251?B?yO307vDs4Pbo/yDu4SDu8e/g8Oji4O3o6CDt7vDs4PLo4u379SDv8ODi?=
+ =?windows-1251?B?7uL79SDg6vLu4iDS4uXw8eru6SDu4evg8fLoIOIg0uLl8PHq7uwg7uHr?=
+ =?windows-1251?B?4PHy7e7sIPHz5OU=?=
+Thread-Index: AdV0SQp1j4UfGiWWThCrvvGXrrSylw==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Thu, 26 Sep 2019 12:26:12 +0300
+Message-ID: <db29596bf0304505950007c1622ec60e@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <db29596bf0304505950007c1622ec60e@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 53cccd96-a45b-4b18-fcfe-08d742639331
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.6362614
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal style='text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович! <o:p></o:p></span></p><p class=MsoNormal style='text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>В настоящее время в Тверском областном суде оспариваются три важных нормативных правовых акта Тверской области:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>1.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> Закон Тверской области от 23.07.2019 № 45-ЗО «Об отдельных вопросах организации регулярных перевозок пассажиров и багажа автомобильным транспортом на территории города Твери и Тверской области». <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Указанным законом полномочия по организации транспортного обслуживания в городе Твери и Калининском районе от органов местного самоуправления переданы органам государственной власти Тверской области.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Административный истец – ООО «ИНТЕРШИНА» (учредитель Рукавишников С.А.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> Рассмотрение дела назначено на<b> 09.10.2019.<o:p></o:p></b></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>2.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> Постановление Правительства Тверской области от 30.07.2019 № 298-пп «Об утверждении документа планирования регулярных перевозок пассажиров …..». <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Данный документ предусматривает изменение вида регулярных перевозок с <i>нерегулируемыми</i> тарифами на регулярные перевозки с <i>регулируемыми</i> тарифами <u>с целью аннулирования свидетельств действующих перевозчиков.<o:p></o:p></u></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Административный истец – ООО «ИНТЕРШИНА» (учредитель Рукавишников С.А.).<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Рассмотрение дела назначено на<b> 09.10.2019.<o:p></o:p></b></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>3.</span></b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> Постановление Правительства Тверской области от 26.04.2019 № 151-пп.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Указанным постановлением из единых специально отведенных мест для коллективного обсуждения общественно значимых вопросов, а также массового присутствия граждан для публичного выражения общественного мнения исключены:<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> - площадь Славы, г. Тверь;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>  - сквер на проспекте Ленина (напротив здания Тверского государственного технического университета), г. Тверь;<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Административный истец – Прокудин А.С.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Рассмотрение дела назначено на <b>11.10.2019.<o:p></o:p></b></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><b><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></b></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>Подробные информационные справки прилагаются во вложении.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'>С уважением,<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:1.0cm;line-height:150%'><span style='font-size:16.0pt;line-height:150%;font-family:"Times New Roman",serif'> П. Смялковский<o:p></o:p></span></p><p class=MsoNormal style='line-height:150%'><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

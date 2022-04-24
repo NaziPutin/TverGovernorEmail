@@ -1,0 +1,101 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 17 Feb 2022 09:31:25 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 17 Feb
+ 2022 09:31:25 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 17 Feb 2022 09:31:24 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?UkU6INC+0LHQvdC+0LLQu9C10L3QvdGL0Lkg0YHQv9C40YHQvtC6INC/0YA=?=
+ =?utf-8?B?0LjQs9C70LDRiNC10L3QvdGL0YUg0L3QsCDQl9Cf0KLQviAxNy4wMi4yMiA=?=
+ =?utf-8?B?0L/QviDQv9C10YDQstC+0LzRgyDQstC+0L/RgNC+0YHRgw==?=
+Thread-Topic: =?utf-8?B?0L7QsdC90L7QstC70LXQvdC90YvQuSDRgdC/0LjRgdC+0Log0L/RgNC40LM=?=
+ =?utf-8?B?0LvQsNGI0LXQvdC90YvRhSDQvdCwINCX0J/QotC+IDE3LjAyLjIyINC/0L4g?=
+ =?utf-8?B?0L/QtdGA0LLQvtC80YMg0LLQvtC/0YDQvtGB0YM=?=
+Thread-Index: AdgjH6jI2lOoTW5RTTSfGibZdba/WAAANRQ7ACnewtA=
+Date: Thu, 17 Feb 2022 09:31:24 +0300
+Message-ID: <dea568101cce4ffc9368afb8c20b28c8@tverreg.ru>
+References: <b95168c1d5824fb8aeeabdfe0a3f8de5@tverreg.ru>
+ <57358C32-1BC1-4025-8191-19D4BA123C93@tverreg.ru>
+In-Reply-To: <57358C32-1BC1-4025-8191-19D4BA123C93@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <dea568101cce4ffc9368afb8c20b28c8@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.102.122]
+X-MS-Exchange-Organization-Network-Message-Id: c5e16863-de8b-40bf-4ca9-08d9f1df1f02
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3970372
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:105%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='color:#1F497D'>Принято<o:p></o:p></span></p><p class=MsoNormal><span style='color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'><b><span style='mso-fareast-language:RU'>From:</span></b><span style='mso-fareast-language:RU'> Руденя Игорь Михайлович <br><b>Sent:</b> Wednesday, February 16, 2022 1:32 PM<br><b>To:</b> Каравайный Константин Иванович &lt;Karavayniy_KI@tverreg.ru&gt;<br><b>Cc:</b> Скорый Алексей Владимирович &lt;SkoriyAV@tverreg.ru&gt;<br><b>Subject:</b> Re: обновленный список приглашенных на ЗПТо 17.02.22 по первому вопросу<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><div><p class=MsoNormal>Согласовано&nbsp;<span style='font-size:12.0pt;line-height:105%;mso-fareast-language:RU'><o:p></o:p></span></p></div><div><p class=MsoNormal><br><br><o:p></o:p></p><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><p class=MsoNormal style='margin-bottom:12.0pt'>16 февр. 2022&nbsp;г., в 13:27, Каравайный Константин Иванович &lt;<a href="mailto:Karavayniy_KI@tverreg.ru">Karavayniy_KI@tverreg.ru</a>&gt; написал(а):<o:p></o:p></p></blockquote></div><blockquote style='margin-top:5.0pt;margin-bottom:5.0pt'><div><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>﻿ <span style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович! </span><o:p></o:p></p><p class=MsoNormal><span style='font-size:16.0pt;line-height:105%;font-family:"Times New Roman",serif'>В соответствии с Вашим поручением направляю на согласование обновленный список приглашенных по первому вопросу заседания Правительства Тверской области 17.02.2022 «О подготовке к проведению сезонных сельскохозяйственных работ на территории Тверской области в 2022 году» (исключили Ямалетдинову А.Ш. в связи с тем, что она заболела).</span><o:p></o:p></p><p class=MsoNormal>&nbsp;<o:p></o:p></p><div><p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Times New Roman",serif;mso-fareast-language:RU'>&lt;Список приглашенных экспертов.doc&gt;<o:p></o:p></span></p></div></div></blockquote></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

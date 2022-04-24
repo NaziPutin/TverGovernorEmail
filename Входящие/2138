@@ -1,0 +1,61 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 26 Dec 2019 02:57:19 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 26 Dec
+ 2019 02:57:13 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Thu, 26 Dec 2019 02:57:06 +0300
+From: =?koi8-r?B?49fF1MvP1yDhzMXL08HOxNIg6dfBzs/Xyd4=?= <CvetkovAI@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?7yDTydTVwcPJySDTINDSz8jP1sTFzsnFzSDnz9Pcy9PQxdLUydrZIMfB2s/X?=
+ =?koi8-r?B?2c3JIM/C38XL1MHNySDQ0s/Fy9TJ0s/Xwc7J0SAyMDE5IMfPxME=?=
+Thread-Topic: =?koi8-r?B?7yDTydTVwcPJySDTINDSz8jP1sTFzsnFzSDnz9Pcy9PQxdLUydrZIMfB2s/X?=
+ =?koi8-r?B?2c3JIM/C38XL1MHNySDQ0s/Fy9TJ0s/Xwc7J0SAyMDE5IMfPxME=?=
+Thread-Index: AQHVu37NqAgA8VVCnEqseEn0jViXEg==
+Date: Thu, 26 Dec 2019 02:57:06 +0300
+Message-ID: <8881603dd8c940cd975002708c0ddff0@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <8881603dd8c940cd975002708c0ddff0@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: be00904e-4393-4552-857b-08d7899625c6
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:13.0472780
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!</p>
+<p>оБРТБЧМСА ФЕЛХЭХА ЙОЖПТНБГЙА П РТПИПЦДЕОЙЙ зПУЬЛУРЕТФЙЪЩ ЗБЪПЧЩНЙ ПВЯЕЛФБНЙ РТПЕЛФЙТПЧБОЙС 2019 ЗПДБ.</p>
+<p><br>
+</p>
+<p>у ХЧБЦЕОЙЕН гЧЕФЛПЧ б.й.</p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

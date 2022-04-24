@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x139b5c8
+DTSTAMP:20220424T204127Z
+CREATED:20180228T105944Z
+LAST-MOD:20180228T090713Z
+SUMMARY:Торжественная церемония вручения сертификатов молодым семьям на приобретение (строительство) жилья в Тверской области (отв. Белоцерковский А.В.\, Степанов В.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180302T080000Z
+DTEND;VALUE=DATE-TIME:20180302T090000Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

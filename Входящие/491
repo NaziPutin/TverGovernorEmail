@@ -1,0 +1,87 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 1 Mar 2022 18:32:02 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 1 Mar 2022
+ 18:32:02 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Tue, 1 Mar 2022 18:32:02 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 7076E80DC1
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 18:32:01 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use '#@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="#@yandex.ru"; helo=forward102j.mail.yandex.net; client-ip=5.45.198.243
+Received: from forward102j.mail.yandex.net (forward102j.mail.yandex.net [5.45.198.243])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id D862780DBB
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 18:32:00 +0300 (MSK)
+Received: from forward103q.mail.yandex.net (forward103q.mail.yandex.net [IPv6:2a02:6b8:c0e:50:0:640:b21c:d009])
+	by forward102j.mail.yandex.net (Yandex) with ESMTP id 73F5E4BE61BC
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 18:32:00 +0300 (MSK)
+Received: from vla1-166bfab327a3.qloud-c.yandex.net (vla1-166bfab327a3.qloud-c.yandex.net [IPv6:2a02:6b8:c0d:3007:0:640:166b:fab3])
+	by forward103q.mail.yandex.net (Yandex) with ESMTP id 6F80456A0016
+	for <rim@tverreg.ru>; Tue,  1 Mar 2022 18:32:00 +0300 (MSK)
+Received: from 2a02:6b8:c0d:3603:0:640:5413:378e (2a02:6b8:c0d:3603:0:640:5413:378e [2a02:6b8:c0d:3603:0:640:5413:378e])
+	by vla1-166bfab327a3.qloud-c.yandex.net (mxback/Yandex) with HTTP id xVS2ID0fPqM1-W0f88IWi;
+	Tue, 01 Mar 2022 18:32:00 +0300
+X-Yandex-Fwd: 1
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1646148720;
+	bh=HvZh48Yl3QBVz6jf0obj0hjh2dg6yIgZ7noiwQBAfok=;
+	h=Message-Id:Date:Subject:To:From;
+	b=uW1Mt9Cw9cU6KqPyJStne6LUH/dq+D2XHo6wJ+AOIbQd2jTZG+kR9H+8D4PsW9VtQ
+	 EuZPf15ev94svNoswBnzsZvRA0bc1x/c6AlwLFvVtvshHmoNlw1JsJG+u9qUc6SKUm
+	 C0BcWCNWV5gQYFydicnoAokMwhAa9dCnp21XWSAE=
+Authentication-Results: vla1-166bfab327a3.qloud-c.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by vla1-5413378edd9f.qloud-c.yandex.net with HTTP;
+	Tue, 01 Mar 2022 18:32:00 +0300
+From: =?utf-8?B?0KDQvtGJ0LjQvdCwINCd0LDRgtCw0LvRjNGP?= <79106404111@yandex.ru>
+Envelope-From: bosik-roshina60@yandex.ru
+To: =?utf-8?B?0JjQs9C+0YDRjCDQnNC40YXQsNC50LvQvtCy0LjRhyDQoNGD0LTQtdC90Y8=?= <rim@tverreg.ru>
+Subject: =?utf-8?B?0L/QvtGA0YPRh9C10L3QuNC1?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Tue, 01 Mar 2022 18:32:00 +0300
+Message-Id: <269931646147989@mail.yandex.ru>
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddruddtvddgieelucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephffvufggofffkffgtgeshhgsredtredtjeenucfhrhhomheprfhopiiphhgrucfjrghtrgippiipuceojeeluddtieegtdegudduudeshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhepkedtieevfeevfeekiefhfffgvedtjeetffeiieeljeefudegtedtkeethffgudeunecukfhppedvrgdtvdemiegskeemtgdtugemfeeitdefmedtmeeigedtmeehgedufeemfeejkegv
+X-DrWeb-SpamVersion: Vade Retro 01.422.102#69 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	FROM_LOCAL_DIGITS       0.001 From: localpart has long digit sequence
+	FROM_LOCAL_HEX          0.006 From: localpart has long hexadecimal sequence
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddruddtvddgieelucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephffvufggofffkffgtgeshhgsredtredtjeenucfhrhhomheprfhopiiphhgrucfjrghtrgippiipuceojeeluddtieegtdegudduudeshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhepkedtieevfeevfeekiefhfffgvedtjeetffeiieeljeefudegtedtkeethffgudeunecukfhppedvrgdtvdemiegskeemtgdtugemfeeitdefmedtmeeigedtmeehgedufeemfeejkegv
+X-DrWeb-SpamVersion: Vade Retro 01.422.102#69 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: 79106404111@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 7441ce0a-c221-4b8a-9e04-08d9fb98a25b
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.1963532
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>&nbsp; &nbsp; &nbsp; Уважаемый Игорь Михайлович! По Вашему поручению направляю информацию по земельным участкам , граничащим с Казанским монастырем. Участки размежованы на три части и являются собственностью Тверской области.В настоящее время идет процесс согласования Министерства имущественных и земельных отношений Тверской области о предоставлении земельного участа с кадастровым номером 69:39:130305:113 Казанскому женскому монастырю для религиозного использования. Участок за монастырем в сторону Белого Омута будет передан МО Вышневолоцкий городской округ для благоустройства территории парковки для посетителей монастыря. Сейчас уже идет проектирование ремонта дороги по улице Сиверсова &nbsp;вдоль монастыря с организацией парковки и тротуара . С уважением Рощина</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

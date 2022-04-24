@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14c549c
+DTSTAMP:20220424T204127Z
+CREATED:20170815T160610Z
+LAST-MOD:20170816T134036Z
+SUMMARY:Селекторное совещание с главами МО ТО\, тема: «О ходе подготовки учреждений образования к началу 2017-2018 учебного года» (отв. Белоцерковскийй А.В.\, Сенникова Н.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170817T090000Z
+DTEND;VALUE=DATE-TIME:20170817T103000Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

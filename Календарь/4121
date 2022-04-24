@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x11c5628
+DTSTAMP:20220424T204127Z
+CREATED:20180912T092111Z
+LAST-MOD:20180912T091813Z
+SUMMARY:Совещание\, тема: «О вопросах законности деятельности полигона твердых бытовых отходов\, расположенного на территории \nг. Кимры Кимрского района Тверской области» (отв. Попенко В.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20180912T100000Z
+DTEND;VALUE=DATE-TIME:20180912T110000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

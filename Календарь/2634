@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc5b088
+DTSTAMP:20220424T204126Z
+CREATED:20200128T154849Z
+LAST-MOD:20200128T152652Z
+SUMMARY:Селекторное совещание с главами муниципальных образований Тверской области\, тема: «О реализации национальных проектов в Тверской области» (отв. Егоров И.И.\, Белорусов В.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200129T080000Z
+DTEND;VALUE=DATE-TIME:20200129T093000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

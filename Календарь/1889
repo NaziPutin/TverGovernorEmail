@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x98e610
+DTSTAMP:20220424T204126Z
+CREATED:20200909T072654Z
+LAST-MOD:20200909T061858Z
+SUMMARY:Посещение строящегося завода ООО «Орион Интернейшнл Евро» и подписание соглашения о сотрудничестве в рамках реализации инвестиционного проекта между Правительством Тверской области и ООО «Орион Интернейшнл Евро» (отв. Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200909T080000Z
+DTEND;VALUE=DATE-TIME:20200909T090000Z
+LOCATION:Калининский р-н\, Никулинское с/п\, строительная площадка в районе д. Кривцово 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

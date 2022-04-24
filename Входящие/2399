@@ -1,0 +1,48 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 31 Jul 2019 12:31:09 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 31 Jul
+ 2019 12:31:08 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Wed, 31 Jul 2019
+ 12:31:07 +0300
+From: =?utf-8?B?0J/QvtC/0LXQvdC60L4g0JLQsNGB0LjQu9C40Lkg0JjQstCw0L3QvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <popenko@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: Fwd: 
+Thread-Index: AQHVR3kfEj9OsHEDXUWATAoxYPoXk6bkdmV+
+Date: Wed, 31 Jul 2019 12:31:05 +0300
+Message-ID: <50BEDB2D-D2DE-4641-96E2-2A1AFF23D2AA@tverreg.ru>
+References: <OFDC194A26.F4441E97-ON43258448.002DFE40-43258448.002E6AA9@tverreg.ru>
+In-Reply-To: <OFDC194A26.F4441E97-ON43258448.002DFE40-43258448.002E6AA9@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <50BEDB2D-D2DE-4641-96E2-2A1AFF23D2AA@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 8d1539d3-aace-4931-8ab7-08d71599d126
+Return-Path: popenko@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.7690143
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERB6BC0783
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><br><br><div id="AppleMailSignature" dir="ltr">Отправлено с iPhone</div><div dir="ltr"><br>Начало переадресованного сообщения:<br><br></div><blockquote type="cite"><div dir="ltr"><b>От:</b> Главное управление региональной безопасно/Администрация Тверской области &lt;<a href="mailto:Reg_Bez@web.region.tver.ru">Reg_Bez@web.region.tver.ru</a>&gt;<br><b>Дата:</b> 31 июля 2019 г., 11:22:39 GMT&#43;3<br><b>Кому:</b> Попенко Василий Иванович/Администрация Тверской области &lt;<a href="mailto:PopenkoVI@tverreg.ru">PopenkoVI@tverreg.ru</a>&gt;<br><br></div></blockquote><div dir="ltr"><span></span></div><blockquote type="cite"><div dir="ltr"><span></span><br><span>(See attached file: АЗК_РЖЕВ_2019_2.docx)</span><br><span></span><br><span></span><br><span>С уважением,</span><br><span> приемная Главного управления региональной безопасности Тверской области</span><br><span> (4822) 34-14-74</span></div></blockquote><blockquote type="cite"><div dir="ltr"></div></blockquote></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

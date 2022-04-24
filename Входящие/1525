@@ -1,0 +1,94 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 1 Dec 2020 14:34:58 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 1 Dec
+ 2020 14:34:54 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 1 Dec 2020 14:34:54 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id E360722CBB
+	for <rim@tverreg.ru>; Tue,  1 Dec 2020 14:34:55 +0300 (MSK)
+Received-SPF: pass (icloud.com: 17.58.63.166 is authorized to use 'd.i.nasibullin@icloud.com' in 'mfrom' identity (mechanism 'ip4:17.58.0.0/16' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="d.i.nasibullin@icloud.com"; helo=st43p00im-zteg10062001.me.com; client-ip=17.58.63.166
+Received: from st43p00im-zteg10062001.me.com (st43p00im-zteg10062001.me.com [17.58.63.166])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id AD94222CB5
+	for <rim@tverreg.ru>; Tue,  1 Dec 2020 14:34:54 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1606822492;
+	bh=jUFlhY/oLjXB7/a7ph9yLhyV9QwWdHmlcwe86SjJ1GU=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id;
+	b=S03DaAezvsGUM+NiviOBwx/N00+ykkQyNCYH4n3/67lmaxv8U7MNvT3oltbaXO94R
+	 npfOaUvUbuisH5sf9yl9Z+pQe8XZPB4fAwzp7OPSPDOTuLVZv+JbIKCQf/TgrEigag
+	 hS8GOhkyG3PkoR71GZ01n4BaFaRfivKxAFsZWP2xI6G7itR9+iErmEPV36d3WimB3Q
+	 0DLZ/ADa0wuLvN7Y/PtnyX5craonL/QjN/eS8il0m5wlyx2Qgeh81dAwsP2fJbifuq
+	 2efDeJzFmd8krXdtvz4zYKiCh3h+a80ueztKH9p97UnRQfRYoRin0ZrUKw9t2GFDDu
+	 3zVJMXmzDvX3g==
+Received: from [192.168.0.101] (ip-46-73-127-186.bb.netbynet.ru [46.73.127.186])
+	by st43p00im-zteg10062001.me.com (Postfix) with ESMTPSA id 662416C03A8
+	for <rim@tverreg.ru>; Tue,  1 Dec 2020 11:34:52 +0000 (UTC)
+From: =?utf-8?B?0JTQvNC40YLRgNC40Lkg0J3QsNGB0LjQsdGD0LvQu9C40L0=?= <d.i.nasibullin@icloud.com>
+Date: Tue, 1 Dec 2020 14:34:46 +0300
+Subject: =?utf-8?B?0J/RgNC+0LXQutGCINC/0LjRgdGM0LzQsCDQktCh0JbQnC5kb2N4?=
+Message-Id: <8556A33B-EF1B-48B2-AAF9-0B29A597D843@icloud.com>
+CC: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L4=?=
+ =?utf-8?B?0LLQuNGH?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (18B92)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.312,18.0.737
+ definitions=2020-12-01_04:2020-11-30,2020-12-01 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=0 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1015 mlxscore=0
+ mlxlogscore=878 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2006250000 definitions=main-2012010075
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (trpsbb[at]mail.ru) (kalyazin-veter[at]mail.ru) (zna_1982[at]mail.ru) (crb_lesnoe[at]mail.ru) (d27320[at]yandex.ru) (admrameshki[at]mail.ru) (admrameshki[at]mail.ru) (tosznkrasholm[at]yandex.ru) (d.i.nasibullin[at]icloud.com)
+	MISSING_HEADERS         1.021 Missing To: header
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: d.i.nasibullin@icloud.com
+X-MS-Exchange-Organization-Network-Message-Id: 36cde057-6e26-4839-d0f9-08d895ed1fc0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.6467251
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText">Уважаемый Игорь Михайлович! <br>
+<br>
+По Вашему поручению направляю проект доклада Минтранса РФ по исполнению поручения Президента.<br>
+Документ получен мной от Минтранса РФ по неофициальному каналу, для согласования.<br>
+Прошу Ваших указаний:<br>
+1. Нужно ли запросить данный документ официально?<br>
+2. Можно ли согласовать такую редакцию, с учётом того, что проектирование ВСЖМ только начинается и ось трассы, как и расположение планируемого ТПУ окончательно не определено.<br>
+<br>
+С Уважением, Насибуллин <br>
+<br>
+<br>
+</div></span></font>
+</div>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+Отправлено с iPhone</div></span></font>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

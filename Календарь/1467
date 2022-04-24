@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x830738
+DTSTAMP:20220424T204126Z
+CREATED:20210122T060849Z
+LAST-MOD:20210121T180522Z
+SUMMARY:Подготовка к Совещанию (в режиме ВКС) по Инциденту № 20 «Вакцинация населения РФ» под председательством Мишустина М.В. - Председателя Правительства РФ (отв. Егоров И.И.\, Козлов С.Е.\, Новикова В.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210122T070000Z
+DTEND;VALUE=DATE-TIME:20210122T073000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

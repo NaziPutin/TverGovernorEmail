@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x7fd878
+DTSTAMP:20220424T204126Z
+CREATED:20210210T112132Z
+LAST-MOD:20210208T132923Z
+SUMMARY:Рабочая встреча\, тема: «О подготовке к заседанию Совета по инвестиционной политике и развитию предпринимательства в Тверской области» (отв. Егоров И.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210210T123000Z
+DTEND;VALUE=DATE-TIME:20210210T133000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

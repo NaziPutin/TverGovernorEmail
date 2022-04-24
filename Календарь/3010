@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe06af4
+DTSTAMP:20220424T204127Z
+CREATED:20190910T071359Z
+LAST-MOD:20190910T103731Z
+SUMMARY:Заседание Организационного комитета по подготовке и проведению юбилейных мероприятий\, посвященных 800-летию со дня рождения князя Александра Невского (отв. Белоцерковский А.В.\, Репина И.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190910T130000Z
+DTEND;VALUE=DATE-TIME:20190910T143000Z
+LOCATION:г. Москва\, ул. Волхонка\, д. 15\, Храм Христа Спасителя\, 1 этаж\, Сергиевский зал 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

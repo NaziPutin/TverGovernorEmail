@@ -1,0 +1,72 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 9 Mar 2020 17:31:26 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Mon, 9 Mar
+ 2020 17:31:18 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 9 Mar 2020 17:31:04 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id C6271212FE
+	for <rim@tverreg.ru>; Mon,  9 Mar 2020 17:31:05 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward100j.mail.yandex.net; client-ip=5.45.198.240
+Received: from forward100j.mail.yandex.net (forward100j.mail.yandex.net [5.45.198.240])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 906E42056E
+	for <rim@tverreg.ru>; Mon,  9 Mar 2020 17:31:02 +0300 (MSK)
+Received: from mxback11j.mail.yandex.net (mxback11j.mail.yandex.net [IPv6:2a02:6b8:0:1619::84])
+	by forward100j.mail.yandex.net (Yandex) with ESMTP id 02FAE50E156A
+	for <rim@tverreg.ru>; Mon,  9 Mar 2020 17:30:56 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback11j.mail.yandex.net (mxback/Yandex) with ESMTP id lZgCjz0DdI-Ut68HMMe;
+	Mon, 09 Mar 2020 17:30:55 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1583764255;
+	bh=IUwRuPyWlksn3skRodzg5K2tgJakE4uJXIE9zNcWKUw=;
+	h=Message-Id:Date:Subject:To:From;
+	b=YyfOamSbh9ubvGC/RRBuPmO6h+ARkFlXy4tC0rAScTRZ6HQHG5M9td0kmhJWHq3gM
+	 yeGxSRAjlPLxIyPpJEyZbei24lB1cYNx6XL+PO8XmbO+nyEbk4jCTpnIky7isL7ZLC
+	 UlxP+Seg57sQOxzvsM4w2labm/0hRVMe/o0ZLhow=
+Authentication-Results: mxback11j.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt4-d12e6d6cc867.qloud-c.yandex.net with HTTP;
+	Mon, 09 Mar 2020 17:30:55 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QviDQoNCa0KE=?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Mon, 09 Mar 2020 17:30:55 +0300
+Message-Id: <4062951583762927@myt3-9168aea9495d.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.118 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (altaifoto22[at]gmail.com) (pmsinrdustries[at]gmail.com) (sardelka1987[at]mail.ru) (yyfrolov[at]inbox.ru) (tver.petrushenko[at]yandex.ru)
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 47b24e33-e2f4-48d7-dbd8-08d7c436844a
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:22.1661120
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Добрый день Игорь Михайлович!</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp; &nbsp; Принял решение написать Вам письмо по двум вопросам:</div><div>&nbsp; &nbsp; 1. На прошлой неделе ко мне обратилась директор РКС девелопмент Марина Щербакова с просьбой выслушать проблемы, которые возникли у их компании:</div><div>При проектировании последней очереди у них изменился вид использования земельного участка с зоны многоэтажной застройки до 25-ти этажей до зоны для строительства 8-ми этажных домов. Выслушав ее, уточнив все по &nbsp;документам , оказалось что при изменении генплана выделенный участок не был учтён как выданный. Она обращалась в город ко всем руководителям, но они ответили что они не принимают решений.</div><div>&nbsp; &nbsp; &nbsp;Игорь Михайлович, очень прошу рассмотреть данный вопрос, Я нигде ( в строительстве, в ремонте дорог) не преследую своих личных целей, не получаю какую- либо материальную выгоду. Очень хочу чтобы город и область развивались и всегда поддерживаю Вас. Несмотря на какие-либо разговоры про меня.</div><div>&nbsp; &nbsp; &nbsp;2. По Вашему поручению по переселению у меня есть выработанные предложения , как выполнить программу качественно и раньше срока. Если назначите дату и время, готов доложить</div><div>&nbsp; &nbsp; &nbsp;</div><div>&nbsp; &nbsp; &nbsp;Игорь Михайлович, еще раз не думать обо мне плохо. Просто стыдно за город и климат который складывается. Во вложении описание ситуации по РКС.</div><div>&nbsp; &nbsp; &nbsp;С уважением Станислав</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

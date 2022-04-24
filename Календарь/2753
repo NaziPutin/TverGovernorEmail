@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xcd9ab8
+DTSTAMP:20220424T204127Z
+CREATED:20191206T165934Z
+LAST-MOD:20191209T080922Z
+SUMMARY:Заседание Президиума Совета при Президенте РФ по стратегическому развитию и национальным проектам (отв. Ажгиревич А.И.\, Наумов А.В.\, Егоров И.И.\, Тарасов С.В.\, Цветков А.И.\, пресс-служба) Проводит Медведев Д.А. – Председатель Правительства РФ\n
+DTSTART;VALUE=DATE-TIME:20191209T130000Z
+DTEND;VALUE=DATE-TIME:20191209T133000Z
+LOCATION:г. Москва
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

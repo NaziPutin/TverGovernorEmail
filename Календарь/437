@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x345120
+DTSTAMP:20220424T204126Z
+CREATED:20211122T181728Z
+LAST-MOD:20211119T115514Z
+SUMMARY:Совещание\, тема: «О программе дорожных работ на автомобильных дорогах общего пользования регионального значения на 2022-2024 годы» (отв. Ажгиревич А.И.\, Верхоглядов С.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20211122T160000Z
+DTEND;VALUE=DATE-TIME:20211122T170000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:Ирина Строцци
+N:;Ирина;Строцци;;
+EMAIL:strozzireine@gmail.com
+ADR;TYPE=work:;;Via Guicciardini 15;50125 Firenze (Франция);CUSONA - 53037 Gimignano-Si (Италия);;Россия
+LABEL;TYPE=work:Via Guicciardini 15\n50125 Firenze (Франция)\nCUSONA - 53037 Gimignano-Si (Италия)
+TEL;TYPE=work,fax:+39 (0577) 950-260
+TEL;TYPE=work,voice:+39 (0577) 950-160
+TEL;TYPE=home,voice:+39 (338) 624 29 72
+TEL;TYPE=cell,voice:+39 (338) 624-29-72
+VERSION:3.0
+END:VCARD
+

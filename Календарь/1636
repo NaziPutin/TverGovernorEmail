@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x89a810
+DTSTAMP:20220424T204126Z
+CREATED:20201216T070208Z
+LAST-MOD:20201215T131109Z
+SUMMARY:Торжественное мероприятие\, приуроченное к 79-й годовщине освобождения города Калинина от немецко-фашистских захватчиков (отв. Емельянов А.А.\, Скорый А.В.\, Белорусов В.А.\, Огоньков А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201216T080000Z
+DTEND;VALUE=DATE-TIME:20201216T083000Z
+LOCATION:Стела «Город воинской славы» - Обелиск Победы 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

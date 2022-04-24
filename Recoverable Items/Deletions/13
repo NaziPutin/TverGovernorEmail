@@ -1,0 +1,216 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 30 Mar 2022 16:07:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2375.24; Wed, 30 Mar
+ 2022 16:07:34 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Wed, 30 Mar 2022 16:07:36 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id 6BAC283B12
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 16:07:35 +0300 (MSK)
+Received-SPF: pass (jvlife.ru: 88.212.206.130 is authorized to use 'postmaster@jvlife.ru' in 'mfrom' identity (mechanism 'ip4:88.212.206.130' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="postmaster@jvlife.ru"; helo=s0.jvlife.ru; client-ip=88.212.206.130
+Received: from s0.jvlife.ru (s0.jvlife.ru [88.212.206.130])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 953A883B0C
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 16:07:33 +0300 (MSK)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by s0.jvlife.ru (Postfix) with ESMTP id 69166360A90
+	for <rim@tverreg.ru>; Wed, 30 Mar 2022 16:07:01 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=edimdoma.ru;
+	s=jvlife; t=1648645621;
+	bh=Vd4Jui07rfQWH32siGO2iDZxFbyy+o5rEadWRGZHVos=;
+	h=Date:From:To:Subject:List-Unsubscribe:From;
+	b=Ime8bts4PFkRutboZWTlCDVt5rU6M5EYvAz0a0W185vEg3AViQqhGNUqKb5bIHZ6x
+	 Lc+/VsmrnIIVgEc+kW+xGyWufnJIzjqZAEmbpemdrL8nfVI4aWdR6Qsn/ZFWXchn9A
+	 z/IJcJCwlbmvXbqjaxE8is35k3t9IIOzG89R0K3A=
+Date: Wed, 30 Mar 2022 16:07:00 +0300
+From: =?UTF-8?B?0JXQtNC40Lwg0JTQvtC80LA=?= <info@edimdoma.ru>
+To: rim@tverreg.ru
+Message-ID: <624455f45e943_3ddb3fe8d6996778477757189@s0.mail>
+Subject: =?UTF-8?Q?=D0=93=D0=BE=D1=82=D0=BE=D0=B2=D0=B8=D0=BC?=
+ =?UTF-8?Q?_=D1=83=D0=B6=D0=B8=D0=BD_=D0=B2?=
+ =?UTF-8?Q?_=D0=B4=D1=83=D1=85=D0=BE=D0=B2=D0=BA=D0=B5?=
+Precedence: bulk
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Feedback-ID: 2047:528043:edimnapochte
+List-Unsubscribe: <http://pochta.jvlife.ru/unsubscribe/SyZCJ7QXxFKGsY8Jp8ftXQ?hash=Nn4wY3busz-yEZrHOkKuJg&list_id=67&status=cancelled>
+X-Complaints-To: postmaster@jvlife.ru
+X-EDIMNAPOCHTE-ClientID: 528043
+X-EDIMNAPOCHTE-CampaignID: 2047
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeivddgheegucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhepfffhvffkufggtgfgphfjsegrjeerredttdejnecuhfhrohhmpefgpiipmhcupihomhgruceoihhnfhhosegvughimhguohhmrgdrrhhuqeenucggtffrrghtthgvrhhnpeeuhffgveeiiefgieelffeuhefghfduvefhhfevveevieevgfejjeefgfffueelieenucffohhmrghinhepjhhvlhhifhgvrdhruhdpohhmrgdrrhhu
+X-DrWeb-SpamVersion: Vade Retro 01.422.162#54 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.682 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HEADER_FROM_DIFFERENT_DOMAINS  0.248 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_MESSAGE            0.001 HTML included in message
+	MPART_ALT_DIFF_COUNT    1.112 HTML and text parts are different
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeivddgheegucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhepfffhvffkufggtgfgphfjsegrjeerredttdejnecuhfhrohhmpefgpiipmhcupihomhgruceoihhnfhhosegvughimhguohhmrgdrrhhuqeenucggtffrrghtthgvrhhnpeeuhffgveeiiefgieelffeuhefghfduvefhhfevveevieevgfejjeefgfffueelieenucffohhmrghinhepjhhvlhhifhgvrdhruhdpohhmrgdrrhhunecukfhppeekkedrvdduvddrvddtiedrudeftd
+X-DrWeb-SpamVersion: Vade Retro 01.422.162#54 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: postmaster@jvlife.ru
+X-MS-Exchange-Organization-Network-Message-Id: 56c20743-6d8f-46f5-5a15-08da124e429f
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2110157
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link href="http://fonts.googleapis.com/css?family=Open&#43;Sans&amp;amp;amp;subset=cyrillic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Noto&#43;Serif:400,700&amp;amp;amp;subset=cyrillic" rel="stylesheet">
+<title>Рассылка ЕдимДома.ру</title>
+<style> #outlook a { padding: 0; } body { width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0; } .ExternalClass { width: 100%; } .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } #backgroundTable { margin: 0; padding: 0; width: 100% !important; line-height: 100% !important; } img { outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; } a img { border: none; } .image_fix { display: block; } p { margin: 1em 0; } h1, h2, h3, h4, h5, h6 { color: black !important; } h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; } h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active { color: red !important; /* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */ } h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color: purple !important; /* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */ } table td { border-collapse: collapse; } table { border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; } a:hover { text-decoration: underline !important; } </style>
+</head>
+<body style="margin: 0; padding: 0;">
+<img class="delivery-beacon-img" src="http://pochta.jvlife.ru/beacons/2YjF3XOLIIU2Bhd0WvcnlA.png?hash=Nn4wY3busz-yEZrHOkKuJg" alt=""><table cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; max-width: 600px"><tbody>
+<tr class="header"><td align="center"><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody><tr><td background="http://pochta.jvlife.ru/ckeditor_assets/pictures/2305/content_bg.png" height="108"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" style="padding: 27px 0" width="150"><a href="http://pochta.jvlife.ru/links/VAVcEBGX56OvdbVWZuDiKQ?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2695/content_edim_doma_logo.png" style="border:0;vertical-align: top"></a></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody><tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/107/5107-b10dec4f00c0494b6fd821f9083393f5e2df4edd.jpg?1648555866" alt=""><div style="padding-top: 15px;"><span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="text-align: center;">Духовка — лучший прибор для приготовления пищи, если вы предпочитаете домашнюю еду, но не любите проводить много времени на кухне. Процесс запекания не требует постоянного участия, главное, смотреть на часы, чтобы успеть достать блюдо.&nbsp;<br>
+Готовьте в духовке по нашим рецептам и больше отдыхайте!&nbsp;</p>
+</span></div>
+</td></tr></tbody></table></td></tr></tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;"><p style="margin:0cm 0cm 8pt">20 рецептов запеченной курицы</p>
+</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/AunAY9PXxLDGQMb-ZmQjjg?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/108/5108-66d896f5259118d725c6f75730bd9b24878c9d54.jpg?1648557377" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="text-align: center;">Запеченная курица — универсальное блюдо, которое будет уместно и в будни, и в праздники. В подборке найдется&nbsp;рецепт на любой случай.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/AunAY9PXxLDGQMb-ZmQjjg?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подробнее</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;"><p style="margin:0cm 0cm 8pt">Идеи начинок для конкильони</p>
+</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/7C-5ZFvBQybYXDC5PczlUA?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/109/5109-b3f1025de80aae279e4256c82def027fb23467b1.jpg?1648555200" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="text-align: center;">Что&nbsp;собой представляют конкильони? Какие нюансы следует учесть при варке? Как правильно готовить такую пасту? Обо всем этом рассказываем в статье.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/7C-5ZFvBQybYXDC5PczlUA?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подробнее</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">5 рецептов запеченной картошки</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/ykDHN2sBaJTuojQgGHt-2Q?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/111/5111-fa682683ddd7e4b03dc0dda941502aff1f0bda55.jpg?1648556969" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="text-align: center;">Чтобы узнать, как сделать запеченный картофель по-настоящему вкусным и удивить близких, читайте этот материал.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/ykDHN2sBaJTuojQgGHt-2Q?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подробнее</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Рецепты овощных запеканок</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/ULrQ2qw7TcMQrwyosK-Xjw?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/110/5110-0bdbd1d31776a463545f31a3f80a1df024490b9f.jpg?1648556087" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="margin: 0cm 0cm 8pt; text-align: center;">Запеченные овощи особенно хороши с разными дополнениями в виде сыра, фарша, рыбы, а также со сливками или соусом. В подборке есть 15 различных вариаций от наших подписчиков.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/ULrQ2qw7TcMQrwyosK-Xjw?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подробнее</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Скумбрия в духовке</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/IMBT1UEyrmmwEPx7QzEVtA?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/112/5112-bca6ce6e7b0f6c69fc6efe5396ce3bf740ab07ca.jpg?1648555200" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="text-align: center;">Наиболее полно вкус этой замечательной рыбы раскрывается при приготовлении в духовке. В статье найдете 5&nbsp;интересных рецептов запеченной скумбрии.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/IMBT1UEyrmmwEPx7QzEVtA?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подробнее</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Фольга, рукав или пергамент — в чем запекать в духовке</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/9mPNXBPOrax_Uaya_99Wfg?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/113/5113-73fdc749c4b9c677272c6937a71011332aa9f8ad.jpg?1648565598" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="text-align: center;">Чтобы не запутаться, в чем можно запекать в духовке, мы сделали отдельную&nbsp;статью. Каждому из аксессуаров для запекания&nbsp;посвящен блок, где мы разобрали&nbsp;особенности использования.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/9mPNXBPOrax_Uaya_99Wfg?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подробнее</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="block_white_bg"><td><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" style="background: #fff; border-left: 1px solid #f5eee0; border-right: 1px solid #f5eee0" width="100%"><tbody>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_title" width="100%"><tbody><tr><td align="center" style="padding: 20px 20px"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Прямые эфиры «Едим Дома»<br>
+во «ВКонтакте»</span></td></tr></tbody></table></td></tr>
+<tr class="part"><td><table border="0" cellpadding="0" cellspacing="0" class="part_image_padding" width="100%"><tbody><tr><td style="padding: 15px 20px 15px">
+<a href="http://pochta.jvlife.ru/links/JRp2an5AbMHBKmTmx6oAOQ?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img style="border:0;vertical-align: top" width="100%" src="http://pochta.jvlife.ru/system/part_images/000/005/114/5114-1a0ef352cceff3ed79aa9ded9d9dcdbc024e22f5.png?1648565598" alt=""></a><div style="padding-top: 15px;">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 15px;display:block;"><p style="margin: 0cm 0cm 8pt; text-align: center;">Прием-прием! На связи сообщество «Едим Дома» «ВКонтакте». У нас важные новости — теперь каждый четверг в нашем сообществе будут проходить прямые эфиры «Едим дома вместе». Каждую неделю шеф-повар проекта Илья Куваев будет готовить блюдо, которое легко повторить дома. А еще Илья обязательно поделится кулинарными секретами и ответит на вопросы зрителей.</p>
+
+<p style="margin: 0cm 0cm 8pt; text-align: center;">Первый эфир пройдет уже в этот четверг в 19:00 по Москве. В меню — паста алла норма!</p>
+
+<p style="margin: 0cm 0cm 8pt; text-align: center;">Подписывайтесь на нашу группу «ВКонтакте», чтобы ничего не пропустить.</p>
+</span><div style="text-align: center;"><a href="http://pochta.jvlife.ru/links/JRp2an5AbMHBKmTmx6oAOQ?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size: 15px;color: #636363;font-weight: bold;padding: 10px;border-radius: 30px;text-transform: uppercase;text-decoration: none;line-height: 400%;border: solid 1px #ccc;" target="_blank">Подписаться</a></div>
+</div>
+</td></tr></tbody></table></td></tr>
+</tbody></table></td></tr>
+<tr class="spacer"><td align="center"><table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td height="50"></td></tr></tbody></table></td></tr>
+<tr class="email_rating"><td align="center"><table align="center" bgcolor="#fff" border="0" cellpadding="1" cellspacing="0" width="100%"><tbody><tr><td style="padding-top: 0; padding-bottom: 0"><table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody>
+<tr><td height="30"></td></tr>
+<tr><td align="center"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Вам понравилась рассылка?</span></td></tr>
+<tr><td height="30"></td></tr>
+<tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
+<td align="right" style="padding-right: 10px" valign="top" width="50%"><a href="http://pochta.jvlife.ru/delivery_rates/SyZCJ7QXxFKGsY8Jp8ftXQ?hash=Nn4wY3busz-yEZrHOkKuJg&amp;p=like" target="_blank"><img alt="" height="60" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2125/content_ok.png" style="border:0;vertical-align: top" width="60"></a></td>
+<td align="left" style="padding-left: 10px" valign="top" width="50%"><a href="http://pochta.jvlife.ru/delivery_rates/SyZCJ7QXxFKGsY8Jp8ftXQ?hash=Nn4wY3busz-yEZrHOkKuJg&amp;p=dislike" target="_blank"><img alt="" height="60" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2124/content_nok.png" style="border:0;vertical-align: top" width="60"></a></td>
+</tr></tbody></table></td></tr>
+<tr><td height="30"></td></tr>
+</tbody></table></td></tr></tbody></table></td></tr>
+<tr class="social_networks"><td align="center"><table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody>
+<tr><td height="30"></td></tr>
+<tr><td align="center"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Социальные сети</span></td></tr>
+<tr><td height="30"></td></tr>
+<tr><td align="center"><table><tbody><tr>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/OdlDL346yC0BtZE6wrzWAw?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2126/content_vk.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/MrL7pNlKdCEpnixnAbpJHQ?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2130/content_odno.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/kfqkR0xBcVI0Ev83YC_wZw?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2131/content_pint.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/9B6nepLxCdoJizqK6nHynQ?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2132/content_mir.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/292mLXEWcufqAuzSABM-ew?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2133/content_yt.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/bmOks2LJL0s0OmkJrQYeXg?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2134/content_vibe.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+<td align="center" style="padding: 0 5px"><a href="http://pochta.jvlife.ru/links/4IMXF3fYSDbCYV0ETn4cjQ?hash=Nn4wY3busz-yEZrHOkKuJg" target="_blank"><img alt="" src="http://pochta.jvlife.ru/ckeditor_assets/pictures/2135/content_teleg.png" style="border:0;vertical-align: top; max-width: 100%" width="100%"></a></td>
+</tr></tbody></table></td></tr>
+<tr><td height="30"></td></tr>
+</tbody></table></td></tr></tbody></table></td></tr>
+<tr class="footer"><td align="center"><table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td style="border-top: 1px solid #d7d7d7"><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody>
+<tr><td height="30"></td></tr>
+<tr><td align="center"><span style="font-family: 'Noto Serif', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 26px;">Популярные разделы нашего сайта</span></td></tr>
+<tr><td height="30"></td></tr>
+<tr><td align="center"><a href="http://pochta.jvlife.ru/links/EToftoLOczo_YtSizrqzhA?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; text-decoration: none; font-size: 18px; line-height: 2" target="_blank">Рецепты Юлии Высоцкой</a></td></tr>
+<tr><td align="center"><a href="http://pochta.jvlife.ru/links/lni8zBV4PZhirlqibmgXHQ?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; text-decoration: none; font-size: 18px; line-height: 2" target="_blank">Рецепты наших пользователей</a></td></tr>
+<tr><td align="center"><a href="http://pochta.jvlife.ru/links/X9OQosnc3MvJxkKiVeQ4Yg?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; text-decoration: none; font-size: 18px; line-height: 2" target="_blank">Меню на неделю</a></td></tr>
+<tr><td align="center"><a href="http://pochta.jvlife.ru/links/6kPdqOLthZAskJIKjGH5bw?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; text-decoration: none; font-size: 18px; line-height: 2" target="_blank">Видеоблог</a></td></tr>
+<tr><td align="center"><a href="http://pochta.jvlife.ru/links/vm8ZhdnX76YrvlJqncpVmw?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; text-decoration: none; font-size: 18px; line-height: 2" target="_blank">Кулинарная школа</a></td></tr>
+<tr><td align="center"><a href="http://pochta.jvlife.ru/links/Hg1syvw1p9DkmAUW2FR91w?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; text-decoration: none; font-size: 18px; line-height: 2" target="_blank">Клуб</a></td></tr>
+</tbody></table></td></tr></tbody></table></td></tr>
+<tr class="otpisca"><td align="center"><table align="center" bgcolor="#fff" border="0" cellpadding="50" cellspacing="0" width="100%"><tbody><tr><td><div style="padding: 0 20px">
+<span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 12px;">Вы получили это письмо, так как подписаны на рассылку сайта </span><a href="http://pochta.jvlife.ru/links/F-TtuEF4nxhMIKsQYhyqyw?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 12px;text-decoration: underline" target="_blank">Едимдома.ru.</a><br><span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 12px;">Если Вы не хотите получать эту рассылку, </span><a href="http://pochta.jvlife.ru/unsubscribe/SyZCJ7QXxFKGsY8Jp8ftXQ?hash=Nn4wY3busz-yEZrHOkKuJg&amp;list_id=67&amp;status=cancelled" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #e02407; font-size: 12px;" target="_blank"> нажмите здесь</a><span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 12px;">, чтобы отписаться.</span><br><span style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #5c5c5c; font-size: 12px;">Если письмо отображается некорректно, Вы можете посмотреть </span><a href="http://pochta.jvlife.ru/web_letters/SyZCJ7QXxFKGsY8Jp8ftXQ?hash=Nn4wY3busz-yEZrHOkKuJg" style="font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif; color: #242424; font-size: 12px;text-decoration: underline" target="_blank">веб-версию.</a>
+</div></td></tr></tbody></table></td></tr>
+</tbody></table></td></tr></tbody></table>
+</body>
+</html>
+
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

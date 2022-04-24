@@ -1,0 +1,107 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 15 Sep 2020 10:50:54 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Tue, 15 Sep
+ 2020 10:50:54 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Tue, 15 Sep 2020
+ 10:50:54 +0300
+From: =?utf-8?B?0J/RgNC40ZHQvNC90LDRjyDQk9GD0LHQtdGA0L3QsNGC0L7RgNCw?=
+	<pr_gubernatora@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L7RgiDRg9C/0YDQsNCy0LvQtdC90Lg=?=
+ =?utf-8?B?0Y8g0YDQtdGE0LXRgNC10L3RgtGD0YDRiyDQsNC/0L/QsNGA0LDRgtCwINCf?=
+ =?utf-8?B?0YDQsNCy0LjRgtC10LvRjNGB0YLQstCwINCi0LLQtdGA0YHQutC+0Lkg0L4=?=
+ =?utf-8?B?0LHQu9Cw0YHRgtC4INC+INC90LDQv9GA0LDQstC70LXQvdC90YvRhSDQv9C+?=
+ =?utf-8?B?0LfQtNGA0LDQstC40YLQtdC70YzQvdGL0YUg0YLQtdC70LXQs9GA0LDQvNC8?=
+ =?utf-8?B?0LDRhQ==?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L7RgiDRg9C/0YDQsNCy0LvQtdC90Lg=?=
+ =?utf-8?B?0Y8g0YDQtdGE0LXRgNC10L3RgtGD0YDRiyDQsNC/0L/QsNGA0LDRgtCwINCf?=
+ =?utf-8?B?0YDQsNCy0LjRgtC10LvRjNGB0YLQstCwINCi0LLQtdGA0YHQutC+0Lkg0L4=?=
+ =?utf-8?B?0LHQu9Cw0YHRgtC4INC+INC90LDQv9GA0LDQstC70LXQvdC90YvRhSDQv9C+?=
+ =?utf-8?B?0LfQtNGA0LDQstC40YLQtdC70YzQvdGL0YUg0YLQtdC70LXQs9GA0LDQvNC8?=
+ =?utf-8?B?0LDRhQ==?=
+Thread-Index: AQHWizIqwBn8Jivq9kmV1qXSYNmeCalpUtmA
+Date: Tue, 15 Sep 2020 10:50:54 +0300
+Message-ID: <5ec91415dac847dd9444d10b6f3ea0f9@tverreg.ru>
+References: <OF39D2F89F.31DB59AA-ON432585E4.002914E0-432585E4.0029569F@tverreg.ru>
+In-Reply-To: <OF39D2F89F.31DB59AA-ON432585E4.002914E0-432585E4.0029569F@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <5ec91415dac847dd9444d10b6f3ea0f9@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 566991f5-4d97-4356-ad13-08d8594c133b
+Return-Path: pr_gubernatora@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2790742
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER5F7A54D6
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:16.0pt'>Направлены поздравительные телеграммы в адрес членов Тверской областной общественной организации ветеранов (пенсионеров) войны, труда, Вооруженных Сил и правоохранительных органов, в связи с награждением орденами Почета за активную общественную деятельность по социальной поддержке ветеранов и патриотическому воспитанию молодежи: <br>- Афанасьева Ивана Петровича, <br>- Воробьева Бориса Ивановича, <br>- Овинникова Ивана Михайловича, <br>- Оганесова Ашота Смбатовича, <br>- Потаповой Марии Ивановны, <br>- Сидоровой Марии Николаевны, <br>- Сухопарова Арсения Михайловича, <br>- Хвостенко Ивана Алексеевича, <br>- Черных Николая Макаровича, <br>- Шелехова Евгения Михайловича. <br><br>Также направлены поздравительные телеграммы в адрес: <br>- Конюховой Каринэ Александровны, главного врача Центра специализированных видов медицинской помощи имени В.П. Аваева, в связи с награждением медалью ордена &quot;За заслуги перед Отечеством&quot; II степени за заслуги в области здравоохранения и многолетнюю добросовестную работу; <br>- Лапиной Галины Михайловны, заведующей отделением Городской клинической больницы №7, в связи с присвоением почетного звания «Заслуженный врач Российской Федерации» за заслуги в области здравоохранения и многолетнюю добросовестную работу. <br><br>(Указ Президента Российской Федерации от 14.09.20 №557 «О награждении государственными наградами Российской Федерации»). <br><br>С уважением,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt'>приемная Губернатора Тверской области<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt'>+7 (4822) 59-22-11<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

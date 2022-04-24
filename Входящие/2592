@@ -1,0 +1,47 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 4 Apr 2019 11:08:42 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Thu, 4 Apr
+ 2019 11:08:41 +0300
+Received: from web.region.tver.ru (172.30.0.10) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server id 15.1.396.30 via Frontend
+ Transport; Thu, 4 Apr 2019 11:08:36 +0300
+Subject: =?KOI8-R?B?7yDXy8zA3sXOyckgz9TExczYztnIINDSxcTMz9bFzsnKINcg0MzBzg==?=
+ =?KOI8-R?B?INLFwczJ2sHDyckg0M/Mz9bFzsnKIPDP08zBzsnRIPDSxdrJxMXO1MEg8uY=?=
+X-KeepSent: C066E624:AF6E5ACC-432583D2:002CB5C2;
+ type=4; name=$KeepSent
+To: =?KOI8-R?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4v4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <RudenyaIM@tverreg.ru>
+X-Mailer: Lotus Notes Release 8.5.2FP3 July 11, 2011
+Message-ID: <OFC066E624.AF6E5ACC-ON432583D2.002CB5C2-432583D2.002CBC2C@tverreg.ru>
+From: =?KOI8-R?B?7cnOydPUxdLT1NfPIM/C0sHaz9fBzsnRL+HEzcnOydPU0sHDydE=?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <dep_obrazov@tverreg.ru>
+Date: Thu, 4 Apr 2019 11:08:36 +0300
+X-MailFwdBy: CN=Igor Mikhaylovich Rudenya/O=TverRegAdm/C=RU
+Auto-Submitted: auto-forwarded
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 04.04.2019 11:08:38
+Content-Disposition: inline
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: a357cb15-03eb-4a1e-08ce-08d6b8d4bd6f
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:05.2451063
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+(See attached file: Scan_04-04-2019_1054_0001.pdf)
+----boundary-LibPST-iamunique-2146875884_-_---
+

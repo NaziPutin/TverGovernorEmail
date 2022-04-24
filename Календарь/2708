@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc936fc
+DTSTAMP:20220424T204126Z
+CREATED:20191228T135017Z
+LAST-MOD:20191228T192706Z
+SUMMARY:Губернаторская новогодняя елка – ледовое шоу «Сон в новогоднюю ночь»  (отв. Белоцерковский А.В.\, Хохлова Е.В.\, Белорусов В.А.\, Репина И.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191229T103000Z
+DTEND;VALUE=DATE-TIME:20191229T111500Z
+LOCATION:Краснофлотская наб.\, д. 3\, СК "Юбилейный"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

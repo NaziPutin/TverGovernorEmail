@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:Матушка Иулиания
+N:Матушка Иулиания;;;;
+BDAY:1961-04-07T20:00:00Z
+ADR;TYPE=home:;;;Москва;;;Россия
+LABEL;TYPE=home:Москва\nРоссия
+TEL;TYPE=work,voice:+7 (495) 695-16-92
+TEL;TYPE=cell,voice:+7 (916) 192-61-02
+ORG:Зачатьевский Женский Монастырь
+VERSION:3.0
+END:VCARD
+

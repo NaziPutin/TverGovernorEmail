@@ -1,0 +1,84 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 24 Aug 2020 20:47:14 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Mon, 24 Aug
+ 2020 20:47:13 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 24 Aug 2020 20:47:10 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id B70F922DCD
+	for <rim@tverreg.ru>; Mon, 24 Aug 2020 20:47:10 +0300 (MSK)
+Received-SPF: pass (icloud.com: 17.58.63.166 is authorized to use 'd.i.nasibullin@icloud.com' in 'mfrom' identity (mechanism 'ip4:17.58.0.0/16' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="d.i.nasibullin@icloud.com"; helo=st43p00im-zteg10062001.me.com; client-ip=17.58.63.166
+Received: from st43p00im-zteg10062001.me.com (st43p00im-zteg10062001.me.com [17.58.63.166])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id F230C22DC7
+	for <rim@tverreg.ru>; Mon, 24 Aug 2020 20:47:07 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icloud.com;
+	s=1a1hai; t=1598291220;
+	bh=L9x7HmGjZ8ivhkEcEtT54FyqlEEk1vf8pbxX1+Ef50o=;
+	h=Content-Type:From:Mime-Version:Date:Subject:Message-Id:To;
+	b=xGVsyfveZA8a0JNn6VqyplOAYX0TklhEATmR/9VmVlF02+ns5Uw1eO+NV+GNHKIiF
+	 bBIrs3/aGHgwLjVouGThlDhtPnpNgvm7pYr+dLXXyTv2PUEMVz1ptu2ddPMCw8rX7J
+	 +kWImlpZaHGs0/OJbzOvAq4k8iHLj4UiedfnyS3Q/gAd0NlzHbfREpoQ4zhvwadKK2
+	 K4Wpmaopr+lXHsSzHJqE2GAifuZ1ecu+v7L4FzxvBJvcPuE9W8KSOBIPgoCKNAmotQ
+	 s86cASVVWrc3Xf5bWqwD5o4+Gyzq/qrWKYUdtecTTLJ3DqdnKPL6MLUSi9ccmVGbeM
+	 eYXeHDCK8+2Zg==
+Received: from [10.33.230.35] (unknown [213.87.153.24])
+	by st43p00im-zteg10062001.me.com (Postfix) with ESMTPSA id B89416C0A6C
+	for <rim@tverreg.ru>; Mon, 24 Aug 2020 17:46:59 +0000 (UTC)
+From: =?utf-8?B?0JTQvNC40YLRgNC40Lkg0J3QsNGB0LjQsdGD0LvQu9C40L0=?= <d.i.nasibullin@icloud.com>
+Date: Mon, 24 Aug 2020 20:46:59 +0300
+Subject: =?utf-8?B?0KHQv9GA0LDQstC60LAg0L/Rg9GC0LXQv9GA0L7QstC+0LQ=?=
+Message-Id: <70E8A694-1277-4AAC-B32B-4F87C016462D@icloud.com>
+To: rim@tverreg.ru
+X-Mailer: iPhone Mail (17G68)
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10434:6.0.235,18.0.687
+ definitions=2020-08-24_12:2020-08-24,2020-08-24 signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 suspectscore=1 malwarescore=0
+ phishscore=0 bulkscore=0 spamscore=0 clxscore=1015 mlxscore=0
+ mlxlogscore=526 adultscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.0.1-2004280000 definitions=main-2008240145
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.341 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (dne_tver[at]mail.ru) (d.i.nasibullin[at]icloud.com)
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: d.i.nasibullin@icloud.com
+X-MS-Exchange-Organization-Network-Message-Id: ef85d4ba-be57-4fbc-a9ae-08d84855ba18
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.7306584
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+</div></span></font>
+</div>
+<div class="BodyFragment">
+<font size="2"><span style="font-size:10pt;"><div class="PlainText"><br>
+<br>
+РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone</div></span></font>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

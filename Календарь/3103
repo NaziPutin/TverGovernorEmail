@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe7467c
+DTSTAMP:20220424T204127Z
+CREATED:20190821T155514Z
+LAST-MOD:20190821T134401Z
+SUMMARY:Торжественная церемония вручения государственных наград и наград Тверской области\, приуроченная ко Дню Государственного флага РФ (отв. Орлов А.В.\, СМИ+пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20190822T080000Z
+DTEND;VALUE=DATE-TIME:20190822T090000Z
+LOCATION:пл. Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

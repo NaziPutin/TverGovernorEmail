@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x786438
+DTSTAMP:20220424T204126Z
+CREATED:20210302T151723Z
+LAST-MOD:20210302T185751Z
+SUMMARY:Торжественные мероприятия\, приуроченные к Дню освобождения города Ржева и Ржевского района от немецко-фашистских захватчиков (1943г.)  (отв. Емельянов А.А.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210303T083000Z
+DTEND;VALUE=DATE-TIME:20210303T120000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

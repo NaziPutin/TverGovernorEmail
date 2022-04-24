@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1499b04
+DTSTAMP:20220424T204127Z
+CREATED:20170928T094814Z
+LAST-MOD:20170928T085333Z
+SUMMARY:Совещание\, тема: «О проблемных вопросах выявления и расследования преступлений в сфере ЖКХ в ТО» (пред.сост. 19.09.17) (отв. Попенко В.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170929T100000Z
+DTEND;VALUE=DATE-TIME:20170929T110000Z
+LOCATION:ул.Советская\, д.23\, комната переговоров
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

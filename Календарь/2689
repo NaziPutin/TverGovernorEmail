@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc88168
+DTSTAMP:20220424T204126Z
+CREATED:20191227T071925Z
+LAST-MOD:20191226T130951Z
+SUMMARY:Торжественное вручение специального автотранспорта муниципальным образованиям Тверской области (отв. Белоцерковский А.В.\, Ищенко А.Н.\, Григорян А.Р.\, Соколов С.А.\, Максимов М.А.\, Прохорова А.С.\, Барышков В.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191227T110000Z
+DTEND;VALUE=DATE-TIME:20191227T114000Z
+LOCATION:пл. М. Тверского
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

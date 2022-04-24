@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13f8d38
+DTSTAMP:20220424T204127Z
+CREATED:20180427T064354Z
+LAST-MOD:20180507T143255Z
+SUMMARY:Торжественные мероприятия\, посвященные празднованию 73-й годовщины Победы советского народа в Великой Отечественной войне 1941-1945 годов. (отв. Белоцерковский А.В.\, Петрова М.В.\, Огоньков А.В.\, Попенко В.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20180509T070000Z
+DTEND;VALUE=DATE-TIME:20180509T132000Z
+LOCATION:согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

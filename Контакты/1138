@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:Медведев\, Александр Иванович
+N:Медведев;Александр;Иванович;;
+BDAY:1955-08-13T20:00:00Z
+TEL;TYPE=work,voice:+7 (812) 646-15-05
+TEL;TYPE=work,voice:+7 (499) 503-60-51
+TEL;TYPE=cell,voice:+7 (985) 922-03-83
+TITLE:Бывший зам. Председателя Правления ПАО "Газпром"
+AGENT:BEGIN:VCARD
+TEL:+7 (495) 719-14-69
+VERSION:3.0
+END:VCARD
+

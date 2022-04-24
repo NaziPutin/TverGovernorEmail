@@ -1,0 +1,96 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 11 Feb 2019 22:22:26 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 11 Feb
+ 2019 22:22:20 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Mon, 11 Feb 2019
+ 22:22:25 +0300
+From: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?ziDv8O7l6vLlIPDg8e/u8P/m5e3o/yDP8ODi6PLl6/zx8uLgINLi5fDx?=
+ =?windows-1251?B?6u7pIO7h6+Dx8uggIs4g8e7n5ODt6Ogg7/Du9OXx8eju7eDr/O3u4+4g?=
+ =?windows-1251?B?4OLg8Ojp7e4t8e/g8eDy5ev87e7j7iD07vDs6PDu4uDt6P8iIO3gIOHg?=
+ =?windows-1251?B?5+Ug9Ojr6ODr4CDPwM4gq8zQ0cog1uXt8vDguyAtIKvS4uXw/P3t5fDj?=
+ =?windows-1251?B?7rsg?=
+Thread-Topic: =?windows-1251?B?ziDv8O7l6vLlIPDg8e/u8P/m5e3o/yDP8ODi6PLl6/zx8uLgINLi5fDx?=
+ =?windows-1251?B?6u7pIO7h6+Dx8uggIs4g8e7n5ODt6Ogg7/Du9OXx8eju7eDr/O3u4+4g?=
+ =?windows-1251?B?4OLg8Ojp7e4t8e/g8eDy5ev87e7j7iD07vDs6PDu4uDt6P8iIO3gIOHg?=
+ =?windows-1251?B?5+Ug9Ojr6ODr4CDPwM4gq8zQ0cog1uXt8vDguyAtIKvS4uXw/P3t5fDj?=
+ =?windows-1251?B?7rsg?=
+Thread-Index: AdTCPDRaDh28wwjKTjG5HiLDdNRAzQ==
+Disposition-Notification-To: =?windows-1251?B?0ez/6+ru4vHq6Okgz+Di5esgxeLj5e385eLo9w==?=
+	<smyalkovsky@tverreg.ru>
+Return-Receipt-To: <smyalkovsky@tverreg.ru>
+Date: Mon, 11 Feb 2019 22:22:24 +0300
+Message-ID: <04ed6bbdafc04c5e8353aeca9c7cb6b2@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <04ed6bbdafc04c5e8353aeca9c7cb6b2@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 7097ac56-ec6c-4c0b-7182-08d69056414e
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.7121126
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>Уважаемый Игорь Михайлович!<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>Правовым управлением аппарата Правительства Тверской области рассмотрен проект распоряжения Правительства Тверской области «О создании профессионального аварийно-спасательного формирования», согласно которому предполагается принять решение о создании профессионального аварийно-спасательного формирования на базе филиала ПАО «МРСК Центра» - «Тверьэнерго», и утвердить положение о нем (прилагается во вложении). <o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>По проекту распоряжения имеются замечания (заключение прилагается во вложении), а именно:<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>1) создание аварийно-спасательной службы в Тверской области предусмотрено в структуре государственного казенного учреждения Тверской области «Управление противопожарной службы, защиты населения и территорий Тверской области» в соответствии с распоряжением Правительства Тверской области от 26.12.2016 № 458-рп;<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>2) создание профессиональных аварийно-спасательных служб и формирований в организациях осуществляется приказами организаций по согласованию с территориальным органом МЧС России в порядке, установленном приказом МЧС России от 12.03.2018 № 100. Согласно указанному приказу МЧС России в целях согласования создания профессиональных аварийно-спасательных служб и формирований организации в территориальный орган МЧС России представляется соответствующий приказ организации и необходимые документы.</span> <o:p></o:p></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>Принятие правового акта высшего исполнительного органа государственной власти субъекта Российской Федерации в указанной процедуре не предусмотрено;<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>3) перечень случаев создания профессиональных аварийно-спасательных служб и формирований организаций установлен федеральным законодательством и является исчерпывающим. Возможность создания профессиональных аварийно-спасательных служб и формирований в организациях, эксплуатирующих объекты электросетевого хозяйства, не предусмотрена;<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>4) принятие Правительством Тверской области решения о создании профессионального аварийно-спасательного формирования будет являться основанием для предоставления спасателям, входящим в его состав, гарантий и льгот, предусмотренных законом Тверской области от 11.03.2013 № 14-ЗО «О гарантиях правовой и социальной защиты спасателей», за счет средств областного бюджета Тверской области.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>В связи с изложенным, вношу на Ваше решение следующие предложения об изменении редакции проекта распоряжения:<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>1) <b>вместо принятия</b> Правительством Тверской области решения о создании аварийно-спасательного формирования на базе филиала ПАО «МРСК Центра» - «Тверьэнерго» <b>предусмотреть формулировку</b> «согласиться с предложением ПАО «МРСК Центра» о создании на базе филиала ПАО «МРСК Центра» - «Тверьэнерго» профессионального аварийно-спасательного формирования»;<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>2) пункт об утверждении Правительством Тверской области Положения о  профессиональном аварийно-спасательном формировании филиала ПАО «МРСК Центра» - «Тверьэнерго» изложить <b>как рекомендацию</b> ПАО «МРСК Центра» осуществить утверждение Положения своим приказом по согласованию с Правительством Тверской области и территориальным органом МЧС России по Тверской области;<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>3) после доработки проекта распоряжения Правительства Тверской области рассмотреть его на заседании Президиума Правительства Тверской области.<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>С уважением,<o:p></o:p></span></p><p class=MsoNormal style='text-indent:35.4pt'><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>П. Смялковский<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

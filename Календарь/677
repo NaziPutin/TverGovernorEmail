@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x491ec4
+DTSTAMP:20220424T204126Z
+CREATED:20210913T081624Z
+LAST-MOD:20210913T074831Z
+SUMMARY:Рабочая поездка митрополита Псковского и Порховского Тихона (Шевкунов) – главы Псковской митрополии\, председателя Патриаршего совета по культуре (отв. Новикова В.И.\, Наумов А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210913T080000Z
+DTEND;VALUE=DATE-TIME:20210913T111500Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

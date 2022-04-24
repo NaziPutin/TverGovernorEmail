@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14bb160
+DTSTAMP:20220424T204127Z
+CREATED:20170831T140207Z
+LAST-MOD:20170831T140620Z
+SUMMARY:Торжественные мероприятия\, посвященные празднованию Дня знаний. Посещение ВУЗов г.Твери и общеобразовательной школы г.Твери №51 (отв. Белоцерковский А.В.\, Синова В.А.\, Мигулев П.И.\, Сенникова Н.А.\,СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20170901T063000Z
+DTEND;VALUE=DATE-TIME:20170901T110000Z
+LOCATION:г.Тверь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

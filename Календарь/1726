@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8fd790
+DTSTAMP:20220424T204126Z
+CREATED:20201029T123702Z
+LAST-MOD:20201028T141931Z
+SUMMARY:Участие в заседании Правительственной комиссии по развитию туризма в Российской Федерации (в режиме закрытой видео-конференц-связи) по вопросу: «О национальном проекте в сфере туризма» (отв. Егоров И.И.\, Перов В.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201029T130000Z
+DTEND;VALUE=DATE-TIME:20201029T143000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,80 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 11 Jun 2021 07:47:20 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 11 Jun
+ 2021 07:47:16 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 11 Jun 2021 07:47:19 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (Proxmox) with ESMTP id 8C72C84A9C
+	for <rim@tverreg.ru>; Fri, 11 Jun 2021 07:47:17 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward100j.mail.yandex.net; client-ip=5.45.198.240
+Received: from forward100j.mail.yandex.net (forward100j.mail.yandex.net [5.45.198.240])
+	by pmg02.tverreg.ru (Proxmox) with ESMTPS id 0BF5A84A81
+	for <rim@tverreg.ru>; Fri, 11 Jun 2021 07:47:12 +0300 (MSK)
+Received: from myt6-93e3987b150a.qloud-c.yandex.net (myt6-93e3987b150a.qloud-c.yandex.net [IPv6:2a02:6b8:c12:400c:0:640:93e3:987b])
+	by forward100j.mail.yandex.net (Yandex) with ESMTP id 9F9F950E22BE
+	for <rim@tverreg.ru>; Fri, 11 Jun 2021 07:47:12 +0300 (MSK)
+Received: from mail.yandex.ru (mail.yandex.ru [176.120.176.96])
+	by myt6-93e3987b150a.qloud-c.yandex.net (mxback/Yandex) with HTTP id BlFkm34HAW21-lCHSTOo5;
+	Fri, 11 Jun 2021 07:47:12 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1623386832;
+	bh=ovwlfekJtgtqrGL21NtPFsW7hUuCar9qMSraOxBOuls=;
+	h=Message-Id:Date:Subject:To:From;
+	b=xBQImHHLzTpbQ2HqP2rW/llj+T7r5mVBzZOa0HyEo7AuSuFHEn7COsJsvo/7+OXLz
+	 qx0N7Kxa3UvI1k/q7cvt6XO/X1sMUZ+dWcEp4FP0Gqb1ltzrpIXMAxQPYjhttSnSmK
+	 dK2a3AK9gaziLdHshN7vEzVg5WZ2CgELz9GoSRJQ=
+Authentication-Results: myt6-93e3987b150a.qloud-c.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt5-7dfd06528d3d.qloud-c.yandex.net with HTTP;
+	Fri, 11 Jun 2021 07:47:12 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0JDQvdCw0LvQuNGC0LjRh9C10YHQutC40LUg0LfQsNC/0LjRgdC60Lgg?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Fri, 11 Jun 2021 07:47:12 +0300
+Message-Id: <3004611623386217@mail.yandex.ru>
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgeduledrfeduiedgkeehucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephffvufggofffkfgtsehmtderreertdejnecuhfhrohhmpeipvghtphihpigvhhhkohcuvehtrghhpigtpigruecuoehtvhgvrhdrphgvthhruhhshhgvnhhkoheshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhepheethfdvffejfeeiheejveeuveffteeiffejhfejfeevvdduueeffeeggeekfeeunecukfhppedujeeirdduvddtrddujeeirdelie
+X-DrWeb-SpamVersion: Vade Retro 01.419.316#85 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.635 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_MSPIKE_H2      -0.001 Average reputation (+2)
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+	URIBL_BLOCKED           0.001 ADMINISTRATOR NOTICE: The query to URIBL was blocked.  See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block for more information. [yandex.ru]
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgeduledrfeduiedgkeehucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhephffvufggofffkfgtsehmtderreertdejnecuhfhrohhmpeipvghtphihpigvhhhkohcuvehtrghhpigtpigruecuoehtvhgvrhdrphgvthhruhhshhgvnhhkoheshigrnhguvgigrdhruheqnecuggftrfgrthhtvghrnhepheethfdvffejfeeiheejveeuveffteeiffejhfejfeevvdduueeffeeggeekfeeunecukfhppedujeeirdduvddtrddujeeirdelie
+X-DrWeb-SpamVersion: Vade Retro 01.419.316#85 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 2d6a5e0c-7faf-48ac-89e1-08d92c93fedd
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2950132
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Доброе утро Игорь Михайлович!</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Направляю Вам две аналитические записки:</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1. Аналитика по тарифу, который вступит с 01 июля 2021 года. И расчеты моих экономистов с прогнозом роста цен на электроэнергию для промышленных потребителей. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2. Справка по судебным делам муниципальных образований с гарантирующим поставщиком. Только те дела, где я привлекал своих юристов для помощи поселениям.</div><div>&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Я понимаю Вашу загрузку, но считаю довести до Вас данную информацию. При необходимости готов дать дополнительные материалы</div><div>&nbsp;</div><div>&nbsp;</div><div>--&nbsp;</div><div>С Уважением Станислав Анатольевич</div><div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Петрушенко</div><div>&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

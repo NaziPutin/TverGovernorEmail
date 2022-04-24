@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xbed090
+DTSTAMP:20220424T204126Z
+CREATED:20200305T061144Z
+LAST-MOD:20200304T195247Z
+SUMMARY:Стратегическая сессия РАНХиГС\, тема: «Разработка комплексных планов мероприятий. Производство\, переработка и реализация льна»  (отв. Пономарев А.А.\, Егоров И.И.\, Каравайный К.И.\, Голик М.С.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200305T070000Z
+DTEND;VALUE=DATE-TIME:20200305T090000Z
+LOCATION:ул. Салтыкова-Щедрина\, д. 20
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

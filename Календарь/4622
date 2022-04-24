@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13789a4
+DTSTAMP:20220424T204127Z
+CREATED:20180326T124207Z
+LAST-MOD:20181206T210128Z
+SUMMARY:Селекторное совещание\, тема: "О ходе подготовки к пожароопасному периоду на территории ТО и охране лесов\, торфяных месторождений\, объектов экономики и населенных пунктов от пожаров в  2018 году" (отв. Григорян А.Р.\, СМИ+пресс-служба) Состав участников сог
+DTSTART;VALUE=DATE-TIME:20180327T063000Z
+DTEND;VALUE=DATE-TIME:20180327T073000Z
+LOCATION:пр-д Дарвина\, д.12\, Ситуационный центр ГУ МЧС России по Тверской области 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

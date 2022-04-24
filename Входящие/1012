@@ -1,0 +1,88 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 20 Jan 2022 21:09:56 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 20 Jan
+ 2022 21:09:53 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Thu, 20 Jan 2022 21:09:55 +0300
+From: =?utf-8?B?0JDQttCz0LjRgNC10LLQuNGHINCQ0YDRgtC10Lwg0JjQstCw0L3QvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <AzhgirevichAI@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0JXQttC10LTQvdC10LLQvdCw0Y8g0LjQvdGE0L7RgNC80LDRhtC40Y8g0L4g?=
+ =?utf-8?B?0YHQvtGB0YLQvtGP0L3QuNC4INC80LXQtNC40LDQv9GA0L7RgdGC0YDQsNC9?=
+ =?utf-8?B?0YHRgtCy0LAg0Lgg0LDQvdCw0LvQuNGC0LjRh9C10YHQutCw0Y8g0YHQv9GA?=
+ =?utf-8?B?0LDQstC60LAg0LrQvtGA0L7QvdCw0LLQuNGA0YPRgdC90YvQtSDRgNC40YE=?=
+ =?utf-8?B?0LrQuCAyMC4wMS4yMDIy?=
+Thread-Topic: =?utf-8?B?0JXQttC10LTQvdC10LLQvdCw0Y8g0LjQvdGE0L7RgNC80LDRhtC40Y8g0L4g?=
+ =?utf-8?B?0YHQvtGB0YLQvtGP0L3QuNC4INC80LXQtNC40LDQv9GA0L7RgdGC0YDQsNC9?=
+ =?utf-8?B?0YHRgtCy0LAg0Lgg0LDQvdCw0LvQuNGC0LjRh9C10YHQutCw0Y8g0YHQv9GA?=
+ =?utf-8?B?0LDQstC60LAg0LrQvtGA0L7QvdCw0LLQuNGA0YPRgdC90YvQtSDRgNC40YE=?=
+ =?utf-8?B?0LrQuCAyMC4wMS4yMDIy?=
+Thread-Index: AdgOCEDQRFtajllXTmGuFbj82QH+QA==
+Disposition-Notification-To: =?utf-8?B?0JDQttCz0LjRgNC10LLQuNGHINCQ0YDRgtC10Lwg0JjQstCw0L3QvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <AzhgirevichAI@tverreg.ru>
+Return-Receipt-To: <AzhgirevichAI@tverreg.ru>
+Date: Thu, 20 Jan 2022 21:09:54 +0300
+Message-ID: <6f190a529237469bb5403d5b766469e3@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <6f190a529237469bb5403d5b766469e3@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.103.68]
+X-MS-Exchange-Organization-Network-Message-Id: 24d9f4b8-71e9-4fd0-2935-08d9dc400fdc
+Return-Path: AzhgirevichAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.2830184
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER23517326
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72" style='word-wrap:break-word'><div class=WordSection1><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>Уважаемый Игорь Михайлович! <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>Направляю ежедневный отчет Центра управления регионом Тверской области <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>о состоянии медиапространства на 20.01.2022, а также <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>информационно – аналитическую справку «Коронавирусные риски» на 20.01.2022.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:36.0pt;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:36.0pt;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>С уважением, <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>заместитель Председателя <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>Правительства Тверской области, <o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>и.о Министра строительства Тверской области<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify;text-indent:36.0pt;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify;line-height:110%;text-autospace:none'><span style='font-size:16.0pt;line-height:110%'>А.И. Ажгиревич<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri",sans-serif;mso-fareast-language:EN-US'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

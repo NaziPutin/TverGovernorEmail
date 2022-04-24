@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb4e29c
+DTSTAMP:20220424T204126Z
+CREATED:20200326T094533Z
+LAST-MOD:20200326T093435Z
+SUMMARY:Заседание Комиссии по предупреждению и ликвидации чрезвычайных ситуаций и обеспечению пожарной безопасности Тверской области (в формате селекторного совещания с главами МО Тверской области) (отв. Григорян А.Р.\,  Попенко В.И.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200326T110000Z
+DTEND;VALUE=DATE-TIME:20200326T120000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

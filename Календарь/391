@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x326dbc
+DTSTAMP:20220424T204126Z
+CREATED:20211215T185138Z
+LAST-MOD:20211215T183026Z
+SUMMARY:Торжественные мероприятия\, приуроченные к 80-й годовщине со дня освобождения города Калинина от немецко-фашистских захватчиков (отв. Новикова В.И.\, Скорый А.В.\, Сальникова Т.А.\, Огоньков А.В.\, СМИ+пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20211216T080000Z
+DTEND;VALUE=DATE-TIME:20211216T091500Z
+LOCATION:Согласно программе мероприятий
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

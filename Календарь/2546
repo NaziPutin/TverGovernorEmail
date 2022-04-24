@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xbfe7b0
+DTSTAMP:20220424T204126Z
+CREATED:20200221T150709Z
+LAST-MOD:20200221T150212Z
+SUMMARY:Р—Р°РїРёСЃСЊ РІРёРґРµРѕРїРѕР·РґСЂР°РІР»РµРЅРёСЏ Р¶РёС‚РµР»РµР№ РўРІРµСЂСЃРєРѕР№ РѕР±Р»Р°СЃС‚Рё СЃ Р”РЅРµРј Р·Р°С‰РёС‚РЅРёРєР° РћС‚РµС‡РµСЃС‚РІР° (23.02.2020) (РѕС‚РІ. РњРёС…Р°Р№Р»РѕРІР° Рљ.Р’.)
+DTSTART;VALUE=DATE-TIME:20200221T173000Z
+DTEND;VALUE=DATE-TIME:20200221T180000Z
+LOCATION:СѓР». Р’Р°РіР¶Р°РЅРѕРІР°\, Рґ. 9\, Р“РўР Рљ В«РўРІРµСЂСЊВ»\, 1-Р№ СЌС‚Р°Р¶\, СЌС„РёСЂРЅР°СЏ СЃС‚СѓРґРёСЏ
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157a770
+DTSTAMP:20220424T204127Z
+CREATED:20161123T184733Z
+LAST-MOD:20161226T070538Z
+SUMMARY:Открытие движения на транспортной развязке км 179 автомобильной дороги общего пользования федерального значения  М-10 (отв. Павлов И.А.)
+DESCRIPTION:Участие  принимает Старовойт Р.В. – руководитель Федерального дорожного агентства\n
+DTSTART;VALUE=DATE-TIME:20161226T083000Z
+DTEND;VALUE=DATE-TIME:20161226T095000Z
+LOCATION:г. Тверь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

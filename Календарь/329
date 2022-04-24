@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2b4968
+DTSTAMP:20220424T204126Z
+CREATED:20211223T141749Z
+LAST-MOD:20211223T161511Z
+SUMMARY:Р Р°Р±РѕС‡Р°СЏ РІСЃС‚СЂРµС‡Р°\, С‚РµРјР°: "РћР± РёС‚РѕРіР°С… РїСЂРѕРІРµРґРµРЅРёСЏ СЂР°Р±РѕС‚ РїРѕ СЂРµРєСѓР»СЊС‚РёРІР°С†РёРё СЃРІР°Р»РѕРє РІ 2021 РіРѕРґСѓ" (РѕС‚РІ. РќР°СѓРјРѕРІ Рђ.Р’.) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20211223T170000Z
+DTEND;VALUE=DATE-TIME:20211223T173000Z
+LOCATION:РєР°Р±. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

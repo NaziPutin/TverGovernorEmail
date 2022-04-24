@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157ef7c
+DTSTAMP:20220424T204127Z
+CREATED:20160822T155723Z
+LAST-MOD:20160902T082208Z
+SUMMARY:Совещание. тема: "О подготовке рабочей поездки в ТО специального представителя Президента РФ по взаимодействию с Форумом стран-экспортеров газа\, Председателя Совета директоров ПАО «Газпром» В.А. Зубкова (24.08.16) (отв. Меньщиков А.В.\, Пилавов М.И.)
+DTSTART;VALUE=DATE-TIME:20160822T160000Z
+DTEND;VALUE=DATE-TIME:20160822T170000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xd3f564
+DTSTAMP:20220424T204127Z
+CREATED:20191105T121532Z
+LAST-MOD:20191105T105111Z
+SUMMARY:Заседание Комитета по транспортному машиностроению Союза машиностроителей России на тему: "Меры государственной поддержки транспортного машиностроения" (отв. Ажгиревич А.И.\, Егоров И.И.\, Расторгуев С.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20191106T090000Z
+DTEND;VALUE=DATE-TIME:20191106T093000Z
+LOCATION:Петербургское ш.\, 45Б\, ОАО "ТВЗ"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

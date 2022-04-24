@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x12fcd44
+DTSTAMP:20220424T204127Z
+CREATED:20180604T064128Z
+LAST-MOD:20180601T063542Z
+SUMMARY:Торжественная церемония\, посвященная вводу в эксплуатацию участка автодороги "Россия" км 156+000– км 178+800 (обход г.Твери) со строительством двух трансп.развязок в разных уровнях на км164 и км173» (отв. Меньщиков А.В.\, Павлов И.А.\, СМИ+прессс-служба)
+DTSTART;VALUE=DATE-TIME:20180605T072500Z
+DTEND;VALUE=DATE-TIME:20180605T084000Z
+LOCATION:Калининский район\, км 172 автомобильной дороги М-10 "Россия"
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,81 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 29 May 2020 16:06:12 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Fri, 29 May
+ 2020 16:06:10 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 29 May 2020 16:06:10 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id DAAA722EEE
+	for <rim@TVERREG.ru>; Fri, 29 May 2020 16:06:11 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 128.140.172.143 is authorized to use 'yuri_isakov@mail.ru' in 'mfrom' identity (mechanism 'ip4:128.140.168.0/21' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="yuri_isakov@mail.ru"; helo=f727.i.mail.ru; client-ip=128.140.172.143
+Received: from f727.i.mail.ru (f727.i.mail.ru [128.140.172.143])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 7094522F0C
+	for <rim@TVERREG.ru>; Fri, 29 May 2020 16:05:59 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=C7FxV5o6cIxjtciDItHMGDjzpa+f9hhXfjkGFouy/Wk=;
+	b=pEgTJPerqhM3FxmwiwDH/3rCl8bbzNmt16xf+J0wRSJ2SaUUalK5QHTHWHYeRNOXKTss1HldeJvQpydDlaN0wx3Z6BR8CgdZlqdST1nGq5Vc9s55JKyrXWUOYBMVweduw8BUU6Uus3RXVj/5y3/1kUWVh2E3e2vDi/E/npugmZg=;
+Received: by f727.i.mail.ru with local (envelope-from <yuri_isakov@mail.ru>)
+	id 1jeeht-0005b4-C8; Fri, 29 May 2020 16:05:53 +0300
+Received: by e.mail.ru with HTTP;
+	Fri, 29 May 2020 16:05:53 +0300
+From: =?UTF-8?B?0K7RgNC40Lkg0JjRgdCw0LrQvtCy?= <yuri_isakov@mail.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0LbQsNC70L7QsdCw0YUg0LIg0YE=?=
+ =?UTF-8?B?0L7RhtC40LDQu9GM0L3Ri9GFINGB0LXRgtGP0YUg0L3QsCDQvtGC0LrQsNC3?=
+ =?UTF-8?B?0Ysg0LTQtdC70LDRgtGMINCa0KI=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Fri, 29 May 2020 16:05:53 +0300
+Reply-To: =?UTF-8?B?0K7RgNC40Lkg0JjRgdCw0LrQvtCy?= <yuri_isakov@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1590757553.973167414@f727.i.mail.ru>
+Authentication-Results: f727.i.mail.ru; auth=pass smtp.auth=yuri_isakov@mail.ru smtp.mailfrom=yuri_isakov@mail.ru
+X-7564579A: 78E4E2B564C1792B
+X-77F55803: 119C1F4DF6A9251C4499230945D9DCC77E0D84DD92A161B7235844E92DE29919ABF6EAE57C0FACE91C50316244DE642D13C49B0EEE894C2D4880E764A6E0AC4ECEBD7663CDD6CE63
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7900DDC0C6A9982C1D82A6BABE6F325AC97BFF60C3EDA0EB1BCF491FFA38154B613377AFFFEAFD269176DF2183F8FC7C08E88BD1CA827EF00C2099A533E45F2D0395957E7521B51C2CFCAF695D4D8E9FCEA1F7E6F0F101C6778DA827A17800CE712EB008F780777E9EA1F7E6F0F101C674E70A05D1297E1BBC6CDE5D1141D2B1C043026BD6CD5B7C962225D76DD038A27CB72A979199465699FA2833FD35BB23D9E625A9149C048EE1E561CDFBCA1751FF6B57BC7E64490618DEB871D839B7333395957E7521B51C2545D4CF71C94A83E9FA2833FD35BB23D27C277FBC8AE2E8B1BE95B8C87527B4BA471835C12D1D977C4224003CC836476C0CAF46E325F83A522CA9DD8327EE4930A3850AC1BE2E7354E672349037D5FA5C4224003CC836476C0CAF46E325F83A50BF2EBBBDD9D6B0F8DB212830C5B42F72623479134186CDE6BA297DBC24807EABDAD6C7F3747799A
+X-C8649E89: 64543E602FB9218A7FF8C16F1BCB4ADF0A572FFBB2E60995B4CBB83AA75EAF2DF7FAC4EFD47A31A3
+X-D57D3AED: 3ZO7eAau8CL7WIMRKs4sN3D3tLDjz0dLbV79QFUyzQ2Ujvy7cMT6pYYqY16iZVKkSc3dCLJ7zSJH7+u4VD18S7Vl4ZUrpaVfd2+vE6kuoey4m4VkSEu530nj6fImhcD4MUrOEAnl0W826KZ9Q+tr5+wYjsrrSY/u8Y3PrTqANeitKFiSd6Yd7yPpbiiZ/d5BsxIjK0jGQgCHUM3Ry2Lt2G3MDkMauH3h0dBdQGj+BB/iPzQYh7XS329fgu+/vnDhPH7kt0VbKEzKWU3wZoBJJA==
+X-Mailru-Internal-Actual: A:0.86593545115741
+X-Mailru-MI: 900
+X-Mailru-Sender: 00097D31F91C944B422369378C5A2E72BB78F68CFE56DC83DEEFE0A498D123165244F69F92F186E6719A47A393C2885AA2BFD6D8330F0C2D9BE5126562EF3E431B8CBA2C858B1D71D14A75FFA6C2E0F7703CEDF781B54826B4A721A3011E896F
+X-Mras: Ok
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.221 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (kcson-olenino[at]yandex.ru) (olesy-makarov[at]yandex.ru) (yuri_isakov[at]mail.ru)
+	FUZZY_XPILL               0.1 Attempt to obfuscate words in spam
+	HTML_MESSAGE            0.001 HTML included in message
+	MPART_ALT_DIFF           0.79 HTML and text parts are different
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: yuri_isakov@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 17aabac7-af11-4845-040c-08d803d10eb9
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.6574927
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><div id="composeWebView_editable_content" data-mailruapp-compose-id="composeWebView_editable_content" style="text-align: left;"><br><div><p class="s4" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 1.2; text-align: center; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span class="s8" style="line-height: 19.200000762939453px; font-weight: bold; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">Уважаемый Игорь Михайлович!</span></span></p><p class="s4" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 1.2; text-align: center; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span style="line-height: 21.600000381469727px;">&nbsp;</span></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">Во исполнение&nbsp;</span></span><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">Вашего поручения, данного на совещании 29.05.2020</span></span><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">,&nbsp;</span></span><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">направляю информацию&nbsp;</span></span><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">в социальных сетях с жалобами на отказ медицинских работников делать компьютерную томографию легких</span></span><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;">.</span></span></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;"><br></span></span></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"><font face="Times New Roman" size="5">Ю.Исаков</font></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;"><br></span></span></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span class="s9" style="line-height: 19.200000762939453px; font-size: 16px; font-family: &quot;Times New Roman&quot;;"><span class="bumpedFont15" style="line-height: 28.799999237060547px; font-size: 1.5em;"><br></span></span></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><br></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span style="font-family: &quot;Times New Roman&quot;; font-size: 1.5em; font-weight: bold;"><br></span></p><p class="s10" style="-webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); margin-top: 0px; margin-bottom: 0px; line-height: 21.600000381469727px; text-indent: 42px; text-align: justify; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-size: 18px;"><span style="font-family: &quot;Times New Roman&quot;; font-size: 1.5em; font-weight: bold;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p></div><div><br></div><div id="composeWebView_previouse_content" data-mailruapp-compose-id="composeWebView_previouse_content"></div></div></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

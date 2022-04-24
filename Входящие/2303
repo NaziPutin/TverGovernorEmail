@@ -1,0 +1,69 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 16 Oct 2019 11:14:03 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Wed, 16 Oct
+ 2019 11:14:03 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Wed, 16 Oct 2019 11:13:58 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 295B121C31
+	for <rim@tverreg.ru>; Wed, 16 Oct 2019 11:13:58 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 94.100.176.153 is authorized to use 'sedovkv1978@mail.ru' in 'mfrom' identity (mechanism 'ip4:94.100.176.0/20' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="sedovkv1978@mail.ru"; helo=smtp16.mail.ru; client-ip=94.100.176.153
+Received: from smtp16.mail.ru (smtp16.mail.ru [94.100.176.153])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 04D60201BD
+	for <rim@tverreg.ru>; Wed, 16 Oct 2019 11:13:57 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=To:Message-Id:Subject:Date:Mime-Version:From:Content-Transfer-Encoding:Content-Type; bh=kk5kglu6jetb1dJgQpLCjTrID93I+wWTIETSUIxuAMI=;
+	b=dNxmd5AAm6yZ7kmdu4xKGIODF1JHJg8VLCLNUttCn/8eXD1RbDWmUfco01PF8zvhIvv4jDdo1HseUhiVaPLFMZ59ZI1A3LgQiLCUyQQHYfklJOVNL22EulVdKzMDPF2hh4oECOwPCLJAfQCbK0dzKpK4z1V3BVD+HbAOl2MQmf0=;
+Received: by smtp16.mail.ru with esmtpa (envelope-from <sedovkv1978@mail.ru>)
+	id 1iKeRK-0004GA-25
+	for rim@tverreg.ru; Wed, 16 Oct 2019 11:13:50 +0300
+From: =?utf-8?B?0JrQvtC90YHRgtCw0L3RgtC40L0=?= <sedovkv1978@mail.ru>
+Date: Wed, 16 Oct 2019 11:13:48 +0300
+Subject: =?utf-8?B?0LTQu9GPINGB0L7QstC10YnQsNC90LjRjyDRgSDQv9C+0LvQv9GA?=
+ =?utf-8?B?0LXQtNC+0Lw=?=
+Message-Id: <E24A3C89-6094-4AE5-8F59-FBCC9FD2E574@mail.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L4=?=
+ =?utf-8?B?0LLQuNGH?= <rim@tverreg.ru>
+X-Mailer: iPhone Mail (17A860)
+Authentication-Results: smtp16.mail.ru; auth=pass smtp.auth=sedovkv1978@mail.ru smtp.mailfrom=sedovkv1978@mail.ru
+X-77F55803: 3FFC80838138E3AB5A78504BD2AC294122C86D30CC9F31394D1A5CC12371D833264A921C35EE1721BF3DA85CAE991E2E
+X-7FA49CB5: FF5795518A3D127A4AD6D5ED66289B5278DA827A17800CE78BAADB77C21FF6F2EA1F7E6F0F101C67BD4B6F7A4D31EC0BCC500DACC3FED6E28638F802B75D45FF8AA50765F7900637E149C29A36E092738638F802B75D45FF5571747095F342E8C7A0BC55FA0FE5FC3BE647BF1428E3734BA4A1950DB5DF2692B6B809E916636A389733CBF5DBD5E913377AFFFEAFD269176DF2183F8FC7C0ECC8AC47CD0EDEFF8941B15DA834481FCF19DD082D7633A0E7DDDDC251EA7DABA471835C12D1D977725E5C173C3A84C34964A708C60C975A117882F4460429728AD0CFFFB425014E40A5AABA2AD371193AA81AA40904B5D9A18204E546F3947C706E30CA5231861903F1AB874ED890284AD6D5ED66289B52E1A3F18E62937ED6A8C29749A63C2581725E5C173C3A84C3C729CE01ACF73A21BA3038C0950A5D36B5C8C57E37DE458B5A02E28F51ECAD4422CA9DD8327EE4930A3850AC1BE2E73586B3F9DA20BEF72A9C0B2F4AF5A28BA6731C566533BA786A40A5AABA2AD371193C9F3DD0FB1AF5EB417FD7EC7EC0BD913C9F3DD0FB1AF5EB4E70A05D1297E1BBCB5012B2E24CD356
+X-Mailru-Sender: DBE5340C3C7EDD87575078311B4ED6251F8900B86C8FCE15FFF78EABD3EF417CCC1D57080A158DB5FB4AE67CE52A25297C87B8C33C1934985B6132F71BA054DE4BBCC659F7C25A169E041B5A428171145FD1F06B50AD27C8AE208404248635DF
+X-Mras: OK
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.875 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (sedovkv1978[at]mail.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (lesnoeroo[at]yandex.ru) (fok-tver[at]mail.ru) (fok-tver[at]mail.ru) (sedovkv1978[at]mail.ru)
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: sedovkv1978@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 77cf7864-e0bb-4343-ab27-08d75210cdfc
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:05.2527234
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

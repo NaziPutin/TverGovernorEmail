@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157f80c
+DTSTAMP:20220424T204127Z
+CREATED:20160812T063207Z
+LAST-MOD:20160819T170039Z
+SUMMARY:(по окончании) Доклад\, тема: «Организация ярмарки продовольствия (01.10.2016)\, приуроченной к Дню работника сельского хозяйства и перерабатывающей промышленности»\nУчастие принимают: Меньщиков А.В.\, Чернышов А.Я.\, Огоньков А.В.\, Мигулев П.И.
+DTSTART;VALUE=DATE-TIME:20160813T090000Z
+DTEND;VALUE=DATE-TIME:20160813T093000Z
+LOCATION:каб. 301-1
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

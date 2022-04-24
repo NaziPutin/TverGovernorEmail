@@ -1,0 +1,51 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 15 Nov 2019 08:40:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Fri, 15 Nov
+ 2019 08:39:55 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::19a:f216:3fe9:a484%4]) with mapi id 15.01.1591.008; Fri, 15 Nov 2019
+ 08:39:55 +0300
+From: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/QuNGB0YzQvNC+LdCT0YPQsdC10YDQvdCw0YLQvtGA0YMg0KLQstC10YA=?=
+ =?utf-8?B?0YHQutC+0Lkg0L7QsdC7Lg==?=
+Thread-Topic: =?utf-8?B?0J/QuNGB0YzQvNC+LdCT0YPQsdC10YDQvdCw0YLQvtGA0YMg0KLQstC10YA=?=
+ =?utf-8?B?0YHQutC+0Lkg0L7QsdC7Lg==?=
+Thread-Index: AQHVm3cbepgWKYmhr0yfds3IIF1b1w==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 15 Nov 2019 08:39:54 +0300
+Message-ID: <8A6DCE8B-5509-47C4-953E-C1AD5BC7B272@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <8A6DCE8B-5509-47C4-953E-C1AD5BC7B272@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 8effeb7b-9dd8-4b75-3b65-08d7698e3e7b
+Return-Path: rim@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:34.8627800
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2D076544
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Игорь Михайлович, Добрый день. Отправил информацию по оборудованию телемедицины. Наше производство, импортозамещение.
+
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

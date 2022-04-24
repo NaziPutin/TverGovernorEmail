@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x108e808
+DTSTAMP:20220424T204127Z
+CREATED:20190228T111911Z
+LAST-MOD:20190228T091802Z
+SUMMARY:Мигалин Сергей Александрович - заместитель Генерального директора – директор по экономике и финансам АО «Концерн Росэнергоатом»\, Мартынов Дмитрий Николаевич - генеральный директор ООО "С-Плюс" (отв. Егоров И.И.\, Жарлицына Т.Л.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190228T170000Z
+DTEND;VALUE=DATE-TIME:20190228T180000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc2b66c
+DTSTAMP:20220424T204126Z
+CREATED:20200123T150224Z
+LAST-MOD:20200123T160409Z
+SUMMARY:Рабочая встреча\, тема: «О применении льготных социальных и школьных транспортных карт при внедрении новой модели пассажирских перевозок на территории Тверской области» (отв. Хохлова Е.В.\, Ермакова С.М.\,  Подтихова М.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200123T173000Z
+DTEND;VALUE=DATE-TIME:20200123T180000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

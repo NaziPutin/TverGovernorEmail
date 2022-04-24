@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x108401c
+DTSTAMP:20220424T204127Z
+CREATED:20190319T185305Z
+LAST-MOD:20190319T145425Z
+SUMMARY:Селекторное совещание с главами МО Тверской области по вопросам проведения противопаводковых мероприятий и подготовки к пожароопасному периоду в 2019 г. (отв. Григорян А.Р.\, Наумов А.В.\, Попенко В.И.\, Охлобыстин Ю.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190320T111500Z
+DTEND;VALUE=DATE-TIME:20190320T121500Z
+LOCATION:ул. Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

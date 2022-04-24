@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc3a110
+DTSTAMP:20220424T204126Z
+CREATED:20200122T151620Z
+LAST-MOD:20200122T150949Z
+SUMMARY:Совещание\, тема: «Об организации строительства\, реконструкции и ввода в эксплуатацию социально значимых объектов Тверской области в 2020г. (по отрасли образование)» (отв. Белоцерковский А.В.\, Ажгиревич А.И.\, Биленко Д.С.\, Соколов С.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200122T160000Z
+DTEND;VALUE=DATE-TIME:20200122T170000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

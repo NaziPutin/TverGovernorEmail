@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1095e10
+DTSTAMP:20220424T204127Z
+CREATED:20190301T121002Z
+LAST-MOD:20190301T100858Z
+SUMMARY:Совещание  по вопросам\, связанным с внедрением и развитием АПК «Безопасный город». Проводит Борисов  Ю.И. – Заместитель Председателя Правительства РФ (отв. Григорян А.Р.\, Попенко В.И.. пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190304T130000Z
+DTEND;VALUE=DATE-TIME:20190304T143000Z
+LOCATION:г. Москва\, Краснопресненская наб.\, д.2\, Дом Правительства РФ\, 8-й подъезд\, 1-й этаж\, Ситуационный центр 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

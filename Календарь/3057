@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe44210
+DTSTAMP:20220424T204127Z
+CREATED:20190826T082150Z
+LAST-MOD:20190826T055052Z
+SUMMARY:Межведомственное селекторное совещание\, тема: «О ходе подготовки учреждений образования Тверской области к началу 2019-2020 учебного года» (отв. Белоцерковский А.В.\, Коваленко Ю.Н.\, Григорян А.Р.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190826T110000Z
+DTEND;VALUE=DATE-TIME:20190826T120000Z
+LOCATION:пл. Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

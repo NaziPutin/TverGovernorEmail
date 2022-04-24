@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2356a4
+DTSTAMP:20220424T204126Z
+CREATED:20220228T075220Z
+LAST-MOD:20220228T063755Z
+SUMMARY:Конференция Тверского регионального отделения Всероссийской политической партии «ЕДИНАЯ РОССИЯ» (отв. Белорусов В.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220228T123000Z
+DTEND;VALUE=DATE-TIME:20220228T142000Z
+LOCATION:Смоленский пер.\, д. 29\, ККЗ «Панорама»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

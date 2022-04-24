@@ -1,0 +1,74 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 8 Apr 2021 11:28:14 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 8 Apr 2021
+ 11:28:11 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 8 Apr 2021 11:28:14 +0300
+Received: from mxs.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mxs.tverreg.ru (Proxmox) with ESMTP id ECEBE22099
+	for <RIM@tverreg.ru>; Thu,  8 Apr 2021 11:28:13 +0300 (MSK)
+Received-SPF: none (kspto.ru: No applicable sender policy available) receiver=mxs.tverreg.ru; identity=mailfrom; envelope-from="itv@kspto.ru"; helo=muse02.co.ru; client-ip=194.85.129.117
+Received: from muse02.co.ru (muse02.co.ru [194.85.129.117])
+	by mxs.tverreg.ru (Proxmox) with ESMTP id 9126922078
+	for <RIM@tverreg.ru>; Thu,  8 Apr 2021 11:28:09 +0300 (MSK)
+X-SPIN-Class: std_int_ip
+Received: from mail.kspto.ru ([87.229.194.50] verified)
+  by muse02.co.ru (CommuniGate Pro SMTP 5.2.20 _community_)
+  with ESMTP id 111888212 for RIM@tverreg.ru; Thu, 08 Apr 2021 11:28:02 +0300
+Received: from lotus1.kspto.ru (server1.kspzsto.local [10.30.0.3])
+	by mail.kspto.ru (Postfix) with ESMTP id CE23A3F40F
+	for <RIM@tverreg.ru>; Thu,  8 Apr 2021 13:20:11 +0400 (MSD)
+To: <RIM@tverreg.ru>
+Subject: =?KOI8-R?B?wdDQwdLB1Nkg6ffs?=
+X-KeepSent: 2718BFC7:1642FE21-432586B1:002D1BF2;
+ type=4; name=$KeepSent
+X-Mailer: Lotus Notes Release 8.5.3 September 15, 2011
+Message-ID: <OF2718BFC7.1642FE21-ON432586B1.002D1BF2-432586B1.002EE53A@kspto.ru>
+From: <itv@kspto.ru>
+Date: Thu, 8 Apr 2021 11:32:13 +0300
+X-MIMETrack: Serialize by Router on lotus1/kspto(Release 8.5.2FP2|March 22, 2011) at
+ 08.04.2021 11:32:13
+X-SPAM-LEVEL: Spam detection results:  1
+	FUZZY_XPILL               0.1 Attempt to obfuscate words in spam
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	KAM_LAZY_DOMAIN_SECURITY      1 Sending domain does not have any anti-forgery methods
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_NONE                0.001 SPF: sender does not publish an SPF Record
+Return-Path: itv@kspto.ru
+X-MS-Exchange-Organization-Network-Message-Id: a2ad7228-16e7-4ed5-011f-08d8fa6840de
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.1960214
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"><font size="2" face="sans-serif">хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!
+&nbsp;</font>
+<p><font size="2" face="sans-serif">х нЙОЙУФЕТУФЧБ ЪДТБЧППИТБОЕОЙС
+&nbsp;РП УПУФПСОЙА ОБ 01.01.2021 ДЕВЙФПТУЛБС ЪБДПМЦЕООПУФШ
+Ч ТБЪНЕТЕ 74480,0 ФЩУ.ТХВ.- РП &nbsp;ДЧХН ЗПУЛПОФТБЛФБН
+&nbsp;ОБ РПУФБЧЛХ БРРБТБФПЧ йчм. &nbsp;</font>
+<p><font size="2" face="sans-serif">(РТЕДПРМБФБ ЪБ 50 БРРБТБФПЧ
+йчм &nbsp; РТПЙЪЧЕДЕОБ &nbsp;Ч БРТЕМЕ 2020 З). &nbsp;йЪ
+ПФЮЕФОПУФЙ УМЕДХЕФ, ЮФП ЙЪ 50 БРРБТБФПЧ
+РПУФБЧМЕОП 10. йОЖПТНБГЙС ПВ ЙУРПМОЕОЙЙ
+ЛПОФТБЛФПЧ ПФУХФУФЧХЕФ.</font>
+<p><font size="2" face="sans-serif">&nbsp;рПДФЙИПЧХ н.й. РТПЙОЖПТНЙТПЧБМБ.</font>
+<p>
+<br><font size="2" face="sans-serif">&nbsp;у ХЧ. йРБФПЧБ ф.ч.</font>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

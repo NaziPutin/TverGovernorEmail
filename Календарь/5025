@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13f7fb8
+DTSTAMP:20220424T204127Z
+CREATED:20171214T144831Z
+LAST-MOD:20171214T115804Z
+SUMMARY:Церемония открытия скоростной платной автомобильной дороги Москва-СПб (М11) – 4 этапа на участке от г.Тверь до г.В.Волочек (отв. Меньщиков А.В.\, Павлов И.А.\,  \nСМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171215T080000Z
+DTEND;VALUE=DATE-TIME:20171215T101000Z
+LOCATION:Калининский р-н\, 208 км трассы М-11\,  р-н д.Романово 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

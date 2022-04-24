@@ -1,0 +1,162 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 13 Jun 2017 09:28:55 +0300
+From: Microsoft Outlook
+	<MicrosoftExchange329e71ec88ae4615bbc36ab6ce41109e@tverreg.ru>
+To: <rim@tverreg.ru>
+Date: Tue, 13 Jun 2017 09:28:54 +0300
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: ru-RU
+Message-ID: <942ac5a4-b0e4-4857-8959-ab1aa5cc5689@mailsrv2.tverreg.ru>
+In-Reply-To: <b9907f163c9546e5963988a11c9329d2@tverreg.ru>
+References: <b9907f163c9546e5963988a11c9329d2@tverreg.ru>
+Thread-Topic: Test
+Thread-Index: AdLkDlTuzA4DjHz0TnaEz8J/fUUWxQAAAAuY
+Subject: =?koi8-r?B?7sUg1cTBxdTT0SDEz9PUwdfJ1Ng6IFRlc3Q=?=
+Auto-Submitted: auto-replied
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 05
+X-MS-Exchange-Organization-Network-Message-Id: f0cc4acf-26da-4415-36f8-08d4b2257738
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+Return-Path: <>
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.1707048
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=MICROSOFTEXCHANGE329E71EC88AE4615BBC36AB6CE41109E
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Diagnostic code = OrNameUnrecognized; Reason code = TransferFailed; Status code = 510
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r"></head><body>
+<p><b><font color="#000066" size="3" face="Arial">оЕ ХДБМПУШ ЧЩРПМОЙФШ ДПУФБЧЛХ УМЕДХАЭЙН РПМХЮБФЕМСН ЙМЙ ЗТХРРБН:</font></b></p>
+<font color="#000000" size="2" face="Tahoma"><p><a href="mailto:IMCEAEX-_o%3Dtverreg_ou%3DExchange%2B20Administrative%2B20Group%2B20%2B28FYDIBOHF23SPDLT%2B29_cn%3DRecipients_cn%3Duserd9eec5e5@tverreg.ru">чПМЗЙО бОДТЕК чБМЕОФЙОПЧЙЮ</a><br>
+</font>
+<font color="#000000" size="3" face="Arial">оЕ ХДБМПУШ ОБКФЙ ЧЧЕДЕООЩК ЬМЕЛФТПООЩК БДТЕУ. рТПЧЕТШФЕ БДТЕУ РПМХЮБФЕМС Й РПРТПВХКФЕ ПФРТБЧЙФШ УППВЭЕОЙЕ ЕЭЕ ТБЪ. еУМЙ РТПВМЕНБ ЧПЪОЙЛОЕФ УОПЧБ, ПВТБФЙФЕУШ Л УЧПЕНХ БДНЙОЙУФТБФПТХ ЬМЕЛФТПООПК РПЮФЩ.<br>
+</font>
+<font color="#000000" size="2" face="Tahoma"><br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color="#808080" size="2" face="Tahoma"><p><b>дЙБЗОПУФЙЮЕУЛЙЕ УЧЕДЕОЙС ДМС БДНЙОЙУФТБФПТПЧ:</b></p>
+<p>жПТНЙТХАЭЙК УЕТЧЕТ: mailsrv2.tverreg.ru<br>
+</p>
+<p>IMCEAEX-_o=tverreg_ou=Exchange&#43;20Administrative&#43;20Group&#43;20&#43;28FYDIBOHF23SPDLT&#43;29_cn=Recipients_cn=userd9eec5e5@tverreg.ru<br>
+Remote Server  returned '550 5.1.11 RESOLVER.ADR.ExRecipNotFound; Recipient not found by Exchange Legacy encapsulated email address lookup'<br>
+</p>
+<p>йУИПДОЩЕ ЪБЗПМПЧЛЙ УППВЭЕОЙС:</p>
+<pre>Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 13 Jun
+ 2017 09:28:54 &#43;0300
+Received: from mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b]) by
+ mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b%12]) with mapi id
+ 15.01.0396.037; Tue, 13 Jun 2017 09:28:54 &#43;0300
+Content-Type: application/ms-tnef; name=&quot;winmail.dat&quot;
+Content-Transfer-Encoding: binary
+From: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= &lt;rim@tverreg.ru&gt;
+To: =?koi8-r?B?98/Mx8nOIOHOxNLFyiD3wczFztTJzs/Xyd4=?= &lt;volgin@tverreg.ru&gt;
+Subject: Test
+Thread-Topic: Test
+Thread-Index: AdLkDlTuzA4DjHz0TnaEz8J/fUUWxQ==
+Date: Tue, 13 Jun 2017 09:28:54 &#43;0300
+Message-ID: &lt;b9907f163c9546e5963988a11c9329d2@tverreg.ru&gt;
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator: &lt;b9907f163c9546e5963988a11c9329d2@tverreg.ru&gt;
+MIME-Version: 1.0
+X-Originating-IP: [85.91.118.62]
+Return-Path: rim@tverreg.ru
+</pre>
+</font>
+</body>
+</html>
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: message/rfc822
+
+>From "rim@tverreg.ru" Tue Jun 13 06:28:54 2017
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 13 Jun
+ 2017 09:28:54 +0300
+Received: from mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b]) by
+ mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b%12]) with mapi id
+ 15.01.0396.037; Tue, 13 Jun 2017 09:28:54 +0300
+From: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+To: =?koi8-r?B?98/Mx8nOIOHOxNLFyiD3wczFztTJzs/Xyd4=?= <volgin@tverreg.ru>
+Subject: Test
+Thread-Topic: Test
+Thread-Index: AdLkDlTuzA4DjHz0TnaEz8J/fUUWxQ==
+Date: Tue, 13 Jun 2017 09:28:54 +0300
+Message-ID: <b9907f163c9546e5963988a11c9329d2@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator: <b9907f163c9546e5963988a11c9329d2@tverreg.ru>
+X-Originating-IP: [85.91.118.62]
+Return-Path: rim@tverreg.ru
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2D076544
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-362943347_-_-"
+
+
+----boundary-LibPST-iamunique-362943347_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span lang=EN-US>Test<o:p></o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-362943347_-_---
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

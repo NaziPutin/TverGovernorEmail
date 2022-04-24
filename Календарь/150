@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x2153ec
+DTSTAMP:20220424T204126Z
+CREATED:20220224T062539Z
+LAST-MOD:20220224T061001Z
+SUMMARY:Посещение площадки строительства домов в рамках реализации проекта "Развитие зоны деловой активности объекта культурного наследия "Историко-архитектурный комплекс "Морозовский городок" (отв. Егоров И.И.\, Огоньков А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220224T090000Z
+DTEND;VALUE=DATE-TIME:20220224T093000Z
+LOCATION:ул. Фрунзе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

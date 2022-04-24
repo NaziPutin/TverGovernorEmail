@@ -1,0 +1,54 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 16 Mar 2022 17:05:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Wed, 16 Mar
+ 2022 17:05:41 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Wed, 16 Mar 2022 17:05:44 +0300
+From: =?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?UmU6INCeINC/0L7QstGA0LXQttC00LXQvdC40Lgg0LLQvtC00L7QstC+0LQ=?=
+ =?utf-8?B?0LAg0LIg0LPQvtGALtCi0LLQtdGA0Lgg?=
+Thread-Topic: =?utf-8?B?0J4g0L/QvtCy0YDQtdC20LTQtdC90LjQuCDQstC+0LTQvtCy0L7QtNCwINCy?=
+ =?utf-8?B?INCz0L7RgC7QotCy0LXRgNC4IA==?=
+Thread-Index: AQHYOTYuBTPjleEKxEGkA1ABRD9bFqzCC244
+Date: Wed, 16 Mar 2022 17:05:43 +0300
+Message-ID: <9CE0359A-EAEB-44F9-82BC-5B239B7257C3@tverreg.ru>
+References: <DD467DA5-3277-493C-8839-1EEB759DB0D7@tverreg.ru>
+In-Reply-To: <DD467DA5-3277-493C-8839-1EEB759DB0D7@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <9CE0359A-EAEB-44F9-82BC-5B239B7257C3@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 461cb7f0-62eb-4956-2530-08da07560fdb
+Return-Path: CvetkovAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3430545
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4CB7AC0B
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Поврежденный участок водовода локализован полностью в 17:00. Ведётся плавное повышение давление.
+
+> 16 марта 2022 г., в 16:03, Цветков Александр Иванович <CvetkovAI@tverreg.ru> написал(а):
+> 
+> ﻿Уважаемый Игорь Михайлович! В 16:00 от диспетчера ТверьВодоканал поступило сообщение о повреждении водовода диам.600 мм по адресу Тверь, ул.Старобежецкая 46. Снижены параметры по давлению в Пролетарском, Центральном и Московском р-нах Твери. ТверьВодоканал ведутся работы по локализации участка водовода. Сроки восстановления нормативных параметров - до 19:00. На контроле. С уважением Цветков А.И.
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

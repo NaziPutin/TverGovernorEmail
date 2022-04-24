@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x10b90a8
+DTSTAMP:20220424T204127Z
+CREATED:20190204T112306Z
+LAST-MOD:20190204T111652Z
+SUMMARY:Совещание\, тема: «Концепция развития сети ГАУ Тверской области «Многофункциональный центр предоставления государственных и муниципальных услуг» (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190204T120000Z
+DTEND;VALUE=DATE-TIME:20190204T130000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf444c8
+DTSTAMP:20220424T204127Z
+CREATED:20190527T164125Z
+LAST-MOD:20190527T160952Z
+SUMMARY:Рабочая встреча. Ажгиревич Артем Иванович - исполнительный директор Ассоциации "Лига содействия оборонным предприятиям"\, первый заместитель исполнительного директора аппарата Союза машиностроителей России
+DTSTART;VALUE=DATE-TIME:20190528T120000Z
+DTEND;VALUE=DATE-TIME:20190528T123000Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

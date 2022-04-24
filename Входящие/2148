@@ -1,0 +1,67 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 19 Dec 2019 12:47:04 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Thu, 19 Dec
+ 2019 12:47:01 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Thu, 19 Dec 2019 12:46:58 +0300
+From: =?windows-1251?B?zeDx6OHz6+vo7SDE7Ojy8OjpIMjj7vDl4uj3?=
+	<NasibulinDI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?0e/w4OLu9+3g/yDo7fTu8Ozg9uj/IO/uINfz7/Do/+3u4urlIA==?=
+Thread-Topic: =?windows-1251?B?0e/w4OLu9+3g/yDo7fTu8Ozg9uj/IO/uINfz7/Do/+3u4urlIA==?=
+Thread-Index: AQHVtk/K83H5Qpc01kiKMUHjcYJ9AQ==
+Date: Thu, 19 Dec 2019 12:46:58 +0300
+Message-ID: <b4ac59d5a5d8426db1634152c6e96309@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <b4ac59d5a5d8426db1634152c6e96309@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: a430d6a7-2cdd-4ea7-3f17-08d78468640f
+Return-Path: NasibulinDI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.1102647
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER2957C4B7
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Calibri,Helvetica,sans-serif;" dir="ltr">
+<p></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;, Times, serif;">Уважаемый Игорь Михайлович!<o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size: 14pt;"><br>
+</span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;, Times, serif;">&nbsp; &nbsp; &nbsp; &nbsp; По Вашему устному поручению направляю справочную информацию по прохождению государственной экспертизы объекта «Реконструкция
+ автомобильной дороги общего пользования межмуниципального значения «Москва-Санкт-Петербург»-Чуприяновка-Старый Погост с устройством пересечения в разных уровнях с Октябрьской железной дорогой в Калининском районе Тверской области»<o:p></o:p></span></p>
+<br>
+<p></p>
+<p><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;, Times, serif;">С уважением,</span></p>
+<p><span style="font-size: 14pt; font-family: &quot;Times New Roman&quot;, Times, serif;">Насибуллин Д.И.</span></p>
+<p></p>
+</div>
+</body>
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

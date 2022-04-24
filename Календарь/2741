@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xcafdfc
+DTSTAMP:20220424T204127Z
+CREATED:20191225T164520Z
+LAST-MOD:20191223T145157Z
+SUMMARY:Заседание Государственного Совета РФ на тему: «Государственная аграрная политика - эффективное сельскохозяйственное производство и развитие сельских территорий» (отв. Наумов А.В.\, Фатхуллина Г.Х.\, Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191226T100000Z
+DTEND;VALUE=DATE-TIME:20191226T120000Z
+LOCATION:г. Москва\, Большой Кремлевский Дворец\, Георгиевский зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,98 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Tue, 20 Jul 2021 20:31:38 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Tue, 20 Jul
+ 2021 20:31:37 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Tue, 20 Jul 2021 20:31:37 +0300
+From: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?zeDv8ODi6//+IOjt9O7w7OD26P4g7+4g6PLu4+DsIOfg7OX34O3o6SDF?=
+ =?windows-1251?B?4+7w7uLgIMguyC4g6iDs7uXs8yDk7urr4OTzIO/w6CDw4PHx7O7y8OXt?=
+ =?windows-1251?B?6P8g4u7v8O7x4CCrziDw5eDr6Ofg9ujoIO3g9uju7eDr/O3u4+4g7/Du?=
+ =?windows-1251?B?5ery4CCrz/Du6Ofi7uTo8uXr/O3u8fL8IPLw8+TguyDt4CDy5fDw6PLu?=
+ =?windows-1251?B?8OjoINLi5fDx6u7pIO7h6+Dx8ui7IA==?=
+Thread-Topic: =?windows-1251?B?zeDv8ODi6//+IOjt9O7w7OD26P4g7+4g6PLu4+DsIOfg7OX34O3o6SDF?=
+ =?windows-1251?B?4+7w7uLgIMguyC4g6iDs7uXs8yDk7urr4OTzIO/w6CDw4PHx7O7y8OXt?=
+ =?windows-1251?B?6P8g4u7v8O7x4CCrziDw5eDr6Ofg9ujoIO3g9uju7eDr/O3u4+4g7/Du?=
+ =?windows-1251?B?5ery4CCrz/Du6Ofi7uTo8uXr/O3u8fL8IPLw8+TguyDt4CDy5fDw6PLu?=
+ =?windows-1251?B?8OjoINLi5fDx6u7pIO7h6+Dx8ui7IA==?=
+Thread-Index: Add9jKAoS6lrwNanSPmrHcM+5IgkgA==
+Disposition-Notification-To: =?windows-1251?B?wObj6PDl4uj3IMDw8uXsIMji4O3u4uj3?=
+	<AzhgirevichAI@tverreg.ru>
+Return-Receipt-To: <AzhgirevichAI@tverreg.ru>
+Date: Tue, 20 Jul 2021 20:31:37 +0300
+Message-ID: <aa69d8d19e2948b292aaa799416ded9d@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <aa69d8d19e2948b292aaa799416ded9d@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [192.168.103.98]
+X-MS-Exchange-Organization-Network-Message-Id: e0f788c3-8fcb-4af9-aa8d-08d94ba43a9c
+Return-Path: AzhgirevichAI@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4300350
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER23517326
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251"><meta name="Generator" content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang="RU" link="#0563C1" vlink="#954F72"><div class="WordSection1"><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black;mso-fareast-language:AR-SA">Уважаемый Игорь Михайлович! <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;text-indent:35.45pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black;mso-fareast-language:AR-SA"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="text-align:justify"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black;mso-fareast-language:AR-SA">По итогам рассмотрения вопроса «О реализации национального проекта «Производительность труда» на территории Тверской области» на заседании Правительства Тверской области 20 июля 2021 года информирую Вас об условиях вовлечения предприятий в нацпроект.<o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black;mso-fareast-language:AR-SA"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="text-align:justify;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black;mso-fareast-language:AR-SA"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="text-align:justify;text-indent:36.0pt;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">С уважением, <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">заместитель Председателя <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">Правительства Тверской области – <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">Министр цифрового развития и <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">информационных технологий <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">Тверской области&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p><p class="MsoNormal" style="text-align:justify;text-indent:36.0pt;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="text-align:justify;line-height:110%;text-autospace:none"><span style="font-size:16.0pt;line-height:110%;font-family:&quot;Times New Roman&quot;,serif;mso-fareast-language:RU">А.И. Ажгиревич<o:p></o:p></span></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p><p class="MsoNormal" style="text-align:justify;text-indent:35.4pt"><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif;color:black;mso-fareast-language:AR-SA"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal"><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

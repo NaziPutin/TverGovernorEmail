@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5c6a74
+DTSTAMP:20220424T204126Z
+CREATED:20210624T071728Z
+LAST-MOD:20210624T060728Z
+SUMMARY:Заседание Законодательного Собрания ТО . Ежегодный отчет Губернатора Тверской области «О результатах деятельности Правительства Тверской области за 2020 г.» (отв. Егоров И.И.\, Скорый А.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210624T090000Z
+DTEND;VALUE=DATE-TIME:20210624T104000Z
+LOCATION:ул. Советская\, д. 33\, 8 этаж\, зал № 1
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

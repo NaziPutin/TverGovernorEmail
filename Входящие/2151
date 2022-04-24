@@ -1,0 +1,47 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 18 Dec 2019 19:07:40 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 18 Dec
+ 2019 19:07:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Wed, 18 Dec 2019 19:07:39 +0300
+From: =?utf-8?B?0KLQsNC70LDQvdC40L3QsCDQm9Cw0YDQuNGB0LAg0JDQu9C10LrRgdC10LU=?=
+ =?utf-8?B?0LLQvdCw?= <talanina@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0KTQsNGB0LDQtCDQstC+0LrQt9Cw0LvQsA==?=
+Thread-Topic: =?utf-8?B?0KTQsNGB0LDQtCDQstC+0LrQt9Cw0LvQsA==?=
+Thread-Index: AQHVtb1FweyLF+85QEOfyuO2zaCSnQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Wed, 18 Dec 2019 19:07:39 +0300
+Message-ID: <5dc6ff4e614c429db2ca6f736fd31228@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <5dc6ff4e614c429db2ca6f736fd31228@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 8f11f4b4-6790-4302-2615-08d783d467fb
+Return-Path: talanina@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7200468
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USERB9F82E54
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div><br></div><div><br></div><div><br></div><div><br></div><div id="composer_signature"><div style="font-size:85%;color:#575757" dir="auto">РћС‚РїСЂР°РІР»РµРЅРѕ СЃРѕ СЃРјР°СЂС‚С„РѕРЅР° Samsung Galaxy.</div></div><div><br></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

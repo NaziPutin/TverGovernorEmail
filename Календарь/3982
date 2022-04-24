@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x117740c
+DTSTAMP:20220424T204127Z
+CREATED:20181114T135942Z
+LAST-MOD:20181114T135315Z
+SUMMARY:Торжественное собрание\, посвященное Дню работника сельского хозяйства и перерабатывающей промышленности (отв. Наумов А.В.\, Мустюков А.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20181116T085000Z
+DTEND;VALUE=DATE-TIME:20181116T094000Z
+LOCATION:пр-т Калинина\, д.20\, ДК «Пролетарка» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

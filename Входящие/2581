@@ -1,0 +1,74 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 9 Apr 2019 23:03:34 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 9 Apr
+ 2019 23:03:28 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 9 Apr 2019 23:03:24 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id AE2D021E16
+	for <rim@tverreg.ru>; Tue,  9 Apr 2019 23:03:26 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use '#@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="#@yandex.ru"; helo=forward400o.mail.yandex.net; client-ip=37.140.190.176
+Received: from forward400o.mail.yandex.net (forward400o.mail.yandex.net [37.140.190.176])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 0BEBD21E14
+	for <rim@tverreg.ru>; Tue,  9 Apr 2019 23:03:24 +0300 (MSK)
+Received: from mxback5g.mail.yandex.net (mxback5g.mail.yandex.net [IPv6:2a02:6b8:0:1472:2741:0:8b7:166])
+	by forward400o.mail.yandex.net (Yandex) with ESMTP id 587B014C0FD8
+	for <rim@tverreg.ru>; Tue,  9 Apr 2019 23:03:24 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback5g.mail.yandex.net (nwsmtp/Yandex) with ESMTP id 5KBHta1wVj-3NVCxEia;
+	Tue, 09 Apr 2019 23:03:23 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1554840203;
+	bh=Jb+9VuGjajNjn3h48LtJ13zVrrUaj3K/S/MgfrATWzU=;
+	h=Message-Id:Date:Subject:To:From;
+	b=WYgQFz/mE/Dwrwl4bnezFPvaoXi87g6ZzHmKVX63+EHuR0AzUspu9qgfbeTuilmgM
+	 T220fsblp16YCqYxjBRiqoLXHxhky7vJmWVPXqcgEGRRu3E3p3V9hXS7bD63fpxC3M
+	 1jHNoIQwsmSfgX8HPLnKkZh9uOxaUYZNZXnoYD7M=
+Authentication-Results: mxback5g.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt3-c573aa6fc782.qloud-c.yandex.net with HTTP;
+	Tue, 09 Apr 2019 23:03:23 +0300
+From: =?utf-8?B?0KDQvtGJ0LjQvdCwINCd0LDRgtCw0LvRjNGP?= <79106404111@yandex.ru>
+Envelope-From: bosik-roshina60@yandex.ru
+To: =?utf-8?B?0JjQs9C+0YDRjCDQnNC40YXQsNC50LvQvtCy0LjRhyDQoNGD0LTQtdC90Y8=?= <rim@tverreg.ru>
+Subject: =?utf-8?B?0JPQvtGA0L7QtCDQv9C10YDQstGL0LUg0LzRi9GB0LvQuA==?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Tue, 09 Apr 2019 23:03:23 +0300
+Message-Id: <38076311554840203@myt3-c573aa6fc782.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.018 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (petya10[at]yandex.ru) (iv_and92[at]mail.ru) (sadovay19[at]mail.ru) (anton6989[at]mail.ru) (79106404111[at]yandex.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (petya10[at]yandex.ru) (iv_and92[at]mail.ru) (sadovay19[at]mail.ru) (anton6989[at]mail.ru) (79106404111[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	FROM_LOCAL_DIGITS       0.001 From: localpart has long digit sequence
+	FROM_LOCAL_HEX          0.006 From: localpart has long hexadecimal sequence
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY          0.723 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: 79106404111@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: fab6579d-422d-45c1-96e9-08d6bd266eb6
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:09.5410016
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Добрый вечер, уважаемый Игорь Михайлович! Сегодня городская Дума отстранила Борисова и назначила меня ио Главы! За первое знакомство с ситуацией в городе следующие мысли:</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Сейчас главное выборы новой Думы : для этого навести порядок в городе , там где не нужны деньги, а только силы и желание. Поэтому начинаем уборки всеми силами. График уже готов, к Пасхе , а затем к майским праздникам и конечно к 9 мая первые результаты должны быть.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; По путепроводу : информация для населения о проводимых работах и предположительные даты ремонта ( банеры и т д)</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; По дорогам в городе : стараться начать как можно быстро и конечно качественно ( мне пришлось немного переделать проекты - были &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ярко выраженные куски дорог без каких либо оснований взятые )</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ППМИ - есть некоторые сомнения у меня по кураторам этой программы ( возможны наши потери на выборах в чужую пользу) И таких проектов много из 25 заявленных 14 не наши люди курируют) Говорила с Ищенко - будем как то ломать эту ситуацию. &nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ФОК - стоит уже два года и когда сможет работать непонятно! Когда в городе нет Дома Культуры совсем!!! и не работает Физкультурно Оздоровительный Комплекс людям говорить что то про реализацию национальных проектов трудно. &nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">Закрыли ФОК по техническим причинам, проваливается пол и есть угроза сдувания крыши .</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Ряды торговые закроем пока банерами и надо тоже дать людям информацию о предстоящих работах - а то уже пишут всякие писаки</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Детский лагерь в Кашарово минусует каждый зимний месяц &nbsp;по миллиону и перспективы по его использованию муниципалитетом пока не вижу. Напрашивается идея заполнения его круглый год ( есть даже лицензия на оздоровительную деятельность ) , но это трудная задача. Завтра покажу его Белоцерковскому А В.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;По проектируемому садику активизируюсь буквально сейчас и надеюсь мы выправим отставания по дорожной карте</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;К проектированию школы тоже начнем готовиться , хочется найти современное решение ( посмотрю практики Москвы может быть )</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Водоснабжение и водоотведение хорошо бы передать в областную организацию, но пока не знаю как ( аренда 49 &nbsp;лет заключена )</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Теплоснабжение будем готовить в область , подготовлю все наработки по повышению эффективности и уменьшению потерь тепла и минимизации затрат на выработку ГКал.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Бюджет не справляется с долгами, пенями по просрочкам за коммуналку, нет финансовой возможности выходить на программы , а без привлечения федеральных и областных средств не сдвинуть ситуацию падения! По наполняемости бюджета буду смотреть возможности ( где потери или недополучение) , но пока надеюсь на льготные условия по программам. Будем готовить документы на максимально возможные &nbsp;проекты.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Игорь Михайлович! Может быть есть интересанты- инвесторы на размещение теперь уже в Вышневолоцком округе какого то производства? Всю возможную помощь готова оказать ,</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;В районе на эти годы задел хороший. , но третий год обещаем людям лужниковскую дорогу ( сельхозпредприятие там), дорогу на Белый Омут ( туристический маршрут к Николостолобенскому монастырю), и дорогу на Академическую дачу ( 4 мая Пленэр на Академичке с установлением рекорда по написанию самого большого этюда в Русскую книгу рекордов) . Хорошо бы эти дороги в этом году сделать... Понимаю, что таких дорог в области еще много...</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Это пока прикидки, с завтрашнего дня &nbsp;начну углубляться в проблемы и уже доложу конкретно . Очень надеюсь на Вашу помощь!</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">С уважением Рощина</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

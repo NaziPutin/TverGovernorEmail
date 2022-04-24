@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x40d260
+DTSTAMP:20220424T204126Z
+CREATED:20210923T110518Z
+LAST-MOD:20210923T075611Z
+SUMMARY:Заседание Межведомственной рабочей группы по созданию культурно-исторического кластера в городе Твери (в режиме видео-конференц-связи) (отв. Новикова В.И.\, Скорый А.В.\, Сальникова Т.А.\, Смирнов М.Ю.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210923T130000Z
+DTEND;VALUE=DATE-TIME:20210923T140000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

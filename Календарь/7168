@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x157efd4
+DTSTAMP:20220424T204127Z
+CREATED:20160822T122203Z
+LAST-MOD:20160902T082208Z
+SUMMARY:Совещание\, тема: "О внесении изменений в Перечень участков недр местного значения по ТО и об утверждении лимита добычи охотничьих ресурсов на территории ТО на период с 01.08.2016 по 01.08.2017  " (отв. Пилавов М.И.\, Чернышов А.Я.)
+DTSTART;VALUE=DATE-TIME:20160822T130000Z
+DTEND;VALUE=DATE-TIME:20160822T140000Z
+LOCATION:каб. 301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

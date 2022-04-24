@@ -1,0 +1,72 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Fri, 29 Nov 2019 17:45:10 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Fri, 29 Nov
+ 2019 17:45:10 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 29 Nov 2019 17:45:16 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 38B6721A8D
+	for <rim@tverreg.ru>; Fri, 29 Nov 2019 17:45:16 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'nns-#@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="nns-#@yandex.ru"; helo=forward103p.mail.yandex.net; client-ip=77.88.28.106
+Received: from forward103p.mail.yandex.net (forward103p.mail.yandex.net [77.88.28.106])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 62AC021A44
+	for <rim@tverreg.ru>; Fri, 29 Nov 2019 17:45:15 +0300 (MSK)
+Received: from mxback12j.mail.yandex.net (mxback12j.mail.yandex.net [IPv6:2a02:6b8:0:1619::87])
+	by forward103p.mail.yandex.net (Yandex) with ESMTP id 0761F18C1015
+	for <rim@tverreg.ru>; Fri, 29 Nov 2019 17:45:15 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback12j.mail.yandex.net (mxback/Yandex) with ESMTP id deu9rIYL19-jEe8wX9I;
+	Fri, 29 Nov 2019 17:45:14 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1575038714;
+	bh=1+gMMUjFvg8mRu1I4/DVIm5tkE1e2XCIioQJkKxPlRY=;
+	h=Message-Id:Date:Subject:To:From;
+	b=D5BWVvNPATqYs2qDlnZiTev6vSQUQl/Wj0jt5OawjO1nn/UHtXuTJzS9rSKPzTKzs
+	 shv6H+L+PkPcYlqF4kolK35H+Od5fM8UgsHgeKaoM12kOw4l/eyMGNUfmdhZZvkV3t
+	 pY1FvQE8DNXzUdrywSsiikJiEvUCwR34O49OeB+8=
+Authentication-Results: mxback12j.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt6-4218ece6190d.qloud-c.yandex.net with HTTP;
+	Fri, 29 Nov 2019 17:45:14 +0300
+From: =?utf-8?B?0YHQutCy0L7RgNGG0L7QstCwINC90LDRgtCw0LvRjNGP?= <nns-70@yandex.ru>
+To: rim@tverreg.ru
+Subject: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L/QviDQuNGC0L7Qs9Cw0Lwg0LLRi9C10LfQtNCwINCyINCd0Lg=?=
+	=?utf-8?B?0LrRg9C70LjQvdGB0LrQuNC5INC00LXRgtGB0LrQuNC5INGB0LDQtA==?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Fri, 29 Nov 2019 17:45:14 +0300
+Message-Id: <110234171575038714@myt6-4218ece6190d.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	BODY_SINGLE_WORD        1.289 Message body is only one word (no spaces)
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (ostashkovhospital1[at]rambler.ru) (nns-70[at]yandex.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (ostashkovhospital1[at]rambler.ru) (nns-70[at]yandex.ru)
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: nns-70@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 317a9941-431f-44da-12d1-08d774dabf9d
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>&nbsp;</div><div>&nbsp;</div><div>--&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xa58e54
+DTSTAMP:20220424T204126Z
+CREATED:20200623T062518Z
+LAST-MOD:20200622T134335Z
+SUMMARY:Встреча с тверскими олимпийцами\, приуроченная к Международному Олимпийскому дню (в режиме видео-конференц-связи) (отв. Ищенко А.Н.\, Решетов А.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200623T120000Z
+DTEND;VALUE=DATE-TIME:20200623T123000Z
+LOCATION:обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

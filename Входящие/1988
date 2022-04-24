@@ -1,0 +1,138 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Wed, 22 Apr 2020 00:01:46 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Wed, 22 Apr
+ 2020 00:01:36 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Wed, 22 Apr 2020 00:01:33 +0300
+From: =?windows-1251?B?xePu8O7iIMji4O0gyOPu8OXi6Pc=?= <egorov@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?z/Do7uHw5fLl7ejlIODv7+Dw4PLu4iDK0iA=?=
+Thread-Topic: =?windows-1251?B?z/Do7uHw5fLl7ejlIODv7+Dw4PLu4iDK0iA=?=
+Thread-Index: AdYYHOUlIB0e4PG3TB6dFjSqiiltyg==
+Date: Wed, 22 Apr 2020 00:01:33 +0300
+Message-ID: <5ed063e8e0a54a05ac435c16a6e9ea63@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <5ed063e8e0a54a05ac435c16a6e9ea63@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 0897e33d-4421-48b1-b64e-08d7e6372c08
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:12.9698192
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:553738085;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1125989856 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>Добрый вечер.<o:p></o:p></p><p class=MsoNormal>По определению мест установки и моделей аппаратов КТ, сообщаю следующее.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><ol style='margin-top:0cm' start=1 type=1><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>С точки зрения дальнейшего использования наиболее перспективные места установки:<o:p></o:p></li><ol style='margin-top:0cm' start=1 type=a><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>Больница №6 города Тверь (крупнейшая многопрофильная больница Твери, развернут инфекционный госпиталь, КТ аппарат 2011 года, 16 срезов) + есть подготовленное помещение<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>Вышневолоцкая ЦРБ (центр куста для Бологое, Фирово, Спирово) + первичный сосудистый центр + работа с экстренными ДТП. Аппарат КТ 2008 года, 16 срезов, механические проблемы, может выйти из строя. <o:p></o:p></li></ol><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>По модели КТ: <o:p></o:p></li><ol style='margin-top:0cm' start=1 type=a><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>Аппарат КТ требуется как минимум 64 среза для указанных больниц;<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>предварительное мнение экспертов и внештатных специалистов Министерства здравоохранения – лучший из предлагаемых вариантов -  <span lang=EN-US>GE</span><span lang=EN-US> </span><span lang=EN-US>Revolution</span><span lang=EN-US> </span><span lang=EN-US>Evo</span> (64), ориентировочная стоимость 64,2 млн рублей, срок поставки 45-50 дней;<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>до 23 апреля (чт) проработаем возможных поставщиков и производителей (официальных дилеров) на предмет ускорения сроков поставки и стоимости. <o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>Параллельно, возможно поставить задачу Тверьоблстройзаказчик – по предварительной оценке затрат и сроков подготовки помещения в Вышневолоцкой ЦРБ. <o:p></o:p></li></ol><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>Источник финансирования<o:p></o:p></li><ol style='margin-top:0cm' start=1 type=a><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>Больница №6– инфекционный госпиталь – могут быть средства федерального бюджета;<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level2 lfo1'>Вышневолоцкая ЦРБ – в схеме маршрутизации закреплена как точка для анализа КТ для куста муниципальных образований при подозрении на <span lang=EN-US>COVID</span>, приобретение оборудования и подготовку помещений по нашему мнению возможно так же включить в рамках средств федерального бюджета. 22.04 (среда) Подтихова М.И. дополнительно отработает этот вопрос с федеральным казначейством.  <o:p></o:p></li></ol><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>К 23.04 (четверг) будем готовы указанный вопрос вынести на Бюджетную комиссию для окончательной формализации. <o:p></o:p></li></ol><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>C</span><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'> </span><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>уважением,</span><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>Егоров И.И. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>Министр экономического развития Тверской области<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>+7&nbsp;905&nbsp;602 0678<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><a href="mailto:egorov@tverreg.ru"><span style='color:#0563C1'>egorov@tverreg.ru</span></a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

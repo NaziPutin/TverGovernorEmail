@@ -1,0 +1,72 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sun, 4 Nov 2018 12:19:03 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sun, 4 Nov
+ 2018 12:19:02 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sun, 4 Nov 2018 12:19:01 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 2C134215DA
+	for <rim@tverreg.ru>; Sun,  4 Nov 2018 12:19:02 +0300 (MSK)
+Received-SPF: pass (bk.ru ... _spf.mail.ru: 185.5.136.86 is authorized to use 'andreyorlov71@bk.ru' in 'mfrom' identity (mechanism 'ip4:185.5.136.0/22' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="andreyorlov71@bk.ru"; helo=f415.i.mail.ru; client-ip=185.5.136.86
+Received: from f415.i.mail.ru (f415.i.mail.ru [185.5.136.86])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 47CFA2157B
+	for <rim@tverreg.ru>; Sun,  4 Nov 2018 12:18:57 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=0VsjTCLXcgQJnw0Bthgf3CJ9xVddcIjW5bG6Gopfftg=;
+	b=KOl+6uradPXcfXhDwDMhFjE/UPUgLiBYlVb66pG3Omi0QOGIK9QbdkE/nMpc4gIMl3NEqOsuyE0l+8/wqbfCT1mTPbbT37vt6Ku6Fvfqai9FCB/hVg2XSpdbXCM4mPi7cf57QoxDysvO5gNpDnT69LHvwkbI170YP8bEsxHJ4tw=;
+Received: by f415.i.mail.ru with local (envelope-from <andreyorlov71@bk.ru>)
+	id 1gJEYa-0003zR-9J
+	for rim@tverreg.ru; Sun, 04 Nov 2018 12:18:56 +0300
+Received: by e.mail.ru with HTTP;
+	Sun, 04 Nov 2018 12:18:56 +0300
+From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0J/QvtCy0LXRgdGC0LrQsCDQl9CfINC90LAgMDcuMTEuMjAxOC5kb2M=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Sun, 04 Nov 2018 12:18:56 +0300
+Reply-To: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1541323136.571339073@f415.i.mail.ru>
+Authentication-Results: f415.i.mail.ru; auth=pass smtp.auth=andreyorlov71@bk.ru smtp.mailfrom=andreyorlov71@bk.ru
+X-77F55803: 5E/cZowCOHx/n1JIXLWE1yr3Q+ac1IdHJtBm/2tCUY+HYtpyCebUvQIncVd8+couxcf9Fpgbdq4=
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE710F4037EAD50AE02C4224003CC8364765B47ED7565F4D52DD81005AB0B54AD96A18204E546F3947CD56D36E97F3F038CB2086D80B05047786C569B605AB1DE485571747095F342E83A555A6C538BA68A11B5391A07475D3FB1593CA6EC85F86D73BBBDEC44B1EDE5FEE8809933074A7026E476CCD9869EB17C6FB206A91F05B2936F06B49C5CDDC528EF8AB417EBF63840B83DF1158C6122D2E47CDBA5A96583C09775C1D3CA48CFCA5A41EBD8A3A0199FA2833FD35BB23D2EF20D2F80756B5F40A5AABA2AD37119CC7F00164DA146DA9985D098DBDEAEC8EDCF5861DED71B2F389733CBF5DBD5E9B5C8C57E37DE458B4C7702A67D5C33162DBA43225CD8A89FD2A95C73FD1EFF452613E8BAEB468D86950FFAD7B4C0E84F43847C11F186F3C5E7DDDDC251EA7DABCC89B49CDF41148F53FDB0A1CE3EC88B3B503F486389A921A5CC5B56E945C8DA
+X-Mailru-MI: 800
+X-Mailru-Sender: DF024C3EE9CCA503AC3F5A37996B1F015B23005A32C43B16A657DD60AD7BF2CE868020722B48BCA41BAA4E83F261871F29380EAE0A631D0E3E5D775140466456585F08B951987FA3127AB1F986A42001FA703B83F3917E41450246D4CF26D7AA34606CB25CF60F420D4ABDE8C577C2ED
+X-Mras: OK
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.279 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_HTMLNOISE               1 Spam containing useless HTML padding
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: andreyorlov71@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: d2d6224e-7e6f-4cee-d5b6-08d642368fb3
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.0000285
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Уважаемый Игорь Михайлович, направляю повестку заседания&nbsp; Правительства на 07.11.2018 года.<br>Прошу подписать.<br><br>С уважением, <br>Заместитель Председателя Правительства Тверской области -&nbsp;<br>руководитель аппарата Правительства Тверской области<br>А.В. Орлов.<br><br><br><style type="text/css"></style><style></style></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

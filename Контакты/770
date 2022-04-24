@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:Акопов\, Дмитрий Иванович
+N:Акопов;Дмитрий;Иванович;;
+EMAIL:dakopov@jacobsonpartners.ru
+ADR;TYPE=work:;;;г.Москва\,Кадашевская наб.\, д.26;;115035;Россия
+LABEL;TYPE=work:115035\, г.Москва\,Кадашевская наб.\, д.26
+TEL;TYPE=work,voice:+7 (495) 788-13-16
+TEL;TYPE=cell,voice:+7 (903) 798-77-99
+TITLE:генеральный директор компании Jacobson Partnes
+VERSION:3.0
+END:VCARD
+

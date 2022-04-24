@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x41b7ac
+DTSTAMP:20220424T204126Z
+CREATED:20211021T153045Z
+LAST-MOD:20211021T153045Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє В«РџСЂСЏРјРѕРјСѓ СЌС„РёСЂСѓВ» РЅР° С‚РµР»РµРєР°РЅР°Р»Рµ В«Р РѕСЃСЃРёСЏ 24В» (РўРІРµСЂСЊ) (РІ СЂРµР¶РёРјРµ С‚РµР»РµС„РѕРЅРЅРѕР№ СЃРІСЏР·Рё)  (РѕС‚РІ. РЎРєРѕСЂС‹Р№ Рђ.Р’.\, РљР°СЃР°РµРІР° Рќ.Рђ.) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20211007T143000Z
+DTEND;VALUE=DATE-TIME:20211007T153000Z
+LOCATION:РєР°Р±. 302\; РѕР±СЂР°С‚РЅР°СЏ СЃРІСЏР·СЊ - РёР· СЂР°Р±РѕС‡РёС… РєР°Р±РёРЅРµС‚РѕРІ
+STATUS:CONFIRMED
+RRULE:FREQ=WEEKLY;COUNT=4;INTERVAL=2;BYDAY=TH
+CATEGORIES:NONE
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

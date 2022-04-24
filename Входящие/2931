@@ -1,0 +1,70 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Fri, 19 Oct 2018 18:35:13 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 19 Oct
+ 2018 18:35:13 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 19 Oct 2018 18:35:12 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 6CFEF21273
+	for <rim@tverreg.ru>; Fri, 19 Oct 2018 18:35:13 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use '#@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="#@yandex.ru"; helo=forward104p.mail.yandex.net; client-ip=77.88.28.107
+Received: from forward104p.mail.yandex.net (forward104p.mail.yandex.net [77.88.28.107])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 13F2C2079C
+	for <rim@tverreg.ru>; Fri, 19 Oct 2018 18:35:10 +0300 (MSK)
+Received: from mxback2o.mail.yandex.net (mxback2o.mail.yandex.net [IPv6:2a02:6b8:0:1a2d::1c])
+	by forward104p.mail.yandex.net (Yandex) with ESMTP id 7C680184504
+	for <rim@tverreg.ru>; Fri, 19 Oct 2018 18:35:04 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback2o.mail.yandex.net (nwsmtp/Yandex) with ESMTP id v4wGGpnDh9-Z390DeGO;
+	Fri, 19 Oct 2018 18:35:03 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1539963303;
+	bh=To/1QNZhApnWo5xC63O6fNzwkfT2YUXJ1a3JzqB8dM4=;
+	h=From:To:Subject:Date:Message-Id;
+	b=P+pE+FRRlARdqy1Q6R9iXof5Tw2yNXU3cu7e3MGgzB4Dxcg4uTxUoFq09pHkwPwgN
+	 31VKaZ9R4daSALlYhxTVBpxcFGc+CYcdS3ATa37ylcGSM7c3wcecg1w8hk5bVWueLp
+	 nesBAPidhYlmdPv2pP3hrUk2/HqX1xx2nfvIwDHM=
+Authentication-Results: mxback2o.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by iva2-6ec8f0a6115e.qloud-c.yandex.net with HTTP;
+	Fri, 19 Oct 2018 18:35:03 +0300
+From: =?utf-8?B?0KDQvtGJ0LjQvdCwINCd0LDRgtCw0LvRjNGP?= <79106404111@yandex.ru>
+Envelope-From: bosik-roshina60@yandex.ru
+To: =?utf-8?B?0JjQs9C+0YDRjCDQnNC40YXQsNC50LvQvtCy0LjRhyDQoNGD0LTQtdC90Y8=?= <rim@tverreg.ru>
+Subject: =?utf-8?B?0JzQvtC90LDRgdGC0YvRgNGM?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Fri, 19 Oct 2018 18:35:03 +0300
+Message-Id: <22389681539963303@iva2-6ec8f0a6115e.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FREEMAIL_ENVFROM_END_DIGIT   0.25 Envelope-from freemail username ends in digit (79106404111[at]yandex.ru)
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (nad1ng[at]yandex.ru) (79106404111[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	FROM_LOCAL_DIGITS       0.001 From: localpart has long digit sequence
+	FROM_LOCAL_HEX          0.006 From: localpart has long hexadecimal sequence
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY          0.723 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+Return-Path: 79106404111@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 409b921f-1ba3-4b0b-30fd-08d635d87668
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.7813504
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">Уважаемый Игорь Михайлович!</span></div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">По земельному участку для монастыря узнала следующее: </span></div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">Участок с кадастровым номером 69:39:0000:000:37 передан в собственность Российской Федерации. </span></div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">Сейчас он в безвозмездном пользовании у военного Агенства центрального округа (это со слов Комитета по имуществу города Вышний Волочек) Размер участка около 250 ГА . Участок распространяется и в район , но у нас действующая воинская часть . Участок не межевали и никаких предпосылок на передачу этой земли &nbsp;городу не было! </span></div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">У города были объекты внутри этого земельного участка - город передал эти объекты монастырю ( в том числе дома о которых , думаю, Вы говорили). Это клуб офицерский почти разграбленный и три дома. </span></div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">Я все это пересказала Василию Ивановичу Попенко . &nbsp;</span></div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><span style="font-size:18px;">С матушкой пока не смогла переговорить - она на службе. Переговорю откуда у нее эти сведения по передаче в город земель &nbsp;и еще Вам напишу! </span></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

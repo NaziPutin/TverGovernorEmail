@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x6341c4
+DTSTAMP:20220424T204126Z
+CREATED:20210526T090651Z
+LAST-MOD:20210525T195718Z
+SUMMARY:Совещание\, тема «О ходе реализации Программы развития газоснабжения и газификации Тверской области на период 2021-2025 годов» (отв. Ажгиревич А.И.\, Цветков А.И.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20210526T100000Z
+DTEND;VALUE=DATE-TIME:20210526T113000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x9f5a3c
+DTSTAMP:20220424T204126Z
+CREATED:20200723T060357Z
+LAST-MOD:20200723T054041Z
+SUMMARY:Подготовка к ежегодному отчету Губернатора Тверской области «О результатах деятельности Правительства Тверской области за 2019 год» (отв. Егоров И.И.\, Ищенко А.Н.\, Подтихова М.И.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200723T063000Z
+DTEND;VALUE=DATE-TIME:20200723T065000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

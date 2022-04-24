@@ -1,0 +1,167 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 27 Apr 2020 21:23:24 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 27 Apr
+ 2020 21:23:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Mon, 27 Apr 2020 21:23:18 +0300
+From: =?koi8-r?B?5c3FzNjRzs/XIOHOxNLFyiDhzsTSxcXXyd4=?=
+	<Emelyanov_AA@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?8M8gz9LHwc7J2sHDyckgz8LV3sXOydEgySDawdfF0tvFzsnAIDIwMTkvMjAy?=
+ =?koi8-r?B?MCDV3sXCzs/HzyDHz8TBIA==?=
+Thread-Topic: =?koi8-r?B?8M8gz9LHwc7J2sHDyckgz8LV3sXOydEgySDawdfF0tvFzsnAIDIwMTkvMjAy?=
+ =?koi8-r?B?MCDV3sXCzs/HzyDHz8TBIA==?=
+Thread-Index: AQHWHKZUr5K7n9K/xE+2S8GMLJLKlKiNRcVQ
+Date: Mon, 27 Apr 2020 21:23:18 +0300
+Message-ID: <ab4524289c43494e8a293e4686915eb2@tverreg.ru>
+References: <OF3824E9B7.512D8F2F-ON43258557.00537FD7-43258557.00539465@tverreg.ru>
+In-Reply-To: <OF3824E9B7.512D8F2F-ON43258557.00537FD7-43258557.00539465@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <ab4524289c43494e8a293e4686915eb2@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: feeb297b-31a1-4cbc-4d0d-08d7ead80f47
+Return-Path: Emelyanov_AA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.1029242
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER6D707296
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:940263175;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1144172044 68747265 68747267 68747269 68747265 68747267 68747269 68747265 68747267 68747269;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='mso-fareast-language:RU'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ, ОБРТБЧМСА Ч РТЙМПЦЕОЙЙ ОБЫЙ РТЕДМПЦЕОЙС РП ПТЗБОЙЪБГЙЙ ПВХЮЕОЙС Й ЪБЧЕТЫЕОЙА 2019/2020 ХЮЕВОПЗП ЗПДБ.<o:p></o:p></span></p><p class=MsoNormal><span style='mso-fareast-language:RU'>оЙЮЕЗП ЛТЙФЙЮОПЗП НЩ ОЕ РТЕДМБЗБЕН, ЕУМЙ ФЕЪЙУОП: <o:p></o:p></span></p><ul style='margin-top:0cm' type=disc><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:RU'>ХЮЕВОЩК ЗПД У 1-11 ЛМБУУЩ ЪБЛБОЮЙЧБАФ 29 НБС<o:p></o:p></span></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:RU'>ПГЕОЛЙ ЧЩУФБЧМСАФУС ЛБЛ УТЕДОЕЕ БТЙЖНЕФЙЮЕУЛПЕ<o:p></o:p></span></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:RU'>РТПУЙН УЛПТТЕЛФЙТПЧБФШ ХЮЕВОЩЕ РТПЗТБННЩ &#8211; Б НБЕ ФПМШЛП РПЧФПТЕОЙЕ<o:p></o:p></span></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:RU'>УП ЧФПТПК ОЕДЕМЙ ЙАОС ЬЛЪБНЕОЩ Х 9 Й 11 ЛМБУУПЧ (РП ЗТБЖЙЛХ)<o:p></o:p></span></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'><span style='mso-fareast-language:RU'>ЧЩРХУЛОЩЕ Ч ЛПОГЕ ЙАОС, ОБЮБМЕ ЙАМС (Б ЙНЕООП РПУМЕДОЙК ЪЧПОПЛ, ЛПФПТЩК Ч НБЕ РТПУЙН ОЕ РТПЧПДЙФШ Ч НБУУПЧПН ЖПТНБФЕ. дХНБЕН, ЛБЛ ЕЗП УДЕМБФШ ЙОФЕТЕУОЕЕ ЙОФЕТБЛФЙЧОП)<o:p></o:p></span></li></ul><p class=MsoListParagraph><span style='mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph><span style='mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph><span style='mso-fareast-language:RU'>йЪХЮЙМЙ ПРЩФ ТЕЗЙПОПЧ, Ч ЮБУФОПУФЙ урВ. фБН УФБМЙ ЧЩДБЧБФШ ПВТБЪГЩ ЪБСЧМЕОЙК ТПДЙФЕМСН П ДПУТПЮОПН ЪБЧЕТЫЕОЙЙ ЗПДБ. зПЧПТЙМ У ОЙНЙ. х ОЙИ ЗМБЧОБС ЪБДБЮБ &#8211; &laquo;ТБЪТСДЙФШ&raquo; ЗПТПД. пЦЙДБАФ ТЕБЛГЙЙ ПФ РПМПЧЙОЩ ПВХЮБАЭЙИУС. оЕ ЧЙДЙН УНЩУМБ Ч ФБЛПН НБОЕЧТЕ Ч ОБЫЙИ ХУМПЧЙСИ. ч ФЕПТЙЙ Х ТПДЙФЕМЕК Й ФБЛ ЕУФШ ФБЛПЕ РТБЧП.<o:p></o:p></span></p><p class=MsoListParagraph><span style='mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph><span style='mso-fareast-language:RU'>БЕ<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1c9404
+DTSTAMP:20220424T204126Z
+CREATED:20220317T074215Z
+LAST-MOD:20220317T063858Z
+SUMMARY:Совещание\, тема: «О мерах по обеспечению социально-экономической стабильности и защиты населения в Тверской области» (с участием глав МО ТО в режиме ВКС) (отв. Скорый А.А.\, Белорусов В.А.\, СМИ+пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220317T090000Z
+DTEND;VALUE=DATE-TIME:20220317T093000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

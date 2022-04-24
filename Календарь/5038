@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13fd0ac
+DTSTAMP:20220424T204127Z
+CREATED:20171208T055953Z
+LAST-MOD:20171211T143457Z
+SUMMARY:Торжественная церемония вручения государственных наград Российской Федерации и наград Тверской области\, посвященная Дню Конституции Российской Федерации (отв. Петрова М.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171212T120000Z
+DTEND;VALUE=DATE-TIME:20171212T125500Z
+LOCATION:ул.Советская\, д.23\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

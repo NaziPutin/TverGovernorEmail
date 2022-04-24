@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1579228
+DTSTAMP:20220424T204127Z
+CREATED:20161220T140135Z
+LAST-MOD:20161227T084520Z
+SUMMARY:Итоговое совещание о положении дел в ЦФО в 2016 г. и планах на 2017г. (отв.  Меньщиков А.В.\, Петрова М.В.)
+DTSTART;VALUE=DATE-TIME:20161227T073000Z
+DTEND;VALUE=DATE-TIME:20161227T083000Z
+LOCATION:г. Москва\, Никольский пер.\, д.6\, под. № 10а\, Межокружной ситуационный центр полномочных представителей Президента в федеральных округах
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

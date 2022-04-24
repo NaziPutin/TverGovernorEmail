@@ -1,0 +1,70 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 26 Mar 2018 13:23:46 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 26 Mar
+ 2018 13:23:46 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 26 Mar 2018 13:23:46 +0300
+Received: from f515.i.mail.ru ([217.69.138.182])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <ischenko_an@mail.ru>)
+	id 1f0PI0-0001tX-Oq
+	for rim@tverreg.ru; Mon, 26 Mar 2018 06:23:44 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=ar2AAKxJbYz2AO6TmMN9UUT84sOxsD7Qy3oNaOx3s3g=;
+	b=keajwkVczgh7wWGQnAw14nVWS4tusnK4uredWIk9gPWXi8HazcnE4TEcwVjbSBNtf3Xky2FgluBAojn4KU0nlFsR37brdlsYc7/YtZ7JWOpAFlE/E/K2C6FAkB41h6JFyRfH+xH9TuSha3uoSUzNLUCbCzSDKit/gKYHaXViTnQ=;
+Received: by f515.i.mail.ru with local (envelope-from <ischenko_an@mail.ru>)
+	id 1f0PHx-00037i-CT
+	for rim@tverreg.ru; Mon, 26 Mar 2018 13:23:41 +0300
+Received: by e.mail.ru with HTTP;
+	Mon, 26 Mar 2018 13:23:41 +0300
+From: =?UTF-8?B?0JjRidC10L3QutC+INCQ0L3QtNGA0LXQuQ==?= <ischenko_an@mail.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0JDQvdCw0LvQuNC3INC40LfQsdC40YDQsNGC0LXQu9GM0L3QvtC4zIYg0Lo=?=
+ =?UTF-8?B?0LDQvNC/0LDQvdC40LguZG9jeA==?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Mon, 26 Mar 2018 13:23:41 +0300
+Reply-To: =?UTF-8?B?0JjRidC10L3QutC+INCQ0L3QtNGA0LXQuQ==?= <ischenko_an@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1522059821.384581729@f515.i.mail.ru>
+Authentication-Results: f515.i.mail.ru; auth=pass smtp.auth=ischenko_an@mail.ru smtp.mailfrom=ischenko_an@mail.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7DECC44AB6A3430F5B5C8C57E37DE458BC78E53AA3AE5DB169D7660743286B750FA2CBBF5CA9FD7DB00395B5D3AB5466075ECD9A6C639B01B78DA827A17800CE7C24B0594D7EB21ECFC409B5F18452EE475ECD9A6C639B01B4E70A05D1297E1BBC6867C52282FAC85D9B7C4F32B44FF57D4B828FA1BC0F1ACBD9CCCA9EDD067B1EDA766A37F9254B7
+X-Mailru-MI: 800
+X-Mailru-Sender: 641179478317D3F0C9E62A86843185C7C69C0C7D2AF4009B918BF2505425E3A232560E2944F4F78ACA43210BBDC33209E36A7BE05E38EE125BCFE57378FCB49203AB1AEBEC7359A6E15B7C650D127DC5D3F4C0CBD5CD4E21B4A721A3011E896F
+X-Mras: OK
+X-Spam: undefined
+Return-Path: ischenko_an@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 799e3f2a-09bb-450a-ddd9-08d59303a852
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3594179
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><br><div class="js-helper js-readmsg-msg"><div>
+            
+        
+		<base target="_self" href="https://e.mail.ru/">
+	</div>
+
+	
+</div>
+
+
+
+<br><hr>
+<br><br><style type="text/css"></style></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

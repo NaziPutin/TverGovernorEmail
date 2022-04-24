@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x25d88c
+DTSTAMP:20220424T204126Z
+CREATED:20220209T122042Z
+LAST-MOD:20220209T074608Z
+SUMMARY:Встреча с Бачиным Сергеем Викторовичем - председателем совета директоров ООО «Роза Хутор»\, ООО «ЗАВИДОВО Девелопмент»\, генеральным директором ООО «Васта Дискавери» (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220209T133000Z
+DTEND;VALUE=DATE-TIME:20220209T143000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,986 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 24 Mar 2022 19:07:07 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 24 Mar
+ 2022 19:07:07 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 24 Mar 2022 19:07:07 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 69B4180DCA
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 19:07:05 +0300 (MSK)
+Received-SPF: pass (envelope.digitalocean.com: Sender is authorized to use '#-dtn-#.#.#.#.#.#.#.#@envelope.digitalocean.com' in 'mfrom' identity (mechanism 'include:mktomail.com' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="#-dtn-#.#.#.#.#.#.#.#@envelope.digitalocean.com"; helo=envelope.digitalocean.com; client-ip=192.28.144.201
+Received: from envelope.digitalocean.com (envelope.digitalocean.com [192.28.144.201])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id C687780DBC
+	for <rim@tverreg.ru>; Thu, 24 Mar 2022 19:06:56 +0300 (MSK)
+X-MSFBL: H5YnQHZmQU4acmhGTk5vLcHGHjH0dXefrTUC5ENyYoA=|eyJiIjoiZHZwLTE5Mi0
+	yOC0xNDQtMjAxIiwidSI6IjExMy1EVE4tMjY2OjA6NDMzOTozNDc2MDoyMzEwNDM
+	6NzQ5Njo5OjgyMDk6NDk4MTMzMSIsInIiOiJyaW1AdHZlcnJlZy5ydSIsImciOiJ
+	iZy1hYmQtMzQ2In0=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1648138007;
+	s=m1; d=news.digitalocean.com; i=@news.digitalocean.com;
+	h=Content-Type:MIME-Version:Subject:To:From:Date;
+	bh=Enz4iZk9QO0jlaxQWz1g5EJ+IEslNcf5vSf6tjT4uGY=;
+	b=G4kyLGUspAhz/BYKSAMfuF6pMGb2kvOAby/1A5cz99laFHSzriUUNVQhEPFEhF+F
+	MmLcjyubh156VJkT70jVnfEql/M3Mu6YbypueyaMtv5gSM6ZTZIQ8XR8QuMNsUrG3tm
+	/tFoAioadId94IHoRt4TsM8AdTpjO0wuO+xckev4=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1648138007;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Content-Type:MIME-Version:Subject:To:From:Date;
+	bh=Enz4iZk9QO0jlaxQWz1g5EJ+IEslNcf5vSf6tjT4uGY=;
+	b=f8nC56PUWa0BxJyfD/wZNn1Va6k9S+0RSvZydlKDhjSlOVpzVFlpP0yzvMqsxkIQ
+	BFPwQuWpSgwbD2WA4vNOMjPucEupJZHMltupVP5Sf8if4qsqafIM3Oqr0eytHn2nQoe
+	9SNNXgedOgu0aQb0/w+N2jRYWEzHitF7F89WGiNc=
+Date: Thu, 24 Mar 2022 11:06:47 -0500 (CDT)
+From: "Sammy @ DigitalOcean" <newsletter@news.digitalocean.com>
+Reply-To: <newsletter@digitalocean.com>
+To: rim@tverreg.ru
+Message-ID: <1408238892.31504789.1648138007057@abmktmail-batch1m.marketo.org>
+Subject: Infrastructure as a Newsletter: March 24, 2022
+X-Binding: bg-abd-346
+X-MarketoID: 113-DTN-266:0:4339:34760:231043:7496:9:8209:4981331
+X-Mailfrom: 113-DTN-266.0.8209.0.0.7496.9.4981331@envelope.digitalocean.com
+List-Unsubscribe: <mailto:PBZW2WLOIUZWIWBVORDFQQLSKZYHURCZNZIT2PI=.8209.7496.9@unsub-ab.mktomail.com>
+X-MktArchive: false
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegledgjeefucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhepfffhrhfvkffugggtjfesrgdtsggstddtjeenucfhrhhomhepfdfurghmmhihucesucffihhgihhtrghlqfgtvggrnhdfuceonhgvfihslhgvthhtvghrsehnvgifshdrughighhithgrlhhotggvrghnrdgtohhmqeenucggtffrrghtthgvrhhnpeeileeihfdttdekffevveetieettdefgfetkefgveeihfdvjedvieetueduudeiheenucffohhmrghinhepughighhithgrlhhotggvrghnrdgtohhm
+X-DrWeb-SpamVersion: Vade Retro 01.422.149#73 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.538 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIMWL_WL_MED          -0.001 DKIMwl.org - Medium trust sender
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	LOTS_OF_MONEY           0.001 Huge... sums of money
+	RCVD_IN_HOSTKARMA_W      -2.5 Sender listed in HOSTKARMA-WHITE
+	RCVD_IN_MSPIKE_H5       0.001 Excellent reputation (+5)
+	RCVD_IN_MSPIKE_WL       0.001 Mailspike good senders
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_KAM_HTML_FONT_INVALID   0.01 Test for Invalidly Named or Formatted Colors in HTML
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URI_TRY_3LD             1.999 "Try it" URI, suspicious hostname
+	USER_IN_DEF_DKIM_WL      -7.5 From: address is in the default DKIM welcome-list
+	USER_IN_DEF_SPF_WL       -7.5 From: address is in the default SPF white-list
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudegledgjeefucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecunecujfgurhepfffhrhfvkffugggtjfesrgdtsggstddtjeenucfhrhhomhepfdfurghmmhihucesucffihhgihhtrghlqfgtvggrnhdfuceonhgvfihslhgvthhtvghrsehnvgifshdrughighhithgrlhhotggvrghnrdgtohhmqeenucggtffrrghtthgvrhhnpeeileeihfdttdekffevveetieettdefgfetkefgveeihfdvjedvieetueduudeiheenucffohhmrghinhepughighhithgrlhhotggvrghnrdgtohhmnecukfhppeduledvrddvkedrudeggedrvddtud
+X-DrWeb-SpamVersion: Vade Retro 01.422.149#73 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: 113-DTN-266.0.8209.0.0.7496.9.4981331@envelope.digitalocean.com
+X-MS-Exchange-Organization-Network-Message-Id: 04ba44ef-007f-4cda-8c8d-08da0db05851
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4762846
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Infrastructure as a Newsletter: March 24, 2022</title>
+<!--[if !mso]><!-- -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]-->
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style type="text/css">#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }</style>
+<!--[if mso]>                    <xml>                      <o:OfficeDocumentSettings>                          <o:AllowPNG/>                          <o:PixelsPerInch>96</o:PixelsPerInch>                      </o:OfficeDocumentSettings>                    </xml>                        <style type="text/css">             table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}           </style>                  <![endif]-->
+<style type="text/css">@media only screen and (min-width:620px) {         .mj-column-per-100 { width:100% !important; max-width: 100%; } .mj-column-per-50 { width:50% !important; max-width: 50%; }       }</style>
+<style type="text/css">@media only screen and (max-width:620px) {       table.mj-full-width-mobile { width: 100% !important; }        td.mj-full-width-mobile { width: auto !important; }     }</style>
+<style type="text/css">p{margin: 0 0;}ul{display: block;}ul li{list-style: disc;}li li{list-style: circle;}sup, sub{line-height:0;}body a{text-decoration: none; color: #0080FF;}.image-highlight{transition: 0.3s;}.image-highlight:hover{filter: brightness(1.2);}.button-highlight{transition: 0.3s;}.button-highlight:hover{filter: brightness(1.5);}@media only screen and (min-width: 620px) { .hide-on-mobile{display: block !important;} }@media only screen and (max-width: 620px) { .hide-on-mobile{display: none !important;}.hide-on-desktop{display: block !important; max-height: none !important;}.hide-on-desktop td{display: table-cell !important; max-height: none !important;} }.hide-on-desktop, .hide-on-desktop td{mso-hide: all; display: none; max-height: 0px; overflow: hidden;}</style>
+</head>
+<body style="word-spacing:normal;background-color:#FFFFFF;">
+<!--[if !mso 9]><!-->
+<div id="emailPreHeader" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+The latest edition of Infrastructure as a Newsletter is here! Have ideas for future issues? Reply directly to share with the team.
+</div>
+<div style="display: none; max-height: 0px; overflow: hidden;">
+&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ&nbsp;вЂЊ
+</div>
+<!--<![endif]-->
+<div style="background-color:#FFFFFF;background-position:center center;background-size:auto;background-repeat:repeat;">
+<div class="module module-5f777947ce8ec">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="border-top:10px solid #F3F5F9;font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="img-container" style="font-size:0px;padding:0px 0px 0px 0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td style="width:600px;">
+<div class="mktoImg" id="kimage-qcwhpnllg">
+<img alt="Infrastructure as a Newsletter" height="auto" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/9czjRkYRFbv2jUUC2akw3lbWLsAPDEtqcoIs8XC5.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600">
+</div>
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="image-plain-text-j4rt6mjq3" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+[ Infrastructure as a Newsletter ]
+</div>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f4fb6a9f29e3">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px 0px 0px 0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:0px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-s5t28g7pz" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:20px;letter-spacing:none;line-height:1.2;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:20px;letter-spacing:none;line-height:1.2;text-align:left;color:#5B6987;">
+<p style="margin: 0 0; mso-line-height-alt: 24px;"><span style="font-size: 16px;"><br>Your biweekly tech roundup from DigitalOcean. Have ideas for future issues? Reply to this email with article suggestions or feedback!<br></span></p>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #AAAAAA; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #AAAAAA;font-size:1px;margin:0px auto;width:550px;text-align:center;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-5f4fb6e0c8c12">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:10px 25px 0px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-atkfxce12" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<p style="margin: 0 0; mso-line-height-alt: 34px;"><span style="font-size: 24px; color: #031b4e;">Fresh Off the Press</span></p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><br><em>Featured picks from our <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB1cYtoKYuBmcn9QnDp1wy6CfsnKY7dMwsXoW0Vn5XiBroYhrlPUGcUSxKZ5OZS-J-QY=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">blog</a>, <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB5Met78By_t9zZBgT0GKfVszefP_sr72VkG2vY8hMCNxC3BE_QSCvkKfPJ02dgBjq6A=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">growing library of tutorials</a>, and <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB_wlmYuWCMje5CFSDocUdCJ4PZMNF54V5yzs-GvBnsjyEmwGnMskZrhxUJ3P8tuXDcU=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Tech Talks</a>.</em></p>
+<ul style="display: block;">
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBynLk7Wi-8h5OBcvUmaYGm4RuGO0qE7_1wee-xjhjfAZdg7qjZt9p6tbMaFcb7KSys8=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">DigitalOcean Acquires CSS Tricks</a><br><br></li>
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB_1R9OjjB33tDfGvOLL_nLtVFfmuOLfvYpA6jC09zsAVt26GJOFpS36xb56mjAh5hD0=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">How To Write a Proposal and Outline for a DigitalOcean Community Tutorial</a><br><br></li>
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB6YDgRvDQiFU1KlJ0gSZqHBhJdM3VXtZVzzWmL8BoVOnoIldd059tXRg8aq3FRw9NlM=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">How to Set Up an Nginx Ingress with Cert-Manager on DigitalOcean Kubernetes</a></li>
+</ul>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #AAAAAA; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #AAAAAA;font-size:1px;margin:0px auto;width:550px;text-align:center;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-5f4fb6e0c8c12">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:10px 25px 0px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-7zytbou4c" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<p style="margin: 0 0; mso-line-height-alt: 34px;"><span style="font-size: 24px; color: #031b4e;">Open Source News</span></p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;">&nbsp;</p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><em>Interesting news from across the internet about open source topics.</em></p>
+<ul style="display: block;">
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB3p2K_6fO3K2H0HStk3Cb48NBxdy9n84SL_dC0VQx91EVW32JG4aG-hdgd6ZmAkFfdk=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Go 1.18 Released - Introducing Generics</a><br><br></li>
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB5x0bdWrnG-XJxgtQ3FiI_KELuAwZBPD0JF4OAR2M5uG-69soQZDUOGCGWJ4RlFPJMU=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">GitHub Pull Requests have a tree view</a><br><br></li>
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB9zHsEspEA6sjYLtTh87GVy5xk4ptajnnvYJgfOF8nNv5CGahVc2rjD9l85qWgVF8EM=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Fish Shell 3.4.0</a></li>
+</ul>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #AAAAAA; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #AAAAAA;font-size:1px;margin:0px auto;width:550px;text-align:center;" role="presentation" width="550px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-5f4fb6e0c8c12">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:10px 25px 15px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-jgv8c0axj" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<p style="margin: 0 0; mso-line-height-alt: 34px;"><span style="font-size: 24px; color: #031b4e;">Helpful Resources/Tools</span></p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;">&nbsp;</p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><em>Handy tools and interesting resources talked about at DigitalOcean.</em></p>
+<ul style="display: block;">
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB1VwgY4D4oe14M3t4qpsr01yY-xC2OZRV82N5yngXpzbmXaGL9Ak-3dyRMRzzYNgbwA=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Vim Reference Guide</a><br><br></li>
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB0HLhXBgBeQ-8PpJ9fVpxje4NcA8x00ZfN-pDKbLF97h2usBlTQeEVqEYZxrmKzpcrE=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Go-style concurrency in C</a><br><br></li>
+<li style="list-style: disc; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBy0jtVydH-q_tVPZcJE4sQMpoy7BF72uAN0RjykLN8ULKoakyq9hvLpZfx9sHGr_i9Q=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Decrypting your own HTTPS traffic with Wireshark</a></li>
+</ul>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-61ddd4c055934">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="border-top:3px none #0248FF;font-size:0px;padding:0px 25px 0px 25px;text-align:center;vertical-align:top;" class="block-grid">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="background-color:#F1F9FD;line-height:0;font-size:0;direction:ltr;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:550px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F1F6FA;border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="left" class="text-container" style="font-size:0px;padding:25px 30px 10px 30px;word-break:break-word;">
+<div class="mktEditable" id="ktext-x4dj5anuy" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:16px;letter-spacing:none;line-height:1.4;text-align:left;color:#5B6987;">
+<p style="margin: 0 0; mso-line-height-alt: 34px;"><span style="font-size: 24px; color: #031b4e;"><span style="color: #34495e;">Featured @ DigitalOcean | Break the Code is back!</span></span></p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;">&nbsp;</p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB-S5zMAL0g4UywxrDrY_Jy3XbCvXtnUfUajPlvXdtL0NI5sS9iNXz3c1698nnfLd0Cw=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Break The Code</a> is back with a second edition on March 25th, 2022! The game that took the tech industry by storm last year.&nbsp;</p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;">&nbsp;</p>
+<p style="margin: 0 0; mso-line-height-alt: 22px;">Want to test yourself? Think you have what it takes? Want to go back to the вЂ™90s? WeвЂ™ve partnered with .Tech for Break The Code 2, and we are giving away prizes worth up to $30,000 to the people who can crack the toughest ciphers. Inspired by the Windows 98 Operating System itвЂ™ll guarantee you some brain-melting fun.</p>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px 25px 25px 25px;text-align:center;vertical-align:top;" class="block-grid">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="background-color:#F1F9FD;line-height:0;font-size:0;direction:ltr;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:550px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" valign="middle" class="button-container" style="font-size:0px;padding:10px 25px 25px 25px;word-break:break-word;">
+<div>
+<!--[if mso]><table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="border-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;"><tr><td align="center"><a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href=
+"https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB-S5zMAL0g4UywxrDrY_Jy3XbCvXtnUfUajPlvXdtL0NI5sS9iNXz3c1698nnfLd0Cw=" fillcolor="#0248FF" arcsize="8%" style="v-text-anchor:middle;width:111.75pt;height:27pt;" stroke="f" 
+><w:anchorlock/><a:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:sans-serif, Arial; font-size:16px"><![endif]--> 
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB-S5zMAL0g4UywxrDrY_Jy3XbCvXtnUfUajPlvXdtL0NI5sS9iNXz3c1698nnfLd0Cw=" style="display: inline-block; background: #0248FF; color: #ffffff; font-family: proxima_nova, sans_serif, Helvetica, Arial; font-size: 14px; font-weight: normal; line-height: 1.2; margin: 0; text-align: center; text-decoration: none; text-transform: none; padding: 10px 35px 10px 35px; mso-padding-alt: 0px; border-radius: 3px; mso-border-alt: none; box-sizing: border-box; mso-line-height-alt: 36px;" target="_blank" width="149">Sign up here </a>
+<!--[if mso]></center></a:textbox></a:roundrect></td></tr></table><![endif]-->
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="button-plain-text-8qz0kahy1" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+Sign up here [[http://breakthecode.tech?utm_source=DigitalOcean_Newsletter]]
+</div>
+<!--<![endif]-->
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<div class="module module-61c2644a0cb36">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#0248FF;background-color:#0248FF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#0248FF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:25px 15px 15px 15px;text-align:center;vertical-align:top;" class="block-grid">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="background-color:transparent;line-height:0;font-size:0;direction:ltr;border-radius:0;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:285px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="border-radius:0px;vertical-align:top;padding:10px 0 0 0;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center" class="text-container" style="font-size:0px;padding:5px 10px 10px 10px;word-break:break-word;">
+<div class="mktEditable" id="ktext-7k6jqm0y3" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;letter-spacing:none;line-height:1.4;text-align:center;color:#FFFFFF;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;letter-spacing:none;line-height:1.4;text-align:center;color:#FFFFFF;">
+<p style="margin: 0 0; mso-line-height-alt: 34px;"><span style="font-size: 24px;"><strong>The cloud is complex. We make it simple.</strong></span></p>
+<p style="margin: 0 0; mso-line-height-alt: 20px;">&nbsp;</p>
+<p style="margin: 0 0; mso-line-height-alt: 20px;">The cloud computing services you need, with the predictable pricing, developer-friendly features, and scalability youвЂ™ll love.</p>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td><td style="vertical-align:top;width:285px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td style="background-color:transparent;border-radius:0px;vertical-align:top;padding:15px 10px 10px 10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td valign="top" style="font-size:0px;padding:0px;word-break:break-word;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="width:265px;" width="265" ><tr><td style=""><![endif]-->
+<div style="Margin:0px auto;border-radius:5px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-position:center center;background-size:contain;background-repeat:no-repeat;width:100%;border-radius:5px;">
+<tbody>
+<tr>
+<td style="border-radius:5px;font-size:0px;text-align:center;vertical-align:top;">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:265px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:25px 20px 10px 20px;word-break:break-word;">
+<div class="mktEditable" id="ktext-i53kn72rd" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;font-weight:bold;letter-spacing:none;line-height:1.2;text-align:center;color:#000000;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;font-weight:bold;letter-spacing:none;line-height:1.2;text-align:center;color:#000000;">
+<p style="margin: 0 0; mso-line-height-alt: 22px;"><span style="font-size: 18px;">Try DigitalOcean with a $100 credit for 60 days</span></p>
+</div>
+</div></td>
+</tr>
+<tr>
+<td align="center" valign="middle" style="font-size:0px;padding:10px 25px 25px 25px;word-break:break-word;">
+<div>
+<!--[if mso]><table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="border-spacing:0;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;"><tr><td align="center"><a:roundrect xmlns:a="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href=
+"https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB4AovLSCy3EVaZVS6JhD_TqqGofxOdtMRw1FXxTXVp8rHvlJn2groSBv_ucP0q2dqpc=" fillcolor="#15CD72" arcsize="14%" style="v-text-anchor:middle;width:161.25pt;height:27pt;" stroke="f" 
+><w:anchorlock/><a:textbox inset="0,0,0,0"><center style="color:#ffffff; font-family:sans-serif, Arial; font-size:16px"><![endif]--> 
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB4AovLSCy3EVaZVS6JhD_TqqGofxOdtMRw1FXxTXVp8rHvlJn2groSBv_ucP0q2dqpc=" style="display: inline-block; background: #15CD72; color: #ffffff; font-family: proxima_nova, sans_serif, Helvetica, Arial; font-size: 14px; font-weight: bold; line-height: 1.2; margin: 0; text-align: center; text-decoration: none; text-transform: none; padding: 10px 25px; mso-padding-alt: 0px; border-radius: 5px; mso-border-alt: none; box-sizing: border-box; mso-line-height-alt: 36px;" target="_blank" width="215">Create your free account </a>
+<!--[if mso]></center></a:textbox></a:roundrect></td></tr></table><![endif]-->
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="button-plain-text-jpn4xliwg" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+Create your free account [[https://try.digitalocean.com/freetrialoffer/?utm_medium=email&amp;utm_source=IaaN&amp;utm_campaign=03242022]]
+</div>
+<!--<![endif]-->
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#0248FF;background-color:#0248FF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#0248FF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="text-container" style="font-size:0px;padding:10px 25px 25px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-52oxfodob" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:12px;font-style:italic;letter-spacing:none;line-height:1.4;text-align:center;color:#FFFFFF;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:12px;font-style:italic;letter-spacing:none;line-height:1.4;text-align:center;color:#FFFFFF;">
+<p style="margin: 0 0; mso-line-height-alt: 17px;">Offer only eligible for new accounts, and not transferable or redeemable for cash.</p>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5fa4508bea822">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="img-container" style="font-size:0px;padding:25px 25px 0px 25px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td style="width:132px;">
+<div class="mktoImg" id="kimage-ac2szeesj">
+<img alt="Sammy the Shark Signature" height="auto" src="https://assets.digitalocean.com/email/iaan/IN_signature.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="132">
+</div>
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="image-plain-text-acrxwk40r" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+[ Sammy the Shark Signature ]
+</div>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="module module-5f75e6d4b431b">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px;padding:25px 0px 10px 0px;word-break:break-word;">
+<!--[if !mso]><!-- --><p style="border-top: solid 1px #DFDEDE; font-size: 1px; margin: 0px auto; width: 100%; text-align: center;"></p>
+<!--<![endif]-->
+<!--Divider-->
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #DFDEDE;font-size:1px;margin:0px auto;width:600px;text-align:center;" role="presentation" width="600px" ><tr><td style="height:0;line-height:0;"> &nbsp; </td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="social-container" style="font-size:0px;padding:10px 25px 0px 25px;word-break:break-word;">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-b75wxe9gx">
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBy2BG2fFxnvX0ex-oB_78dXJLqRY1Z3b9Wqv-Y-ZOdidfL7mQYKRRUJVchfd9l-oogQ=" target="_blank" style="text-decoration: none; color: #0080FF;"><img alt="Twitter" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/QsMwEP7mUmOXAAkqJzOoOyD1ofAiwAYar3ETBABO.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-uqbb9sfuv">
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB1qFFrSrbdqvyxsIbaC7FGs08kcx5kBRGjQOFZUtaG86j5lzDDQdoG1eKv483uGedzw=" target="_blank" style="text-decoration: none; color: #0080FF;"><img alt="Facebook" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/3nclaeOYDedN51KQicUBC3816Vm6sbv1Iu5Rinug.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#0080FB;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-4tdupyfzf">
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBwn_wlzhj3u1KIfy8kXX4DkAaIaxQF2zWAaO7bViS7ZXRfO01RiLsYcRGVcS6aVpoho=" target="_blank" style="text-decoration: none; color: #0080FF;"><img alt="YouTube" height="19" src="https://s3.amazonaws.com/assets.knak.io/img/icons/builder-social/youtube.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:transparent;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-ih4mgfwp3">
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBylZsnAX0PjlpQzOVbu5yYN4oBw9LXT7HaxDEPm5HY6MF4B-EKs5mB5OcLOeTX0dEHA=" target="_blank" style="text-decoration: none; color: #0080FF;"><img alt="Instagram" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/HTSj6QdBi8KLRBENU6Jn31VOD4f0YVEGOOnDy2vj.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#0080FB;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-v9l9nzde6">
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBwdI7es0FIsgowoJ-qA0nD9s-5oDGD1IiNgBCtwTVDJ205vcvnKhvGpyf3DJkyrwiWg=" target="_blank" style="text-decoration: none; color: #0080FF;"><img alt="Linkedin" height="19" src="https://s3.amazonaws.com/assets.knak.io/img/icons/builder-social/linkedin.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td><td><![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+<tbody>
+<tr>
+<td style="padding:10px;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#FFFFFF;border-radius:2px;width:19px;">
+<tbody>
+<tr>
+<td style="padding:0px;font-size:0;height:19px;vertical-align:middle;width:19px;">
+<div class="mktEditable" id="ksocial-ad0u6tang">
+<a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB6mjzRv_qECSk1dHtDxCjGYMVPUJdtB_4AT7wf-kKsjEykseR-24pP2eag1mQlbLmr0=" target="_blank" style="text-decoration: none; color: #0080FF;"><img alt="Twitch" height="19" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/LRi1xeTjncP1b6l6HQr7xMOMzuhFrltpPkwwfZvg.png" style="border-radius:2px;display:block;" width="19"></a>
+</div></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="font-size:0px;padding:0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="text-container" style="font-size:0px;padding:10px 25px 10px 25px;word-break:break-word;">
+<div class="mktEditable" id="ktext-v5v3xmm6w" style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;">
+<div style="font-family:proxima_nova, sans_serif, Helvetica, Arial;font-size:14px;letter-spacing:none;line-height:1.4;text-align:center;color:#5B6987;">
+<p style="margin: 0 0; mso-line-height-alt: 20px;">Give $100, get $25. <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biBt9ooVAQRZy4bJ5K_nK5J9QE6tMWqTYPYNO2QmdwCBKHJdHKW5flTbbNDF1Fr7MlZJw=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">Refer a friend.</a><br><em><span style="font-size: 12px;">Trouble seeing this email? <a href="https://waves.digitalocean.com/MTEzLURUTi0yNjYAAAGDW6biB4epsTfj3SMZI2MigTp_n14DZz6HnSw49kdYhxMhhymc5wZGwl-sRkHgSAFRWd15SCg=" target="_blank" rel="noopener" style="color: rgb(0, 128, 255); text-decoration: none;">View it as a web page.</a></span></em><br><br>Copyright DigitalOcean. All rights reserved.<br>Floor 10, 101 Avenue of the Americas, New York, NY 10013</p>
+</div>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#F3F5F9;width:100%;" class="section">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background:#FFFFFF;background-color:#FFFFFF;Margin:0px auto;max-width:600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color:#FFFFFF;width:100%;">
+<tbody>
+<tr>
+<td style="border-bottom:10px solid #F3F5F9;font-size:0px;padding:0px 0px 25px 0px;text-align:center;vertical-align:top;" class="block-grid">
+<!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:0px;vertical-align:top;" width="100%">
+<tbody>
+<tr>
+<td align="center" class="img-container" style="font-size:0px;padding:10px 0px 0px 0px;word-break:break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+<tbody>
+<tr>
+<td style="width:36px;">
+<div class="mktoImg" id="kimage-mcf0jguxx">
+<img alt="DigitalOcean logo (footer section)" height="auto" src="https://client-data.knak.io/production/email_assets/5f18b38fc36ef/RecQIPMBEzddRlbIakDkxczblhSoimcsLFSs479o.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="36">
+</div>
+<!--[if !mso 9]><!-->
+<div class="mktEditable" id="image-plain-text-nz63r1reo" style="mso-hide:all; visibility:hidden; opacity:0; color:transparent; mso-line-height-rule:exactly; line-height:0; font-size:0px; overflow:hidden; border-width:0; display:none !important;">
+[ DigitalOcean logo (footer section) ]
+</div>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<img src="https://waves.digitalocean.com/trk?t=1&amp;mid=MTEzLURUTi0yNjY6MDo0MzM5OjM0NzYwOjIzMTA0Mzo3NDk2Ojk6ODIwOTo0OTgxMzMxOnJpbUB0dmVycmVnLnJ1" width="1" height="1" style="display:none !important;" alt="">
+
+<p style="text-align:center"><font face="'Proxima Nova', 'Open Sans', 'Helvetica Neue', Calibri, Helvetica, sans-serif" size="1">
+This email was sent to rim@tverreg.ru. You can update your <a href="https://waves.digitalocean.com/u/MTEzLURUTi0yNjYAAAGDW6biB54DicWFYPJUeut4meTCR44ps1jOTmf8bcu-NjQsFCGnxBXTlOC8se22g25YGxexMVs=">email subscription preferences</a> at any time. 
+</font> </p>
+</body>
+</html>
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Р’РЅРёРјР°РЅРёРµ!!! Р•СЃР»Рё РѕС‚РїСЂР°РІРёС‚РµР»СЊ РїРѕС‡С‚С‹ РЅРµРёР·РІРµСЃС‚РµРЅ, РЅРµ РїРµСЂРµС…РѕРґРёС‚Рµ РїРѕ СЃСЃС‹Р»РєР°Рј, РЅРµ СЃРѕРѕР±С‰Р°Р№С‚Рµ РїР°СЂРѕР»СЊ Рё РЅРµ Р·Р°РїСѓСЃРєР°Р№С‚Рµ РІР»РѕР¶РµРЅРёСЏ.<br>
+РџРѕРґРѕР·СЂРёС‚РµР»СЊРЅРѕРµ РїРёСЃСЊРјРѕ РЅРµРѕР±С…РѕРґРёРјРѕ РїРµСЂРµСЃР»Р°С‚СЊ СЃ РІР»РѕР¶РµРЅРёСЏРјРё РЅР° РїРѕС‡С‚РѕРІС‹Р№ Р°РґСЂРµСЃ СЃР»СѓР¶Р±С‹ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

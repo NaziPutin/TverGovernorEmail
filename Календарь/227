@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x268b0c
+DTSTAMP:20220424T204126Z
+CREATED:20220125T102910Z
+LAST-MOD:20220125T064753Z
+SUMMARY:Встреча со студенческим активом вузов Тверской области\, приуроченная ко Дню российского студенчества (в режиме ВКС) (отв. Новикова В.И.\, Коваленко Ю.Н.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220125T110000Z
+DTEND;VALUE=DATE-TIME:20220125T113000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

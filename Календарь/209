@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x264324
+DTSTAMP:20220424T204126Z
+CREATED:20220203T130402Z
+LAST-MOD:20220203T125500Z
+SUMMARY:Совещание\, тема: «О результатах реализации адресной инвестиционной программы Тверской области в 2021 году и основных задачах на 2022 год» (отв. Егоров И.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20220203T133000Z
+DTEND;VALUE=DATE-TIME:20220203T143000Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

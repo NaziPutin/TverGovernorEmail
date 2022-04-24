@@ -1,0 +1,149 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 25 Sep 2018 09:47:15 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 25 Sep
+ 2018 09:47:13 +0300
+Received: from mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b]) by
+ mailsrv2.tverreg.ru ([fe80::89a3:e234:2f99:b77b%12]) with mapi id
+ 15.01.0396.037; Tue, 25 Sep 2018 09:47:13 +0300
+From: =?koi8-r?B?68/NydNjwdLP18Eg78zYx8Eg88XSx8XF187B?=
+	<komissarova@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?0MXSxdfPxNkg2sXNxczYztnIINXewdPUy8/X?=
+Thread-Topic: =?koi8-r?B?0MXSxdfPxNkg2sXNxczYztnIINXewdPUy8/X?=
+Thread-Index: AdRUlneMQSSlxCA7RCKAwDGxIYYM8Q==
+Disposition-Notification-To: =?koi8-r?B?68/NydNjwdLP18Eg78zYx8Eg88XSx8XF187B?=
+	<komissarova@tverreg.ru>
+Return-Receipt-To: <komissarova@tverreg.ru>
+Date: Tue, 25 Sep 2018 09:47:13 +0300
+Message-ID: <bb67598abb80442991690ebc7ef86c87@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <bb67598abb80442991690ebc7ef86c87@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [93.91.114.14]
+X-MS-Exchange-Organization-Network-Message-Id: 81698024-386a-4dfe-6444-08d622b2b9f8
+Return-Path: komissarova@tverreg.ru
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.8282221
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER454E6965
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1894340655;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1696215556 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>хЧБЦБЕНЩК йЗПТШ нЙИБКМПЧЙЮ!<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>рПДЗПФПЧМЕОЩ РТПЕЛФЩ ТБУРПТСЦЕОЙК рТБЧЙФЕМШУФЧБ ПВМБУФЙ П РЕТЕЧПДЕ ЪЕНЕМШОЩИ ХЮБУФЛПЧ ЙЪ ПДОПК ЛБФЕЗПТЙЙ Ч ДТХЗХА Й ЗПФПЧЩ Л ЧЩОЕУЕОЙА ОБ ЪБУЕДБОЙЕ рТБЧЙФЕМШУФЧБ:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>ъБСЧЙФЕМШ ппп &laquo;нБЗЙУФТБМШ&raquo; (ХЮБУФПЛ 0,5 ЗБ фПТЦПЛУЛЙК ТБКПО, вХДПЧУЛПЕ У\Р, Ч ЪЕНМЙ РТПНЩЫМЕООПУФЙ) &#8211; <u>РТПЕЛФ НОПЗПЖХОЛГЙПОБМШОПЗП ЛПНРМЕЛУБ РТЙДПТПЦОПЗП УЕТЧЙУБ</u>;<o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>љъБСЧЙФЕМШ уБЖПОПЧ б.а. (ХЮБУФЛЙ 0,6 ЗБ лПОБЛПЧУЛЙК ТБКПО, Р.оПЧПЪБЧЙДПЧУЛЙК, Ч ЪЕНМЙ ПУПВП ПИТБОСЕНЩИ ФЕТТЙФПТЙК Й ПВЯЕЛФПЧ) &#8211; <u>РТПЕЛФ СИФ-ЛМХВ &laquo;бМЕЛУБОДТЙС&raquo;;</u><o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>ъБСЧЙФЕМШ фЙНПОЙО д.а. (ХЮБУФЛЙ 0,6 ЗБ лБЫЙОУЛЙК ТБКПО, вБТЩЛПЧУЛПЕ У\Р, Ч ЪЕНМЙ РТПНЩЫМЕООПУФЙ) &#8211; <u>РТПЕЛФ РТЙДПТПЦОПЗП УЕТЧЙУБ, Ч Ф.Ю. НБЗБЪЙО РП РТПДБЦЕ ЖЕТНЕТУЛЙИ РТПДХЛФПЧ, ЙЪДЕМЙК ОБТПДОЩИ РТПНЩУМПЧ, ЬМЕНЕОФПЧ ФХТЙУФЙЮЕУЛПК ЙОЖТБУФТХЛФХТЩ;</u><o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoListParagraph style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>ъБСЧЙФЕМШ рЕФТПЧ у.б. (Ч ЙОФЕТЕУБИ рТПИПТПЧПК е.н.) (ХЮБУФЛЙ 14 ЗБ пУФБЫЛПЧУЛЙК ПЛТХЗ, Д.уЧБРХЭЕ, Ч ЪЕНМЙ ПУПВП ПИТБОСЕНЩИ ФЕТТЙФПТЙК Й ПВЯЕЛФПЧ) &#8211; <u>ДМС УФТПЙФЕМШУФЧБ ВБЪЩ ПФДЩИБ ДМС ТБВПФОЙЛПЧ РТЕДРТЙСФЙС ппп &laquo;уПЖШС&raquo;.<o:p></o:p></u></span></p><p class=MsoListParagraph><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>чУЕ ЧЩЫЕХЛБЪБООЩЕ РТПЕЛФЩ <u>ЙНЕАФ ЧЩУПЛХА УФЕРЕОШ РТПТБВПФЛЙ</u>, РПМХЮЕОЩ РПМПЦЙФЕМШОЩЕ ЪБЛМАЮЕОЙС ПФ ЧУЕИ ХРПМОПНПЮЕООЩИ ПТЗБОПЧ (ЧЛМАЮБС нЙОФХТЙЪНБ Й нЙОЬЛПОПНТБЪЧЙФЙС ПВМБУФЙ). пУОПЧБОЙК ДМС ПФЛБЪБ Ч РЕТЕЧПДЕ Ч УППФЧЕФУФЧЙЙ У ЪБЛПОПДБФЕМШУФЧПН ОЕФ.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>рТПЫХ УПЗМБУПЧБФШ ЧЩОЕУЕОЙЕ ОБ ЪБУЕДБОЙЕ рТБЧЙФЕМШУФЧБ. рТЙМБЗБА РТЕЪЕОФБГЙЙ У ЗТБЖЙЛПК.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>у ХЧБЦЕОЙЕН,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:14.0pt;font-family:"Times New Roman",serif'>лПНЙУУБТПЧБ п.<o:p></o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

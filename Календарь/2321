@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb01f38
+DTSTAMP:20220424T204126Z
+CREATED:20200429T112359Z
+LAST-MOD:20200429T093240Z
+SUMMARY:Совещание\, тема: «О мероприятиях\, посвященных празднованию 75-й годовщины Победы советского народа в Великой Отечественной войне 1941-1945 гг.» (в режиме видеоконференцсвязи)(отв. Ищенко А.Н.\, Емельянов А.А.\, Белорусов В.А.\, Буданцева А.Н.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20200429T100000Z
+DTEND;VALUE=DATE-TIME:20200429T110000Z
+LOCATION:каб. 304\; обратная связь - из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

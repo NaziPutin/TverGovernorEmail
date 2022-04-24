@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x11dfa40
+DTSTAMP:20220424T204127Z
+CREATED:20180906T135147Z
+LAST-MOD:20180906T134131Z
+SUMMARY:РЎРѕРІРµС‰Р°РЅРёРµ\, С‚РµРјР°: В«Рћ С†РµР»РµРІС‹С… РїРѕРєР°Р·Р°С‚РµР»СЏС…\, РїСЂРµРґСѓСЃРјРѕС‚СЂРµРЅРЅС‹С… СЃРѕРіР»Р°С€РµРЅРёСЏРјРё Рѕ РїСЂРµРґРѕСЃС‚Р°РІР»РµРЅРёРё РјРµР¶Р±СЋРґР¶РµС‚РЅС‹С… СЃСѓР±СЃРёРґРёР№\, Р·Р° 2017-2018 РіРі.В» (РѕС‚РІ. РџР°РІР»РѕРІР° Рћ.Р’.\, РїСЂРµСЃСЃ-СЃР»СѓР¶Р±Р°)
+DTSTART;VALUE=DATE-TIME:20180907T080000Z
+DTEND;VALUE=DATE-TIME:20180907T093000Z
+LOCATION:РєР°Р±. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

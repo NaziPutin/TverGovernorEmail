@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb3e1f8
+DTSTAMP:20220424T204126Z
+CREATED:20200402T121410Z
+LAST-MOD:20200402T120159Z
+SUMMARY:Рабочая встреча. Мукаилов Нурипаша Мукаилович - начальник филиала № 7 ФГКУ «1586 военный клинический госпиталь» Министерства обороны РФ (отв. Егоров И.И.\, Максимов М.А.) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200402T123000Z
+DTEND;VALUE=DATE-TIME:20200402T130000Z
+LOCATION:каб. 304
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

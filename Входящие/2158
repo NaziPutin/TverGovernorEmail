@@ -1,0 +1,60 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 14 Dec 2019 08:34:48 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Sat, 14 Dec
+ 2019 08:34:32 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::bd89:6695:beaf:3072%4]) with mapi id
+ 15.01.1591.008; Sat, 14 Dec 2019 08:34:29 +0300
+From: =?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+Subject: =?utf-8?B?0J/RgNC40LPQu9Cw0YjQtdC90LjQtSDQvdCwINGB0L7QstC80LXRgdGC0L0=?=
+ =?utf-8?B?0L7QtSDRgdC+0LLQtdGJ0LDQvdC40LUgKNCyINGA0LXQttC40LzQtSDQktCa?=
+ =?utf-8?B?0KEpINCh0YfQtdGC0L3QvtC5INCf0LDQu9Cw0YLRiyDQoNCkINGBINGD0Yc=?=
+ =?utf-8?B?0LDRgdGC0LjQtdC8INCX0LDQvNC10YHRgtC40YLQtdC70Y8g0J/RgNC10LQ=?=
+ =?utf-8?B?0YHQtdC00LDRgtC10LvRjyDQn9GA0LDQstC40YLQtdC70YzRgdGC0LLQsCA=?=
+ =?utf-8?B?0KDQpCDQnNGD0YLQutC+INCSLtCbLiAoMjAuMTIuMjAxOSwgMDkg0YfQsNGB?=
+ =?utf-8?B?LiAwMCDQvNC40L0uKQ==?=
+Thread-Topic: =?utf-8?B?0J/RgNC40LPQu9Cw0YjQtdC90LjQtSDQvdCwINGB0L7QstC80LXRgdGC0L0=?=
+ =?utf-8?B?0L7QtSDRgdC+0LLQtdGJ0LDQvdC40LUgKNCyINGA0LXQttC40LzQtSDQktCa?=
+ =?utf-8?B?0KEpINCh0YfQtdGC0L3QvtC5INCf0LDQu9Cw0YLRiyDQoNCkINGBINGD0Yc=?=
+ =?utf-8?B?0LDRgdGC0LjQtdC8INCX0LDQvNC10YHRgtC40YLQtdC70Y8g0J/RgNC10LQ=?=
+ =?utf-8?B?0YHQtdC00LDRgtC10LvRjyDQn9GA0LDQstC40YLQtdC70YzRgdGC0LLQsCA=?=
+ =?utf-8?B?0KDQpCDQnNGD0YLQutC+INCSLtCbLiAoMjAuMTIuMjAxOSwgMDkg0YfQsNGB?=
+ =?utf-8?B?LiAwMCDQvNC40L0uKQ==?=
+Thread-Index: AdWw0oUPRD/dJAQjQ+icMzCilJAriQ==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sat, 14 Dec 2019 08:34:28 +0300
+Message-ID: <-zhdewz88zvs0ix0lvc-fvebqjaei7nx-62foqn-cgb66s-ks126mc742j3-4uh6ut-sd2omy30faj5-fdjqrxiw2qpa-u71zsd-gscydngkqy4ljh6pvv6kfx9b6gecx1or401-9dei8qkxy0p4fhixk.1576301670345@email.android.com>
+References: <30278c734cf24bfc8546cb1204af3ff0@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <-zhdewz88zvs0ix0lvc-fvebqjaei7nx-62foqn-cgb66s-ks126mc742j3-4uh6ut-sd2omy30faj5-fdjqrxiw2qpa-u71zsd-gscydngkqy4ljh6pvv6kfx9b6gecx1or401-9dei8qkxy0p4fhixk.1576301670345@email.android.com>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 6c236a1b-e460-4540-b0a9-08d780574a1f
+Return-Path: SkoriyAV@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:19.1699382
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER583EA2F5
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">Уважаемый Игорь Михайлович!<br><br>Информирую Вас о том, что в Ваш адрес за подписью аудитора Счетной Палаты РФ Орловой С.Ю. поступило приглашение принять участие в совместном совещании (в режиме ВКС) Счетной Палаты РФ с участием Заместителя Председателя Правительства РФ Мутко В.Л. , представителей палат Федерального Собрания РФ, заинтересованных федеральных органов исполнительной власти, глав субъектов РФ по теме: «Деятельность федеральных и региональных органов исполнительной власти РФ, направленная на сокращение объема вложений в объекты незавершенного строительства» (20.12.2019, 09 час. 00 мин.).<br><br>В приглашении обозначена просьба выступить по теме указанного совещания (до 10 мин.).<br><br>Проект повестки прилагается.<br><br>Проинформированы: Ажгиревич А.И., Тарасов С.В., Беленко А.Ю., Подтихова М.И.<br><br>На Ваше решение.<br><br>С уважением, А.Скорый
+----boundary-LibPST-iamunique-2146875884_-_---
+

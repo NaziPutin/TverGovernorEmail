@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe1a75c
+DTSTAMP:20220424T204127Z
+CREATED:20190911T124321Z
+LAST-MOD:20190911T084058Z
+SUMMARY:Совещание\, тема: «О ремонте объектов культурного наследия Тверской области» (отв. Белоцерковский А.В.\, Смирнов М.Ю.\, Репина И.А.\, Тарасов С.В.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190912T073000Z
+DTEND;VALUE=DATE-TIME:20190912T090000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,1001 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Fri, 1 Apr 2022 12:46:29 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Fri, 1 Apr 2022
+ 12:46:29 +0300
+Received: from mxs.tverreg.ru (172.30.0.59) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Fri, 1 Apr 2022 12:46:29 +0300
+Received: from pmg01.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg01.tverreg.ru (TverReg) with ESMTP id AD93583AE5
+	for <rim@tverreg.ru>; Fri,  1 Apr 2022 12:46:28 +0300 (MSK)
+Received-SPF: pass (mail.sendsay.ru: Sender is authorized to use 'gluck-#-#-#-x_1647254640537491@mail.sendsay.ru' in 'mfrom' identity (mechanism 'include:spf.sendsay.ru' matched)) receiver=pmg01.tverreg.ru; identity=mailfrom; envelope-from="gluck-#-#-#-x_1647254640537491@mail.sendsay.ru"; helo=gato142.sndsy.ru; client-ip=185.138.182.142
+Received: from gato142.sndsy.ru (gato142.sndsy.ru [185.138.182.142])
+	by pmg01.tverreg.ru (TverReg) with ESMTPS id 0A97783944
+	for <rim@tverreg.ru>; Fri,  1 Apr 2022 12:46:27 +0300 (MSK)
+Received: id B67EC560340-1648806380
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mail.sendsay.ru; s=sendsay202111;
+	t=1648806380; bh=QbvR3LBWvA4aMsUJpvmwRzFQEpN5Pu91GJMF1gAJKv0=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=RA6yzOUI1VG5Y9hKuqyyODWwFnPeYzwgQHYBlZZGxAIHsLUdUzW8LDog1wIHzXnr+
+	 A+ZUIMR00Tj1F9G0XGV+SfX4cEFuyAZQ5vQL9Bwhf+OfDXpUb1QVzNEbt3F1bDTEPE
+	 FK9iwRyo1RNx+KHO63dyzZ8G9osKvjQT85q0s5Mk=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=buhgalteria.ru;
+	s=x-1647254640537491.55; t=1648806380;
+	bh=QbvR3LBWvA4aMsUJpvmwRzFQEpN5Pu91GJMF1gAJKv0=;
+	h=Precedence:List-Id:List-Issue:List-Unsubscribe:List-Subscribe:
+	 List-Archive:List-Post:X-Felis-L:X-rpcampaign:Date:Message-Id:From:
+	 To:Subject:X-Mailru-Msgtype:Feedback-Id:MIME-Version:
+	 Content-Transfer-Encoding:Content-Type;
+	b=Ml/lFUwS4ZfFda7iFvNAbhtX7GKn/qdLoQ/nksZhqb8l32jlONTFNQu9OFW8gKsKZ
+	 AFaVOgTBmw4lNQo4cx1MDPORsqalrvUzZMDCjA75v0qKSXdVyYiYewJWOyFgkcm9k6
+	 bDqa9QG75bkQQVHozddW8jq9KKI4rguKuuHsaTu8=
+Precedence: bulk
+List-Id: <pf20977.x_1647254640537491.sendsay>
+List-Issue: <20220401124422.pf20977.x_1647254640537491>
+List-Unsubscribe: <mailto:fbl@sendsay.ru?subject=fbl,x_1647254640537491,13,151797,48515,/20220401124422,pf20977>
+List-Subscribe: NO
+List-Archive: NO
+List-Post: NO
+X-Felis-L: 13.151797.48515.pf20977.x_1647254640537491
+X-rpcampaign: x_1647254640537491pf2097720220401124422
+Date: Fri,  1 Apr 2022 12:46:20 +0300
+Message-Id: <20220401124422.0.20220401124422_eui_@13.151797.48515.pf20977.x_1647254640537491>
+From: =?utf-8?Q?=D0=91=D1=83=D1=85=D0=B3=D0=B0=D0=BB=D1=82=D0=B5=D1=80=D0=B8=D1=8F=2Eru?= <mail@buhgalteria.ru>
+To: <rim@tverreg.ru>
+Subject: =?utf-8?Q?=D0=A0=D0=BE=D1=81=D1=81=D0=B8=D1=8F=20?=
+ =?utf-8?Q?=D0=B2=D1=8B=D0=B9=D0=B4=D0=B5=D1=82=20?=
+ =?utf-8?Q?=D0=B8=D0=B7=20?=
+ =?utf-8?Q?=D0=BF=D0=B5=D0=BD=D1=81=D0=B8=D0=BE=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE=20?=
+ =?utf-8?Q?=D1=81=D0=BE=D0=B3=D0=BB=D0=B0=D1=88=D0=B5=D0=BD=D0=B8=D1=8F=20?=
+ =?utf-8?Q?=D0=A1=D0=9D=D0=93?=
+X-Mailru-Msgtype: sendsay.x_1647254640537491
+Feedback-Id: x_164725464053749113:x_1647254640537491:pf20977:sendsay
+X-DrWeb-SpamScore: 90
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeiiedgudejucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenogfthfevqddquegrugetughntfgtvhguvdculdehuddmnefjrghmjfgvrgguvghrhfhivghlugcujfgvrgguvghrucfutghorhhinhhgucdlqddutddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuhiigrhgrpihtvghppiiprdhruhcuoehmrghilhessghuhhhgrghlthgvrhhirgdrrhhuqeenucggtffrrghtthgvrhhnpeetheelfffggfevkeffvdejjeegffeggeevuedtgfdvhfejhfejffefkedujeevteenucffohhmrghinhepshgvnhgushgrhidrrhhupdgsuhhhghgrlhhtvghrihgrrdhruhdpsggvrhgrthhorhdrrhhupdhvkhdrtghomhdpohhkrdhruhdphigrnhguvgigrdhruhdpmhgrihhlrdhruh
+X-DrWeb-SpamVersion: Vade Retro 01.422.166#17 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.239 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIMWL_WL_MED          -0.001 DKIMwl.org - Medium trust sender
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	HEADER_FROM_DIFFERENT_DOMAINS   0.25 From and EnvelopeFrom 2nd level mail domains are different
+	HTML_FONT_LOW_CONTRAST  0.001 HTML font color similar or identical to background
+	HTML_MESSAGE            0.001 HTML included in message
+	MAILING_LIST_MULTI         -1 Multiple indicators imply a widely-seen list manager
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+	URI_HEX                   0.1 URI hostname has long hexadecimal sequence
+X-DrWeb-SpamScore: 90
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudeiiedgudejucetufdoteggodetrfcurfhrohhfihhlvgemucfftfghgfeunecuuegrihhlohhuthemuceftddtnecuogfuuhhsphgvtghtffhomhgrihhnucdlgeelmdenogfthfevqddquegrugetughntfgtvhguvdculdehuddmnefjrghmjfgvrgguvghrhfhivghlugcujfgvrgguvghrucfutghorhhinhhgucdlqddutddmnecujfgurhepphejjfdtgedufffkhffvufgggfgtsehhsgertddttdejnecuhfhrohhmpeeuhiigrhgrpihtvghppiiprdhruhcuoehmrghilhessghuhhhgrghlthgvrhhirgdrrhhuqeenucggtffrrghtthgvrhhnpeetheelfffggfevkeffvdejjeegffeggeevuedtgfdvhfejhfejffefkedujeevteenucffohhmrghinhepshgvnhgushgrhidrrhhupdgsuhhhghgrlhhtvghrihgrrdhruhdpsggvrhgrthhorhdrrhhupdhvkhdrtghomhdpohhkrdhruhdphigrnhguvgigrdhruhdpmhgrihhlrdhruhenucfkphepudekhedrudefkedrudekvddrudegvd
+X-DrWeb-SpamVersion: Vade Retro 01.422.166#17 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: gluck-13-151797-48515-x_1647254640537491@mail.sendsay.ru
+X-MS-Exchange-Organization-Network-Message-Id: c6e02bbd-09e5-4bb2-b882-08da13c47f55
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2785481
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		
+		<meta name="viewport" content="width=device-width, initial scale=1.0">
+		<title>
+			Бухгалтерия.ру
+		</title>
+		<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i&amp;display=swap&amp;subset=cyrillic" rel="stylesheet">
+	</head>
+	<body style="font-family: Arial, Helvetica, sans-serif; color: #000; font-size: 16px; line-height: 20px; margin: 0; background: #eee;">
+
+<table width="100%" style="background: #eee;">
+<tr>
+<td>
+		<style type="text/css">/*стили*/
+			body {
+				font-family: Arial, Helvetica, sans-serif;
+				color: #000;
+				font-size: 16px;
+				line-height: 20px;
+				margin: 0;
+				background: #eee;
+			}
+			/*a {
+				margin: 0;
+			}
+			a:link {
+				color: #60aaf5;
+				text-decoration: none;
+				border-bottom: 1px dashed #60aaf5;
+			}
+			a:hover {
+				color: #e30817;
+				border-bottom: none;
+			}
+			a:visited {
+				color: #114871;
+			}*/
+			h1,
+			h2,
+			h3 {
+				float: left;
+				width: 100%;
+				font-family: 'Ubuntu', sans-serif;
+				text-align: left;
+				font-weight: normal;
+				padding: 0 0px;
+				margin: 25px 0;
+			}
+			h1 {
+				line-height: 36px;
+				font-size: 28px;
+				color: #0d3d65;
+				text-transform: uppercase;
+				margin-left: 50px;
+			}
+			h2 {
+				margin: 0 0 25px 0;
+				line-height: 25px;
+				font-size: 20px;
+			}
+			h3 {
+				font-family: Arial, Helvetica, sans-serif;
+				font-size: 16px;
+				font-weight: bold;
+				margin: 0 0 15px 0;
+			}
+			p {
+				float: left;
+				margin: 0 0 25px 0;
+			}
+			ul,
+			ol {
+				float: left;
+				padding: 0;
+				margin: 0;
+			}
+			ul {
+				list-style-type: none;
+			}
+			ul li {
+				margin: 0 0 20px 0;
+			}
+			ol a,
+			ul a {
+				margin: 0;
+			}
+			ol a:link,
+			ul a:link {
+				color: #60aaf5;
+				text-decoration: none;
+				border-bottom: 1px dashed #60aaf5;
+			}
+			ol a:hover,
+			ul a:hover {
+				color: #e30817;
+				border-bottom: none;
+			}
+			ol a:visited,
+			ul a:visited {
+				color: #114871;
+			}
+			img {
+				width: 100%;
+				float: left;
+			}
+			.content {
+				display: block;
+				margin: 0 auto;
+				width: 800px;
+			}
+			.top,
+			.news,
+			.top-article,
+			.berator,
+			.forum,
+			.sm,
+			.links,
+			.banner {
+				display: block;
+				float: left;
+				width: 800px;
+				padding: 0;
+				/*box-sizing: border-box;*/
+				background: #fff;
+			}
+			.banner {
+				padding: 0;
+			}
+			.banner a {
+				border-bottom: none;
+			}
+			.yt {
+				background-size: 400px;
+				background-repeat: no-repeat;
+				background-color: #001535;
+				box-shadow: -400px 0 25px 0 #001535 inset;
+			}
+			.yt span:first-child {
+				background-image: url(https://www.buhgalteria.ru/upload/raasyl/youtube.png);
+				background-position: center center;
+				display: block;
+				width: 400px;
+				height: 225px;
+				float: left;
+			}
+			.yt div {
+				float: left;
+				width: 375px;
+				margin-left: 25px;
+				background: #001535;
+			}
+			.yt h2 {
+				margin-top: 25px;
+				color: #fff;
+			}
+			.yt p {
+				margin: 0;
+				color: #fff;
+			}
+			.yt p span {
+				background: #001535!important;
+				display: initial!important;
+				width: initial!important;
+				height: initial!important;
+				float: initial!important;
+				color: #f00;
+			}
+			.top {
+				height: 76px;
+				background: #114871;
+			}
+			.logo {
+				display: block;
+				float: left;
+				line-height: 36px;
+				margin: 17px 0 0 50px;
+				font-size: 28px;
+				font-weight: bold;
+			}
+			.logo a {
+				text-decoration: none;
+			}
+			.logo a:hover {
+				text-decoration: none;
+			}
+			.logo a:focus {
+				text-decoration: none;
+			}
+			.logo a:active {
+				text-decoration: none;
+			}
+			.logo span {
+				color: #fff;
+			}
+			.logo span:last-child {
+				color: #ff002a;
+			}
+			.date {
+				display: block;
+				line-height: 16px;
+				margin: 0;
+				float: right;
+				font-size: 12px;
+				color: #fff;
+				opacity: 50%;
+			}
+			/*.date {
+				display: block;
+				float: right;
+				width: 100%;
+				margin: 0;
+				text-align: center;
+				line-height: 28px;
+				font-size: 12px;
+				color: #fff;
+				background: #114871;
+				box-shadow: 266px 0 133px -133px #114871 inset, -266px 0 133px -133px #114871 inset, 0px -14px 7px -7px #0c314b inset;
+			}*/
+			.title {
+				display: block;
+				line-height: 16px;
+				margin: 10px 50px 10px 0;
+				float: right;
+				font-size: 22px;
+				color: #fff;
+			}
+			.news h1 {
+				margin: 25px 0;
+			}
+			.important,
+			.other {
+				float: left;
+				width: 325px;
+				margin: 0 0 0 50px;
+				/*padding: 0 25px 0 0;
+				box-sizing: border-box;*/
+			}
+			.other {
+				float: right;
+				margin: 33px 50px 0 0;
+			}
+			.important h2 a,
+			.article h2 a,
+			h1 a {
+				color: #000;
+				text-decoration: none;
+			}
+			.other {
+				padding: 0 0 0 25px;
+			}
+			.button-blue/*,
+			.button-red*/ {
+				height: 50px;
+				padding-left: 25px;
+				padding-right: 25px;
+				border: 2px solid #60aaf5;
+				box-sizing: border-box;
+				line-height: 48px;
+				text-align: center;
+			}
+			.button-blue a:link {
+				margin: 0;
+				color: #60aaf5;
+				text-decoration: none;
+				border-bottom: none!important;
+			}
+			.button-blue a:hover {
+				border-bottom: none;
+			}
+			.button-blue a:visited {
+				color: #60aaf5;
+			}
+			.button-red {
+				border-color: #e30817;
+				margin-bottom: 25px!important;
+			}
+			.button-red a:link {
+				margin: 0;
+				color: #e30817;
+				text-decoration: none;
+				border-bottom: none!important;
+			}
+			.button-red a:hover {
+				color: #e30817;
+				border-bottom: none;
+			}
+			.button-red a:visited {
+				color: #e30817;
+				border-bottom: 1px dashed #e30817;
+			}
+			.top-article {
+				background: #f7f7f7;
+			}
+			.img {
+				width: 265px;
+				float: left;
+				margin-left: 50px;
+			}
+			.img a {
+				text-decoration: none;
+			}
+			.article {
+				float: left;
+				width: 410px;
+				margin: 0 0 0 25px;
+			}
+			.articles {
+				float: left;
+				font-size: 12px;
+			}
+			.articles h1 {
+				margin-top: 0;
+			}
+			.articles a {
+				display: block;
+				float: left;
+				width: 25%;
+				margin: 0 0 25px 50px;
+				text-decoration: none;
+				color: #000;
+			}
+			.articles span {
+				float: left;
+				display: block;
+			}
+			.articles span:first-child {
+				width: 200px;
+				height: 73px;
+				background-size: cover;
+				background-position: 50%;
+			}
+			.articles span:last-child {
+				margin-top: 10px;
+			}
+			/*.articles span:last-child {
+				height: 80px;
+				overflow: hidden;
+				text-overflow: ellipsis;
+			}*/
+			.articles span:last-child:after {
+				content: "...";
+			}
+			.articles h2 {
+				/*float: left;
+				font-size: 16px;
+				line-height: 20px;
+				margin: 15px 0;*/
+				margin-left: 50px;
+			}
+			.articles h3 {
+				float: left;
+				margin: 10px 0 0 0;
+				font-family: 'Ubuntu', sans-serif;
+				font-size: 16px;
+				font-weight: 500;
+			}
+			.berator {
+				background: #fcf9ea;
+			}
+			.berator h1 {
+				margin-left: 0;
+			}
+			.berator a:link {
+				color: #60aaf5;
+				text-decoration: none;
+				border-bottom: 1px dashed #60aaf5;
+			}
+			/*.berator a:hover {
+				color: #e30817;
+				border-bottom: none;
+			}
+			.berator a:visited {
+				color: #114871;
+			}*/
+			.berator img {
+				width: 100px;
+				float: none;
+				margin-bottom: 11px;
+			}
+			.logo-berator {
+				text-align: center;
+				float: left;
+				width: 125px;
+				padding: 25px 50px 0 50px;
+				/*box-shadow: 92px -92px 46px -46px #fff inset, -12px 12px 24px -12px #dcdcdc inset;*/
+			}
+			.logo-berator p {
+				margin-top: 16px;
+				font-size: 14px;
+				margin: 0 0 25px 0;
+			}
+			.what-new {
+				float: left;
+				width: 500px;
+				padding: 0 50px 10px 25px;
+				background: #fff;
+			}
+			.what-new p {
+				margin-bottom: 15px;
+			}
+			.what-new ul {
+				margin: 0 0 10px 25px;
+			}
+			.what-new li {
+				margin-bottom: 15px;
+				list-style: initial;
+				list-style-position: inside;
+			}
+			.what-new ol {
+				width: 100%;
+				padding: 0 0 25px 0;
+				list-style-position: inside;
+			}
+			.forum {
+				background: #f7f7f7;
+			}
+			.sm {
+				background: #f7f7f7;
+			}
+			.sm p {
+				float: left;
+				width: 100%;
+				text-align: center;
+				font-family: 'Ubuntu', sans-serif;
+				font-size: 20px;
+				font-weight: normal;
+			}
+			/*.sm p:first-child {
+				margin: 0;
+			}*/
+			.icons a {
+				text-decoration: none;
+			}
+			.icons img {
+				float: none;
+				margin: 25px 10px 0 10px;
+				height: 48px;
+				width: auto;
+			}
+			.links {
+				/*padding: 25px;*/
+				font-family: 'Ubuntu', sans-serif;
+				line-height: 20px;
+				font-size: 16px;
+				text-align: left;
+				font-weight: normal;
+			}
+			.links ul {
+				display: block;
+				float: left;
+				width: 25%;
+				margin: 25px 0 25px 50px;
+			}
+			.links li {
+				margin: 0 0 10px 0;
+			}
+			.links a:link {
+				border-bottom: none;
+				text-decoration: underline;
+			}
+			.links a:hover {
+				text-decoration: none;
+			}
+			.links a:visited {
+				border-bottom: none;
+				text-decoration: underline;
+			}
+		</style>
+		<div class="content" style="display: block; margin: 0 auto; width: 800px; font-size: 16px;">
+			<div class="top" style="display: block; float: left; width: 800px; padding: 0; height: 76px; background: #114871;">
+				<p class="logo" style="display: block; float: left; line-height: 36px; margin: 17px 0 0 50px; font-size: 28px; font-weight: bold; padding-top: 5px;">
+					<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/67,=0M2HEKCyX_9i-lcP1lomnzA/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT1idWhnYWx0ZXJpYSZ1dG1fY2FtcGFpZ249MjAyMl8wM18yNCZ1dG1fY29udGVudD10b3BfbGluaw==" data-felis_orig_uri="https://www.buhgalteria.ru/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=2022_03_24&amp;utm_content=top_link" data-felis_link_id="67" target="_blank" style="text-decoration: none;"><img style="width: 250px;" src="https://www.buhgalteria.ru/images/logo_buhgalteria_white.png" alt="Бухгалтерия.ru"></a>
+				</p>
+				<p class="title" style="display: block; line-height: 16px; margin: 10px 50px 10px 0; float: right; font-size: 22px; color: #fff;">
+					<span class="date" style="display: block; line-height: 16px; margin: 0; float: right; font-size: 12px; color: rgba(255, 255, 255, 0.5);">
+						25&nbsp;марта&nbsp;- 1&nbsp;апреля 2022&nbsp;года
+					</span>
+					<br>
+					Бухгалтерская неделя
+				</p>
+			</div>
+			<div class="news">
+				<div class="important" style="float: left; width: 325px; margin: 0 0 0 50px;">
+					<h1 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 25px 0; line-height: 36px; font-size: 28px; color: #0d3d65; text-transform: uppercase;">
+						Новость недели
+					</h1>
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 20px;">
+						<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/68,=0_ZKU9tz_v7b4HIoKdUPcaw/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9pem1lbmlsaS1wb3J5YWRvay1yYXNjaGV0YS1uYWxvZ292eWtoLXBlbmV5LWRseWEtb3JnYW5pemF0c2l5Lmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDE=" data-felis_orig_uri="https://www.buhgalteria.ru/news/izmenili-poryadok-rascheta-nalogovykh-peney-dlya-organizatsiy.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=01" data-felis_link_id="68" target="_blank" style="color: #000; text-decoration: none;">
+							Изменили порядок расчета налоговых пеней для&nbsp;организаций
+						</a>
+					</h2>
+					<p style="float: left; margin: 0 0 25px 0;">
+						Федеральный закон от&nbsp;26&nbsp;марта 2022&nbsp;года №&nbsp;67-ФЗ снизил ставку пени для&nbsp;организаций. Она составляет 1/300&nbsp;ставки рефинансирования ЦБ за&nbsp;весь период просрочки.
+					</p>
+					<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/69,=0_ZKU9tz_v7b4HIoKdUPcaw/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9pem1lbmlsaS1wb3J5YWRvay1yYXNjaGV0YS1uYWxvZ292eWtoLXBlbmV5LWRseWEtb3JnYW5pemF0c2l5Lmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDE=" data-felis_orig_uri="https://www.buhgalteria.ru/news/izmenili-poryadok-rascheta-nalogovykh-peney-dlya-organizatsiy.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=01" data-felis_link_id="69" target="_blank" style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;"><p class="button-blue" style="float: left; margin: 0 0 25px 0; height: 50px; padding-left: 25px; padding-right: 25px; border: 2px solid #60aaf5; box-sizing: border-box; line-height: 48px; text-align: center;">
+
+							Читать подробнее
+
+					</p></a>
+				</div>
+				<div class="other" style="float: right; width: 325px; margin: 33px 50px 0 0; padding: 0 0 0 25px;">
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 20px;">
+						Важное за&nbsp;неделю
+					</h2>
+					<ul style="list-style-type: none; padding-left: 0;">
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/70,=0jsH1Ud_9wLeLUCNuZKMYOg/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9kb2tob2R5LW90LWtpay1vc3ZvYm96aGRlbnktb3QtbmRmbC1wb3ByYXZraS12LW5rLXJmLmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDI=" data-felis_orig_uri="https://www.buhgalteria.ru/news/dokhody-ot-kik-osvobozhdeny-ot-ndfl-popravki-v-nk-rf.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=02" data-felis_link_id="70" target="_blank">
+								Доходы от&nbsp;КИК освобождены от&nbsp;НДФЛ. Поправки в&nbsp;НК&nbsp;РФ
+							</a>
+						</li>
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/71,=0LJ3alhrxr47DjAW7GkxtRg/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy91dHZlcnpoZGVueS1ub3Z5ZS1rb250cm9sbnllLXNvb3Rub3NoZW5peWEtZGx5YS1yc3YuaHRtbD91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09YnVoZ2FsdGVyaWEmdXRtX2NhbXBhaWduPXdlZWtfbmV3cyZ1dG1fY29udGVudD0wNA==" data-felis_orig_uri="https://www.buhgalteria.ru/news/utverzhdeny-novye-kontrolnye-sootnosheniya-dlya-rsv.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=04" data-felis_link_id="71" target="_blank">
+								Утверждены новые контрольные соотношения для&nbsp;РСВ
+							</a>
+						</li>
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/72,=0aOBKATOOvXBInORQ2s9z8A/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9yb3NzaXlhLXZ5eWRldC1pei1wZW5zaW9ubm9nby1zb2dsYXNoZW5peWEtc25nLmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDU=" data-felis_orig_uri="https://www.buhgalteria.ru/news/rossiya-vyydet-iz-pensionnogo-soglasheniya-sng.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=05" data-felis_link_id="72" target="_blank">
+								Россия выйдет из&nbsp;пенсионного соглашения СНГ
+							</a>
+						</li>
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/73,=0l4C-hBTgyHfZcSS_6Bz_kw/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9yYWJvY2h1eXUtbmVkZWx5dS1raG90eWF0LXNva3JhdGl0Lmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDM=" data-felis_orig_uri="https://www.buhgalteria.ru/news/rabochuyu-nedelyu-khotyat-sokratit.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=03" data-felis_link_id="73" target="_blank">
+								Рабочую неделю хотят сократить
+							</a>
+						</li>
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/74,=0Asl_E6Wk2Ru14qannwajLQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy90c2VudHJvYmFuay16YW1vcm96aWwta2FwaXRhbHktaW5vc3RyYW50c2V2Lmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDY=" data-felis_orig_uri="https://www.buhgalteria.ru/news/tsentrobank-zamorozil-kapitaly-inostrantsev.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=06" data-felis_link_id="74" target="_blank">
+								Центробанк заморозил капиталы иностранцев
+							</a>
+						</li>
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/75,=0_xqAJFFtzhhs_AMgtjWlAA/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9jaHRvLWl6bWVuaWxpLXYtcHJpem5hbmlpLWtvbnRyb2xpcnVlbXlraC1zZGVsb2suaHRtbD91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09YnVoZ2FsdGVyaWEmdXRtX2NhbXBhaWduPXdlZWtfbmV3cyZ1dG1fY29udGVudD0wNw==" data-felis_orig_uri="https://www.buhgalteria.ru/news/chto-izmenili-v-priznanii-kontroliruemykh-sdelok.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=07" data-felis_link_id="75" target="_blank">
+								Что изменили в&nbsp;признании контролируемых сделок?
+							</a>
+						</li>
+						<li style="margin: 0 0 20px 0;">
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5; margin: 0;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/76,=0KkzRtX_9Wp6fW6gmdopwTw/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvbmV3cy9wb255YXRpZS1uZWR2aXpoaW1vc3RpLWtob3R5YXQtaXptZW5pdC1lZS1vdHZ5YXpodXQtb3QtcHJpem5ha2EtcHJvY2hub3ktc3Z5YXppLXMtemVtbGV5Lmh0bWw/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrX25ld3MmdXRtX2NvbnRlbnQ9MDg=" data-felis_orig_uri="https://www.buhgalteria.ru/news/ponyatie-nedvizhimosti-khotyat-izmenit-ee-otvyazhut-ot-priznaka-prochnoy-svyazi-s-zemley.html?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week_news&amp;utm_content=08" data-felis_link_id="76" target="_blank">
+								Понятие недвижимости хотят изменить - ее&nbsp;«отвяжут» от&nbsp;признака прочной связи с&nbsp;землей
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="banner" style="background-image: url(https://www.buhgalteria.ru/upload/banners/zp_2022_email_1.png); background-size: 800px; display: block; float: left; width: 800px; padding: 0; padding: 0;">
+        <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/77,=0AAjWzGkhL9JvJ_7wrKZTtQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvemFycGxhdGEvP3V0bV9zb3VyY2U9YWt6aWFfenAyMDIycHJvZGF6aGEmdXRtX21lZGl1bT1zdWJzY3JpYmUmdXRtX2NhbXBhaWduPXpwMjAyMiZ1dG1fY29udGVudD1iYW5uZXI=" data-felis_orig_uri="https://www.buhgalteria.ru/zarplata/?utm_source=akzia_zp2022prodazha&amp;utm_medium=subscribe&amp;utm_campaign=zp2022&amp;utm_content=banner" data-felis_link_id="77" target="_blank" style="border-bottom: none;">
+          <img src="https://www.buhgalteria.ru/upload/banners/zp_2022_email_1.png" style="width: 100%; float: left;">
+        </a>
+
+      </div>
+			<div class="top-article" style="display: block; float: left; width: 800px; padding: 0; background: #f7f7f7;">
+				<h1 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 25px 0 25px 50px; line-height: 36px; font-size: 28px; color: #0d3d65; text-transform: uppercase;">
+					Тема недели
+				</h1>
+				<div class="img" style="width: 265px; float: left; margin-left: 50px;">
+					<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/78,=0VUfqODgdopqzL8VxocFrDQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9uYWxvZ292eWUtbWVyeS1wb2RkZXJ6aGtpLWJpem5lc2EtbWFydC1hcHJlbC0yMDIyLWdvZGE/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrMSZ1dG1fY29udGVudD1pbWc=" data-felis_orig_uri="https://www.buhgalteria.ru/article/nalogovye-mery-podderzhki-biznesa-mart-aprel-2022-goda?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week1&amp;utm_content=img" data-felis_link_id="78" target="_blank" style="border-bottom: none; text-decoration: none;">
+						<img src="https://www.buhgalteria.ru/upload/resize_cache/iblock/1d7/265_150_2/920zah6px318tczc3hj3sg8zuqb7ke0z.jpg" style="width: 100%; float: left;">
+					</a>
+				</div>
+				<div class="article" style="float: left; width: 410px; margin: 0 0 0 25px;">
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 20px;">
+						<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/79,=0raWMqm22-6_Z_glAuAZT6g/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9uYWxvZ292eWUtbWVyeS1wb2RkZXJ6aGtpLWJpem5lc2EtbWFydC1hcHJlbC0yMDIyLWdvZGE/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrMSZ1dG1fY29udGVudD1saW5r" data-felis_orig_uri="https://www.buhgalteria.ru/article/nalogovye-mery-podderzhki-biznesa-mart-aprel-2022-goda?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week1&amp;utm_content=link" data-felis_link_id="79" target="_blank" style="color: #000; text-decoration: none;">
+							Налоговые меры поддержки бизнеса: март-апрель 2022&nbsp;года
+						</a>
+					</h2>
+					<p style="float: left; margin: 0 0 25px 0;">
+						Полный перечень мер по&nbsp;поддержке бизнеса в&nbsp;условиях санкционного давления. В&nbsp;перечень входят меры, которые уже приняты, утверждены и&nbsp;будут приняты в&nbsp;течение ближайших дней и&nbsp;месяцев.</p>
+					<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/80,=026hsAthHygUak93lBklbgQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9uYWxvZ292eWUtbWVyeS1wb2RkZXJ6aGtpLWJpem5lc2EtbWFydC1hcHJlbC0yMDIyLWdvZGE/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVrJnV0bV9jb250ZW50PWJ1dHRvbg==" data-felis_orig_uri="https://www.buhgalteria.ru/article/nalogovye-mery-podderzhki-biznesa-mart-aprel-2022-goda?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week&amp;utm_content=button" data-felis_link_id="80" target="_blank"><p class="button-blue" style="float: left; margin: 0 0 25px 0; height: 50px; padding-left: 25px; padding-right: 25px; border: 2px solid #60aaf5; box-sizing: border-box; line-height: 48px; text-align: center;">
+
+							Читать подробнее
+
+					</p></a>
+				</div>
+				<div class="articles" style="float: left;">
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 50px; line-height: 25px; font-size: 20px;">
+						Популярные темы
+					</h2>
+					<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/81,=0iQW3CJLNBbW5LoZBgPGkrQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9wZXJlbm9zLXNyb2tvdi11cGxhdHktbmFsb2dvdi1wby1yZWdpb25hbS12LTIwMjItZ29kdS10YWJsaXRzYT91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09YnVoZ2FsdGVyaWEmdXRtX2NhbXBhaWduPXdlZWsmdXRtX2NvbnRlbnQ9MDE=" data-felis_orig_uri="https://www.buhgalteria.ru/article/perenos-srokov-uplaty-nalogov-po-regionam-v-2022-godu-tablitsa?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week&amp;utm_content=01" data-felis_link_id="81" target="_blank" style="display: block; float: left; width: 25%; margin: 0 0 25px 50px; text-decoration: none; color: #000;">
+						<!-- <span style="background-image: url(); width: 200px; height: 73px; background-size: cover; background-position: 50%; float: left; display: block;">
+						</span> -->
+						<div style="width: 200px; height: 73px; margin: 0; float: left; display: block; overflow: hidden;">
+							<img src="https://www.buhgalteria.ru/upload/resize_cache/iblock/ce9/265_150_2/1tr6og86ht6qknakl2l9vugx3hjpb8cq.jpg" style="display: block; width: 100%; margin: -20px 0">
+						</div>
+						<h3 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; padding: 0 0px; font-weight: bold; margin: 10px 0 0 0; font-size: 16px; font-weight: 500;">
+							Перенос сроков уплаты налогов по&nbsp;регионам в&nbsp;2022&nbsp;году. Таблица
+						</h3>
+						<!-- <span>
+							анонс
+						</span> -->
+					</a>
+					<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/82,=0Y8QbZG_DldeWoFQLAh99qQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9yZWZvcm1hLXBlbnNpb25uYXlhLW9jaGVyZWRuYXlhLXN0b2l0LWxpLWJveWF0c3lhP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT1idWhnYWx0ZXJpYSZ1dG1fY2FtcGFpZ249d2VlayZ1dG1fY29udGVudD0wMg==" data-felis_orig_uri="https://www.buhgalteria.ru/article/reforma-pensionnaya-ocherednaya-stoit-li-boyatsya?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week&amp;utm_content=02" data-felis_link_id="82" target="_blank" style="display: block; float: left; width: 25%; margin: 0 0 25px 50px; text-decoration: none; color: #000;">
+						<!-- <span style="background-image: url(); width: 200px; height: 73px; background-size: cover; background-position: 50%; float: left; display: block;">
+						</span> -->
+						<div style="width: 200px; height: 73px; margin: 0; float: left; display: block; overflow: hidden;">
+							<img src="https://www.buhgalteria.ru/upload/resize_cache/iblock/3fa/265_150_2/z6sduthbihvw6nwhkyq33z0k95ewln0h.jpg" style="display: block; width: 100%; margin: -20px 0">
+						</div>
+						<h3 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; padding: 0 0px; font-weight: bold; margin: 10px 0 0 0; font-size: 16px; font-weight: 500;">
+							«Реформа» пенсионная. Очередная. Стоит&nbsp;ли бояться?
+						</h3>
+						<!-- <span>
+							анонс
+						</span> -->
+					</a>
+					<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/83,=0-DNJo7wVXjzKsq9yT-qEAQ/13,151797,48515,?aHR0cHM6Ly93d3cuYnVoZ2FsdGVyaWEucnUvYXJ0aWNsZS9tZXJ5LXBvZGRlcnpoa2ktcG8temFrb251LTY3LWZ6P3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT1idWhnYWx0ZXJpYSZ1dG1fY2FtcGFpZ249d2VlayZ1dG1fY29udGVudD0wMw==" data-felis_orig_uri="https://www.buhgalteria.ru/article/mery-podderzhki-po-zakonu-67-fz?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week&amp;utm_content=03" data-felis_link_id="83" target="_blank" style="display: block; float: left; width: 25%; margin: 0 0 25px 50px; text-decoration: none; color: #000;">
+						<!-- <span style="background-image: url(); width: 200px; height: 73px; background-size: cover; background-position: 50%; float: left; display: block;">
+						</span> -->
+						<div style="width: 200px; height: 73px; margin: 0; float: left; display: block; overflow: hidden;">
+							<img src="https://www.buhgalteria.ru/upload/resize_cache/iblock/6ad/265_150_2/k4nxkhx1ogq9slbr74x0e32dtoto9jt8.jpg" style="display: block; width: 100%; margin: -20px 0">
+						</div>
+						<h3 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; padding: 0 0px; font-weight: bold; margin: 10px 0 0 0; font-size: 16px; font-weight: 500;">
+							Меры поддержки по&nbsp;Закону №67-ФЗ
+						</h3>
+						<!-- <span>
+							анонс
+						</span> -->
+					</a>
+				</div>
+			</div>
+			<div class="banner" style="background-image: url(https://www.buhgalteria.ru/upload/banners/berator_buh_email_2.png); background-size: 800px; display: block; float: left; width: 800px; padding: 0; padding: 0;">
+				<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/84,=0bdJR14c3Dk-xBGiaeTvFJQ/13,151797,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3BlYm0vP3V0bV9zb3VyY2U9YWt6aWFfYmVyYXRvciZ1dG1fbWVkaXVtPXN1YnNjcmliZSZ1dG1fY2FtcGFpZ249YmVyYXRvciZ1dG1fY29udGVudD1iYW5uZXI=" data-felis_orig_uri="http://www.berator.ru/pebm/?utm_source=akzia_berator&amp;utm_medium=subscribe&amp;utm_campaign=berator&amp;utm_content=banner" data-felis_link_id="84" target="_blank" style="border-bottom: none;">
+          <img src="https://www.buhgalteria.ru/upload/banners/berator_buh_email_2.png" style="width: 100%; float: left;">
+        </a>
+
+			</div>
+			<!-- <div class="banner" style="display: block; float: left; width: 800px; padding: 0; background: #fff;">
+				<a href="https://www.buhgalteria.ru/lovushki/?utm_source=buhgalteria&utm_medium=lovushki&utm_campaign=subscribe&utm_content=banner" target="_blank" style="border-bottom: none;">
+					<img src="https://www.buhgalteria.ru/upload/banners/banner_lovushki_subs.png" style="width: 100%; float: left;">
+				</a>
+			</div> -->
+			<div class="berator" style="display: block; float: left; width: 800px; padding: 0; background: #fcf9ea;">
+				<div class="what-new" style="float: left; width: 500px; padding: 0 25px 10px 50px; background: #fff;">
+					<h1 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 25px 0; line-height: 36px; font-size: 28px; color: #0d3d65; text-transform: uppercase;">
+						Как новости недели повлияли на&nbsp;работу бухгалтера
+					</h1>
+					<p style="float: left; margin: 0 0 15px 0;">
+						Что нужно изменить в&nbsp;работе бухгалтерии уже сейчас, смотрите в&nbsp;бераторе, который актуализирован и&nbsp;готов вам помочь.
+					</p>
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 20px;">
+						Смотрите в&nbsp;бераторе, что нельзя пропустить
+					</h2>
+					<h3 style="float: left; width: 100%; font-family: Arial, Helvetica, sans-serif; text-align: left; font-weight: normal; padding: 0 0px; font-weight: bold; margin: 0 0 15px 0; font-size: 16px;">
+						Какую материальную выгоду освободили от&nbsp;НДФЛ
+					</h3>
+
+					<p><a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/85,=0xTzRBHqEVKkN2ZNw0A1wLg/13,151797,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy92ZmwvODUvMjAvNTAvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzI4JTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8yNDQ3OA==" data-felis_orig_uri="http://www.berator.ru/enc/vfl/85/20/50/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_28#heading_id_24478" data-felis_link_id="85">Материальную выгоду, то&nbsp;есть доход, облагаемый налогом</a>, можно получить в&nbsp;нескольких случаях. Например, когда работник получает от&nbsp;своей компании льготный заем.</p>
+					<p>В&nbsp;связи с&nbsp;повышением ключевой ставки ЦБ, у&nbsp;многих работников возникла материальная выгода, с&nbsp;которой работодатели начали удерживать НДФЛ. </p>
+
+					<h3 style="float: left; width: 100%; font-family: Arial, Helvetica, sans-serif; text-align: left; font-weight: normal; padding: 0 0px; font-weight: bold; margin: 0 0 15px 0; font-size: 16px;">
+						В&nbsp;чем суть единого налогового платежа
+					</h3>
+					<p>Суть единого налогового платежа в&nbsp;том, что деньги заранее добровольно перечисляют на&nbsp;отдельный счет Федерального казначейства <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/86,=01ABmY_kJbEaVYom3lATUwg/13,151797,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L2VuYy91bnAvMzcvMTAvNTUvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMwJnV0bV9jb250ZW50PXBlYl9saW5rJTIzJTIzJTIzJTIzJTIzaGVhZGluZ19pZF8zMDUxNg==" data-felis_orig_uri="http://www.berator.ru/enc/unp/37/10/55/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_30&amp;utm_content=peb_link#heading_id_30516" data-felis_link_id="86">для&nbsp;исполнения обязанностей плательщика налога, сбора, страховых взносов, налогового агента</a>. Напоминает котловой метод учета расходов, когда все суммы собираются вместе, а&nbsp;потом распределяются. </p>
+					<p>Чтобы перейти на&nbsp;такой способ расчетов с&nbsp;бюджетом, нужно подать <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/87,=02jfPZ86SExF27a23JPAW7Q/13,151797,48515,?aHR0cDovL2UuYmVyYXRvci5ydS9mb3Jtcy8xODgzNTY2LzE4ODM1NjYvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT10ZW1hJnV0bV9jYW1wYWlnbj0yMDIyXzAzXzMwJnV0bV9jb250ZW50PXBlYl9saW5r" data-felis_orig_uri="http://e.berator.ru/forms/1883566/1883566/?utm_source=email&amp;utm_medium=tema&amp;utm_campaign=2022_03_30&amp;utm_content=peb_link" data-felis_link_id="87">заявление в&nbsp;электронном виде</a>. Форма рекомендована ФНС.</p>
+
+
+				</div>
+				<div class="logo-berator" style="text-align: center; float: left; width: 125px; padding: 25px 50px 0 50px;">
+					<p style="float: left; margin: 0 0 25px 0; font-size: 14px;">
+						<img src="https://www.buhgalteria.ru/img/logo_black_big.png" style="width: 80px; float: none; margin-bottom: 11px;">
+						<b>ПРАКТИЧЕСКАЯ ЭНЦИКЛОПЕДИЯ БУХГАЛТЕРА</b>
+						<br>
+						<br>
+						<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/88,=0ykJRjUcwl614SCSY7vEnKg/13,151797,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1" data-felis_orig_uri="http://www.berator.ru" data-felis_link_id="88">
+							www.berator.ru
+						</a>
+						<br>
+						<br>
+						В бераторе только&nbsp;свежая и&nbsp;актуальная информация по ведению&nbsp;бухучета
+					</p>
+					<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/89,=0K-cTW8CPx9O95JDrwtHmdQ/13,151797,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3BlYm0vP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT1idWhnYWx0ZXJpYSZ1dG1fY2FtcGFpZ249d2VlayZ1dG1fY29udGVudD1idXR0b24=" data-felis_orig_uri="http://www.berator.ru/pebm/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week&amp;utm_content=button" data-felis_link_id="89" target="_blank"><p class="button-blue" style="float: left; margin: 0 0 25px 0; height: 50px; padding-left: 22px; padding-right: 22px; border: 2px solid #60aaf5; box-sizing: border-box; line-height: 48px; text-align: center;">Подробнее</p></a>
+				</div>
+			</div>
+			<!-- <div class="berator">
+				<div class="logo-berator">
+					<img src="http://www.buhgalteria.ru/upload/raasyl/logo_black_big.png">
+					<p>
+						www.berator.ru
+					</p>
+				</div>
+				<div class="what-new">
+					<h1>
+						5 важных обновлений в бераторе
+					</h1>
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 16px; color: #0d3d65;">
+						Что изменилось в работе бухгалтера
+					</h2>
+					<p>
+						За последнее время в законодательстве произошли серьезные изменения. Они уже учтены экспертами в бераторе. Предлагаем вам список наиболее важных изменений, которые популярны у ваших коллег.
+					</p>
+					<ol>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="http://e.berator.ru/enc/nds/60/10/100/?utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=link_1#heading_id_8744" target="_blank">
+								НДС
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="http://www.berator.ru/enc/nuo/90/10/10/?t=70278?utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=link_2#heading_id_26363" target="_blank">
+								Другие налоги
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="http://e.berator.ru/enc/vfl/90/20/50/?utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=link_3" target="_blank">
+								Оплата труда и налоги
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="http://e.berator.ru/enc/pd/10/30/1/?utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=link_4" target="_blank">
+								Первичные документы
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="http://e.berator.ru/enc/kvpp/10/30/20/?utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=link_5#heading_id_25710" target="_blank">
+								К вам пришла проверка
+							</a>
+						</li>
+					</ol>
+					<p class="button-red">
+						<a style="color: #e30817; text-decoration: none; border-bottom: 1px dashed #e30817;" href="http://www.berator.ru/pebm/?utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=button" target="_blank">
+							Подробнее о бераторе...
+						</a>
+					</p>
+				</div>
+			</div> -->
+			<!-- <div class="forum">
+				<h1>
+					<a href="https://www.buhgalteria.ru/forums/">Форум</a>
+				</h1>
+				<div class="important">
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 16px; color: #0d3d65;">
+						<a href="https://www.buhgalteria.ru/forums/61/18511/?utm_source=email&utm_medium=buhgalteria&utm_campaign=forum&utm_content=01" target="_blank">
+							Помогите советом
+						</a>
+					</h2>
+					<p>
+						Добрый день, у ооо закончилась лицензия, дали временную, алкоголь почти списан , последние 24 бутылки со старыми акцизными марками пишет в нелегальном обороте позвоните по номеру .... с добавочным, что делать? Неужели штраф? Ооо и так на убыточно, работать собираюсь недолго.
+					</p>
+					<p class="button-blue">
+						<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://www.buhgalteria.ru/forums/61/18511/?utm_source=email&utm_medium=buhgalteria&utm_campaign=forum&utm_content=01" target="_blank">
+							Читать подробнее...
+						</a>
+					</p>
+				</div>
+				<div class="other">
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 0 0 25px 0; line-height: 25px; font-size: 16px; color: #0d3d65;">
+						Популярные темы
+					</h2>
+					<ul>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://www.buhgalteria.ru/forums/54/18539/?utm_source=email&utm_medium=buhgalteria&utm_campaign=forum&utm_content=02" target="_blank">
+								Бухгалтерская экспертиза
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://www.buhgalteria.ru/forums/54/18525/?utm_source=email&utm_medium=buhgalteria&utm_campaign=forum&utm_content=03" target="_blank">
+								Отпуск в середине командировки
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://www.buhgalteria.ru/forums/54/18524/?utm_source=email&utm_medium=buhgalteria&utm_campaign=forum&utm_content=04" target="_blank">
+								Взаимозачет, Взаимозачет
+							</a>
+						</li>
+						<li>
+							<a style="color: #60aaf5; text-decoration: none; border-bottom: 1px dashed #60aaf5;" href="https://www.buhgalteria.ru/forums/56/18506/?utm_source=email&utm_medium=buhgalteria&utm_campaign=forum&utm_content=05" target="_blank">
+								ПСН, Превышение лимита по доходам.
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div> -->
+			<div class="sm" style="display: block; float: left; width: 800px; padding: 0; background: #f7f7f7;">
+				<!-- <p class="icons">
+					<a href="https://zen.yandex.ru/buhgalteria" target="_blank">
+						<img src="http://www.buhgalteria.ru/upload/raasyl/zen.png" alt="ZEN">
+					</a>
+				</p> -->
+				<p class="icons" align="center">
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/63,=0bjkPNfwJHTOHp1JA0EwS5g/13,151797,48515,?aHR0cDovL25ldy52ay5jb20vYnVoZ2FsdGVyaWFydQ==" data-felis_orig_uri="http://new.vk.com/buhgalteriaru" data-felis_link_id="63" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/upload/raasyl/vk.png" alt="VK">
+                              </a>
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/64,=08_cvwup1OXZSCTw26yzCbA/13,151797,48515,?aHR0cDovL29rLnJ1L2J1aGdhbHRlcmlhLnJ1" data-felis_orig_uri="http://ok.ru/buhgalteria.ru" data-felis_link_id="64" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/upload/raasyl/ok.png" alt="OK">
+                              </a>
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/65,=0zowahJHIpoNLY8rJrD8Vig/13,151797,48515,?aHR0cHM6Ly96ZW4ueWFuZGV4LnJ1L2J1aGdhbHRlcmlh" data-felis_orig_uri="https://zen.yandex.ru/buhgalteria" data-felis_link_id="65" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/upload/raasyl/zen.png" alt="ZEN">
+                              </a>
+                              <a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/66,=0lICu8FWeUYrokXyNj4_RQA/13,151797,48515,?aHR0cHM6Ly9wdWxzZS5tYWlsLnJ1L3NvdXJjZS8/c291cmNlX2lkPTYyNDE5MTEwMTA2ODA4MTE2Mjg=" data-felis_orig_uri="https://pulse.mail.ru/source/?source_id=6241911010680811628" data-felis_link_id="66" target="_blank" style="text-decoration: none;">
+                                <img height="40px" src="http://www.buhgalteria.ru/template2016/images/m-puls.png" alt="@ пульс">
+                              </a>
+
+                            </p>
+                            <p align="center">
+                              Присоединяйтесь!
+                            </p>
+			</div>
+			<div class="banner" style="background-image: url(https://www.buhgalteria.ru/upload/banners/banner_subscribe_berator_3days_demo.jpg); background-size: 800px; display: block; float: left; width: 800px; padding: 0; padding: 0;">
+				<a href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/90,=0Ol9ssu8U4j6TAcV8LjxbNw/13,151797,48515,?aHR0cDovL3d3dy5iZXJhdG9yLnJ1L3JlZ2lzdHJhdGlvbi8/dXRtX3NvdXJjZT1iZXJhdG9yX3JlZ2lzdHJhdGlvbiZ1dG1fbWVkaXVtPXN1YnNjcmliZSZ1dG1fY2FtcGFpZ249YmVyYXRvcjImdXRtX2NvbnRlbnQ9YmFubmVy" data-felis_orig_uri="http://www.berator.ru/registration/?utm_source=berator_registration&amp;utm_medium=subscribe&amp;utm_campaign=berator2&amp;utm_content=banner" data-felis_link_id="90" target="_blank" style="border-bottom: none;">
+          <img src="https://www.buhgalteria.ru/upload/banners/banner_subscribe_berator_3days_demo.jpg" style="width: 100%; float: left;">
+        </a>
+
+			</div>
+			<!-- <div class="banner yt" style="background-image: url(https://img.youtube.com/vi/-SY4hIDzKUU/maxresdefault.jpg); display: block; float: left; width: 800px; padding: 0; background-size: 400px; background-repeat: no-repeat; background-color: #001535; box-shadow: -400px 0 25px 0 #001535 inset;">
+				<a href="https://www.youtube.com/watch?v=-SY4hIDzKUU/utm_source=email&utm_medium=buhgalteria&utm_campaign=week&utm_content=banner" target="_blank" style="border-bottom: none;">
+					<span style="background-image: url(https://www.buhgalteria.ru/upload/raasyl/youtube.png);
+				background-position: center center;
+				display: block;
+				width: 400px;
+				height: 225px;
+				float: left;">
+
+					</span>
+				</a>
+				<div style="float: left; width: 375px; margin-left: 25px; background: #001535;">
+					<h2 style="float: left; width: 100%; font-family: 'Ubuntu', sans-serif; text-align: left; font-weight: normal; padding: 0 0px; margin: 25px 0; line-height: 25px; font-size: 16px; color: #fff;">
+						<b>В этом выпуске:</b>
+					</h2>
+					<p style="float: left; margin: 0 0 25px 0; color: #fff;">
+						<span style="color: #f00;">—</span> Новая бухгалтерская отчетность. <br><span style="color: #f00;">—</span> Бумажная отчетность отменяется. <br><span style="color: #f00;">—</span> С 2020 года отменены 2 декларации. <br><span style="color: #f00;">—</span> Страховые взносы: платим больше. <br><span style="color: #f00;">—</span> МРОТ и все, что с ним связано. <br><span style="color: #f00;">—</span> И другие темы...
+					</p>
+				</div>
+			</div> -->
+			<div class="links" style="font-family: 'Ubuntu', sans-serif; line-height: 20px; font-size: 16px; text-align: left; font-weight: normal;">
+				<ul style="list-style-type: none; padding-left: 0; display: block; float: left; width: 25%; margin: 25px 0 25px 50px;">
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/91,=0JJh2RU9CRDmHCtjsuFhVag/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9zcHJhdm9jaG5pay9uZHMtY2FsYy8/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVr" data-felis_orig_uri="http://www.buhgalteria.ru/spravochnik/nds-calc/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="91" target="_blank">
+							Калькулятор НДС
+						</a>
+					</li>
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/92,=0Q56KBjEXpChBqhkM_FVIRA/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9zcHJhdm9jaG5pay9jYWxjLW5kZmwvP3V0bV9zb3VyY2U9ZW1haWwmdXRtX21lZGl1bT1idWhnYWx0ZXJpYSZ1dG1fY2FtcGFpZ249d2Vlaw==" data-felis_orig_uri="http://www.buhgalteria.ru/spravochnik/calc-ndfl/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="92" target="_blank">
+							Калькулятор НДФЛ
+						</a>
+					</li>
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/93,=0wAoGBFfsxxNbVVrzdGABIw/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9zcHJhdm9jaG5pay9jYWxjLz91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09YnVoZ2FsdGVyaWEmdXRtX2NhbXBhaWduPXdlZWs=" data-felis_orig_uri="http://www.buhgalteria.ru/spravochnik/calc/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="93" target="_blank">
+							Калькулятор Отпускные
+						</a>
+					</li>
+				</ul>
+				<ul style="list-style-type: none; padding-left: 0; display: block; float: left; width: 25%; margin: 25px 0 25px 50px;">
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/94,=0RU1OFFoNJaxT-YSOPbOydQ/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9idWhwcmVzcy8/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVr" data-felis_orig_uri="http://www.buhgalteria.ru/buhpress/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="94" target="_blank">
+							Магазин бухгалтера
+						</a>
+					</li>
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/95,=0591Ym5UF29kjmDrQgPI_9w/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9mb3Jtcy8/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVr" data-felis_orig_uri="http://www.buhgalteria.ru/forms/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="95" target="_blank">
+							Формы и бланки
+						</a>
+					</li>
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/96,=0YpHc4WVjGOsj-a7tYd-lfw/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9vcHJvcy8/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVr" data-felis_orig_uri="http://www.buhgalteria.ru/opros/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="96" target="_blank">
+							Опросы
+						</a>
+					</li>
+				</ul>
+				<ul style="list-style-type: none; padding-left: 0; display: block; float: left; width: 25%; margin: 25px 0 25px 50px;">
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/97,=0lvSKt6WROiyJmSxd5xH8kA/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9yZWtsYW1vZGF0ZWxpLz91dG1fc291cmNlPWVtYWlsJnV0bV9tZWRpdW09YnVoZ2FsdGVyaWEmdXRtX2NhbXBhaWduPXdlZWs=" data-felis_orig_uri="http://www.buhgalteria.ru/reklamodateli/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="97" target="_blank">
+							Рекламодателям
+						</a>
+					</li>
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="https://x-1647254640537491.link.sendsay.ru/x_1647254640537491/98,=0Yrgd-MsSL_DEINCiUHm3sQ/13,151797,48515,?aHR0cDovL3d3dy5idWhnYWx0ZXJpYS5ydS9hYm91dC8/dXRtX3NvdXJjZT1lbWFpbCZ1dG1fbWVkaXVtPWJ1aGdhbHRlcmlhJnV0bV9jYW1wYWlnbj13ZWVr" data-felis_orig_uri="http://www.buhgalteria.ru/about/?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" data-felis_link_id="98" target="_blank">
+							Контакты
+						</a>
+					</li>
+					<li style="margin: 0 0 10px 0;">
+						<a style="color: #60aaf5;" href="?utm_source=email&amp;utm_medium=buhgalteria&amp;utm_campaign=week" target="_blank">
+
+						</a>
+					</li>
+				</ul>
+			</div>
+			<!--для рассылки mailigen.com: начало-->
+
+			<!--для рассылки mailigen.com: конец-->
+		</div>
+		</td>
+		</tr>
+		</table>
+	</body>
+</html>
+
+<table cellspacing="5" cellpadding="0" border="0" align="center" style="width:100%; max-width:700px;padding:12px;" dir="ltr">
+<tr>
+<td style="font-size:12px;font-family:Arial;color:#333;line-height: 19px;" align="center">
+<font size="-1">Вы получили это письмо, потому что выразили свое согласие получать сообщения от «ООО «АБИ».
+<br>Если Вы хотите отказаться от получения писем, нажмите <a href="https://sendsay.ru/backend/member/unsub/1TUGaj4Uge_pweNw7OOxPcOQ7sBJZ54EDVg3U6fgz63PRLURBqc3zUn-G937NwlXsXeMIlZcF">здесь</a>.</font>
+</td>
+</tr>
+<tr>
+</tr>
+</table>
+<img x-noattach="1" src="https://read.sendsay.ru/1.gif/x_1647254640537491,13,151797,48515,,/20220401124422,pf20977" alt="" height="1" width="1" border="0">
+<br>--<br><br>
+<br>
+__________________________________________________________________________________________________________<br>
+Внимание!!! Если отправитель почты неизвестен, не переходите по ссылкам, не сообщайте пароль и не запускайте вложения.<br>
+Подозрительное письмо необходимо переслать с вложениями на почтовый адрес службы информационной безопасности sb_report@tverreg.ru
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

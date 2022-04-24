@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x900590
+DTSTAMP:20220424T204126Z
+CREATED:20201111T094401Z
+LAST-MOD:20201110T161741Z
+SUMMARY:Заседание оперативного штаба по предупреждению завоза и распространения новой коронавирусной инфекции (COVID-2019) в Тверской области (в режиме ВКС) (отв. Егоров И.И.\, Скорый А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201111T110000Z
+DTEND;VALUE=DATE-TIME:20201111T113000Z
+LOCATION:обратная связь - каб. 207\, из рабочих кабинетов
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xc95404
+DTSTAMP:20220424T204126Z
+CREATED:20191224T160932Z
+LAST-MOD:20191224T133738Z
+SUMMARY:Итоговое мероприятие\, посвященное выпускникам образовательных программ для начинающих и действующих предпринимателей Тверской области Центра поддержки предпринимательства Тверской области (отв. Егоров И.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191225T130000Z
+DTEND;VALUE=DATE-TIME:20191225T133000Z
+LOCATION:проспект Победы\, д. 14\, Центр оказания услуг «Мой бизнес»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

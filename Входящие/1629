@@ -1,0 +1,139 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Mon, 21 Sep 2020 21:46:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10; Mon, 21 Sep
+ 2020 21:46:22 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([::1]) by SRV-MAIL-01.tverreg.ru
+ ([fe80::9447:6887:b9b3:d1c4%3]) with mapi id 15.01.1591.008; Mon, 21 Sep 2020
+ 21:46:22 +0300
+From: =?koi8-r?B?5cfP0s/XIOnXwc4g6cfP0sXXyd4=?= <egorov@tverreg.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+CC: =?koi8-r?B?J/PFxM/XIOvPztPUwc7Uyc4g98zBxMnNydLP18neJw==?=
+	<sedov@tverreg.ru>
+Subject: =?koi8-r?B?8M/Ex8/Uz9fLwSDLzyAyz8og18/MzsUgQ292aWQ=?=
+Thread-Topic: =?koi8-r?B?8M/Ex8/Uz9fLwSDLzyAyz8og18/MzsUgQ292aWQ=?=
+Thread-Index: AdaQRlb+IncJvvhMQAubLctW6T8JFg==
+Date: Mon, 21 Sep 2020 21:46:22 +0300
+Message-ID: <e0b5e2f193154098a089be4da5c48872@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <e0b5e2f193154098a089be4da5c48872@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [84.42.4.94]
+X-MS-Exchange-Organization-Network-Message-Id: 36b18e24-cc13-4e39-a035-08d85e5ea2ab
+Return-Path: egorov@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.3751081
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+Status: RO
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER07F537AD
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=koi8-r"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1893810889;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-173092226 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>дПВТЩК ЧЕЮЕТ. рП ЧПРТПУХ РПДЗПФПЧЛЙ ЛП 2ПК ЧПМОЩ <span lang=EN-US>COVID</span>19, УППВЭБА УМЕДХАЭЕЕ.<o:p></o:p></p><p class=MsoNormal>ч РСФОЙГХ 25.09 ОБ ЪБУЕДБОЙЙ ПРЕТБФЙЧОПЗП ЫФБВБ РПДЗПФПЧЙН ДЕФБМШОЩК ДПЛМБД, У ХЮЕФПН ПЦЙДБЕНПЗП ТПУФБ ЪБВПМЕЧБЕНПУФЙ- УЙМЩ Й УТЕДУФЧБ ВХДХФ УРМБОЙТПЧБОЩ.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>лТБФЛП:<o:p></o:p></p><ol style='margin-top:0cm' start=1 type=1><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>лПЕЮОЩЕ НПЭОПУФЙ: УПИТБОСАФУС ЛПКЛЙ Ч плв (220) Й лБМЙОЙОУЛПК гтв (100), Ч ТЕЪЕТЧЕ ДПР ЪДБОЙЕ ОБ ХМЙГЕ мХЛЙОБ (185 ЛПЕЛ). љдПРПМОЙФЕМШОП ВХДЕН ЗПФПЧЙФШ Л РЕТЕЧПДХ 200 ЛПЕЛ Ч пВМБУФОПН ТЕБВЙМЙФБГЙПООПН ГЕОФТЕ Й 200 ЛПЕЛ Ч ПДОПН ЙЪ ЛПТРХУПЧ дплв (ХЮТЕЦДЕОЙС ХЦЕ ТБВПФБМЙ Ч <span lang=EN-US>COVID</span>, ПФМБЦЕОБ ЧЪБЙНПУЧСЪШ У плв), ФБЛЙН ПВТБЪПН РТЙ ОЕПВИПДЙНПУФЙ, Ч ФЕЮЕОЙЙ 5 ДОЕК У НПНЕОФБ ТЕЫЕОЙС ЫФБВБ - ВХДЕФ ДПРПМОЙФЕМШОП ТБЪЧЕТОХФП 400 ЛПЕЛ. <o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>пВЕУРЕЮЕОЙЕ МЕЛБТУФЧЕООЩИ УТЕДУФЧ: ДП 23.09 (УТЕДБ) ВХДЕФ ТБУЮЕФ ДПР РПФТЕВОПУФЙ ДМС ЖПТНЙТПЧБОЙС НЕУСЮОПЗП ЪБРБУБ МЕЛБТУФЧ, У ХЮЕФПН ОПЧЩИ НЕФПДЙЮЕУЛЙИ ТЕЛПНЕОДБГЙК нЙО ЪДТБЧБ тж.<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>пВПТХДПЧБОЙЕ &#8211; ДПРПМОЙФЕМШОПК РПФТЕВОПУФЙ ОЕФ.<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>лБДТЩ &#8211; ПВЕУРЕЮЕООПУФШ ЙОЖЕЛГЙПООЩИ ЗПУРЙФБМЕК ВХДЕФ ДПУФЙЗОХФБ. лМАЮЕЧПК ТЙУЛ &#8211; НЕДЙГЙОУЛЙЕ ЛБДТЩ ДМС РЕТЧЙЮОПЗП ЪЧЕОБ (РПМЙЛМЙОЙЛЙ, БНВХМБФПТЙЙ) &#8211; ФБЛ ЛБЛ НОПЗП РПЦЙМПЗП РЕТУПОБМБ, ПФФПЛ ЛБДТПЧ Й ЧПЪОЙЛЫЙК Ч УЧСЪЙ У ЬФЙН ДЕЖЙГЙФ РЕТУПОБМБ. рМБОЙТХЕН ТБЪЧЕТОХФШ УЙУФЕНХ РТЙЧМЕЮЕОЙС ПТДЙОБФПТПЧ НЕД ХОЙЧЕТУЙФЕФБ Л ПВУМХЦЙЧБОЙА РПМЙЛМЙОЙЮЕУЛЙИ ХЮБУФЛПЧ; ДП 24.09 ЛБДТПЧЩК ТЕУХТУ ПТДЙОБФПТПЧ ФБЛ ЦЕ ВХДЕФ УРМБОЙТПЧБО.<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'> чБЛГЙОБГЙС РТПФЙЧ ЗТЙРРБ: БЛФЙЧОБС ЧБЛГЙОБГЙС РТПФЙЧ ЗТЙРРБ ОЕПВИПДЙНБ ЮФПВЩ УРТБЧЙФУС У ДЧХНС ЧПЪНПЦОЩНЙ РПФПЛБНЙ ВПМШОЩИ &laquo;<span lang=EN-US>COVID</span>&raquo; Й &laquo;зТЙРР&raquo;, ОБ ФЕЛХЭЙК НПНЕОФ ЧБЛГЙОБГЙС ЙДЕФ БЛФЙЧОП &#8211; 63% РПМХЮЕООПК ЧБЛГЙОЩ ДМС ЧЪТПУМПЗП ОБУЕМЕОЙС Й 42.3% РПМХЮЕООПК ЧБЛГЙОЩ ДМС ДЕФУЛПЗП ОБУЕМЕОЙС ХЦЕ ЙУРПМШЪПЧБОП. дП 30.09 РЕТЧХА ЧПМОХ ЧБЛГЙОБГЙЙ (ФП ЕУФШ ЧУС ЧБЛГЙОБ, РПУФХРЙЧЫБС РЕТЧЩН ФТБОЫЕН ПФ ЖЕДЕТБМШОПЗП НЙО ЪДТБЧБ) &#8211; ВХДЕФ ЪБЛПОЮЕОБ; ДБМЕЕ РП РПУФХРМЕОЙА ОПЧЩИ РБТФЙК -ОПЧЩЕ ЬФБРЩ. рМБОЙТХЕН ЪБЛПОЮЙФШ ДП 1 ДЕЛБВТС (РТЙ УЧПЕЧТЕНЕООПН РПУФХРМЕОЙЙ ЧБЛГЙОЩ). <o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>рМБОЙТХЕФУС ДПРПМОЙФЕМШОП РТПЧЕУФЙ ЧБЛГЙОБГЙА РПЦЙМПЗП ОБУЕМЕОЙС ПФ РОЕЧНПЛПЛЛБ (РПЪЧПМЙФ ОЕ ДПРХУФЙФШ ПУМПЦОЕОЙК Х ВПМШОЩИ <span lang=EN-US>COVID</span>). дП 25.09 ПВЯЕН Й ГЕМЕЧЩЕ ЗТХРРЩ ЧБЛГЙОБГЙЙ ВХДХФ ПРТЕДЕМЕОЩ. љ<o:p></o:p></li><li class=MsoListParagraph style='margin-left:0cm;mso-list:l0 level1 lfo1'>мЙГБН, РТПЫЕДЫЙН ЧБЛГЙОБГЙА ПФ зтйррб Й ОЕ РЕТЕВПМЕЧЫЙН COVID, ЮЕТЕЪ 30 ДОЕК РПУМЕ РТЙЧЙЧЛЙ ПФ ЗТЙРРБ РМБОЙТХЕФУС ДЕМБФШ ЧБЛГЙОХ ПФ ЛПТПОБЧЙТХУБ. рЕТЧБС ЧПМОБ &#8211; 42 ЮЕМПЧЕЛБ, ДБМЕЕ ЕЭЕ РПУФХРЙФ 1049 ЧБЛГЙО.<o:p></o:p></li></ol><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>C</span><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'> </span><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>ХЧБЦЕОЙЕН,</span><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>еЗПТПЧ й.й. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>ъБНЕУФЙФЕМШ рТЕДУЕДБФЕМС рТБЧЙФЕМШУФЧБ фЧЕТУЛПК ПВМБУФЙ,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>нЙОЙУФТ ЬЛПОПНЙЮЕУЛПЗП ТБЪЧЙФЙС фЧЕТУЛПК ПВМБУФЙ<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'>+7&nbsp;905&nbsp;602 0678<o:p></o:p></span></p><p class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D;mso-fareast-language:RU'><a href="mailto:egorov@tverreg.ru"><span style='color:#0563C1'>egorov@tverreg.ru</span></a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

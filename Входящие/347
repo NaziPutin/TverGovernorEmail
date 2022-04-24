@@ -1,0 +1,141 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Wed, 9 Mar 2022 20:12:12 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.2176.2; Wed, 9 Mar 2022
+ 20:12:10 +0300
+Received: from mailsrv2.tverreg.ru ([::1]) by mailsrv2.tverreg.ru ([::1]) with
+ mapi id 15.01.2176.009; Wed, 9 Mar 2022 20:12:06 +0300
+From: =?windows-1251?B?wPD16O/l7eruIMjj7vD8IMDr5erx4O3k8O7i6Pc=?=
+	<Arkhipenko_IA@tverreg.ru>
+To: =?windows-1251?B?0PPk5e3/IMjj7vD8IMzo9eDp6+7i6Pc=?= <rim@tverreg.ru>
+Subject: =?windows-1251?B?KyDv8Ojr7ubl7ej/?=
+Thread-Topic: =?windows-1251?B?KyDv8Ojr7ubl7ej/?=
+Thread-Index: Adgz2MalOaAUQJBFReaWL2FpvFL3gw==
+Date: Wed, 9 Mar 2022 20:12:06 +0300
+Message-ID: <add99dbfdcbb460eaf769a8455db4875@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <add99dbfdcbb460eaf769a8455db4875@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [172.16.196.25]
+X-MS-Exchange-Organization-Network-Message-Id: 216833d5-568a-416d-ff08-08da01eff02a
+Return-Path: Arkhipenko_IA@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.0936626
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER7A9DF795
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="windows-1251"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=windows-1251"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1358965136;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-362656074 68747279 68747289 68747291 68747279 68747289 68747291 68747279 68747289 68747291;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=RU link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'><p class=MsoNormal><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Архипенко Игорь Александрович <br><b>Sent:</b> Wednesday, March 9, 2022 8:11 PM<br><b>To:</b> Руденя Игорь Михайлович<br><b>Subject:</b> Минздрав ТО и Хронология по Вышневолоцкой ЦРБ<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt'>Тезис: Минздрав в курсе о рисках неисполнения на всех этапах<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt'>Хронология по Вышневолоцкой ЦРБ.<o:p></o:p></span></p><p class=MsoNormal style='text-align:justify'><span style='font-size:16.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>10.08.2020 ГАУ «Госэкспертиза Тверской области» утверждена проектная документация на капитальный ремонт помещений<span style='background:white'> ГБУЗ </span>Тверской области&nbsp; «Вышневолоцкая центральная районная больница».<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>27.10.2020 распоряжением Правительства Тверской области № 934-РП утверждены методические рекомендации по <span style='background:white'>общим требованиям <br>к качеству работ по капитальному ремонту (ремонту).</span><o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;background:white'>17.02.2021 для рассмотрения на рабочей группе при Бюджетной Комиссии Тверской области вопроса выделения денежных средств <br>на проведение капитального ремонта Минздрав обратился в Минстрой для дачи заключения на проектную документацию</span><span style='font-size:16.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;background:white'>18.02.2021 Минстрой направил в Минздрав заключение о несоответствии проектной документации методическим рекомендациям (Приложение 1-1, 1-2)</span><span style='font-size:16.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt;background:white'>09.03.2021 Бюджетная Комиссия одобрила выделение денежных средств на капитальный ремонт (отрицательное заключение на комиссию не представлено)</span><span style='font-size:16.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>26.03.2021 Минздрав с ГБУЗ заключил соглашение о предоставлении из областного бюджета Тверской области субсидии <br>на проведение капитального ремонта (Приложение 2)<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>02.06.2021 состоялся аукцион, 17.06.2021 заключен контракт<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>23.06.2021 между ГБУЗ и ГКУ «Тверьоблстройзаказчик» заключено соглашение об осуществлении стройконтроля, по результатам которого подрядчику ООО «ЦентрСтрой» указаны недостатки в проведении работ, не соответствующие методическим рекомендациям. ООО «ЦентрСтрой» затребовал внесение изменений в проектно-сметную документацию (ПСД).<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>9.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>16.08.2021 между ГБУЗ и ООО «КПМ-1» заключен договор <br>на выполнение корректуры ПСД.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>10.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>&nbsp;На частично выполненные работы по контракту составлено 6 Актов о приемке выполненных работ: 4 акта – 02.11.2021; 2 акта – 06.12.2021. Оплата произведена 2 платежными поручениями - 22.11.2021 и 23.12.2021 Фактическая стоимость выполненных и оплаченных работ <br>по Контракту составляет 6&nbsp;167&nbsp;914,55 руб., что составляет 26,6% от общего объема обязательств.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>11.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>&nbsp;30.12.2021 в связи с отсутствием положительного заключения ГАУ «Госэкспертиза» подписано соглашение о расторжении контракта (Приложение 3).<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>12.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>&nbsp;25.01.2022 ГБУЗ получено&nbsp; положительное заключение ГАУ «Госэкспертиза» на внесенные изменения в ПСД.<o:p></o:p></span></p><p class=MsoNormal style='margin-left:0cm;text-align:justify;text-indent:35.45pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span style='font-size:16.0pt'><span style='mso-list:Ignore'>13.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span style='font-size:16.0pt'>&nbsp;&nbsp;02.03.2022 ГБУЗ обратилось в Минздрав о выделении субсидии для проведения окончательных ремонтных работ.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:16.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;</o:p></span></p></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

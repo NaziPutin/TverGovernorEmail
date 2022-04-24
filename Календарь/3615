@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1091e08
+DTSTAMP:20220424T204127Z
+CREATED:20190307T134055Z
+LAST-MOD:20190306T124210Z
+SUMMARY:Рабочая встреча\, тема: «О проекте дорожной карты развертывания аппаратно-программного комплекса «Безопасный город» на территории Тверской области» (отв. Попенко В.И.\, пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190311T130000Z
+DTEND;VALUE=DATE-TIME:20190311T133000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

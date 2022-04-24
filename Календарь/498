@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x3a7a70
+DTSTAMP:20220424T204126Z
+CREATED:20211130T193513Z
+LAST-MOD:20211129T153820Z
+SUMMARY:Торжественное мероприятие\, посвященное 20-летию (со дня освящения) ЧОУ «Городенская Православная гимназия» (отв. Новикова В.И.\, Коваленко Ю.Н.\, Смялковский П.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20211201T090000Z
+DTEND;VALUE=DATE-TIME:20211201T093000Z
+LOCATION:Конаковский район\, с. Городня
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

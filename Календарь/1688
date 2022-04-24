@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x8e2ef4
+DTSTAMP:20220424T204126Z
+CREATED:20201116T155313Z
+LAST-MOD:20201116T172620Z
+SUMMARY:Рабочая встреча\, тема: «О предоставлении льготного (бесплатного) проезда железнодорожным транспортом в пригородном сообщении отдельным категориям граждан» (в режиме ВКС) (отв. Емельянов А.А.\, Новикова В.И.\, Подтихова М.И.\, пресс-служба) 
+DTSTART;VALUE=DATE-TIME:20201116T170000Z
+DTEND;VALUE=DATE-TIME:20201116T180000Z
+LOCATION:Обратная связь – из рабочих кабинетов 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

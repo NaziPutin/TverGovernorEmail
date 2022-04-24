@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe69a50
+DTSTAMP:20220424T204127Z
+CREATED:20190827T144800Z
+LAST-MOD:20190827T144547Z
+SUMMARY:Празднование престольного праздника Старицкого Свято-Успенского монастыря Успение Пресвятой Богородицы (отв. Ищенко А.Н.\, Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190828T050000Z
+DTEND;VALUE=DATE-TIME:20190828T095000Z
+LOCATION:г. Старица\, ул. Пушкина\, д. 1А\, Свято-Успенский монастырь 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

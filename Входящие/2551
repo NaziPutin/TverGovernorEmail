@@ -1,0 +1,71 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 18 Apr 2019 07:56:58 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Thu, 18 Apr
+ 2019 07:56:52 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 18 Apr 2019 07:56:42 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 813D021901
+	for <rim@tverreg.ru>; Thu, 18 Apr 2019 07:56:42 +0300 (MSK)
+Received-SPF: pass (yandex.ru ... _spf.yandex.ru: Sender is authorized to use 'tver.petrushenko@yandex.ru' in 'mfrom' identity (mechanism 'include:_spf-ipv4.yandex.ru' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="tver.petrushenko@yandex.ru"; helo=forward103p.mail.yandex.net; client-ip=77.88.28.106
+Received: from forward103p.mail.yandex.net (forward103p.mail.yandex.net [77.88.28.106])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id DD2B021800
+	for <rim@tverreg.ru>; Thu, 18 Apr 2019 07:56:24 +0300 (MSK)
+Received: from mxback10j.mail.yandex.net (mxback10j.mail.yandex.net [IPv6:2a02:6b8:0:1619::113])
+	by forward103p.mail.yandex.net (Yandex) with ESMTP id B8FA218C0661
+	for <rim@tverreg.ru>; Thu, 18 Apr 2019 07:56:23 +0300 (MSK)
+Received: from localhost (localhost [::1])
+	by mxback10j.mail.yandex.net (nwsmtp/Yandex) with ESMTP id Hzz1yiTsDA-uKu8Eows;
+	Thu, 18 Apr 2019 07:56:20 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yandex.ru; s=mail; t=1555563381;
+	bh=fq7cSNjqX/4bzEq82pLmCXpu1KILkpTtkwHDMaTgPyc=;
+	h=Message-Id:Date:Subject:To:From;
+	b=VXHWacMO2GIAIs4mbBErVUnUJv8w2Qdv0s4rWV6tIJnBKVy8pIu71xwVJMOEGWLk8
+	 91WLjEUrt6FR95VoD5Ni9Et5MLd5P5+iJe5binibrtrmHxh9Muof0voP1odA8+LfFc
+	 UzvlTzKsR6K0R8u8kEZi4GiT4k7Gd/p33tnJXj88=
+Authentication-Results: mxback10j.mail.yandex.net; dkim=pass header.i=@yandex.ru
+Received: by myt3-c7e5d17fe013.qloud-c.yandex.net with HTTP;
+	Thu, 18 Apr 2019 07:56:19 +0300
+From: =?utf-8?B?0J/QtdGC0YDRg9GI0LXQvdC60L4g0KHRgtCw0L3QuNGB0LvQsNCy?= <tver.petrushenko@yandex.ru>
+Envelope-From: tver-petrushenko@yandex.ru
+To: rim <rim@tverreg.ru>
+Subject: =?utf-8?B?0K3Qu9C10LrRgtGA0LjRh9C10YHQutC40LUg0YHQtdGC0Lgg0YDQtdCz0LjQvtC90LAg0L/QviDQnNCe?=
+	=?utf-8?B?INGB0L7QsdGB0YLQstC10L3QvdC+0YHRgtGMINC4INCx0LXRgdGF0L7Qt9GP0LnQvdGL0LU=?=
+X-Mailer: Yamail [ http://yandex.ru ] 5.0
+Date: Thu, 18 Apr 2019 07:56:19 +0300
+Message-Id: <16948221555563379@myt3-c7e5d17fe013.qloud-c.yandex.net>
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                    -0.301 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (isannamoskalenkoa[at]mail.ru) (tver.petrushenko[at]yandex.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	MIME_HTML_ONLY          0.723 Message only has text/html MIME parts
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at https://www.dnswl.org/, low trust
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: tver.petrushenko@yandex.ru
+X-MS-Exchange-Organization-Network-Message-Id: 175f0a6d-6835-48f7-6182-08d6c3ba4523
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:15.8726982
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Доброе утро&nbsp;Игорь Михайлович!</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Направляю Вам информацию по электрическим сетям в регионе, которые есть в собственности МО и бесхозные.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; В таблице указаны суды, которые есть. Считаю что Атомэнергосбыт будет усиливать претензионную работу по поселениям, для того чтобы выполнять свои внутренние регламенты и выполнять план. Включать будет в дебиторку, потом будет предъявлять в РЭК как сомнительные долги. Есть акты электроэнергии где полезный&nbsp; отпуск 10000 кВт.ч, а потери на сети принадлежащие поселениям 35000 кВт.ч., т.е потери 75%.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Готов сделать Вам доклад по данной проблеме и возможности ее решения.</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div><div xmlns="http://www.w3.org/1999/xhtml"><div lang="RU" vlink="#954F72" link="#0563C1"><div><p style="margin:0cm 0cm 0pt;font-family:Calibri,sans-serif;font-size:11pt;">&nbsp;</p></div></div></div><div xmlns="http://www.w3.org/1999/xhtml">С Уважением Станислав Анатольевич</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Петрушенко</div><div xmlns="http://www.w3.org/1999/xhtml">&nbsp;</div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

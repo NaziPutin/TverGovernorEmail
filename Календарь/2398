@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xb40290
+DTSTAMP:20220424T204126Z
+CREATED:20200402T104018Z
+LAST-MOD:20200402T102200Z
+SUMMARY:Совещание (в режиме ВКС)\, тема: "О новых подходах к исполнению поручения Президента РФ по противодействию распространения новой коронавирусной инфекции". Проводит Щеголев И.О. – полномочный представитель Президента РФ в ЦФО (отв. Ажгиревич А.И.)
+DTSTART;VALUE=DATE-TIME:20200402T110000Z
+DTEND;VALUE=DATE-TIME:20200402T120000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

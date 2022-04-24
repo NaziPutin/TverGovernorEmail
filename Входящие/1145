@@ -1,0 +1,44 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Mon, 15 Nov 2021 16:15:02 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Mon, 15 Nov
+ 2021 16:14:58 +0300
+Received: from web.region.tver.ru (172.30.0.10) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server id 15.1.2176.2 via Frontend
+ Transport; Mon, 15 Nov 2021 16:14:59 +0300
+Subject: =?KOI8-R?B?z8LSwd3FzsnFIMTF0NXUwdTP1yDk1c3ZIPrB0MHEzs/E18nO08vPx88g7e8=?=
+X-KeepSent: C3327DC5:BBAC3968-4325878E:0048A066;
+ type=4; name=$KeepSent
+To: =?KOI8-R?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4v4cTNyc7J09TSwcPJ0Q==?=
+ =?KOI8-R?B?IPTXxdLTy8/KIM/CzMHT1Mk=?= <RudenyaIM@tverreg.ru>
+X-Mailer: Lotus Notes Release 8.5 December 05, 2008
+Message-ID: <OFC3327DC5.BBAC3968-ON4325878E.0048A066-4325878E.0048B729@tverreg.ru>
+From: =?KOI8-R?B?4cTNyc7J09TSwcPJ0SD6wdDBxM7PxNfJztPLz8fPINLBys/OwS8=?=
+ =?KOI8-R?B?9NfF0tPLwdEgz8LMwdPU2A==?= <zapadnodvinsky_reg@tverreg.ru>
+Date: Mon, 15 Nov 2021 16:14:13 +0300
+X-MailFwdBy: CN=Igor Mikhaylovich Rudenya/O=TverRegAdm/C=RU
+Auto-Submitted: auto-forwarded
+X-MIMETrack: Serialize by Router on web4/TverRegAdm/RU(Release 8.5.2FP1|November 29, 2010) at
+ 15.11.2021 16:14:59
+Content-Disposition: inline
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: 2e409ffd-bf17-499b-6873-08d9a839ed62
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.4343451
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+
+(See attached file: 50.pdf)
+----boundary-LibPST-iamunique-2146875884_-_---
+

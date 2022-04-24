@@ -1,0 +1,125 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Thu, 28 May 2020 12:21:39 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Thu, 28 May
+ 2020 12:21:33 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Thu, 28 May 2020 12:21:33 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id B7B7F2189D
+	for <rim@tverreg.ru>; Thu, 28 May 2020 12:21:34 +0300 (MSK)
+Received-SPF: none (tveroms.ru: No applicable sender policy available) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="general@tveroms.ru"; helo=mail.tveroms.ru; client-ip=79.171.13.50
+Received: from mail.tveroms.ru (mail.tveroms.ru [79.171.13.50])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id C469B2188A
+	for <rim@tverreg.ru>; Thu, 28 May 2020 12:21:30 +0300 (MSK)
+X-Footer: dHZlcm9tcy5ydQ==
+Received: from C0748 ([169.254.200.27])
+	(authenticated user general@tveroms.ru)
+	by mail.tveroms.ru (Kerio Connect 7.4.3)
+	for rim@tverreg.ru;
+	Thu, 28 May 2020 12:12:26 +0300
+Return-Receipt-To: =?koi8-r?B?9Obv7fMg9NfF0tPLz8ogz8LMwdPUyQ==?=
+	<general@tveroms.ru>
+From: =?koi8-r?B?9Obv7fMg9NfF0tPLz8ogz8LMwdPUyQ==?= <general@tveroms.ru>
+To: =?koi8-r?B?8tXExc7RIOnHz9LYIO3JyMHKzM/Xyd4=?= <rim@tverreg.ru>
+Subject: =?koi8-r?B?79QgxMnSxcvUz9LBIPTm7+3zIPTXxdLTy8/KIM/CzMHT1Mkg59XM0Q==?=
+	=?koi8-r?B?xdfPyiDuLu0uINDPINfP0NLP09Ug187F08XOydEgydrNxc7FzsnKIA==?=
+	=?koi8-r?B?1yDw0sHXyczBINLB08jPxM/Xwc7J0SDOz9LNydLP18HOzs/HzyDT1A==?=
+	=?koi8-r?B?0sHIz9fPx88g2sHQwdPBIPTm7+3zIPTXxdLTy8/KIM/CzMHT1Mkgzg==?=
+	=?koi8-r?B?wSDQ0snPwtLF1MXOycUgzcXEycPJztPLz8fPIM/Cz9LVxM/Xwc7J0Q==?=
+Date: Thu, 28 May 2020 12:18:02 +0300
+Message-ID: <!&!AAAAAAAAAAAYAAAAAAAAAGAJHfH6JchOiLfW4OIxKArCgAAAEAAAAGrEQLZqGOxEtY5mQFMI/HgBAAAAAA==@tveroms.ru>
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdY00OIDX/9tti9jTXeyoR/KUhYxxA==
+Content-Language: ru
+x-cr-hashedpuzzle: AQVu Ayyo Cx66 C+CX DZVi DmoJ ESGD Eb9N FQKY Fhc9 G6OO HTQr H8aY JPKA KDUB LH4g;1;cgBpAG0AQAB0AHYAZQByAHIAZQBnAC4AcgB1AA==;Sosha1_v1;7;{5FFEC296-4356-43D2-B46E-0D3CC3AEEC3B};ZwBlAG4AZQByAGEAbABAAHQAdgBlAHIAbwBtAHMALgByAHUA;Thu, 28 May 2020 09:18:00 GMT;HgRCBCAANAQ4BEAENQQ6BEIEPgRABDAEIAAiBCQEHgQcBCEEIAAiBDIENQRABEEEOgQ+BDkEIAA+BDEEOwQwBEEEQgQ4BCAAEwRDBDsETwQ1BDIEPgQ5BCAAHQQuABwELgAgAD8EPgQgADIEPgQ/BEAEPgRBBEMEIAAyBD0ENQRBBDUEPQQ4BE8EIAA4BDcEPAQ1BD0ENQQ9BDgEOQQgADIEIAAfBEAEMAQyBDgEOwQwBCAAQAQwBEEERQQ+BDQEPgQyBDAEPQQ4BE8EIAA9BD4EQAQ8BDgEQAQ+BDIEMAQ9BD0EPgQzBD4EIABBBEIEQAQwBEUEPgQyBD4EMwQ+BCAANwQwBD8EMARBBDAEIAAiBCQEHgQcBCEEIAAiBDIENQRABEEEOgQ+BDkEIAA+BDEEOwQwBEEEQgQ4BCAAPQQwBCAAPwRABDgEPgQxBEAENQRCBDUEPQQ4BDUEIAA8BDUENAQ4BEYEOAQ9BEEEOgQ+BDMEPgQgAD4EMQQ+BEAEQwQ0BD4EMgQwBD0EOARPBA==
+x-cr-puzzleid: {5FFEC296-4356-43D2-B46E-0D3CC3AEEC3B}
+Disposition-Notification-To: =?koi8-r?B?9Obv7fMg9NfF0tPLz8ogz8LMwdPUyQ==?=
+	<general@tveroms.ru>
+X-SPAM-LEVEL: Spam detection results:  1
+	AWL                    -0.024 Adjusted score from AWL reputation of From: address
+	BAYES_20               -0.001 Bayes spam probability is 5 to 20%
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_LAZY_DOMAIN_SECURITY      1 Sending domain does not have any anti-forgery methods
+	MIME_HTML_MOSTLY          0.1 Multipart message mostly text/html MIME
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_NONE                0.001 SPF: sender does not publish an SPF Record
+Return-Path: general@tveroms.ru
+X-MS-Exchange-Organization-Network-Message-Id: 06533352-477b-442d-aa84-08d802e8835b
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:06.7982087
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="koi8-r"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=koi8-r">
+<meta name="Generator" content="Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang="RU" link="blue" vlink="purple">
+
+<div class="Section1">
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

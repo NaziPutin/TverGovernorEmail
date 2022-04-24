@@ -1,0 +1,77 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Sat, 29 Dec 2018 16:39:36 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Sat, 29 Dec
+ 2018 16:39:30 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sat, 29 Dec 2018 16:39:24 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 5C2992197C
+	for <Rim@tverreg.ru>; Sat, 29 Dec 2018 16:39:26 +0300 (MSK)
+Received-SPF: pass (mail.ru ... _spf.mail.ru: 94.100.185.167 is authorized to use 'gl.pustin@mail.ru' in 'mfrom' identity (mechanism 'ip4:94.100.176.0/20' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="gl.pustin@mail.ru"; helo=f68.i.mail.ru; client-ip=94.100.185.167
+Received: from f68.i.mail.ru (f68.i.mail.ru [94.100.185.167])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id 33C3421924
+	for <Rim@tverreg.ru>; Sat, 29 Dec 2018 16:39:25 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=gi4NpiAoZ949yoSXPiQTrcXtsvdtvJPQzvHDNHRZNWs=;
+	b=XgI7xUGSMxl0al1QVVDtR5VhOhvPG1T3CofF/kVMWXSbY9Rij7gaE53/W74zDtzCoUki8p+WyV4KUrndBQWAtyNvNUUzxOzhF9VBmC7TEQRmnATnUAYY4ZuDatalIuGHNQnUUUHAptFBuFSpdgCwtPlmM4mXPKzBXOb4MzjoNmU=;
+Received: by f68.i.mail.ru with local (envelope-from <gl.pustin@mail.ru>)
+	id 1gdEpo-0000PE-Mq
+	for Rim@tverreg.ru; Sat, 29 Dec 2018 16:39:24 +0300
+Received: by e.mail.ru with HTTP;
+	Sat, 29 Dec 2018 16:39:24 +0300
+From: =?UTF-8?B?0YHQutC40YJf0YHQutC40YI=?= <gl.pustin@mail.ru>
+To: Rim@tverreg.ru
+Subject: =?UTF-8?B?0JIu0JIuINCf0YPRgtC40L3RgyDQv9C+INCa0LDQt9Cw0L3RgdC60L7QvNGD?=
+ =?UTF-8?B?INC20LXQvdGB0LrQvtC80YMg0LzQvtC90LDRgdGC0YvRgNGOLCDQsy4g0JI=?=
+ =?UTF-8?B?0YvRiNC90LjQuSDQktC+0LvQvtGH0ZHQuiA=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Sat, 29 Dec 2018 16:39:24 +0300
+Reply-To: =?UTF-8?B?0YHQutC40YJf0YHQutC40YI=?= <gl.pustin@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1546090764.218440202@f68.i.mail.ru>
+Authentication-Results: f68.i.mail.ru; auth=pass smtp.auth=gl.pustin@mail.ru smtp.mailfrom=gl.pustin@mail.ru
+X-77F55803: 2E1AF85CEC35398A7F9F52485CB584D72AF743E69CD48747AE9103B78AA836A6A34205BB66C6D87824933BD9A296BC97074A40F52AF1438D
+X-7FA49CB5: 70AAF3C13DB70168C09775C1D3CA48CF253F27DA5A70FAF3CEDC9CE4EAAF8441BD4B6F7A4D31EC0B5B47ED7565F4D52D9742502CCDD46D0D86A7C529F68B8E5CB2086D80B05047785571747095F342E8C7A0BC55FA0FE5FC64FF69F28180BDF0C8EC451264DABD1F58E3F401820545EF389733CBF5DBD5E913377AFFFEAFD269176DF2183F8FC7C07E7E81EEA8A9722B8941B15DA834481FCF19DD082D7633A0E7DDDDC251EA7DABA471835C12D1D977725E5C173C3A84C3CA5A41EBD8A3A0199FA2833FD35BB23DF004C906525384306FED454B719173D6725E5C173C3A84C3335407143AA922362A36EDF6544B0076E41BE69BB3BCB152C4224003CC836476C0CAF46E325F83A50BF2EBBBDD9D6B0F8DB212830C5B42F72623479134186CDE6BA297DBC24807EABDAD6C7F3747799A
+X-Mailru-MI: 800
+X-Mailru-Sender: BC6B166D6148273FDD9127A598CFFE2ABDE032AD0F69C7642F5CF9E49D2B075AD83698912F4604492925F9F6CD94B7837903AA853BEC14D62E92EC21967506CDD5A2BADEDB8EFAD7DB97BBB7B8B2013B4CDC4A6005B67E7FED37D05777D3AFBDDBF1189B093656B6AE208404248635DF
+X-Mras: OK
+X-Spam: undefined
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	DKIM_VALID_EF            -0.1 Message has a valid DKIM or DK signature from envelope-from domain
+	FREEMAIL_FROM           0.001 Sender email is commonly abused enduser mail provider (promotdelost[at]yandex.ru) (gl.pustin[at]mail.ru)
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_FREEMAIL_DOC_PDF       0.01 MS document or PDF attachment, from freemail
+Return-Path: gl.pustin@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: 0235eee6-bf20-45c3-53f4-08d66d930f6e
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:12.1407025
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><br></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

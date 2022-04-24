@@ -1,0 +1,133 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Sat, 3 Nov 2018 16:56:20 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Sat, 3 Nov
+ 2018 16:56:20 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Sat, 3 Nov 2018 16:56:20 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 4162D217E3
+	for <rim@tverreg.ru>; Sat,  3 Nov 2018 16:56:21 +0300 (MSK)
+Received-SPF: pass (bk.ru ... _spf.mail.ru: 185.5.136.86 is authorized to use 'andreyorlov71@bk.ru' in 'mfrom' identity (mechanism 'ip4:185.5.136.0/22' matched)) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="andreyorlov71@bk.ru"; helo=f415.i.mail.ru; client-ip=185.5.136.86
+Received: from f415.i.mail.ru (f415.i.mail.ru [185.5.136.86])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id F12A3217D4
+	for <rim@tverreg.ru>; Sat,  3 Nov 2018 16:56:19 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=References:In-Reply-To:Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=XsO2lm3fk6r4iPWLUlkT0qwf+ld/cAilKystXJmnstc=;
+	b=S22M/4OZSW7PK/t7OGYtwWADB5Woh+YL8nDVnW26zcZq+iXVKH8tJwNuj0OHpOH05Gp9jCY2kMqpIznSUyfBLzoakdraYrS55I0tPdBqJ9luBiofU43qT0azlftkKgReOgp+lTyEz3tjgYrUZCzKiEKQw/IOxXi+/MSVNRPifyU=;
+Received: by f415.i.mail.ru with local (envelope-from <andreyorlov71@bk.ru>)
+	id 1gIwPN-0005YK-3e
+	for rim@tverreg.ru; Sat, 03 Nov 2018 16:56:13 +0300
+Received: by e.mail.ru with HTTP;
+	Sat, 03 Nov 2018 16:56:13 +0300
+From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+To: =?UTF-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?UmVbMl06INCf0YDQvtC10LrRgiDQv9C+0LLQtdGB0YLQutC4INC30LDRgdC1?=
+ =?UTF-8?B?0LTQsNC90LjRjyDQn9GA0LDQstC40YLQtdC70YzRgdGC0LLQsCDQvdCwIDcg?=
+ =?UTF-8?B?0L3QvtGP0LHRgNGPIDIwMTgg0LMu?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Sat, 03 Nov 2018 16:56:13 +0300
+Reply-To: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1541253373.295168814@f415.i.mail.ru>
+Authentication-Results: f415.i.mail.ru; auth=pass smtp.auth=andreyorlov71@bk.ru smtp.mailfrom=andreyorlov71@bk.ru
+X-77F55803: JYkt2FqybCd/n1JIXLWE1yr3Q+ac1IdHdW63oKT5m/HakSGBbNR94+fwj0drxRE9CNkX1hMLGvs=
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE7A595E830E7139956C4224003CC8364765B47ED7565F4D52DD81005AB0B54AD96A18204E546F3947CC2B5EEE3591E0D35B2086D80B05047786C569B605AB1DE485571747095F342E83A555A6C538BA68A11B5391A07475D3F1E561CDFBCA1751F23570F6463A8F6B7FEE8809933074A7026E476CCD9869EB17C6FB206A91F05B20F2D9CE4705D396A09DF427952C2912BBE5E7F44427E1A0ED2E47CDBA5A96583C09775C1D3CA48CFCA5A41EBD8A3A0199FA2833FD35BB23D2EF20D2F80756B5F40A5AABA2AD37119CC7F00164DA146DA9985D098DBDEAEC8EDCF5861DED71B2F389733CBF5DBD5E9B5C8C57E37DE458B4C7702A67D5C33162DBA43225CD8A89F72BE6798D6036352F3AC6BCB50A92B6797C7BD6AAAD2E01B43847C11F186F3C5E7DDDDC251EA7DABCC89B49CDF41148F53FDB0A1CE3EC88B3B503F486389A921A5CC5B56E945C8DA
+X-Mailru-MI: 800
+X-Mailru-Sender: 00097D31F91C944B79489344A33FDB554170E42F6BBBCBB97AA406B60138798199B9C14728D53AAAFA288731196DF643AC168D0AD13401F8D3D9BFE0236B48F2F9251A03F0532DE096A4778A568B30CE545342457E7E468CBE7436D85938D369FB4DADA36323CEA267EA787935ED9F1B
+X-Mras: OK
+X-Spam: undefined
+In-Reply-To: <0559DC71-7EDB-49BC-86BD-C0DD460A0779@tverreg.ru>
+References: <1541170207.996875406@f547.i.mail.ru>
+ <0559DC71-7EDB-49BC-86BD-C0DD460A0779@tverreg.ru>
+X-SPAM-LEVEL: Spam detection results:  0
+	AWL                     0.437 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	DKIM_VALID               -0.1 Message has at least one valid DKIM or DK signature
+	DKIM_VALID_AU            -0.1 Message has a valid DKIM or DK signature from author's domain
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	KAM_SHORT               0.001 Use of a URL Shortener for very short URL
+	RCVD_IN_DNSWL_LOW        -0.7 Sender listed at http://www.dnswl.org/, low trust
+	SPF_HELO_PASS          -0.001 SPF: HELO matches SPF record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	T_DKIMWL_WL_MED         -0.01 DKIMwl.org - Whitelisted Medium sender
+Return-Path: andreyorlov71@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: c19ec0a5-c5cd-43df-5aca-08d64194224a
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5469576
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><p style="margin-top: 0px;" dir="ltr">Понял</p> 
+<div id="mail-app-auto-default-signature">
+ <p dir="ltr">--<br> Отправлено из Mail.Ru для Android</p>
+</div>суббота, 03 ноября 2018г., 11:05 &#43;03:00 от Руденя Игорь Михайлович <a href="mailto:rim@tverreg.ru">rim@tverreg.ru</a>:<br><br><blockquote id="mail-app-auto-quote" cite="15412323270000001002" style="border-left:1px solid #0857A6; margin:0px 0px 0px 10px; padding:0px 0px 0px 10px;">
+
+
+
+
+
+
+<div class="js-helper js-readmsg-msg">
+	<style type="text/css"></style>
+ 	<div>
+		<base target="_self" href="https://e.mail.ru/">
+		
+            <div id="style_15412323270000001002_BODY"><div class="class_1541242956">
+
+
+
+
+<div dir="ltr"></div>
+<div dir="ltr">Добрый день, вопросы 4 и 5 убираем. На подготовке 7 числа обсудим, возможно подписание в рабочем порядке.</div>
+<div dir="ltr"><br>
+2 нояб. 2018 г., в 17:50, Андрей Орлов &lt;<a href="mailto:andreyorlov71@bk.ru" target="_blank" rel=" noopener noreferrer">andreyorlov71@bk.ru</a>&gt; написал(а):<br>
+<br>
+</div>
+<blockquote type="cite">
+<div dir="ltr">
+<p style="margin-top: 0px;" dir="ltr">Уважаемый Игорь Михайлович, направляю проект повестки заседания Правительства на 07.11.18 года. Прошу согласовать.
+</p>
+<div id="mail-app-auto-default-signature_mailru_css_attribute_postfix">
+<p dir="ltr">--<br>
+Отправлено из Mail.Ru для Android</p>
+</div>
+</div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr">&lt;Повестка ЗП на 07.11.2018.doc&gt;</div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr">&lt;Повестка ЗП на 07.11.2018(с пояснениями).doc&gt;</div>
+</blockquote>
+
+
+</div></div>
+            
+        
+		<base target="_self" href="https://e.mail.ru/">
+	</div>
+
+	
+</div>
+
+
+</blockquote></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

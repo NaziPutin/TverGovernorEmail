@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x15726bc
+DTSTAMP:20220424T204127Z
+CREATED:20170209T102035Z
+LAST-MOD:20170209T195752Z
+SUMMARY:Открытие завода по производству OSB-плит «Талион Арбор»и встреча с представителями лесопромышленных предприятий (отв. Меньщиков А.В.\, Мигулев П.И.\, Барышков В.В.\, Павлова О.В.\, СМИ) Согласно программе пребывания
+DTSTART;VALUE=DATE-TIME:20170210T070000Z
+DTEND;VALUE=DATE-TIME:20170210T132500Z
+LOCATION:г.Торжок\, ул. Старицкая\, д.96-а
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,77 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Thu, 10 Mar 2022 10:38:32 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Thu, 10 Mar
+ 2022 10:38:27 +0300
+Received: from mxs.tverreg.ru (172.30.0.69) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Frontend
+ Transport; Thu, 10 Mar 2022 10:38:31 +0300
+Received: from pmg02.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by pmg02.tverreg.ru (TverReg) with ESMTP id 4429380DA6
+	for <rim@tverreg.ru>; Thu, 10 Mar 2022 10:38:29 +0300 (MSK)
+Received-SPF: pass (roskazna.ru: 94.25.26.187 is authorized to use 'uc_fk@roskazna.ru' in 'mfrom' identity (mechanism 'ip4:94.25.26.187' matched)) receiver=pmg02.tverreg.ru; identity=mailfrom; envelope-from="uc_fk@roskazna.ru"; helo=mx5.roskazna.ru; client-ip=94.25.26.187
+Received: from mx5.roskazna.ru (mx5.roskazna.ru [94.25.26.187])
+	by pmg02.tverreg.ru (TverReg) with ESMTPS id AD24280DCA
+	for <rim@tverreg.ru>; Thu, 10 Mar 2022 10:38:28 +0300 (MSK)
+Received: from mx01.dubna.roskazna.ru (95.167.245.6) by mx5.roskazna.ru
+ (192.168.226.24) with Microsoft SMTP Server id 15.0.1367.3; Thu, 10 Mar 2022
+ 10:38:25 +0300
+Received: from uc-proxy (unknown [10.141.148.20])
+	by mx01.dubna.roskazna.ru (Postfix) with ESMTP id 661C820CEC00
+	for <rim@tverreg.ru>; Thu, 10 Mar 2022 10:38:28 +0300 (MSK)
+From: <uc_fk@roskazna.ru>
+To: <rim@tverreg.ru>
+Date: Thu, 10 Mar 2022 10:38:28 +0300
+Subject: =?utf-8?B?0KMg0YHQtdGA0YLQuNGE0LjQutCw0YLQsCDihJYgIDI0QUE5?=
+ =?utf-8?B?RTRGMjBGRjAzRkFCNDRGOEJGMjE1QTg4OTk4QjlGMTc4MTcgINC40YHR?=
+ =?utf-8?B?gtGR0Log0YHRgNC+0Log0LTQtdC50YHRgtCy0LjRjw==?=
+Message-ID: <5bf6c64706c94a47b4e99c65d9a1df9c@s9500edge5.roskazna.ru>
+Received-SPF: None (s9500edge5.roskazna.ru: uc_fk@roskazna.ru does not
+ designate permitted sender hosts)
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudduledguddthecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegghffvfffutgfgkfeshhgsjhdttddtjeenucfhrhhomhepoehutggpfhhksehrohhskhgriihnrgdrrhhuqeenucggtffrrghtthgvrhhnpefgiedujefhjeekfedtuddvieekvdekgfdtgfdvkeeuveetleehieejteefgefhfeenucfkphepleehrdduieejrddvgeehrdei
+X-DrWeb-SpamVersion: Vade Retro 01.422.119#105 AS+AV+AP Profile: DRWEB; Bailout: 300
+X-SPAM-LEVEL: Spam detection results:  4
+	AWL                     3.126 Adjusted score from AWL reputation of From: address
+	BAYES_00                 -1.9 Bayes spam probability is 0 to 1%
+	ENA_SUBJ_LONG_WORD        2.2 Subject has a very long word
+	HTML_MESSAGE            0.001 HTML included in message
+	HTML_MIME_NO_HTML_TAG   0.377 HTML-only message, but there is no HTML tag
+	KAM_DMARC_STATUS         0.01 Test Rule for DKIM or SPF Failure with Strict Alignment
+	MIME_HTML_ONLY            0.1 Message only has text/html MIME parts
+	SPF_HELO_NONE           0.001 SPF: HELO does not publish an SPF Record
+	SPF_PASS               -0.001 SPF: sender matches SPF record
+	SUBJ_ALL_CAPS             0.5 Subject is all capitals
+	T_SCC_BODY_TEXT_LINE    -0.01 -
+X-DrWeb-SpamScore: 0
+X-DrWeb-SpamState: legit
+X-DrWeb-SpamDetail: gggruggvucftvghtrhhoucdtuddrgedvvddrudduledguddthecutefuodetggdotefrucfrrhhofhhilhgvmecufffthgfgueenuceurghilhhouhhtmecufedttdenucenucfjughrpegghffvfffutgfgkfeshhgsjhdttddtjeenucfhrhhomhepoehutggpfhhksehrohhskhgriihnrgdrrhhuqeenucggtffrrghtthgvrhhnpefgiedujefhjeekfedtuddvieekvdekgfdtgfdvkeeuveetleehieejteefgefhfeenucfkphepleehrdduieejrddvgeehrdei
+X-DrWeb-SpamVersion: Vade Retro 01.422.119#105 AS+AV+AP Profile: DRWEB; Bailout: 300
+Return-Path: uc_fk@roskazna.ru
+X-MS-Exchange-Organization-Network-Message-Id: 1807dc8e-5123-4529-761b-08da0268f9e0
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.1971290
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>У сертификата № 24AA9E4F20FF03FAB44F8BF215A88998B9F17817 истёк срок действия.<br><br></div>
+<div><strong>Сведения сертификата</strong></div>
+<div>Организация: ПРАВИТЕЛЬСТВО ТВЕРСКОЙ ОБЛАСТИ.</div>
+<div>ФИО: Руденя Игорь Михайлович.</div>
+<div>Срок действия сертификата: с 10.12.2020 10:33:56 по 10.03.2022 10:33:56 (по московскому времени).<br><br></div>
+<div><em><strong>Внимание.</strong> Это письмо сформировано автоматически.<br>Не направляйте сообщения на адрес отправки данного уведомления – любые сообщения на этот адрес будут без рассмотрения автоматически удалены.</em></div>
+----boundary-LibPST-iamunique-2146875884_-_---
+

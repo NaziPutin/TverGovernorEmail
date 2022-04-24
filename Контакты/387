@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:Зюбин\, Илья Владимирович
+N:Зюбин;Илья;Владимирович;;
+EMAIL:zubinmonolit@mail.ru
+ADR;TYPE=work:;;;г. Москва\, ул. Ольховская\, д. 49;;105066;Россия
+LABEL;TYPE=work:105066\, г. Москва\, ул. Ольховская\, д. 49
+TEL;TYPE=work,voice:+7 (495) 286-76-80
+TEL;TYPE=cell,voice:+7 (905) 543-24-30
+TITLE:Президент
+ORG:Минолитное Строительное Управление - 1
+VERSION:3.0
+END:VCARD
+

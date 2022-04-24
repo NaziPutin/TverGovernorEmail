@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xef0afc
+DTSTAMP:20220424T204127Z
+CREATED:20190617T192152Z
+LAST-MOD:20190617T155354Z
+SUMMARY:Рабочая встреча. Куликов Сергей Александрович -  первый заместитель председателя коллегии Военно-промышленной комиссии (отв. Попенко В.И.) 
+DTSTART;VALUE=DATE-TIME:20190618T093000Z
+DTEND;VALUE=DATE-TIME:20190618T100000Z
+LOCATION:г. Москва\, Дом Правительства РФ\, 3-й этаж\, каб. 3-106
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

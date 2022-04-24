@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14e47f8
+DTSTAMP:20220424T204127Z
+CREATED:20170803T062417Z
+LAST-MOD:20170802T143629Z
+SUMMARY:Итоговое заседание рабочей группы по оказанию содействия Тверской митрополии РПЦ (Московский патриархат) в подготовке и проведении празднования 350-летия обретения мощей преподобного Нила Столобенского (09.06.2017)  (отв.Белоцерковский А.В.\, Белорусов В.А
+DTSTART;VALUE=DATE-TIME:20170803T123000Z
+DTEND;VALUE=DATE-TIME:20170803T140000Z
+LOCATION:каб. 302
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

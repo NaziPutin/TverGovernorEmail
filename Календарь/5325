@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x14add3c
+DTSTAMP:20220424T204127Z
+CREATED:20170901T072355Z
+LAST-MOD:20170901T140341Z
+SUMMARY:Лебедева Ольга Юрьевна – начальник отделения (территориальное\, г. Тверь) ФГКУ «Западное региональное управление жилищного обеспечения» Минобороны России (отв. Попенко В.И.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20170904T133000Z
+DTEND;VALUE=DATE-TIME:20170904T143000Z
+LOCATION:каб.301-3
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

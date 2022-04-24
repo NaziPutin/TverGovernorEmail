@@ -1,0 +1,83 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Fri, 12 May 2017 14:56:05 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Fri, 12 May
+ 2017 14:56:05 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Fri, 12 May 2017 14:56:04 +0300
+Received: from [85.91.118.34] (helo=mail.kffs.ru)
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	id 1d99Av-0008AV-Kv
+	for rim@tverreg.ru; Fri, 12 May 2017 07:56:01 -0400
+Date: Fri, 12 May 2017 14:56:03 +0300
+From: Mail Delivery System <MAILER-DAEMON@kffs.ru>
+Subject: Undelivered Mail Returned to Sender
+To: <rim@tverreg.ru>
+Auto-Submitted: auto-replied
+Message-ID: <20170512115603.238F71037E4@mail.kffs.ru>
+Return-Path: <>
+X-MS-Exchange-Organization-Network-Message-Id: f2f552b2-eaa7-435c-e1c4-08d4992dde8f
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.5937667
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Diagnostic code = SecureMessagingError; Reason code = TransferFailed; Status code = 570
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/plain; charset="utf-8"
+
+This is the mail system at host mail.kffs.ru.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<kruglov@web.region.tver.ru>: host mx.region.tver.ru[85.91.118.55] said: 554
+    5.7.0 00414384 AntiSpamSrv4: This is spam! (in reply to end of DATA
+    command)
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: message/rfc822
+
+>From "rim@tverreg.ru" Fri May 12 11:55:41 2017
+Return-Path: <rim@tverreg.ru>
+Received: from ggg (localhost [IPv6:::1])
+	by mail.kffs.ru (Postfix) with SMTP id 0A5191037E2
+	for <kruglov@web.region.tver.ru>; Fri, 12 May 2017 14:55:41 +0300 (MSK)
+Message-ID: <20170512115555.0A5191037E2@mail.kffs.ru>
+Date: Fri, 12 May 2017 14:55:41 +0300
+From: <rim@tverreg.ru>
+Status: RO
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-362943347_-_-"
+
+
+----boundary-LibPST-iamunique-362943347_-_-
+Content-Type: text/plain; charset="utf-8"
+
+Hi!
+
+----boundary-LibPST-iamunique-362943347_-_---
+
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

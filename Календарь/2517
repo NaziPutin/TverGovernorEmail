@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xbd4f3c
+DTSTAMP:20220424T204126Z
+CREATED:20200319T060817Z
+LAST-MOD:20200319T060829Z
+SUMMARY:Представление Емельянова Андрея Андреевича в связи с назначением на должность заместителя Председателя Правительства Тверской области (отв. Ажгиревич А.И.\, Пономарев А.А.\, пресс-служба). Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20200319T060000Z
+DTEND;VALUE=DATE-TIME:20200319T063000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

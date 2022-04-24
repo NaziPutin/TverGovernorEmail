@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x87c940
+DTSTAMP:20220424T204126Z
+CREATED:20201218T060801Z
+LAST-MOD:20201218T044220Z
+SUMMARY:Рабочая поездка Щеголева Игоря Олеговича – полномочного представителя Президента Российской Федерации в Центральном федеральном округе в Тверскую область (отв. Емельянов А.А.\, Ажгиревич А.И.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20201218T064000Z
+DTEND;VALUE=DATE-TIME:20201218T095000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

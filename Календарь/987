@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x5bb7cc
+DTSTAMP:20220424T204126Z
+CREATED:20210610T115228Z
+LAST-MOD:20210610T101755Z
+SUMMARY:Рабочая встреча. Бачин С.В. - Председатель совета директоров ООО «Роза Хутор»\, ООО «ЗАВИДОВО Девелопмент»\, Окороков Д.К. - президент ООО "Завидово Девелопмент" (отв. Подтихова М.И.\, Дорофеев М.С.\, Выскубова Н.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210610T160000Z
+DTEND;VALUE=DATE-TIME:20210610T163000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

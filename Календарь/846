@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x50ba30
+DTSTAMP:20220424T204126Z
+CREATED:20210726T074806Z
+LAST-MOD:20210726T072937Z
+SUMMARY:Подача документов на регистрацию кандидатом на выборы Губернатора Тверской области (подтверждение прохождения «муниципального фильтра»\, представление списка кандидатов в Совет Федерации Федерального Собрания РФ) (отв. Белорусов В.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210726T090000Z
+DTEND;VALUE=DATE-TIME:20210726T100000Z
+LOCATION:пл. Святого Благоверного Князя Михаила Тверского\, д. 5 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

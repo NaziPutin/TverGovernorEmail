@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1210dd4
+DTSTAMP:20220424T204127Z
+CREATED:20180814T104943Z
+LAST-MOD:20180814T103125Z
+SUMMARY:Инспекционная поездка по объектам образования г.Твери для ознакомления с ходом подготовки к началу 2018-2019 учебного года. Согласно программе (отв. Белоцерковский А.В.\, Куликов Д.А.\, СМИ+пресс-служба)\n
+DTSTART;VALUE=DATE-TIME:20180816T093000Z
+DTEND;VALUE=DATE-TIME:20180816T104000Z
+LOCATION:г.Тверь
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xe914cc
+DTSTAMP:20220424T204127Z
+CREATED:20190729T065940Z
+LAST-MOD:20190726T164258Z
+SUMMARY:Селекторное совещание с главами МО Тверской области\, тема: «О подготовке к осенне-зимнему отопительному периоду 2019-2020 гг.» \n(отв. Жарлицына Т.Л.\, Цветков А.И.\, Охлобыстин Ю.А.\, пресс-служба) Состав участников согласно списку
+DTSTART;VALUE=DATE-TIME:20190729T110000Z
+DTEND;VALUE=DATE-TIME:20190729T120000Z
+LOCATION:пл. Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

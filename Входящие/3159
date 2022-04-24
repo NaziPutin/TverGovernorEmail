@@ -1,0 +1,59 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Mon, 9 Apr 2018 09:34:03 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Mon, 9 Apr
+ 2018 09:34:03 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Mon, 9 Apr 2018 09:34:03 +0300
+Received: from f451.i.mail.ru ([185.5.136.129])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <andreyorlov71@bk.ru>)
+	id 1f5QNL-0007P4-0q
+	for rim@tverreg.ru; Mon, 09 Apr 2018 02:33:59 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=bk.ru; s=mail;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=2yT/KgL0nT2svToVerGMmH5vH4vOWb19Nd+eNijVRZI=;
+	b=pGz2tG4H3Mo/yxm9ds0xb+10s+YEhp5lj6bbZi61xQt2Mtqdaor3bWIspKWbCQAVge14bT/ideVxzWWK9jXGl4lLwm4ucuKW9pyIPGlyOPAsKLxd9PnbYy66o5Wcao2h5XZzS1IOAWyqzP2YIYMN61vX3aw0Qs/EIc1xiv5TTls=;
+Received: by f451.i.mail.ru with local (envelope-from <andreyorlov71@bk.ru>)
+	id 1f5QNH-0009TS-8N
+	for rim@tverreg.ru; Mon, 09 Apr 2018 09:33:55 +0300
+Received: by e.mail.ru with HTTP;
+	Mon, 09 Apr 2018 09:33:55 +0300
+From: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+To: =?UTF-8?B?cmlt?= <rim@tverreg.ru>
+Subject: =?UTF-8?B?0J/QvtC00YXQvtC00Ysg0YTQvtGA0LzQuNGA0L7QstCw0L3QuNGPINC60LA=?=
+ =?UTF-8?B?0LTRgNC+0LLQvtCz0L4g0YDQtdC30LXRgNCy0LAg0KLQng==?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Mon, 09 Apr 2018 09:33:55 +0300
+Reply-To: =?UTF-8?B?0JDQvdC00YDQtdC5INCe0YDQu9C+0LI=?= <andreyorlov71@bk.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1523255635.238724233@f451.i.mail.ru>
+Authentication-Results: f451.i.mail.ru; auth=pass smtp.auth=andreyorlov71@bk.ru smtp.mailfrom=andreyorlov71@bk.ru
+X-7FA49CB5: 70AAF3C13DB7016878DA827A17800CE76BC5E580EAF7CD4DC4224003CC836476D1DB134E79BD61627866D6147AF826D8729F87C586BA01E1DBD8A5F7DD095B19089D37D7C0E48F6C8AA50765F7900637F6E3FBA7DA51205E25980AD1841DD807089D37D7C0E48F6C5571747095F342E857739F23D657EF2B6825BDBE14D8E7024847893F9AA87235E5BFE6E7EFDEDCD789D4C264860C145E
+X-Mailru-MI: 800
+X-Mailru-Sender: 00097D31F91C944BCB198C075EBBC907A12D4D59B821088921AA644EA2384B74DD75587780E7CB727326B261E47C3335149164E91495D2A807F5E7D778EDD0FBC9F92CC29DDAE35D1BF6DDE3068A089EB34FC69B7DAD59CB43E65FEE8F10872ACA9B01087240937DAE208404248635DF
+X-Mras: OK
+X-Spam: undefined
+Return-Path: andreyorlov71@bk.ru
+X-MS-Exchange-Organization-Network-Message-Id: 0bb07456-74d0-466d-a6ea-08d59de3e31e
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.6407079
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body>Уважаемый Игорь Михайлович, доброе утро!<br>Презентацию к совещанию подправил.<br>Прошу посмотреть.<br>Готов дать пояснения.<br><br><br>С уважением, Андрей Орлов.<br><br><br></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

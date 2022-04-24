@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaf6e48
+DTSTAMP:20220424T204126Z
+CREATED:20200422T075657Z
+LAST-MOD:20200422T070751Z
+SUMMARY:Заседание Президиума Координационного совета при Правительстве РФ по борьбе с распространением новой коронавирусной инфекции на территории РФ (в режиме видеоконференцсвязи) (отв. Ажгиревич А.И.\, Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200422T080000Z
+DTEND;VALUE=DATE-TIME:20200422T093000Z
+LOCATION:каб. 401
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

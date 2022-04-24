@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xaedf60
+DTSTAMP:20220424T204126Z
+CREATED:20200508T200108Z
+LAST-MOD:20200430T113644Z
+SUMMARY:Мероприятия\, посвященные празднованию 75-й годовщины Победы в Великой Отечественной войне 1941-1945 гг. (отв. Ищенко А.Н.\, Емельянов А.А.\, Белорусов В.А.\, Буданцева А.Н.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20200509T053000Z
+DTEND;VALUE=DATE-TIME:20200509T103000Z
+LOCATION:Согласно программе
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

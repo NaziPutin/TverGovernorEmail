@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf09a04
+DTSTAMP:20220424T204127Z
+CREATED:20190613T055344Z
+LAST-MOD:20190611T151259Z
+SUMMARY:Торжественное подписание соглашения между Правительством Тверской области и АНО «Хоккейный клуб «Динамо-Москва» о сотрудничестве и партнерстве (отв. Белоцерковский А.В.\, Решетов А.А.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190613T070000Z
+DTEND;VALUE=DATE-TIME:20190613T073000Z
+LOCATION:каб. 305
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

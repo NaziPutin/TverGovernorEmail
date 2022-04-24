@@ -1,0 +1,115 @@
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2 via Mailbox
+ Transport; Sun, 20 Mar 2022 23:44:45 +0300
+Received: from SRV-MAIL-01.tverreg.ru (172.30.2.117) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.2176.2; Sun, 20 Mar
+ 2022 23:44:44 +0300
+Received: from SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53]) by
+ SRV-MAIL-01.tverreg.ru ([fe80::5d8f:ad9a:72b5:5e53%8]) with mapi id
+ 15.01.2176.009; Sun, 20 Mar 2022 23:44:44 +0300
+From: =?utf-8?B?0KHQvNGP0LvQutC+0LLRgdC60LjQuSDQn9Cw0LLQtdC7INCV0LLQs9C10L0=?=
+ =?utf-8?B?0YzQtdCy0LjRhw==?= <smyalkovsky@tverreg.ru>
+To: =?utf-8?B?0KDRg9C00LXQvdGPINCY0LPQvtGA0Ywg0JzQuNGF0LDQudC70L7QstC40Yc=?=
+	<rim@tverreg.ru>
+CC: =?utf-8?B?0JDQttCz0LjRgNC10LLQuNGHINCQ0YDRgtC10Lwg0JjQstCw0L3QvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <AzhgirevichAI@tverreg.ru>,
+	=?utf-8?B?0JHQtdGA0LXQt9C40L0g0JTQvNC40YLRgNC40Lkg0JHQvtGA0LjRgdC+0LI=?=
+ =?utf-8?B?0LjRhw==?= <Berezin_DB@tverreg.ru>,
+	=?utf-8?B?0JXQs9C+0YDQvtCyINCY0LLQsNC9INCY0LPQvtGA0LXQstC40Yc=?=
+	<egorov@tverreg.ru>,
+	=?utf-8?B?0JbQsNGA0LrQvtCyINCY0LPQvtGA0Ywg0KHQtdGA0LPQtdC10LLQuNGH?=
+	<ZharkovIC@tverreg.ru>,
+	=?utf-8?B?0JzQvtGA0L7Qt9C+0LIg0JXQstCz0LXQvdC40Lkg0JLQsNGB0LjQu9GM0LU=?=
+ =?utf-8?B?0LLQuNGH?= <Morozov_EV@tverreg.ru>,
+	=?utf-8?B?0J3QvtCy0LjQutC+0LLQsCDQktCw0LvQtdC90YLQuNC90LAg0JjQstCw0L0=?=
+ =?utf-8?B?0L7QstC90LA=?= <Novikova_VI@tverreg.ru>,
+	=?utf-8?B?0J/QvtC00YLQuNGF0L7QstCwINCc0LDRgNC40L3QsCDQmNCy0LDQvdC+0LI=?=
+ =?utf-8?B?0L3QsA==?= <podtihova@tverreg.ru>,
+	=?utf-8?B?0J3QsNGD0LzQvtCyINCQ0L3QtNGA0LXQuSDQktC40LrRgtC+0YDQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <naumov@tverreg.ru>,
+	=?utf-8?B?0JPRgNC40LPQvtGA0Y/QvSDQkNGA0YHQtdC9INCg0LDRhNC40LrQvtCy0Lg=?=
+ =?utf-8?B?0Yc=?= <grygoryan@tverreg.ru>,
+	=?utf-8?B?0KHQutC+0YDRi9C5INCQ0LvQtdC60YHQtdC5INCS0LvQsNC00LjQvNC40YA=?=
+ =?utf-8?B?0L7QstC40Yc=?= <SkoriyAV@tverreg.ru>,
+	=?utf-8?B?0KbQstC10YLQutC+0LIg0JDQu9C10LrRgdCw0L3QtNGAINCY0LLQsNC90L4=?=
+ =?utf-8?B?0LLQuNGH?= <CvetkovAI@tverreg.ru>,
+	=?utf-8?B?0JHQtdC70L7RgNGD0YHQvtCyINCS0LvQsNC00LjRgdC70LDQsiDQkNC90LA=?=
+ =?utf-8?B?0YLQvtC70YzQtdCy0LjRhw==?= <bva@tverreg.ru>,
+	"Ministerstvo_To@tverreg.ru" <Ministerstvo_To@tverreg.ru>
+Subject: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0L/RgNC40L3Rj9GC0LjQuCDQv9GA?=
+ =?utf-8?B?0LDQstC+0LLRi9GFINCw0LrRgtC+0LIg0KDQpCwg0L3QsNC/0YDQsNCy0Ls=?=
+ =?utf-8?B?0LXQvdC90YvRhSDQvdCwINC30LDRidC40YLRgyDQs9GA0LDQttC00LDQvSA=?=
+ =?utf-8?B?0Lgg0Y3QutC+0L3QvtC80LjQutC4INCyINGD0YHQu9C+0LLQuNGP0YUg0Lc=?=
+ =?utf-8?B?0LDRgNGD0LHQtdC20L3Ri9GFINGB0LDQvdC60YbQuNC5?=
+Thread-Topic: =?utf-8?B?0JjQvdGE0L7RgNC80LDRhtC40Y8g0L4g0L/RgNC40L3Rj9GC0LjQuCDQv9GA?=
+ =?utf-8?B?0LDQstC+0LLRi9GFINCw0LrRgtC+0LIg0KDQpCwg0L3QsNC/0YDQsNCy0Ls=?=
+ =?utf-8?B?0LXQvdC90YvRhSDQvdCwINC30LDRidC40YLRgyDQs9GA0LDQttC00LDQvSA=?=
+ =?utf-8?B?0Lgg0Y3QutC+0L3QvtC80LjQutC4INCyINGD0YHQu9C+0LLQuNGP0YUg0Lc=?=
+ =?utf-8?B?0LDRgNGD0LHQtdC20L3Ri9GFINGB0LDQvdC60YbQuNC5?=
+Thread-Index: AQHYPJtUkyn6hk6pZUanK9n1LIfrug==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Sun, 20 Mar 2022 23:44:44 +0300
+Message-ID: <30DF193D-D795-4CD8-8562-743FAF978766@tverreg.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: ru-RU
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator: <30DF193D-D795-4CD8-8562-743FAF978766@tverreg.ru>
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: SRV-MAIL-01.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id: 11ad88ce-c87b-43db-6bae-08da0ab2773a
+Return-Path: smyalkovsky@tverreg.ru
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.8540954
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.2176.009
+X-libpst-forensic-sender: /O=TVERREG/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=USER4E6FFEF3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body dir="auto"><div dir="ltr">﻿<div dir="ltr"><div dir="ltr"><div dir="ltr">﻿<div dir="ltr">﻿<br><p class="MsoNormal" align="center" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 0.0001pt; font-family: &quot;Times New Roman&quot;, serif; text-align: center;"><span style="font-size: 16pt;">Уважаемый Игорь Михайлович!</span><o:p></o:p></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 16.5pt;">&nbsp;</p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;">&nbsp;&nbsp;<span style="font-size: 16pt;">В рамках мониторинга правовых актов РФ&nbsp;</span><span style="font-size: 16pt; text-indent: 35.45pt;">информирую:</span></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;"><span style="font-size: 16pt;">- о внесении Правительством РФ в ГосДуму законопроекта об упрощении подтверждения нулевой ставки НДС для экспортёров;</span></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;"><span style="font-size: 16pt;">- о принятии актов Правительства РФ:</span></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;"><span style="font-size: 16pt;">* об утверждении мероприятий, направленных на снижение напряженности на рынке труда,&nbsp;</span></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;"><span style="font-size: 16pt;">* выделения субъектам РФ межбюджетных трансфертов на поддержку рынка труда;&nbsp;</span></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;"><span style="font-size: 16pt;">* о выделении денежных средств на программу льготного кредитования малого и среднего бизнеса.</span></p><p class="MsoNormal" style="font-size: 12pt; -webkit-text-size-adjust: auto; margin: 0cm 0cm 10pt 70.9pt; font-family: &quot;Times New Roman&quot;, serif; text-align: justify; text-indent: 35.45pt; line-height: 18pt;"><span style="font-size: 16pt; text-indent: 35.4pt;">Информационные справки и правовые акты прилагаются.</span></p><div dir="ltr"></div></div>
+<div dir="ltr"><div dir="ltr">&nbsp;</div></div>
+<div dir="ltr"><div dir="ltr">&nbsp;</div></div>
+<div dir="ltr"><div dir="ltr">&nbsp;</div></div>
+<div dir="ltr"><div dir="ltr">&nbsp;</div></div>
+<div dir="ltr"><div dir="ltr">&nbsp;</div></div>
+<div dir="ltr"><div dir="ltr">&nbsp;&nbsp;</div></div>
+<div dir="ltr"><div dir="ltr"><br></div><div dir="ltr"><br></div><div dir="ltr"><br></div></div></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div>
+<div dir="ltr"></div></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div><div dir="ltr"></div>
+<div dir="ltr"></div></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"></div></body></html>
+<html><body dir="auto" role="textbox" aria-label="Текст сообщения"><head></head><div dir="ltr"></div></body></html>
+<html><head></head><body dir="auto"><div dir="ltr"></div></body></html>
+----boundary-LibPST-iamunique-2146875884_-_---
+

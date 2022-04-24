@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xf44f00
+DTSTAMP:20220424T204127Z
+CREATED:20190530T145616Z
+LAST-MOD:20190530T132411Z
+SUMMARY:Торжественная церемония вручения сертификатов на приобретение (строительство) жилья для молодых семей Тверской области (отв. Белоцерковский А.В.\, Андреев А.Е.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20190531T080000Z
+DTEND;VALUE=DATE-TIME:20190531T084500Z
+LOCATION:пл. Михаила Тверского\, д. 5\, Большой зал
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

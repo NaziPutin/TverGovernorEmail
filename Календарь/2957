@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xde016c
+DTSTAMP:20220424T204127Z
+CREATED:20191009T055828Z
+LAST-MOD:20191008T174609Z
+SUMMARY:Стратегическая сессия РАНХиГС\, тема: "Разработка комплексных планов мероприятий выполнения задач развития Тверской области в рамках реализации национального проекта "Демография" (отв. Орлов А.В.\, Егоров И.И.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20191009T063000Z
+DTEND;VALUE=DATE-TIME:20191009T133000Z
+LOCATION:ул. Салтыкова-Щедрина\, д. 20
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

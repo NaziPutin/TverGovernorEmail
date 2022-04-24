@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x4cbdcc
+DTSTAMP:20220424T204126Z
+CREATED:20210818T125129Z
+LAST-MOD:20210818T121332Z
+SUMMARY:Встреча с Белявским А.М. – главой Жарковского р-на\, Голубевой О.А. – врип главы Западнодвинского р-на\, Крючковым А.И. – врио главы Нелидовского г.о.\, Сивицким В.С. – главой Бельского р-на (отв. Егоров И.И.\, Белорусов В.А.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20210818T123000Z
+DTEND;VALUE=DATE-TIME:20210818T124500Z
+LOCATION:каб. 207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

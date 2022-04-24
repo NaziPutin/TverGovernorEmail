@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0xfeee28
+DTSTAMP:20220424T204127Z
+CREATED:20190415T101559Z
+LAST-MOD:20190415T101041Z
+SUMMARY:РџРѕРґРіРѕС‚РѕРІРєР° Рє СѓС‡Р°СЃС‚РёСЋ РІ РёС‚РѕРіРѕРІРѕРј Р·Р°СЃРµРґР°РЅРёРё РљРѕР»Р»РµРіРёРё РњРёРЅРёСЃС‚РµСЂСЃС‚РІР° СЃРµР»СЊСЃРєРѕРіРѕ С…РѕР·СЏР№СЃС‚РІР° Р Р¤ (16.04.2019\, Рі.РњРѕСЃРєРІР°) (РѕС‚РІ. РљСѓР»РёРєРѕРІ Р”.Рђ.) РЎРѕСЃС‚Р°РІ СѓС‡Р°СЃС‚РЅРёРєРѕРІ СЃРѕРіР»Р°СЃРЅРѕ СЃРїРёСЃРєСѓ
+DTSTART;VALUE=DATE-TIME:20190415T133000Z
+DTEND;VALUE=DATE-TIME:20190415T140000Z
+LOCATION:РєР°Р±.207
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

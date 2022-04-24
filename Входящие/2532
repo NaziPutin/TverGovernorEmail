@@ -1,0 +1,122 @@
+Received: from SRV-MAIL-03.tverreg.ru (172.30.2.118) by SRV-MAIL-01.tverreg.ru
+ (172.30.2.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1591.10 via Mailbox
+ Transport; Tue, 23 Apr 2019 11:41:56 +0300
+Received: from mailsrv2.tverreg.ru (172.30.2.17) by SRV-MAIL-03.tverreg.ru
+ (172.30.2.118) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256) id 15.1.1591.10; Tue, 23 Apr
+ 2019 11:41:53 +0300
+Received: from mx1.tverreg.ru (172.30.2.2) by mailsrv2.tverreg.ru
+ (172.30.2.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 23 Apr 2019 11:41:53 +0300
+Received: from mx1.tverreg.ru (localhost.localdomain [127.0.0.1])
+	by mx1.tverreg.ru (Proxmox) with ESMTP id 9FB0421877
+	for <rim@tverreg.ru>; Tue, 23 Apr 2019 11:41:53 +0300 (MSK)
+Received-SPF: none (golubev.ru: No applicable sender policy available) receiver=mx1.tverreg.ru; identity=mailfrom; envelope-from="sergey@golubev.ru"; helo=mail-lj1-f182.google.com; client-ip=209.85.208.182
+Received: from mail-lj1-f182.google.com (mail-lj1-f182.google.com [209.85.208.182])
+	by mx1.tverreg.ru (Proxmox) with ESMTPS id D12EC207A3
+	for <rim@tverreg.ru>; Tue, 23 Apr 2019 11:41:51 +0300 (MSK)
+Received: by mail-lj1-f182.google.com with SMTP id h21so12689972ljk.13
+        for <rim@tverreg.ru>; Tue, 23 Apr 2019 01:41:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=golubev-ru.20150623.gappssmtp.com; s=20150623;
+        h=from:content-transfer-encoding:mime-version:date:subject:message-id
+         :references:to;
+        bh=PPwXkYFS2JPijDvg0QqPQWitk9IB/xG4bZvRKTtoY/0=;
+        b=1Sx0hFsbN0CdMX2uhYF7+NuXxNngID+d3oSGPNhuAfrIgrFUAjoinXo7zlDJHHNDAc
+         EgIMJ3cbO1ViqNrtQMM039C3UPqj7QVwcVk0bOp33448/nUE+qlJhsFkMLgtgIiO8Kmd
+         Bzz9vDzKRuzaZvUnBRqQlDOd0O1CYOqN1ZOAYUjg75IHtP7g2DnT+d9W5/vLhwD5qd11
+         iELVjVQOY8p2EoiznstuE4qPEBIPhUyWk0aDp7VY5tQ35bWNZOVY6qaYSmwTCFZIYvLg
+         ZBqHNV/Jg+gYZAvAuqarI4F9ewWUeVDmC4pUEZMOVwP0rKmiYRH8kNoby4/v2vBwsdes
+         Rpzw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:content-transfer-encoding:mime-version:date
+         :subject:message-id:references:to;
+        bh=PPwXkYFS2JPijDvg0QqPQWitk9IB/xG4bZvRKTtoY/0=;
+        b=kwfljN5UCbgtA9+NJIi2fCpWJKA2qdymBcZsNcvKULhWZSGjh0h3qUparTWjNvkrCS
+         T6uuy3Dd7nHrv+BWx4O8Qauco+/5SWnA/saHx4ZnYz0FKlu7Xf/Z3MLc8JitTdx14CYJ
+         U5K4c73gXGjFNimWK1Jv9rl5whmcjrabZYD2Z5b3igJQMbR0LLbeekvvMK237DyXPVwS
+         X0u+vQyg8YjNm6l07U8IA0xPl7QdEv/kJ/g1F4DzrwHsqUJiexyvp8RnQlYYsrrm19Kl
+         w3CNGvXSbIMAzP4DXSR0CjWf6QCwA3DVqHm9BW5Q0Af3gN25Lbg3DdhIKzq95lDAv3z3
+         THaA==
+X-Gm-Message-State: APjAAAXaYD2Pp+KuJlzoIEMjieX6kP/bCpgPrir0JgGAQG5l/a5FyYnt
+	HqLBAZ+v2sAjANOq65onIuQLuMw2mTw=
+X-Google-Smtp-Source: APXvYqw4H9HyruU9ux++cSuc87mgrVjwTZgJmhTXqiopQOo+QZnL3nWXcBXSJlb2OTRYwkEDsZEAnQ==
+X-Received: by 2002:a2e:910b:: with SMTP id m11mr12768441ljg.14.1556008443446;
+        Tue, 23 Apr 2019 01:34:03 -0700 (PDT)
+Received: from ?IPv6:2a00:1fa0:8266:6349:2569:1b8d:1cda:e49f? ([2a00:1fa0:8266:6349:2569:1b8d:1cda:e49f])
+        by smtp.gmail.com with ESMTPSA id l13sm3219790lji.39.2019.04.23.01.34.00
+        for <rim@tverreg.ru>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 23 Apr 2019 01:34:01 -0700 (PDT)
+From: =?utf-8?B?0KHQtdGA0LPQtdC5INCT0L7Qu9GD0LHQtdCy?= <sergey@golubev.ru>
+Date: Tue, 23 Apr 2019 11:33:59 +0300
+Subject: =?utf-8?B?RndkOiDQv9C+0LvQvdC+0LzQvtGH0LjRjyDQv9C+INCz0YDQsNC0?=
+ =?utf-8?B?0L7RgdGC0YDQvtC40YLQtdC70YzQvdC+0Lkg0LTQtdGP0YLQtdC7?=
+ =?utf-8?B?0YzQvdC+0YHRgtC4IA==?=
+Message-Id: <9EC1C26E-5162-49D3-BDD7-371D8D1440D6@golubev.ru>
+References: <1186728935.20190422171422@zsto.ru>
+To: rim@tverreg.ru
+X-Mailer: iPhone Mail (16E227)
+X-SPAM-LEVEL: Spam detection results:  0
+	BAYES_05                 -0.5 Bayes spam probability is 1 to 5%
+	DKIM_INVALID              0.1 DKIM or DK signature exists, but is not valid
+	DKIM_SIGNED               0.1 Message has a DKIM or DK signature, not necessarily valid
+	FROM_EXCESS_BASE64      0.979 From: base64 encoded unnecessarily
+	HTML_MESSAGE            0.001 HTML included in message
+	MIME_QP_LONG_LINE       0.001 Quoted-printable line longer than 76 chars
+	RCVD_IN_DNSWL_NONE     -0.0001 Sender listed at https://www.dnswl.org/, no trust
+Return-Path: sergey@golubev.ru
+X-MS-Exchange-Organization-Network-Message-Id: 1e0fd6f9-f97a-4995-152c-08d6c7c7893d
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.9359839
+X-MS-Exchange-Processed-By-BccFoldering: 15.01.1591.008
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></HEAD><BODY>
+<div dir="auto"><br>
+<br>
+<div id="x_AppleMailSignature" dir="ltr">РћС‚РїСЂР°РІР»РµРЅРѕ СЃ iPhone</div>
+<div dir="ltr"><br>
+РќР°С‡Р°Р»Рѕ РїРµСЂРµР°РґСЂРµСЃРѕРІР°РЅРЅРѕРіРѕ СЃРѕРѕР±С‰РµРЅРёСЏ:<br>
+<br>
+</div>
+<blockquote type="cite">
+<div dir="ltr"><b>РћС‚:</b> <a href="mailto:secrpred@zsto.ru">secrpred@zsto.ru</a><br>
+<b>Р”Р°С‚Р°:</b> 22 Р°РїСЂРµР»СЏ 2019 Рі., 17:14:22 GMT&#43;3<br>
+<b>РљРѕРјСѓ:</b> <a href="mailto:gsagosa@gmail.com">gsagosa@gmail.com</a><br>
+<br>
+</div>
+</blockquote>
+<div dir="ltr"><span></span></div>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+<div dir="auto">
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+<div dir="auto">
+<blockquote type="cite">
+<div dir="ltr"></div>
+</blockquote>
+</div>
+</BODY></HTML>
+----boundary-LibPST-iamunique-2146875884_-_---
+

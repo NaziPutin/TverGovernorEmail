@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1580cde
+DTSTAMP:20220424T204127Z
+CREATED:20160715T122642Z
+LAST-MOD:20160811T200916Z
+SUMMARY:Рабочая поездка в Тверскую область Меня М.А. - Министра строительства и ЖКХ РФ. В рамках поездки: мероприятие по заселению сданного в эксплуатацию жилого МКД ЖК «Мамулино-2». Осмотр строящегося ЖК «Мамулино-3» (отв. Шафорост В.А.\, Пилавов М.И.)
+DESCRIPTION:\n
+DTSTART;VALUE=DATE-TIME:20160803T073000Z
+DTEND;VALUE=DATE-TIME:20160803T103000Z
+LOCATION:Согласно программе рабочей поездки
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

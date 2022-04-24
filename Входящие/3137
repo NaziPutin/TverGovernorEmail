@@ -1,0 +1,379 @@
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Mailbox
+ Transport; Tue, 24 Apr 2018 15:34:30 +0300
+Received: from mailsrv2.tverreg.ru (172.30.0.17) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30; Tue, 24 Apr
+ 2018 15:34:30 +0300
+Received: from mx1.tverreg.ru (172.30.0.21) by mailsrv2.tverreg.ru
+ (172.30.0.17) with Microsoft SMTP Server (TLS) id 15.1.396.30 via Frontend
+ Transport; Tue, 24 Apr 2018 15:34:29 +0300
+Received: from f344.i.mail.ru ([217.69.140.240])
+	by mx1.tverreg.ru with esmtp (Exim 4.84_2)
+	(envelope-from <levpav2001@mail.ru>)
+	id 1fAx9N-000DFV-KB
+	for rim@tverreg.ru; Tue, 24 Apr 2018 08:34:25 -0400
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mail.ru; s=mail2;
+	h=Content-Type:Message-ID:Reply-To:Date:MIME-Version:Subject:To:From; bh=7Kf2wSoWINxFkt3N3MaX4lhSRZn07C3dgpx91Ro/CBM=;
+	b=o17wCDroqyTzYkorp+XOlwpmFVSaQEyb3XVUit9zqRwQRmrcAk4Uqfiz9gM3XmqCfIsbpBmTc1lC4c8bnxLKuBGHesBmEE+vPnChvYBdOs8ts5mVto1CKK6tlm2RkTlc8dn0OFBrzfqX5KLzzmW+cG9XCZSWURtYeGnsMRLrat4=;
+Received: by f344.i.mail.ru with local (envelope-from <levpav2001@mail.ru>)
+	id 1fAx9L-0005ng-1o
+	for rim@tverreg.ru; Tue, 24 Apr 2018 15:34:23 +0300
+Received: by e.mail.ru with HTTP;
+	Tue, 24 Apr 2018 15:34:22 +0300
+From: =?UTF-8?B?0L/QsNCy0LvRjtGH0LrQvtCyINC70LXQsg==?= <levpav2001@mail.ru>
+To: rim@tverreg.ru
+Subject: =?UTF-8?B?0KDQsNC30LLQuNGC0LjQtSDRgNC10LPQuNC+0L3QsCAyLmRvY3g=?=
+X-Mailer: Mail.Ru Mailer 1.0
+Date: Tue, 24 Apr 2018 15:34:22 +0300
+Reply-To: =?UTF-8?B?0L/QsNCy0LvRjtGH0LrQvtCyINC70LXQsg==?= <levpav2001@mail.ru>
+X-Priority: 3 (Normal)
+Message-ID: <1524573262.386269806@f344.i.mail.ru>
+Authentication-Results: f344.i.mail.ru; auth=pass smtp.auth=levpav2001@mail.ru smtp.mailfrom=levpav2001@mail.ru
+X-7FA49CB5: 0D63561A33F958A51A55DC1403C537E3F62EBB4894E46094DD106C2F574B7B01725E5C173C3A84C315AF0D0D4FC4FA3D992F85BACBD94C784DCCFF368A6260CFC4224003CC836476C0CAF46E325F83A50BF2EBBBDD9D6B0F05F538519369F3743B503F486389A921A5CC5B56E945C8DA
+X-Mailru-MI: 800
+X-Mailru-Sender: E4449A69F798AA0820EA1BCA6AF2A70F6C92AE7B65053BB8D3C2AD269E81683ED4EB233C07D90DB926F88BA9D3C04CFE87C6ACD34F60B96E6AD1E82816C7E201577F194272E68142C37AD77325126E193A5DB60FBEB33A8A0DA7A0AF5A3A8387
+X-Mras: OK
+X-Spam: undefined
+Return-Path: levpav2001@mail.ru
+X-MS-Exchange-Organization-Network-Message-Id: e774bd68-9e78-44bd-0e41-08d5a9dfb9d8
+X-MS-Exchange-Organization-AVStamp-Enterprise: 1.0
+X-MS-Exchange-Organization-AuthSource: mailsrv2.tverreg.ru
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.0156512
+Status: RO
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--boundary-LibPST-iamunique-2146875884_-_-"
+
+
+----boundary-LibPST-iamunique-2146875884_-_-
+Content-Type: text/html; charset="utf-8"
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>RU</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--> <!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:Cambria;
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--> <!--StartFragment--><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Добрый день Игорь Михайлович!</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Ваш <span lang="EN-US">e-mail </span>мне заботливо передал наш общий знакомый Александр Тодоров, широко известный в узких кругах как «Папа Карло»))).</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Я, Павлючков Лев Викторович, с 1996 года занимаюсь политическим консультированием и проведением избирательных кампаний самого разного уровня, включая международные проекты. В этой ипостаси меня могут рекомендовать Ваши коллеги губернаторы С. Морозов (Ульяновская область, являюсь его советником с 2004 года по наше время), А. Жилкин (Астраханская область, также&nbsp; - советник по внутренней политике), Д. Азаров (Самарская область, веду проект по региональному маркетингу и консультирую Корпорацию развития), А. Артамонов (Калужская область, вел избирательную кампанию), недавний губернатор Орловской области (ныне зам. полпреда в ЦФО) В. Потомский (вел его выборы), экс-губернаторы Меркушкин, Груздев, Титов, Аяцков, Ипатов, Кошин… Естественно, многие депутаты ГД РФ в разных фракциях – с 1996 года я участвую в федеральных избирательных кампаниях.</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Основные регионы работы (и в настоящее время тоже): ПФО (Самара, Саратов, Ульяновск), ЦФО (Тула, Орел), СЗФО (Архангельск, НАО, Коми), на Кавказе работал на выборах в Ингушетии и Северной Осетии.</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">В период 2008-2010 – занимал должность заместителя Главы Администрации Президента Южной Осетии (Э. Кокойты). Был «прикомандирован» от управления информации АП (А.М. Цибулин).</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Являюсь членом Высшего Совета Российской Экологической партии «Зеленые». Единственный раз в истории в 2007 году избрал «Зеленых» в Самарскую Губернскую думу. Работал с О. Митволем – выиграли выборы главы Можайского района МО (Д. Беланович) для партии «Зеленые». В настоящее время занимаюсь проектами НЕДОПУЩЕНИЯ ПОЛИТИЗАЦИИ экологического протеста в регионах (см. происходящее в МО)). Партнер – «Зеленый Патруль ОНФ» (А. Нагибин, доверенное лицо Президента РФ). Это весьма «горячая» тема. Связанная не только с банальными &nbsp;&nbsp;процессами цепочки вывоза-хранения-утилизации ТБО, но и вообще очень острая в перспективе, если оппозиционные силы начинают ее раскачивать в регионе. В вопросе противодействия таким процессам мы специалисты…&nbsp; Организуем общественные слушания, обеспечиваем общественное мнение. В общем – любые высококомпетентные решения по «около-экологической» тематике.&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">В настоящее время сопровождаю китайский концерн «Анхой Конч» по строительству цементного завода в Ульяновской области, строительную кампанию <span lang="EN-US">DARS (</span>застройщик аэропортов Жуковский и Саранск), строительную кампанию «Кошелев» (Самара –Калуга – Сергиев Посад).</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Но наиболее высокие компетенции и результаты мы (у меня несколько партнерских юридических лиц-кампаний) имеем в области регионального маркетинга. Проще – позиционирования регионов на федеральном и международном уровне. В 2006 году мы создали одну из самых успешных Корпораций Развития – Ульяновскую. Сегодня это 30 современных зарубежных предприятий от Бриджстоун до Аэрокомпозита (кооперация с Иркутом по МС 21), от <span lang="EN-US">DMG-MORI</span> до уже четырех заводов пищевой корпорации Марс. И так далее.</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Мы знаем как построить на базе современных <span lang="EN-US">CRM- </span>решений (работаем и с <span lang="EN-US">SAP</span>и с более «бюджетными» <span lang="EN-US">IT </span>кампаниями) успешный «офис продаж» региональных «ништяков» и для резидентов и для нерезидентов, как обойти, в некоторых случаях, санкционные ограничения. Как организовать правильно и эффективно участие региональных институтов развития в международных форумах, где зачастую мы и находим будущих инвесторов, резидентов наших технопарков и наноцентра (совместный проект с РосНАНО).</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">С точки зрения «страновых» акцентов мы имеем особые возможности в Китае и Израиле. Особенно в израильском АПК.&nbsp;&nbsp;&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Наконец, у меня есть кампания которая профессионально занимается <span lang="EN-US">SSM</span>. Проще говоря – формированием общественного мнения в социальных сетях и «серой зоне» интернета. Это весьма эффектная ныне новелла, потому что парадокс в том, что меньшинство из социальных сетей создает гораздо больше негативного шума в отношении власти, чем покорное большинство «телезрителей». &nbsp;Можем сделать презентацию. Сейчас в ХМАО работаем уже и элементами искусственного интеллекта, за счет <span lang="EN-US">big date</span> начинаем создавать множество целевых групп и «продавать» им целевой контент. Речь идет о имидже и рейтинге, например, губернатора,&nbsp; каких то отдельных проектов, и тд. Кампания называется «Бюро интернет-агитации». Это действительно эффективное предложение, которые реально корректирует интернет-репутацию. Мы вообще приходим к выводу, что в существующей политической модели некий валовый рейтинг уже не так и важен. Нет конкуренции – нет и эффективной валидной экспертизы. Губернатор может иметь валовый рейтинг <span lang="EN-US">&#43;70%</span>, а потом какой то скандал в Фэйсбуке сразу делает его «лузером» и меняет мнение администраторов… Мы же считаем что сейчас важно иметь одиноко высокое плато рейтинга и среди аудитории «Одноклассников» и в аудитории «Фэйсбука».</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">И самое простое и всегда необходимое – это ведение избирательных кампаний любого уровня и работа с федеральными СМИ. Здесь возможности исторически большие.</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Спасибо, что дочитали до конца. Если что то заинтересует, всегда рад быть на связи.</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;"><span lang="EN-US">&#43;79150424394</span></p><div style="mso-element: para-border-div; border: none; border-bottom: solid windowtext 1.5pt; padding: 0cm 0cm 1.0pt 0cm;" data-mce-style="mso-element: para-border-div; border: none; border-bottom: solid windowtext 1.5pt; padding: 0cm 0cm 1.0pt 0cm;"><p class="MsoNormal" style="line-height: 150%; border: none; mso-border-bottom-alt: solid windowtext 1.5pt; padding: 0cm; mso-padding-alt: 0cm 0cm 1.0pt 0cm;" data-mce-style="line-height: 150%; border: none; mso-border-bottom-alt: solid windowtext 1.5pt; padding: 0cm; mso-padding-alt: 0cm 0cm 1.0pt 0cm;"><span lang="EN-US">Павлючков Лев</span></p></div><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;"><span lang="EN-US">&nbsp;</span></p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;"><span lang="EN-US">PS.</span></p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">Официально я работаю директором по развитию кампании «Торговый Дом СПП»&nbsp; корпорации <span lang="EN-US">DARS</span>. Это инфраструктурное строительство, жилищное строительство, мы в 20-ке по объемам торговых площадей в РФ. В Туле у нас комбинат общественного питания (торговый дом СПП), туляки (включая Дюмина и Авилова – довольны, мы кормим все школы). Кроме того мы «кормим» Волгоградскую область, Ульяновскую область, ВДВ РФ (Шаманов может рекомендовать), Калугу и в других регионах организуем «под ключ» системы общественного питания. &nbsp;Все лицензии включая ФСБ. &nbsp;</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;"><span lang="EN-US">PSS</span>.</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">В прикреплённом файле немного о работе с региональным маркетингом и КР</p><p class="MsoNormal" style="line-height: 150%;" data-mce-style="line-height: 150%;">&nbsp;</p><!--EndFragment--></body></html>
+
+----boundary-LibPST-iamunique-2146875884_-_---
+

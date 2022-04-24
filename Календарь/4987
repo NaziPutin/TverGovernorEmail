@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x13e5b48
+DTSTAMP:20220424T204127Z
+CREATED:20171211T154917Z
+LAST-MOD:20171213T113823Z
+SUMMARY:Премьера фильма «Прощаться не будем» режиссера П.Дроздова\, посвященного освобождению г.Калинина от немецко-фашистских захватчиков в 1941 г.(отв. Исаков Ю.В.\, СМИ+пресс-служба)
+DTSTART;VALUE=DATE-TIME:20171213T144500Z
+DTEND;VALUE=DATE-TIME:20171213T165000Z
+LOCATION:Смоленский пер.\, д.29\, ККЗ «Панорама» 
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+

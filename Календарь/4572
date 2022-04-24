@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x134db14
+DTSTAMP:20220424T204127Z
+CREATED:20180410T144813Z
+LAST-MOD:20180410T140210Z
+SUMMARY:Подготовка к встрече с Сабитовым Р.А. – зам.ген.директора\, руководителем регионального департамента ВГТРК\, к торжественному мероприятию\, посвященному официальному запуску FM-вещания «Радио России» в ТО (отв. Петрова М.В.\, Белорусов В.А.\, Исаков Ю.В.) 
+DTSTART;VALUE=DATE-TIME:20180411T083000Z
+DTEND;VALUE=DATE-TIME:20180411T090000Z
+LOCATION:каб. 206
+STATUS:CONFIRMED
+CATEGORIES:NONE
+END:VEVENT
+END:VCALENDAR
+

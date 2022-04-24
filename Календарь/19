@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:LibPST v0.6.76
+BEGIN:VEVENT
+UID:0x1aa6b0
+DTSTAMP:20220424T204126Z
+CREATED:20220330T155636Z
+LAST-MOD:20220330T152550Z
+SUMMARY:Посещение пункта временного размещения для вынужденных переселенцев с территории Украины (отв. Ажгиревич А.И.\, Новикова В.И.\, Жучков А.В.\, пресс-служба)
+DTSTART;VALUE=DATE-TIME:20220330T153000Z
+DTEND;VALUE=DATE-TIME:20220330T160000Z
+LOCATION:Зеленый пр-д\, д. 45\, корп. 10\, санаторий «Бобачевская роща»
+STATUS:CONFIRMED
+CATEGORIES:BUSINESS
+END:VEVENT
+END:VCALENDAR
+
